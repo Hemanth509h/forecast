@@ -32,6 +32,14 @@ export const forecasts = pgTable("forecasts", {
   createdAt: timestamp("created_at").defaultNow(),
 });
 
-export const insertSaleSchema = createInsertSchema(sales).omit({ id: true });
+export const insertSaleSchema = createInsertSchema(sales).extend({
+  date: z.coerce.date(),
+  amount: z.coerce.string() // Ensure it stays as string for decimal type
+}).omit({ id: true });
+
 export const insertSalesSchema = z.array(insertSaleSchema);
-export const insertForecastSchema = createInsertSchema(forecasts).omit({ id: true, createdAt: true });
+
+export const insertForecastSchema = createInsertSchema(forecasts).extend({
+  forecastDate: z.coerce.date(),
+  predictedAmount: z.coerce.string()
+}).omit({ id: true, createdAt: true });
