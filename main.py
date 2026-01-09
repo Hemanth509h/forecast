@@ -9,13 +9,12 @@ import os
 import openai
 import json
 from decimal import Decimal
-from itsdangerous import URLSafeSerializer
+import uuid
 
 app = FastAPI()
 
 # Session setup
 SECRET_KEY = os.getenv("SESSION_SECRET", "default-secret-key")
-serializer = URLSafeSerializer(SECRET_KEY)
 SESSION_COOKIE_NAME = "trendcast_session_id"
 
 # Setup OpenAI
@@ -52,7 +51,6 @@ class AIMapRequest(BaseModel):
 def get_session_id(request: Request, response: Response) -> str:
     session_id = request.cookies.get(SESSION_COOKIE_NAME)
     if not session_id:
-        import uuid
         session_id = str(uuid.uuid4())
         response.set_cookie(
             key=SESSION_COOKIE_NAME,
@@ -222,29 +220,36 @@ async def generate_forecast(request: Request, response: Response, input: Forecas
         } for f in created
     ]
 
+# Path to the bundled static files
 dist_path = os.path.join(os.getcwd(), "dist", "public")
+
 if os.path.exists(dist_path):
-    app.mount("/assets", StaticFiles(directory=os.path.join(dist_path, "assets")), name="assets")
+    # Mount assets folder for images, css, js
+    assets_path = os.path.join(dist_path, "assets")
+    if os.path.exists(assets_path):
+        app.mount("/assets", StaticFiles(directory=assets_path), name="assets")
 
 @app.get("/{full_path:path}")
 async def serve_spa(request: Request, full_path: str):
+    # Skip API routes
     if full_path.startswith("api/"):
         raise HTTPException(status_code=404, detail="Not Found")
     
-    dist_path = os.path.join(os.getcwd(), "dist", "public")
+    # Check if a specific file exists in public/
     file_path = os.path.join(dist_path, full_path)
-    
     if os.path.isfile(file_path):
         from fastapi.responses import FileResponse
         return FileResponse(file_path)
     
+    # Otherwise return index.html for client-side routing
     index_path = os.path.join(dist_path, "index.html")
     if os.path.isfile(index_path):
         from fastapi.responses import FileResponse
         return FileResponse(index_path)
         
-    raise HTTPException(status_code=404, detail="Static files not found")
+    raise HTTPException(status_code=404, detail="Static files not found.")
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=5000)
+    port = int(os.getenv("PORT", 5000))
+    uvicorn.run(app, host="0.0.0.0", port=port)

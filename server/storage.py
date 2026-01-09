@@ -1,7 +1,6 @@
 from datetime import datetime, timedelta
 from typing import List, Optional, Dict
 from server.models import Sale, Forecast
-from decimal import Decimal
 
 class MemStorage:
     def __init__(self):
@@ -23,6 +22,7 @@ class MemStorage:
 
     def _touch_session(self, session_id: str):
         self._cleanup_expired_sessions()
+        # Set or update expiry to 1 day from now
         self.session_expiry[session_id] = datetime.now() + timedelta(days=1)
         if session_id not in self.sales_by_session:
             self.sales_by_session[session_id] = []
@@ -43,7 +43,7 @@ class MemStorage:
 
     async def create_sales(self, session_id: str, sales_list: List[dict]) -> int:
         self._touch_session(session_id)
-        # Reset current session data
+        # Reset current session data on bulk import
         self.sales_by_session[session_id] = []
         self.forecasts_by_session[session_id] = []
         
