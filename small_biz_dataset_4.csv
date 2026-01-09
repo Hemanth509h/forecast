@@ -1,0 +1,2001 @@
+date,amount,productCategory,region
+2024-04-21,2560,Local Tailoring,Bangalore South
+2024-07-27,11537,Local Tailoring,Chennai Central
+2024-08-10,13143,Handmade Crafts,Bangalore South
+2024-12-19,9078,Local Tailoring,Mumbai Suburban
+2024-09-16,13621,Handmade Crafts,Chennai Central
+2024-12-10,12570,Handmade Crafts,Pune Rural
+2024-09-11,10769,Kirana Store,Delhi Old City
+2025-10-12,11322,Kirana Store,Mumbai Suburban
+2025-10-08,13353,Local Tailoring,Chennai Central
+2025-04-13,10020,Local Tailoring,Chennai Central
+2024-04-14,4795,Street Food,Pune Rural
+2025-09-30,2914,Street Food,Mumbai Suburban
+2024-12-05,6553,Kirana Store,Chennai Central
+2025-06-30,11204,Handmade Crafts,Bangalore South
+2024-09-13,1333,Street Food,Chennai Central
+2024-04-10,8643,Handmade Crafts,Chennai Central
+2024-11-14,11804,Street Food,Delhi Old City
+2024-08-23,14622,Handmade Crafts,Mumbai Suburban
+2024-03-05,10200,Local Tailoring,Bangalore South
+2025-07-23,12915,Handmade Crafts,Pune Rural
+2025-01-14,4883,Handmade Crafts,Bangalore South
+2024-11-25,7367,Kirana Store,Chennai Central
+2024-07-01,10013,Street Food,Chennai Central
+2025-11-07,3459,Street Food,Bangalore South
+2024-07-17,7481,Kirana Store,Mumbai Suburban
+2025-09-24,501,Local Tailoring,Chennai Central
+2024-12-11,4224,Handmade Crafts,Mumbai Suburban
+2024-08-23,10129,Street Food,Chennai Central
+2025-03-31,8783,Local Tailoring,Pune Rural
+2025-07-20,8875,Local Tailoring,Bangalore South
+2024-08-14,9531,Local Tailoring,Chennai Central
+2025-12-13,11604,Local Tailoring,Bangalore South
+2025-06-18,1793,Organic Produce,Chennai Central
+2024-04-17,3766,Handmade Crafts,Delhi Old City
+2025-09-29,9850,Street Food,Mumbai Suburban
+2024-02-24,3585,Organic Produce,Mumbai Suburban
+2024-01-14,11822,Kirana Store,Pune Rural
+2025-02-20,577,Kirana Store,Pune Rural
+2025-09-02,13727,Organic Produce,Bangalore South
+2024-11-14,2273,Street Food,Pune Rural
+2024-11-09,14887,Kirana Store,Delhi Old City
+2025-10-08,3423,Kirana Store,Mumbai Suburban
+2024-11-19,12837,Street Food,Pune Rural
+2024-05-06,9415,Street Food,Mumbai Suburban
+2025-08-05,7420,Organic Produce,Mumbai Suburban
+2025-02-02,1005,Handmade Crafts,Mumbai Suburban
+2024-09-27,2178,Local Tailoring,Delhi Old City
+2025-02-26,11886,Local Tailoring,Bangalore South
+2024-06-09,5875,Kirana Store,Pune Rural
+2024-06-09,14872,Kirana Store,Pune Rural
+2025-01-18,4828,Handmade Crafts,Pune Rural
+2025-04-02,12927,Street Food,Bangalore South
+2025-10-13,5116,Street Food,Chennai Central
+2024-06-27,1575,Organic Produce,Chennai Central
+2024-08-16,1428,Kirana Store,Chennai Central
+2025-10-15,2820,Local Tailoring,Pune Rural
+2024-09-16,7282,Street Food,Bangalore South
+2025-12-27,11564,Local Tailoring,Mumbai Suburban
+2024-11-11,8393,Kirana Store,Bangalore South
+2024-11-30,754,Organic Produce,Bangalore South
+2025-11-10,2688,Organic Produce,Chennai Central
+2024-05-10,4901,Kirana Store,Pune Rural
+2025-03-20,3905,Local Tailoring,Delhi Old City
+2024-11-30,13039,Handmade Crafts,Mumbai Suburban
+2024-01-11,969,Handmade Crafts,Chennai Central
+2025-12-27,918,Handmade Crafts,Bangalore South
+2025-09-13,13504,Local Tailoring,Chennai Central
+2024-09-13,1298,Street Food,Chennai Central
+2024-08-01,9671,Handmade Crafts,Chennai Central
+2025-01-04,9515,Street Food,Delhi Old City
+2024-10-19,14427,Organic Produce,Delhi Old City
+2025-10-03,4435,Street Food,Bangalore South
+2025-01-10,10177,Local Tailoring,Chennai Central
+2024-01-29,14946,Organic Produce,Mumbai Suburban
+2025-09-03,5948,Kirana Store,Delhi Old City
+2024-11-24,601,Local Tailoring,Chennai Central
+2025-09-27,7382,Handmade Crafts,Bangalore South
+2024-09-05,1560,Organic Produce,Delhi Old City
+2025-11-27,11900,Kirana Store,Chennai Central
+2024-10-22,10852,Organic Produce,Pune Rural
+2024-03-10,1435,Kirana Store,Pune Rural
+2025-04-09,3532,Street Food,Mumbai Suburban
+2025-09-07,6286,Local Tailoring,Delhi Old City
+2025-09-24,1064,Handmade Crafts,Mumbai Suburban
+2025-10-20,4365,Street Food,Pune Rural
+2026-01-07,13500,Kirana Store,Pune Rural
+2024-11-15,8441,Local Tailoring,Delhi Old City
+2026-01-02,12318,Local Tailoring,Delhi Old City
+2024-12-14,5277,Local Tailoring,Chennai Central
+2025-01-19,539,Handmade Crafts,Bangalore South
+2024-11-20,4236,Organic Produce,Delhi Old City
+2024-01-24,4466,Handmade Crafts,Bangalore South
+2024-05-04,13467,Handmade Crafts,Pune Rural
+2024-06-27,13099,Handmade Crafts,Mumbai Suburban
+2024-10-24,7998,Organic Produce,Pune Rural
+2024-11-03,12272,Kirana Store,Delhi Old City
+2024-12-20,11587,Local Tailoring,Bangalore South
+2024-05-30,1338,Street Food,Mumbai Suburban
+2025-09-24,2738,Local Tailoring,Pune Rural
+2024-10-02,13930,Kirana Store,Bangalore South
+2024-02-09,2592,Organic Produce,Bangalore South
+2024-07-23,4938,Street Food,Pune Rural
+2024-10-30,13240,Local Tailoring,Bangalore South
+2024-01-11,4232,Organic Produce,Bangalore South
+2024-12-05,8355,Local Tailoring,Mumbai Suburban
+2024-05-11,11390,Handmade Crafts,Delhi Old City
+2024-09-02,12138,Kirana Store,Mumbai Suburban
+2024-01-16,5698,Organic Produce,Chennai Central
+2024-01-15,3101,Handmade Crafts,Bangalore South
+2024-02-24,13813,Street Food,Chennai Central
+2025-08-14,12315,Organic Produce,Mumbai Suburban
+2025-12-13,14312,Kirana Store,Pune Rural
+2025-03-04,8731,Local Tailoring,Delhi Old City
+2024-05-11,11598,Street Food,Bangalore South
+2025-07-11,14474,Kirana Store,Chennai Central
+2024-08-29,4082,Kirana Store,Bangalore South
+2025-09-21,7592,Organic Produce,Chennai Central
+2024-07-15,1868,Handmade Crafts,Pune Rural
+2024-06-02,3896,Kirana Store,Mumbai Suburban
+2024-12-10,2995,Handmade Crafts,Chennai Central
+2025-09-17,8507,Street Food,Delhi Old City
+2024-08-17,5036,Handmade Crafts,Mumbai Suburban
+2024-09-09,11559,Organic Produce,Delhi Old City
+2025-06-30,2744,Handmade Crafts,Delhi Old City
+2024-12-09,11183,Street Food,Chennai Central
+2024-07-04,3813,Local Tailoring,Chennai Central
+2025-08-24,10561,Street Food,Mumbai Suburban
+2025-03-26,6880,Organic Produce,Delhi Old City
+2024-01-30,2702,Organic Produce,Delhi Old City
+2025-01-26,2454,Kirana Store,Pune Rural
+2024-04-30,4458,Local Tailoring,Bangalore South
+2025-08-23,3074,Street Food,Pune Rural
+2025-12-12,8537,Organic Produce,Chennai Central
+2024-10-07,3589,Organic Produce,Bangalore South
+2024-03-21,11814,Kirana Store,Mumbai Suburban
+2024-04-02,767,Kirana Store,Bangalore South
+2024-05-06,3905,Local Tailoring,Bangalore South
+2025-08-05,9673,Local Tailoring,Mumbai Suburban
+2024-06-13,1993,Organic Produce,Chennai Central
+2025-01-06,2711,Organic Produce,Pune Rural
+2025-10-11,14745,Kirana Store,Delhi Old City
+2026-01-03,1377,Street Food,Mumbai Suburban
+2024-10-20,5349,Kirana Store,Chennai Central
+2024-05-20,3751,Organic Produce,Pune Rural
+2024-07-18,1127,Local Tailoring,Mumbai Suburban
+2024-02-21,6003,Street Food,Delhi Old City
+2025-01-21,10524,Organic Produce,Bangalore South
+2024-01-24,9349,Handmade Crafts,Delhi Old City
+2024-06-12,3644,Organic Produce,Mumbai Suburban
+2025-01-14,6803,Organic Produce,Bangalore South
+2025-07-05,12908,Organic Produce,Pune Rural
+2025-04-04,7097,Street Food,Mumbai Suburban
+2025-06-18,10510,Organic Produce,Delhi Old City
+2025-02-15,7750,Street Food,Mumbai Suburban
+2024-11-23,12920,Kirana Store,Delhi Old City
+2024-04-17,12924,Kirana Store,Pune Rural
+2024-08-11,3630,Local Tailoring,Pune Rural
+2024-03-29,4875,Organic Produce,Chennai Central
+2024-12-12,14715,Street Food,Mumbai Suburban
+2024-05-21,5323,Local Tailoring,Delhi Old City
+2025-04-01,4424,Street Food,Chennai Central
+2024-01-14,10565,Organic Produce,Delhi Old City
+2024-12-21,3414,Kirana Store,Chennai Central
+2025-10-27,1562,Street Food,Pune Rural
+2025-02-07,14883,Kirana Store,Delhi Old City
+2025-05-06,2145,Street Food,Pune Rural
+2025-09-28,11575,Street Food,Mumbai Suburban
+2024-07-15,667,Street Food,Pune Rural
+2025-02-11,1467,Local Tailoring,Bangalore South
+2025-06-17,7135,Street Food,Delhi Old City
+2024-08-26,6520,Kirana Store,Bangalore South
+2024-03-08,985,Organic Produce,Delhi Old City
+2024-11-24,12016,Street Food,Chennai Central
+2025-08-28,3832,Organic Produce,Pune Rural
+2025-08-24,3409,Local Tailoring,Chennai Central
+2024-01-31,9306,Kirana Store,Delhi Old City
+2024-10-22,11108,Organic Produce,Pune Rural
+2025-07-16,4459,Kirana Store,Mumbai Suburban
+2024-03-02,9020,Street Food,Mumbai Suburban
+2024-05-22,4425,Street Food,Bangalore South
+2024-04-06,14124,Local Tailoring,Pune Rural
+2025-09-14,13149,Handmade Crafts,Pune Rural
+2025-01-24,6025,Local Tailoring,Bangalore South
+2025-10-03,11937,Handmade Crafts,Bangalore South
+2024-06-24,1103,Organic Produce,Delhi Old City
+2024-08-02,7531,Kirana Store,Mumbai Suburban
+2024-08-29,2289,Local Tailoring,Delhi Old City
+2025-06-16,4697,Organic Produce,Delhi Old City
+2024-03-28,10348,Local Tailoring,Delhi Old City
+2025-11-25,6728,Handmade Crafts,Bangalore South
+2024-02-20,12575,Handmade Crafts,Mumbai Suburban
+2025-10-09,8889,Handmade Crafts,Delhi Old City
+2025-06-03,8688,Local Tailoring,Pune Rural
+2024-05-14,9561,Street Food,Chennai Central
+2025-04-15,11740,Handmade Crafts,Mumbai Suburban
+2024-03-06,5033,Handmade Crafts,Delhi Old City
+2024-03-02,2748,Kirana Store,Delhi Old City
+2025-11-20,9195,Street Food,Pune Rural
+2024-02-29,11069,Street Food,Pune Rural
+2024-03-16,11536,Handmade Crafts,Delhi Old City
+2025-07-13,1302,Street Food,Bangalore South
+2025-12-08,7957,Handmade Crafts,Mumbai Suburban
+2026-01-03,13844,Street Food,Chennai Central
+2024-11-04,9088,Handmade Crafts,Delhi Old City
+2024-04-03,11082,Street Food,Delhi Old City
+2024-10-28,6679,Street Food,Chennai Central
+2024-10-24,11242,Local Tailoring,Mumbai Suburban
+2025-11-28,8497,Handmade Crafts,Mumbai Suburban
+2025-01-01,14858,Handmade Crafts,Delhi Old City
+2024-06-25,13332,Handmade Crafts,Mumbai Suburban
+2024-02-10,2940,Local Tailoring,Delhi Old City
+2024-11-12,8558,Kirana Store,Delhi Old City
+2024-11-24,8997,Kirana Store,Pune Rural
+2025-03-07,7635,Handmade Crafts,Bangalore South
+2024-08-27,5890,Handmade Crafts,Chennai Central
+2025-05-07,2792,Organic Produce,Mumbai Suburban
+2024-04-14,11176,Local Tailoring,Mumbai Suburban
+2025-11-21,1188,Local Tailoring,Mumbai Suburban
+2024-08-11,14668,Local Tailoring,Pune Rural
+2025-03-05,12718,Kirana Store,Mumbai Suburban
+2025-10-03,5582,Organic Produce,Delhi Old City
+2025-10-18,10649,Local Tailoring,Chennai Central
+2025-09-20,7133,Handmade Crafts,Pune Rural
+2025-11-01,12593,Handmade Crafts,Mumbai Suburban
+2025-01-08,8684,Street Food,Pune Rural
+2025-06-11,3160,Kirana Store,Bangalore South
+2025-03-20,8440,Organic Produce,Bangalore South
+2024-02-27,12548,Street Food,Chennai Central
+2024-09-05,14470,Organic Produce,Mumbai Suburban
+2025-10-25,3576,Handmade Crafts,Chennai Central
+2025-05-27,2958,Street Food,Delhi Old City
+2024-08-07,12498,Kirana Store,Bangalore South
+2024-07-20,7923,Street Food,Bangalore South
+2024-12-25,13293,Kirana Store,Bangalore South
+2025-03-14,8548,Street Food,Pune Rural
+2024-09-19,1055,Kirana Store,Mumbai Suburban
+2025-10-22,1890,Local Tailoring,Chennai Central
+2025-10-13,1504,Organic Produce,Pune Rural
+2024-10-16,14400,Handmade Crafts,Pune Rural
+2025-01-12,5847,Kirana Store,Bangalore South
+2025-02-04,14259,Handmade Crafts,Delhi Old City
+2025-09-24,6335,Local Tailoring,Pune Rural
+2024-04-12,7353,Kirana Store,Pune Rural
+2024-09-11,8270,Kirana Store,Delhi Old City
+2025-06-10,10880,Street Food,Chennai Central
+2024-01-30,1932,Local Tailoring,Delhi Old City
+2025-07-08,2924,Organic Produce,Pune Rural
+2024-12-03,6056,Handmade Crafts,Bangalore South
+2024-10-19,9221,Handmade Crafts,Mumbai Suburban
+2024-12-27,14372,Handmade Crafts,Mumbai Suburban
+2024-05-17,13889,Street Food,Chennai Central
+2025-10-17,2196,Street Food,Bangalore South
+2024-11-16,11356,Local Tailoring,Delhi Old City
+2025-12-25,2573,Organic Produce,Delhi Old City
+2024-01-10,9601,Street Food,Bangalore South
+2025-02-22,1006,Organic Produce,Mumbai Suburban
+2025-02-01,5660,Handmade Crafts,Chennai Central
+2026-01-03,8063,Street Food,Mumbai Suburban
+2025-01-22,11062,Local Tailoring,Mumbai Suburban
+2025-08-29,1500,Organic Produce,Bangalore South
+2024-07-17,7654,Street Food,Delhi Old City
+2025-06-20,8911,Handmade Crafts,Bangalore South
+2024-01-24,1238,Organic Produce,Mumbai Suburban
+2025-10-30,14858,Street Food,Delhi Old City
+2025-11-18,7793,Kirana Store,Chennai Central
+2024-07-20,4954,Organic Produce,Delhi Old City
+2024-11-14,6921,Organic Produce,Pune Rural
+2025-05-11,8023,Local Tailoring,Pune Rural
+2024-07-30,8197,Local Tailoring,Pune Rural
+2024-05-20,8645,Kirana Store,Mumbai Suburban
+2024-10-23,14721,Handmade Crafts,Chennai Central
+2024-11-17,5685,Kirana Store,Bangalore South
+2025-05-24,1418,Handmade Crafts,Mumbai Suburban
+2024-03-25,6734,Organic Produce,Delhi Old City
+2024-01-30,5664,Organic Produce,Pune Rural
+2025-10-03,2928,Local Tailoring,Bangalore South
+2025-10-31,4442,Organic Produce,Mumbai Suburban
+2024-07-04,5551,Handmade Crafts,Mumbai Suburban
+2024-04-17,9781,Kirana Store,Chennai Central
+2024-12-18,10361,Kirana Store,Chennai Central
+2025-02-26,9417,Kirana Store,Delhi Old City
+2025-01-02,2214,Handmade Crafts,Chennai Central
+2025-01-09,4671,Street Food,Chennai Central
+2024-10-20,8127,Kirana Store,Delhi Old City
+2024-05-24,10113,Street Food,Bangalore South
+2024-11-24,13431,Local Tailoring,Mumbai Suburban
+2024-08-11,6281,Local Tailoring,Pune Rural
+2024-07-08,10579,Organic Produce,Delhi Old City
+2024-08-31,8870,Local Tailoring,Delhi Old City
+2025-06-09,8255,Organic Produce,Mumbai Suburban
+2025-04-10,3005,Street Food,Delhi Old City
+2024-03-27,4947,Kirana Store,Chennai Central
+2024-12-09,6134,Organic Produce,Mumbai Suburban
+2025-06-17,13099,Organic Produce,Mumbai Suburban
+2025-08-22,7273,Organic Produce,Mumbai Suburban
+2025-08-18,2965,Handmade Crafts,Bangalore South
+2025-09-13,3595,Local Tailoring,Mumbai Suburban
+2024-06-14,9764,Organic Produce,Bangalore South
+2025-10-04,1174,Street Food,Mumbai Suburban
+2024-02-02,1893,Kirana Store,Delhi Old City
+2025-07-18,14189,Street Food,Delhi Old City
+2024-02-26,14475,Local Tailoring,Pune Rural
+2024-11-20,5184,Organic Produce,Delhi Old City
+2024-05-14,6589,Local Tailoring,Pune Rural
+2025-07-29,12698,Street Food,Pune Rural
+2025-10-20,3285,Street Food,Delhi Old City
+2024-05-08,8782,Kirana Store,Bangalore South
+2024-04-29,2728,Local Tailoring,Chennai Central
+2024-10-02,5976,Kirana Store,Bangalore South
+2025-04-11,5295,Local Tailoring,Mumbai Suburban
+2024-07-10,13234,Street Food,Pune Rural
+2025-05-20,14744,Handmade Crafts,Pune Rural
+2025-10-06,6612,Local Tailoring,Chennai Central
+2025-04-05,6229,Street Food,Delhi Old City
+2024-11-09,13840,Handmade Crafts,Mumbai Suburban
+2025-12-02,12155,Organic Produce,Delhi Old City
+2024-12-09,2010,Kirana Store,Bangalore South
+2024-06-13,13285,Kirana Store,Pune Rural
+2025-03-25,740,Local Tailoring,Chennai Central
+2025-06-20,2551,Handmade Crafts,Bangalore South
+2025-03-23,5654,Kirana Store,Bangalore South
+2025-03-28,13832,Kirana Store,Pune Rural
+2024-03-04,6020,Organic Produce,Mumbai Suburban
+2024-05-24,9782,Handmade Crafts,Bangalore South
+2024-02-08,14882,Organic Produce,Pune Rural
+2024-05-10,6842,Organic Produce,Delhi Old City
+2024-02-02,8259,Street Food,Pune Rural
+2024-11-16,9486,Organic Produce,Delhi Old City
+2025-04-30,9467,Handmade Crafts,Chennai Central
+2025-10-24,9367,Organic Produce,Chennai Central
+2024-02-12,8530,Kirana Store,Delhi Old City
+2025-03-20,3676,Local Tailoring,Mumbai Suburban
+2025-06-17,12747,Handmade Crafts,Chennai Central
+2025-04-26,9194,Organic Produce,Chennai Central
+2025-05-11,1206,Local Tailoring,Chennai Central
+2024-06-03,9637,Kirana Store,Pune Rural
+2025-08-02,12914,Kirana Store,Pune Rural
+2025-04-14,9730,Street Food,Bangalore South
+2025-07-11,1618,Organic Produce,Pune Rural
+2024-06-24,13202,Street Food,Mumbai Suburban
+2024-11-20,1070,Street Food,Chennai Central
+2024-03-21,1497,Local Tailoring,Delhi Old City
+2025-06-08,8508,Street Food,Mumbai Suburban
+2024-04-12,14278,Street Food,Chennai Central
+2024-07-03,5051,Handmade Crafts,Mumbai Suburban
+2024-09-20,10187,Street Food,Bangalore South
+2024-05-02,11896,Handmade Crafts,Bangalore South
+2025-11-05,6835,Handmade Crafts,Mumbai Suburban
+2025-04-06,13864,Kirana Store,Delhi Old City
+2024-11-29,8694,Local Tailoring,Bangalore South
+2025-03-30,3580,Organic Produce,Bangalore South
+2024-10-23,5647,Local Tailoring,Bangalore South
+2024-05-31,10513,Organic Produce,Chennai Central
+2025-10-12,9084,Local Tailoring,Pune Rural
+2024-09-06,13122,Street Food,Pune Rural
+2025-01-29,2389,Local Tailoring,Pune Rural
+2024-12-12,1725,Kirana Store,Delhi Old City
+2024-09-12,2783,Handmade Crafts,Pune Rural
+2024-11-29,14161,Local Tailoring,Mumbai Suburban
+2025-10-19,7049,Handmade Crafts,Chennai Central
+2025-02-20,551,Local Tailoring,Chennai Central
+2025-06-18,9281,Street Food,Bangalore South
+2025-01-24,2772,Kirana Store,Mumbai Suburban
+2024-10-24,9253,Organic Produce,Delhi Old City
+2024-03-24,4253,Street Food,Chennai Central
+2024-02-15,9660,Handmade Crafts,Mumbai Suburban
+2024-06-07,6828,Local Tailoring,Delhi Old City
+2025-09-17,5243,Street Food,Delhi Old City
+2024-08-05,2767,Local Tailoring,Bangalore South
+2025-12-26,2435,Street Food,Delhi Old City
+2024-01-29,13466,Local Tailoring,Pune Rural
+2025-05-13,13579,Street Food,Mumbai Suburban
+2025-12-04,10856,Local Tailoring,Chennai Central
+2024-07-27,7323,Kirana Store,Pune Rural
+2025-06-06,14498,Organic Produce,Chennai Central
+2025-05-03,8623,Local Tailoring,Mumbai Suburban
+2025-04-09,5955,Organic Produce,Pune Rural
+2025-02-24,4552,Street Food,Bangalore South
+2025-02-25,13060,Handmade Crafts,Bangalore South
+2024-12-31,9519,Street Food,Pune Rural
+2024-05-13,8011,Handmade Crafts,Mumbai Suburban
+2024-08-24,14991,Kirana Store,Chennai Central
+2025-05-02,8017,Handmade Crafts,Mumbai Suburban
+2024-04-01,9667,Local Tailoring,Pune Rural
+2025-10-27,8261,Local Tailoring,Chennai Central
+2024-05-31,623,Handmade Crafts,Delhi Old City
+2025-04-22,11951,Street Food,Chennai Central
+2024-01-29,5556,Local Tailoring,Chennai Central
+2025-08-29,14296,Street Food,Delhi Old City
+2025-11-03,10372,Kirana Store,Chennai Central
+2024-11-28,4019,Organic Produce,Mumbai Suburban
+2024-12-15,13285,Local Tailoring,Pune Rural
+2024-10-11,10593,Handmade Crafts,Mumbai Suburban
+2025-09-08,7530,Handmade Crafts,Bangalore South
+2025-05-22,11872,Local Tailoring,Delhi Old City
+2024-11-02,10193,Handmade Crafts,Bangalore South
+2025-01-19,7160,Local Tailoring,Pune Rural
+2024-10-20,8394,Handmade Crafts,Delhi Old City
+2024-01-28,12480,Kirana Store,Pune Rural
+2024-11-26,4748,Organic Produce,Chennai Central
+2024-08-23,3654,Kirana Store,Pune Rural
+2024-03-12,10002,Street Food,Chennai Central
+2024-10-24,13924,Street Food,Mumbai Suburban
+2025-03-09,4350,Kirana Store,Delhi Old City
+2024-08-04,11755,Local Tailoring,Chennai Central
+2025-01-16,8322,Local Tailoring,Chennai Central
+2024-03-21,2184,Handmade Crafts,Pune Rural
+2024-10-16,13973,Local Tailoring,Pune Rural
+2025-12-11,7887,Kirana Store,Bangalore South
+2024-09-24,10815,Organic Produce,Chennai Central
+2024-04-17,8692,Street Food,Chennai Central
+2024-03-18,10068,Street Food,Chennai Central
+2025-06-07,1785,Organic Produce,Mumbai Suburban
+2024-09-17,9228,Handmade Crafts,Chennai Central
+2024-09-03,11308,Organic Produce,Mumbai Suburban
+2025-05-31,9944,Kirana Store,Chennai Central
+2025-08-24,2971,Handmade Crafts,Pune Rural
+2025-01-24,9534,Handmade Crafts,Mumbai Suburban
+2025-08-25,10354,Street Food,Bangalore South
+2025-03-16,3683,Street Food,Mumbai Suburban
+2025-05-18,11465,Organic Produce,Mumbai Suburban
+2024-01-12,10611,Organic Produce,Pune Rural
+2024-02-02,14813,Organic Produce,Chennai Central
+2024-12-23,7886,Handmade Crafts,Delhi Old City
+2024-01-17,13910,Organic Produce,Pune Rural
+2025-08-04,4611,Organic Produce,Mumbai Suburban
+2025-01-16,14397,Local Tailoring,Bangalore South
+2024-11-20,1215,Organic Produce,Mumbai Suburban
+2025-11-03,6133,Organic Produce,Delhi Old City
+2025-05-04,8136,Kirana Store,Mumbai Suburban
+2024-06-27,2414,Street Food,Bangalore South
+2024-02-10,4260,Local Tailoring,Bangalore South
+2025-11-10,10854,Street Food,Delhi Old City
+2024-06-30,3148,Street Food,Mumbai Suburban
+2024-07-24,10308,Local Tailoring,Pune Rural
+2025-06-17,10001,Organic Produce,Mumbai Suburban
+2025-09-19,14888,Street Food,Pune Rural
+2024-11-26,11155,Local Tailoring,Pune Rural
+2025-09-22,6965,Organic Produce,Bangalore South
+2024-10-28,2773,Organic Produce,Pune Rural
+2024-11-05,4774,Organic Produce,Delhi Old City
+2025-09-30,11607,Handmade Crafts,Chennai Central
+2024-07-21,6489,Local Tailoring,Mumbai Suburban
+2024-10-08,708,Organic Produce,Delhi Old City
+2024-02-11,9039,Handmade Crafts,Delhi Old City
+2024-02-19,13713,Street Food,Pune Rural
+2024-09-01,9666,Organic Produce,Chennai Central
+2025-03-22,569,Local Tailoring,Mumbai Suburban
+2025-02-15,2778,Street Food,Mumbai Suburban
+2024-05-04,6969,Handmade Crafts,Delhi Old City
+2024-08-09,13898,Organic Produce,Bangalore South
+2025-03-01,6312,Street Food,Pune Rural
+2025-04-08,11266,Kirana Store,Delhi Old City
+2024-03-31,1566,Handmade Crafts,Bangalore South
+2024-05-07,11542,Handmade Crafts,Pune Rural
+2024-05-30,5604,Local Tailoring,Bangalore South
+2025-12-06,13636,Organic Produce,Pune Rural
+2025-07-30,7042,Local Tailoring,Delhi Old City
+2025-02-06,12565,Local Tailoring,Bangalore South
+2025-07-17,1371,Organic Produce,Delhi Old City
+2024-05-28,4002,Local Tailoring,Bangalore South
+2025-05-11,11459,Kirana Store,Mumbai Suburban
+2025-06-26,11410,Local Tailoring,Delhi Old City
+2025-06-08,4130,Kirana Store,Bangalore South
+2024-11-10,11902,Organic Produce,Mumbai Suburban
+2025-01-24,1941,Local Tailoring,Mumbai Suburban
+2024-03-27,2600,Local Tailoring,Chennai Central
+2025-11-21,3277,Organic Produce,Bangalore South
+2024-10-04,10740,Kirana Store,Mumbai Suburban
+2025-04-26,8957,Handmade Crafts,Pune Rural
+2025-10-25,8273,Street Food,Bangalore South
+2024-06-05,5509,Kirana Store,Chennai Central
+2025-08-31,1991,Street Food,Chennai Central
+2025-11-26,8946,Kirana Store,Pune Rural
+2024-07-15,3782,Street Food,Delhi Old City
+2024-01-30,5562,Kirana Store,Chennai Central
+2024-01-31,3227,Organic Produce,Chennai Central
+2025-06-06,3083,Street Food,Bangalore South
+2025-04-14,9518,Street Food,Mumbai Suburban
+2024-01-25,9566,Kirana Store,Mumbai Suburban
+2025-02-21,10852,Kirana Store,Mumbai Suburban
+2024-01-21,9839,Handmade Crafts,Pune Rural
+2025-02-13,2286,Kirana Store,Chennai Central
+2025-07-15,4392,Organic Produce,Delhi Old City
+2025-06-27,5886,Handmade Crafts,Bangalore South
+2024-02-24,3255,Local Tailoring,Chennai Central
+2024-10-30,11082,Kirana Store,Mumbai Suburban
+2025-09-13,6789,Street Food,Bangalore South
+2024-10-20,5982,Local Tailoring,Delhi Old City
+2025-03-12,13454,Local Tailoring,Mumbai Suburban
+2025-12-20,11450,Organic Produce,Pune Rural
+2025-12-02,5134,Organic Produce,Chennai Central
+2025-11-28,8910,Local Tailoring,Mumbai Suburban
+2024-11-15,8355,Organic Produce,Mumbai Suburban
+2025-04-28,12469,Kirana Store,Bangalore South
+2025-07-16,4650,Street Food,Pune Rural
+2025-10-01,14011,Organic Produce,Pune Rural
+2025-02-07,5795,Local Tailoring,Bangalore South
+2025-08-09,2604,Local Tailoring,Pune Rural
+2025-06-11,6800,Street Food,Mumbai Suburban
+2025-06-24,3744,Local Tailoring,Pune Rural
+2024-03-15,5799,Local Tailoring,Delhi Old City
+2024-07-28,6493,Kirana Store,Mumbai Suburban
+2025-01-09,7226,Kirana Store,Pune Rural
+2024-03-24,1210,Organic Produce,Delhi Old City
+2024-11-09,14124,Organic Produce,Bangalore South
+2024-06-23,13375,Organic Produce,Bangalore South
+2024-08-10,4834,Local Tailoring,Mumbai Suburban
+2024-10-24,3914,Local Tailoring,Bangalore South
+2025-06-01,2154,Street Food,Pune Rural
+2024-04-06,11306,Organic Produce,Chennai Central
+2024-05-14,11654,Local Tailoring,Bangalore South
+2024-06-18,10148,Kirana Store,Delhi Old City
+2024-12-30,9520,Street Food,Chennai Central
+2025-12-23,12690,Organic Produce,Bangalore South
+2025-08-08,5756,Street Food,Bangalore South
+2024-04-09,9762,Kirana Store,Delhi Old City
+2024-02-16,10534,Kirana Store,Mumbai Suburban
+2025-08-03,6316,Kirana Store,Mumbai Suburban
+2025-08-27,7254,Street Food,Mumbai Suburban
+2024-05-31,12357,Street Food,Pune Rural
+2024-11-09,2007,Street Food,Bangalore South
+2025-07-04,6961,Handmade Crafts,Mumbai Suburban
+2024-04-27,14425,Organic Produce,Pune Rural
+2025-04-04,4275,Local Tailoring,Mumbai Suburban
+2025-09-04,6556,Street Food,Mumbai Suburban
+2025-07-12,7479,Handmade Crafts,Mumbai Suburban
+2025-01-06,6331,Handmade Crafts,Delhi Old City
+2025-02-11,14148,Local Tailoring,Mumbai Suburban
+2024-01-31,7341,Street Food,Chennai Central
+2024-06-07,10583,Organic Produce,Mumbai Suburban
+2025-09-23,2913,Local Tailoring,Pune Rural
+2024-10-24,13798,Local Tailoring,Mumbai Suburban
+2024-02-01,2885,Organic Produce,Delhi Old City
+2025-07-18,10847,Handmade Crafts,Chennai Central
+2024-02-03,4470,Kirana Store,Delhi Old City
+2024-03-07,11222,Kirana Store,Chennai Central
+2025-12-02,8915,Handmade Crafts,Chennai Central
+2025-01-24,10073,Local Tailoring,Pune Rural
+2025-09-18,712,Organic Produce,Chennai Central
+2024-02-18,669,Local Tailoring,Bangalore South
+2024-05-01,647,Street Food,Bangalore South
+2024-03-12,11537,Local Tailoring,Chennai Central
+2025-10-05,8947,Kirana Store,Pune Rural
+2024-04-06,8623,Kirana Store,Delhi Old City
+2024-12-20,7307,Kirana Store,Delhi Old City
+2025-10-30,2181,Kirana Store,Bangalore South
+2025-06-04,3072,Organic Produce,Chennai Central
+2024-07-14,10116,Organic Produce,Delhi Old City
+2024-11-08,2042,Local Tailoring,Delhi Old City
+2024-10-20,13286,Street Food,Mumbai Suburban
+2025-12-04,13080,Kirana Store,Bangalore South
+2025-10-06,4698,Kirana Store,Pune Rural
+2024-05-21,7664,Organic Produce,Delhi Old City
+2024-07-19,9710,Kirana Store,Delhi Old City
+2024-06-07,12029,Handmade Crafts,Delhi Old City
+2025-02-16,12514,Handmade Crafts,Chennai Central
+2025-07-18,11803,Local Tailoring,Delhi Old City
+2024-08-30,3550,Organic Produce,Delhi Old City
+2024-04-04,13106,Street Food,Delhi Old City
+2024-08-06,10909,Local Tailoring,Chennai Central
+2025-04-03,2687,Kirana Store,Bangalore South
+2026-01-03,4428,Kirana Store,Chennai Central
+2025-02-20,12752,Street Food,Delhi Old City
+2025-12-05,7042,Handmade Crafts,Delhi Old City
+2025-03-27,10013,Local Tailoring,Delhi Old City
+2025-08-09,8896,Kirana Store,Delhi Old City
+2025-05-31,5213,Local Tailoring,Bangalore South
+2025-07-28,12620,Kirana Store,Chennai Central
+2025-06-28,7468,Organic Produce,Delhi Old City
+2025-10-15,14282,Organic Produce,Chennai Central
+2024-05-21,7347,Kirana Store,Bangalore South
+2025-09-24,14474,Organic Produce,Bangalore South
+2025-12-24,5305,Kirana Store,Delhi Old City
+2025-03-04,13594,Local Tailoring,Chennai Central
+2024-10-16,742,Street Food,Chennai Central
+2025-09-22,9427,Street Food,Mumbai Suburban
+2025-03-10,2664,Organic Produce,Bangalore South
+2025-12-09,3500,Kirana Store,Chennai Central
+2024-11-01,9934,Handmade Crafts,Mumbai Suburban
+2026-01-06,13730,Kirana Store,Delhi Old City
+2025-06-16,8323,Street Food,Pune Rural
+2025-03-03,2535,Organic Produce,Bangalore South
+2025-11-17,10930,Street Food,Delhi Old City
+2025-07-14,2119,Organic Produce,Mumbai Suburban
+2025-02-25,5504,Street Food,Bangalore South
+2024-08-13,13422,Street Food,Pune Rural
+2025-07-27,3692,Local Tailoring,Chennai Central
+2024-03-24,5463,Organic Produce,Chennai Central
+2024-04-22,9274,Kirana Store,Bangalore South
+2025-04-30,14615,Organic Produce,Mumbai Suburban
+2025-01-14,14607,Kirana Store,Delhi Old City
+2025-11-30,874,Organic Produce,Pune Rural
+2024-07-01,11063,Handmade Crafts,Bangalore South
+2024-11-23,7200,Handmade Crafts,Delhi Old City
+2025-02-09,3727,Organic Produce,Chennai Central
+2024-04-04,12849,Organic Produce,Delhi Old City
+2025-01-31,7672,Kirana Store,Delhi Old City
+2024-06-04,14173,Kirana Store,Delhi Old City
+2025-06-15,5950,Local Tailoring,Mumbai Suburban
+2025-06-13,11226,Handmade Crafts,Pune Rural
+2024-03-27,14616,Organic Produce,Chennai Central
+2024-11-02,1196,Organic Produce,Mumbai Suburban
+2025-12-22,8406,Organic Produce,Bangalore South
+2024-05-14,13300,Handmade Crafts,Pune Rural
+2024-02-15,2006,Organic Produce,Chennai Central
+2025-02-25,9782,Handmade Crafts,Pune Rural
+2024-09-09,2920,Street Food,Mumbai Suburban
+2025-01-10,5197,Organic Produce,Pune Rural
+2024-04-21,5369,Local Tailoring,Delhi Old City
+2024-10-08,12797,Kirana Store,Mumbai Suburban
+2025-10-13,8696,Handmade Crafts,Chennai Central
+2025-11-16,5542,Street Food,Pune Rural
+2024-09-21,8418,Handmade Crafts,Bangalore South
+2025-08-01,3523,Handmade Crafts,Bangalore South
+2025-05-16,2499,Street Food,Pune Rural
+2025-10-07,11325,Local Tailoring,Mumbai Suburban
+2025-02-15,14852,Organic Produce,Pune Rural
+2025-03-17,10247,Kirana Store,Chennai Central
+2025-01-08,9677,Street Food,Chennai Central
+2025-04-10,14659,Handmade Crafts,Chennai Central
+2024-01-20,9663,Kirana Store,Bangalore South
+2025-04-08,13803,Kirana Store,Chennai Central
+2024-04-01,13661,Local Tailoring,Pune Rural
+2025-01-15,1784,Kirana Store,Bangalore South
+2024-11-04,9439,Organic Produce,Bangalore South
+2024-09-21,6949,Local Tailoring,Chennai Central
+2024-11-25,7752,Organic Produce,Mumbai Suburban
+2024-10-21,4283,Handmade Crafts,Pune Rural
+2024-11-16,605,Handmade Crafts,Delhi Old City
+2025-03-25,6747,Local Tailoring,Mumbai Suburban
+2024-04-04,14369,Handmade Crafts,Mumbai Suburban
+2025-01-08,11801,Street Food,Chennai Central
+2025-10-19,14487,Handmade Crafts,Bangalore South
+2025-09-24,8253,Kirana Store,Pune Rural
+2024-08-30,7759,Handmade Crafts,Delhi Old City
+2025-05-05,14317,Local Tailoring,Mumbai Suburban
+2024-07-01,5489,Local Tailoring,Bangalore South
+2024-07-22,11903,Handmade Crafts,Pune Rural
+2025-04-22,1112,Street Food,Mumbai Suburban
+2024-12-12,2701,Handmade Crafts,Chennai Central
+2024-09-21,8922,Local Tailoring,Bangalore South
+2024-11-27,5423,Street Food,Chennai Central
+2025-03-02,11516,Kirana Store,Pune Rural
+2024-06-26,14902,Street Food,Bangalore South
+2024-03-30,11184,Handmade Crafts,Delhi Old City
+2024-03-31,3107,Street Food,Chennai Central
+2025-07-09,12233,Street Food,Delhi Old City
+2025-11-08,5463,Local Tailoring,Bangalore South
+2024-10-14,9459,Local Tailoring,Bangalore South
+2025-01-11,6494,Local Tailoring,Pune Rural
+2025-12-07,11191,Street Food,Mumbai Suburban
+2025-10-14,6848,Organic Produce,Chennai Central
+2024-04-10,7062,Kirana Store,Delhi Old City
+2025-08-06,14019,Organic Produce,Chennai Central
+2025-08-04,1269,Handmade Crafts,Pune Rural
+2025-07-28,13607,Organic Produce,Chennai Central
+2024-12-02,2390,Street Food,Mumbai Suburban
+2025-08-18,3935,Organic Produce,Pune Rural
+2024-08-21,4428,Kirana Store,Mumbai Suburban
+2024-06-02,1359,Organic Produce,Bangalore South
+2026-01-02,6196,Local Tailoring,Pune Rural
+2024-01-13,11462,Kirana Store,Mumbai Suburban
+2024-05-27,7974,Kirana Store,Delhi Old City
+2024-05-09,14215,Handmade Crafts,Mumbai Suburban
+2025-12-22,11509,Handmade Crafts,Pune Rural
+2024-01-20,1229,Kirana Store,Delhi Old City
+2025-04-24,13632,Street Food,Chennai Central
+2025-12-06,14926,Local Tailoring,Chennai Central
+2024-11-11,14636,Organic Produce,Pune Rural
+2025-05-30,1843,Street Food,Mumbai Suburban
+2025-09-13,5840,Handmade Crafts,Mumbai Suburban
+2024-11-21,5152,Street Food,Delhi Old City
+2024-03-16,758,Street Food,Bangalore South
+2025-06-27,2720,Handmade Crafts,Pune Rural
+2025-12-12,2165,Local Tailoring,Mumbai Suburban
+2024-09-15,3212,Kirana Store,Chennai Central
+2025-01-22,6486,Street Food,Pune Rural
+2025-02-02,6435,Street Food,Chennai Central
+2025-03-29,12995,Handmade Crafts,Chennai Central
+2025-02-28,4814,Handmade Crafts,Bangalore South
+2024-11-13,4892,Local Tailoring,Bangalore South
+2025-11-22,13035,Organic Produce,Pune Rural
+2024-06-05,13381,Handmade Crafts,Chennai Central
+2025-08-15,9855,Street Food,Mumbai Suburban
+2024-11-07,11958,Kirana Store,Delhi Old City
+2024-08-24,8255,Local Tailoring,Pune Rural
+2024-12-16,6603,Kirana Store,Pune Rural
+2024-05-07,13483,Street Food,Bangalore South
+2025-09-23,2376,Handmade Crafts,Mumbai Suburban
+2024-06-26,2012,Local Tailoring,Bangalore South
+2024-04-27,11735,Street Food,Chennai Central
+2024-08-01,3648,Kirana Store,Bangalore South
+2024-05-23,12582,Local Tailoring,Bangalore South
+2024-05-10,12379,Local Tailoring,Delhi Old City
+2025-04-10,5948,Local Tailoring,Chennai Central
+2025-03-08,14302,Kirana Store,Mumbai Suburban
+2025-06-21,11899,Organic Produce,Chennai Central
+2025-09-06,4360,Street Food,Pune Rural
+2025-05-01,3385,Handmade Crafts,Delhi Old City
+2024-04-06,2521,Street Food,Pune Rural
+2024-11-30,14612,Handmade Crafts,Chennai Central
+2024-02-12,8047,Handmade Crafts,Bangalore South
+2025-03-26,3390,Handmade Crafts,Bangalore South
+2025-08-28,10939,Local Tailoring,Bangalore South
+2025-10-03,11435,Street Food,Chennai Central
+2024-07-12,771,Local Tailoring,Delhi Old City
+2025-12-13,7504,Organic Produce,Delhi Old City
+2025-04-22,11914,Organic Produce,Delhi Old City
+2024-12-07,2509,Street Food,Mumbai Suburban
+2024-03-29,13324,Kirana Store,Chennai Central
+2024-10-11,3146,Street Food,Bangalore South
+2024-11-22,4516,Street Food,Bangalore South
+2024-11-27,11374,Handmade Crafts,Delhi Old City
+2025-06-07,8618,Local Tailoring,Bangalore South
+2024-06-15,5773,Local Tailoring,Mumbai Suburban
+2024-10-08,9217,Local Tailoring,Chennai Central
+2025-09-22,3301,Handmade Crafts,Bangalore South
+2025-12-24,8897,Organic Produce,Chennai Central
+2024-01-21,14617,Kirana Store,Bangalore South
+2025-05-12,8721,Local Tailoring,Delhi Old City
+2024-05-10,1284,Organic Produce,Bangalore South
+2024-02-07,6984,Street Food,Delhi Old City
+2025-09-14,3299,Organic Produce,Mumbai Suburban
+2024-09-22,14309,Street Food,Bangalore South
+2024-10-25,2161,Kirana Store,Chennai Central
+2025-04-21,14293,Kirana Store,Delhi Old City
+2024-11-03,4051,Street Food,Delhi Old City
+2024-02-04,1116,Handmade Crafts,Chennai Central
+2024-01-30,11530,Handmade Crafts,Delhi Old City
+2024-09-15,8886,Organic Produce,Delhi Old City
+2024-04-07,4268,Handmade Crafts,Bangalore South
+2024-12-19,13248,Handmade Crafts,Bangalore South
+2024-03-18,10439,Local Tailoring,Chennai Central
+2025-10-23,8399,Local Tailoring,Chennai Central
+2024-05-09,13200,Street Food,Bangalore South
+2024-09-28,10961,Kirana Store,Bangalore South
+2024-02-27,8917,Local Tailoring,Pune Rural
+2024-12-14,6689,Street Food,Mumbai Suburban
+2024-06-30,13462,Local Tailoring,Bangalore South
+2025-12-01,2355,Street Food,Mumbai Suburban
+2024-07-08,9864,Handmade Crafts,Mumbai Suburban
+2024-01-29,10513,Kirana Store,Pune Rural
+2024-02-12,12898,Kirana Store,Pune Rural
+2024-10-29,11896,Handmade Crafts,Bangalore South
+2024-12-08,7411,Street Food,Bangalore South
+2025-04-07,6279,Street Food,Pune Rural
+2025-05-29,11638,Organic Produce,Pune Rural
+2025-04-05,1333,Local Tailoring,Pune Rural
+2025-08-19,11800,Organic Produce,Pune Rural
+2024-06-13,1910,Kirana Store,Delhi Old City
+2024-04-09,12712,Kirana Store,Chennai Central
+2025-08-09,13821,Handmade Crafts,Bangalore South
+2024-09-02,749,Local Tailoring,Delhi Old City
+2024-12-05,14776,Street Food,Chennai Central
+2025-01-30,9861,Street Food,Mumbai Suburban
+2024-10-21,11773,Local Tailoring,Mumbai Suburban
+2024-02-15,10377,Organic Produce,Chennai Central
+2025-12-02,3956,Local Tailoring,Pune Rural
+2025-02-16,3193,Local Tailoring,Pune Rural
+2024-07-20,9627,Local Tailoring,Bangalore South
+2024-07-22,6906,Kirana Store,Pune Rural
+2024-11-06,12570,Local Tailoring,Bangalore South
+2025-11-07,10693,Handmade Crafts,Delhi Old City
+2024-08-24,14726,Local Tailoring,Chennai Central
+2024-07-27,5016,Kirana Store,Chennai Central
+2025-08-15,10853,Organic Produce,Chennai Central
+2024-04-14,8616,Local Tailoring,Pune Rural
+2024-11-07,2024,Street Food,Pune Rural
+2024-08-03,5943,Handmade Crafts,Mumbai Suburban
+2025-10-19,5297,Street Food,Delhi Old City
+2024-08-02,9879,Local Tailoring,Delhi Old City
+2024-01-30,9220,Street Food,Delhi Old City
+2024-04-03,3462,Street Food,Delhi Old City
+2024-02-26,9212,Organic Produce,Pune Rural
+2025-03-02,7048,Handmade Crafts,Bangalore South
+2025-06-07,12892,Local Tailoring,Delhi Old City
+2024-10-09,10246,Kirana Store,Delhi Old City
+2024-07-14,12912,Organic Produce,Chennai Central
+2025-10-26,2272,Organic Produce,Mumbai Suburban
+2025-09-22,7066,Organic Produce,Delhi Old City
+2025-03-10,9270,Organic Produce,Pune Rural
+2024-01-14,5678,Street Food,Pune Rural
+2025-02-08,12473,Local Tailoring,Bangalore South
+2025-04-05,7499,Street Food,Delhi Old City
+2025-09-23,4833,Local Tailoring,Mumbai Suburban
+2025-08-30,9731,Local Tailoring,Pune Rural
+2025-12-02,10093,Street Food,Delhi Old City
+2024-02-11,1873,Organic Produce,Chennai Central
+2024-03-25,547,Kirana Store,Pune Rural
+2024-08-23,7109,Kirana Store,Mumbai Suburban
+2024-08-26,8945,Handmade Crafts,Delhi Old City
+2024-06-29,11964,Handmade Crafts,Bangalore South
+2024-08-20,1191,Local Tailoring,Delhi Old City
+2024-02-19,8883,Local Tailoring,Pune Rural
+2024-02-11,1822,Organic Produce,Bangalore South
+2025-05-02,2807,Handmade Crafts,Delhi Old City
+2025-08-01,4495,Local Tailoring,Chennai Central
+2025-10-16,4587,Handmade Crafts,Chennai Central
+2024-09-20,7583,Street Food,Pune Rural
+2026-01-04,6915,Handmade Crafts,Mumbai Suburban
+2024-12-09,10657,Street Food,Bangalore South
+2024-05-01,2490,Street Food,Pune Rural
+2025-05-08,2540,Local Tailoring,Bangalore South
+2024-04-28,5645,Street Food,Delhi Old City
+2024-02-23,14417,Local Tailoring,Chennai Central
+2024-07-22,5817,Organic Produce,Pune Rural
+2024-03-23,9944,Kirana Store,Mumbai Suburban
+2024-09-07,1903,Handmade Crafts,Mumbai Suburban
+2025-12-23,9578,Handmade Crafts,Pune Rural
+2025-10-25,3511,Local Tailoring,Delhi Old City
+2024-12-27,6715,Organic Produce,Pune Rural
+2025-08-22,3078,Street Food,Pune Rural
+2024-09-17,2063,Local Tailoring,Bangalore South
+2024-03-12,5393,Street Food,Chennai Central
+2025-11-04,12404,Street Food,Delhi Old City
+2024-08-21,13582,Street Food,Pune Rural
+2025-12-12,3032,Organic Produce,Delhi Old City
+2024-07-08,7188,Local Tailoring,Mumbai Suburban
+2024-04-22,11507,Local Tailoring,Delhi Old City
+2025-10-15,8963,Local Tailoring,Delhi Old City
+2025-03-18,11052,Handmade Crafts,Mumbai Suburban
+2024-04-09,14756,Kirana Store,Pune Rural
+2024-04-13,2345,Local Tailoring,Bangalore South
+2024-06-09,11206,Handmade Crafts,Mumbai Suburban
+2024-10-30,3040,Street Food,Bangalore South
+2025-10-06,9234,Street Food,Delhi Old City
+2025-07-07,10983,Local Tailoring,Mumbai Suburban
+2024-09-13,14705,Street Food,Bangalore South
+2024-11-02,10936,Local Tailoring,Delhi Old City
+2025-12-13,5177,Kirana Store,Bangalore South
+2024-05-25,8798,Street Food,Bangalore South
+2024-05-08,3916,Street Food,Chennai Central
+2024-03-02,531,Handmade Crafts,Bangalore South
+2025-09-13,4581,Local Tailoring,Pune Rural
+2025-09-29,12475,Handmade Crafts,Bangalore South
+2025-07-04,7141,Kirana Store,Bangalore South
+2024-09-08,1778,Local Tailoring,Chennai Central
+2024-01-17,4253,Kirana Store,Pune Rural
+2024-04-28,4168,Kirana Store,Chennai Central
+2024-07-23,840,Local Tailoring,Chennai Central
+2024-01-27,9136,Local Tailoring,Mumbai Suburban
+2025-06-23,13698,Handmade Crafts,Bangalore South
+2024-01-16,9147,Kirana Store,Bangalore South
+2025-04-20,10504,Street Food,Bangalore South
+2025-06-20,4273,Local Tailoring,Delhi Old City
+2025-01-25,7139,Street Food,Delhi Old City
+2024-07-28,3854,Kirana Store,Pune Rural
+2024-12-03,7592,Street Food,Delhi Old City
+2025-06-13,12269,Local Tailoring,Pune Rural
+2024-06-05,3273,Local Tailoring,Bangalore South
+2025-02-19,14472,Street Food,Pune Rural
+2025-01-26,14105,Handmade Crafts,Delhi Old City
+2025-01-21,12951,Kirana Store,Bangalore South
+2024-09-30,4785,Local Tailoring,Chennai Central
+2024-06-27,14754,Handmade Crafts,Mumbai Suburban
+2025-06-24,9135,Local Tailoring,Pune Rural
+2024-05-28,7427,Kirana Store,Mumbai Suburban
+2024-08-30,7028,Kirana Store,Bangalore South
+2024-04-06,4105,Handmade Crafts,Chennai Central
+2025-02-09,2624,Local Tailoring,Pune Rural
+2025-09-15,3424,Kirana Store,Chennai Central
+2025-11-06,4604,Organic Produce,Delhi Old City
+2024-04-24,703,Street Food,Bangalore South
+2024-03-11,8771,Handmade Crafts,Mumbai Suburban
+2024-11-04,824,Organic Produce,Mumbai Suburban
+2024-05-23,3841,Street Food,Bangalore South
+2024-08-01,8477,Kirana Store,Bangalore South
+2025-03-13,5670,Handmade Crafts,Chennai Central
+2025-08-01,13520,Organic Produce,Bangalore South
+2025-06-19,13715,Handmade Crafts,Delhi Old City
+2024-12-06,3488,Kirana Store,Chennai Central
+2025-05-31,2839,Kirana Store,Pune Rural
+2024-09-22,6254,Street Food,Pune Rural
+2024-11-23,12560,Local Tailoring,Chennai Central
+2025-05-26,12365,Handmade Crafts,Chennai Central
+2024-01-10,1728,Kirana Store,Chennai Central
+2025-03-19,14494,Kirana Store,Mumbai Suburban
+2025-03-08,14127,Local Tailoring,Pune Rural
+2024-06-18,8465,Local Tailoring,Chennai Central
+2024-04-24,1873,Kirana Store,Chennai Central
+2025-07-30,2456,Handmade Crafts,Chennai Central
+2024-07-15,10433,Handmade Crafts,Chennai Central
+2024-09-16,13208,Organic Produce,Pune Rural
+2025-04-20,4779,Organic Produce,Chennai Central
+2025-03-29,3719,Kirana Store,Chennai Central
+2024-09-11,9113,Organic Produce,Bangalore South
+2024-08-29,6530,Street Food,Bangalore South
+2024-04-24,13301,Local Tailoring,Pune Rural
+2024-09-20,1393,Kirana Store,Bangalore South
+2024-07-06,7697,Street Food,Delhi Old City
+2025-06-22,12105,Kirana Store,Chennai Central
+2025-06-07,2193,Handmade Crafts,Pune Rural
+2024-07-15,3058,Handmade Crafts,Pune Rural
+2025-05-03,6701,Kirana Store,Pune Rural
+2024-04-22,8726,Kirana Store,Delhi Old City
+2024-06-14,4685,Handmade Crafts,Bangalore South
+2025-11-10,4742,Street Food,Mumbai Suburban
+2024-06-27,8799,Organic Produce,Mumbai Suburban
+2024-10-23,11777,Organic Produce,Bangalore South
+2025-10-05,10919,Kirana Store,Mumbai Suburban
+2024-10-22,991,Street Food,Delhi Old City
+2024-05-26,7026,Kirana Store,Chennai Central
+2024-08-05,7025,Handmade Crafts,Mumbai Suburban
+2024-04-17,6351,Organic Produce,Mumbai Suburban
+2025-12-05,7602,Organic Produce,Delhi Old City
+2024-03-16,10335,Kirana Store,Chennai Central
+2024-12-10,3010,Street Food,Chennai Central
+2025-03-12,14105,Kirana Store,Delhi Old City
+2024-04-25,14074,Kirana Store,Bangalore South
+2024-03-25,7202,Kirana Store,Mumbai Suburban
+2025-01-26,4854,Street Food,Delhi Old City
+2024-03-19,6245,Handmade Crafts,Delhi Old City
+2025-05-19,7931,Local Tailoring,Bangalore South
+2025-06-25,8537,Kirana Store,Mumbai Suburban
+2025-11-17,10816,Kirana Store,Chennai Central
+2025-02-11,14380,Kirana Store,Mumbai Suburban
+2024-04-10,4287,Local Tailoring,Delhi Old City
+2025-09-03,12937,Kirana Store,Bangalore South
+2024-10-07,14636,Handmade Crafts,Mumbai Suburban
+2024-12-11,9103,Organic Produce,Mumbai Suburban
+2024-09-30,13004,Handmade Crafts,Chennai Central
+2025-04-20,8100,Handmade Crafts,Delhi Old City
+2025-03-04,11582,Street Food,Bangalore South
+2024-04-28,10169,Kirana Store,Pune Rural
+2025-11-13,11864,Kirana Store,Delhi Old City
+2025-06-30,2712,Kirana Store,Pune Rural
+2025-08-19,7241,Local Tailoring,Delhi Old City
+2024-11-26,11794,Street Food,Chennai Central
+2024-08-07,11847,Handmade Crafts,Mumbai Suburban
+2025-07-24,11042,Local Tailoring,Delhi Old City
+2025-03-04,12495,Kirana Store,Pune Rural
+2025-01-19,8568,Organic Produce,Chennai Central
+2024-11-12,11030,Kirana Store,Pune Rural
+2024-10-19,13887,Kirana Store,Delhi Old City
+2025-08-11,1094,Street Food,Pune Rural
+2025-11-17,7675,Kirana Store,Delhi Old City
+2025-07-18,4456,Handmade Crafts,Pune Rural
+2025-02-24,10262,Handmade Crafts,Bangalore South
+2024-12-01,5024,Handmade Crafts,Chennai Central
+2025-09-02,8453,Local Tailoring,Bangalore South
+2025-09-27,6662,Organic Produce,Mumbai Suburban
+2024-07-19,1431,Kirana Store,Chennai Central
+2024-04-21,7887,Organic Produce,Pune Rural
+2024-03-21,2913,Handmade Crafts,Bangalore South
+2025-08-03,10183,Local Tailoring,Mumbai Suburban
+2024-08-08,2677,Kirana Store,Bangalore South
+2024-02-22,3608,Street Food,Chennai Central
+2024-02-12,4905,Organic Produce,Chennai Central
+2024-04-21,14303,Local Tailoring,Mumbai Suburban
+2025-10-11,6593,Handmade Crafts,Delhi Old City
+2024-11-23,1557,Handmade Crafts,Pune Rural
+2024-05-15,12058,Local Tailoring,Bangalore South
+2024-09-16,14620,Local Tailoring,Chennai Central
+2025-09-15,10198,Handmade Crafts,Chennai Central
+2025-12-30,10624,Kirana Store,Delhi Old City
+2025-12-08,2450,Organic Produce,Pune Rural
+2024-02-04,9075,Handmade Crafts,Pune Rural
+2024-04-02,4958,Street Food,Pune Rural
+2025-05-08,8009,Handmade Crafts,Pune Rural
+2025-01-26,10698,Handmade Crafts,Mumbai Suburban
+2025-08-07,13832,Handmade Crafts,Mumbai Suburban
+2024-10-12,13441,Handmade Crafts,Chennai Central
+2024-12-27,12055,Organic Produce,Bangalore South
+2025-02-06,12951,Kirana Store,Bangalore South
+2024-01-30,9652,Local Tailoring,Delhi Old City
+2025-11-10,11421,Kirana Store,Chennai Central
+2025-01-31,12985,Kirana Store,Bangalore South
+2025-03-16,2415,Local Tailoring,Mumbai Suburban
+2024-04-15,12470,Kirana Store,Bangalore South
+2025-04-04,5471,Street Food,Pune Rural
+2024-04-01,6341,Handmade Crafts,Bangalore South
+2024-08-01,6054,Handmade Crafts,Delhi Old City
+2024-06-11,1395,Organic Produce,Pune Rural
+2024-04-12,5493,Handmade Crafts,Delhi Old City
+2024-01-27,4170,Local Tailoring,Pune Rural
+2025-02-01,9124,Handmade Crafts,Pune Rural
+2024-02-09,13992,Kirana Store,Bangalore South
+2024-09-16,8970,Street Food,Chennai Central
+2024-03-04,9728,Street Food,Delhi Old City
+2025-07-02,8463,Organic Produce,Bangalore South
+2024-09-07,6460,Kirana Store,Mumbai Suburban
+2025-12-24,2354,Street Food,Delhi Old City
+2026-01-03,11978,Local Tailoring,Chennai Central
+2025-03-20,1162,Street Food,Mumbai Suburban
+2024-09-07,2075,Handmade Crafts,Mumbai Suburban
+2025-07-29,14277,Street Food,Bangalore South
+2025-03-21,12517,Organic Produce,Pune Rural
+2024-04-17,4335,Street Food,Pune Rural
+2024-10-01,14458,Local Tailoring,Bangalore South
+2024-09-25,13025,Local Tailoring,Bangalore South
+2024-10-15,6808,Organic Produce,Mumbai Suburban
+2025-08-13,9263,Handmade Crafts,Bangalore South
+2025-04-18,6912,Handmade Crafts,Mumbai Suburban
+2024-02-05,1305,Local Tailoring,Bangalore South
+2024-03-05,11204,Local Tailoring,Delhi Old City
+2024-05-31,10384,Street Food,Bangalore South
+2025-11-17,9556,Kirana Store,Mumbai Suburban
+2024-08-03,14482,Organic Produce,Mumbai Suburban
+2025-04-06,944,Local Tailoring,Pune Rural
+2024-03-24,7564,Local Tailoring,Pune Rural
+2025-10-05,2013,Organic Produce,Pune Rural
+2025-05-06,5718,Street Food,Delhi Old City
+2025-05-13,12726,Street Food,Mumbai Suburban
+2024-06-15,6891,Handmade Crafts,Pune Rural
+2024-10-15,8451,Local Tailoring,Pune Rural
+2024-11-13,5050,Kirana Store,Bangalore South
+2024-10-19,10236,Local Tailoring,Bangalore South
+2025-11-07,11518,Organic Produce,Bangalore South
+2025-09-18,5124,Organic Produce,Delhi Old City
+2025-11-24,3958,Local Tailoring,Bangalore South
+2024-02-07,8148,Local Tailoring,Pune Rural
+2024-01-14,4469,Handmade Crafts,Delhi Old City
+2025-11-07,11863,Local Tailoring,Pune Rural
+2025-09-29,10307,Kirana Store,Bangalore South
+2025-11-15,13925,Street Food,Bangalore South
+2025-02-28,11425,Handmade Crafts,Mumbai Suburban
+2025-10-22,12269,Street Food,Chennai Central
+2024-01-24,5220,Kirana Store,Pune Rural
+2024-06-07,9521,Handmade Crafts,Chennai Central
+2025-01-07,4618,Handmade Crafts,Pune Rural
+2025-06-14,4558,Handmade Crafts,Bangalore South
+2025-08-08,2355,Local Tailoring,Pune Rural
+2025-10-08,12260,Local Tailoring,Delhi Old City
+2025-01-31,4936,Street Food,Bangalore South
+2024-12-06,14180,Kirana Store,Bangalore South
+2024-05-07,6983,Kirana Store,Chennai Central
+2024-09-15,4270,Organic Produce,Mumbai Suburban
+2025-12-01,11790,Organic Produce,Delhi Old City
+2024-01-15,10620,Local Tailoring,Pune Rural
+2025-03-04,787,Handmade Crafts,Mumbai Suburban
+2024-07-03,4576,Handmade Crafts,Delhi Old City
+2024-03-24,4120,Local Tailoring,Delhi Old City
+2025-09-10,9228,Kirana Store,Mumbai Suburban
+2024-03-08,5459,Handmade Crafts,Chennai Central
+2025-11-03,4492,Handmade Crafts,Bangalore South
+2025-11-30,5066,Kirana Store,Bangalore South
+2025-07-09,13538,Kirana Store,Bangalore South
+2024-02-27,1934,Handmade Crafts,Bangalore South
+2025-09-06,9549,Kirana Store,Bangalore South
+2024-12-01,3372,Kirana Store,Pune Rural
+2025-07-14,7952,Handmade Crafts,Mumbai Suburban
+2024-09-29,1332,Street Food,Delhi Old City
+2025-10-03,9588,Local Tailoring,Pune Rural
+2024-10-10,6894,Local Tailoring,Pune Rural
+2024-05-08,649,Kirana Store,Mumbai Suburban
+2025-11-03,13321,Local Tailoring,Mumbai Suburban
+2025-06-29,11788,Organic Produce,Bangalore South
+2025-04-22,7999,Kirana Store,Mumbai Suburban
+2024-03-04,6812,Street Food,Bangalore South
+2024-12-18,8655,Handmade Crafts,Pune Rural
+2024-03-18,1139,Handmade Crafts,Mumbai Suburban
+2025-05-22,7883,Street Food,Pune Rural
+2024-05-06,9710,Street Food,Delhi Old City
+2025-10-09,13088,Organic Produce,Pune Rural
+2025-08-19,1876,Kirana Store,Chennai Central
+2025-11-16,10508,Handmade Crafts,Delhi Old City
+2024-11-16,11111,Handmade Crafts,Delhi Old City
+2024-06-27,2670,Kirana Store,Delhi Old City
+2024-09-16,3352,Handmade Crafts,Delhi Old City
+2024-05-06,3074,Kirana Store,Chennai Central
+2025-10-15,9193,Local Tailoring,Bangalore South
+2025-09-12,13344,Street Food,Bangalore South
+2025-04-15,10069,Street Food,Delhi Old City
+2024-10-18,8705,Local Tailoring,Pune Rural
+2025-11-30,2050,Organic Produce,Pune Rural
+2024-05-14,9847,Organic Produce,Bangalore South
+2025-12-22,3824,Organic Produce,Mumbai Suburban
+2025-07-19,9207,Street Food,Bangalore South
+2024-05-01,10574,Organic Produce,Pune Rural
+2025-05-23,3248,Street Food,Mumbai Suburban
+2024-01-12,9288,Handmade Crafts,Bangalore South
+2024-06-02,3527,Handmade Crafts,Pune Rural
+2025-03-26,8525,Kirana Store,Pune Rural
+2025-08-24,14251,Handmade Crafts,Chennai Central
+2025-02-04,9564,Street Food,Chennai Central
+2024-06-26,10139,Organic Produce,Mumbai Suburban
+2024-10-23,1872,Local Tailoring,Pune Rural
+2025-02-23,3190,Handmade Crafts,Pune Rural
+2025-02-21,9254,Handmade Crafts,Bangalore South
+2025-12-20,1715,Organic Produce,Mumbai Suburban
+2025-11-10,7866,Street Food,Pune Rural
+2025-07-04,2226,Local Tailoring,Delhi Old City
+2025-04-19,12021,Street Food,Bangalore South
+2024-05-20,14686,Handmade Crafts,Pune Rural
+2024-12-15,5017,Handmade Crafts,Bangalore South
+2024-12-11,14237,Street Food,Delhi Old City
+2024-10-01,14333,Local Tailoring,Chennai Central
+2024-07-10,13841,Kirana Store,Pune Rural
+2024-02-12,8910,Street Food,Delhi Old City
+2025-04-12,2555,Local Tailoring,Pune Rural
+2024-05-21,1981,Kirana Store,Pune Rural
+2024-09-15,8141,Kirana Store,Chennai Central
+2025-08-23,7046,Handmade Crafts,Bangalore South
+2025-02-23,11366,Local Tailoring,Chennai Central
+2025-04-28,9258,Street Food,Mumbai Suburban
+2025-04-05,7382,Street Food,Bangalore South
+2024-12-01,9804,Local Tailoring,Bangalore South
+2024-06-10,14805,Organic Produce,Chennai Central
+2025-11-17,7602,Handmade Crafts,Pune Rural
+2025-05-27,1990,Local Tailoring,Mumbai Suburban
+2024-11-15,1905,Organic Produce,Delhi Old City
+2024-09-05,9856,Organic Produce,Delhi Old City
+2024-06-09,7016,Handmade Crafts,Bangalore South
+2026-01-04,1925,Handmade Crafts,Delhi Old City
+2024-06-17,4742,Local Tailoring,Pune Rural
+2025-09-12,12304,Organic Produce,Chennai Central
+2024-10-12,3707,Organic Produce,Pune Rural
+2024-06-06,1048,Handmade Crafts,Delhi Old City
+2024-07-14,5858,Local Tailoring,Delhi Old City
+2024-01-17,10789,Organic Produce,Mumbai Suburban
+2025-12-11,10519,Kirana Store,Chennai Central
+2024-12-27,4645,Street Food,Pune Rural
+2024-01-11,13920,Street Food,Pune Rural
+2025-10-15,5959,Local Tailoring,Chennai Central
+2025-06-03,2713,Organic Produce,Delhi Old City
+2024-07-21,12614,Street Food,Chennai Central
+2025-04-19,7637,Handmade Crafts,Pune Rural
+2025-01-07,5014,Organic Produce,Mumbai Suburban
+2025-07-12,5787,Organic Produce,Mumbai Suburban
+2024-09-08,892,Local Tailoring,Chennai Central
+2025-10-04,10062,Local Tailoring,Delhi Old City
+2025-11-21,13901,Handmade Crafts,Chennai Central
+2025-03-29,6994,Organic Produce,Pune Rural
+2024-09-08,6576,Handmade Crafts,Mumbai Suburban
+2025-07-06,6055,Kirana Store,Chennai Central
+2024-04-06,1774,Handmade Crafts,Mumbai Suburban
+2025-11-05,4425,Kirana Store,Pune Rural
+2024-11-27,7409,Kirana Store,Delhi Old City
+2024-08-24,4327,Kirana Store,Mumbai Suburban
+2025-09-02,7934,Kirana Store,Delhi Old City
+2025-09-03,3524,Kirana Store,Bangalore South
+2024-03-31,3864,Local Tailoring,Mumbai Suburban
+2024-03-30,10583,Local Tailoring,Pune Rural
+2025-08-03,2360,Local Tailoring,Delhi Old City
+2025-08-11,2088,Organic Produce,Mumbai Suburban
+2025-03-16,10102,Handmade Crafts,Pune Rural
+2024-06-07,13213,Kirana Store,Pune Rural
+2024-02-26,8348,Kirana Store,Bangalore South
+2024-07-10,9321,Handmade Crafts,Bangalore South
+2024-07-27,7462,Organic Produce,Delhi Old City
+2025-03-29,5626,Handmade Crafts,Mumbai Suburban
+2025-03-20,3401,Street Food,Chennai Central
+2025-01-25,9204,Handmade Crafts,Delhi Old City
+2025-03-12,10190,Kirana Store,Mumbai Suburban
+2024-04-07,11252,Kirana Store,Chennai Central
+2025-01-31,12795,Street Food,Chennai Central
+2025-03-18,9025,Organic Produce,Bangalore South
+2025-01-02,12817,Handmade Crafts,Bangalore South
+2024-01-26,612,Handmade Crafts,Pune Rural
+2025-07-20,11885,Street Food,Mumbai Suburban
+2024-04-28,5667,Local Tailoring,Pune Rural
+2024-09-06,5831,Local Tailoring,Mumbai Suburban
+2024-10-05,8282,Local Tailoring,Pune Rural
+2025-11-07,9225,Kirana Store,Mumbai Suburban
+2025-01-24,4400,Local Tailoring,Mumbai Suburban
+2025-03-28,10254,Handmade Crafts,Chennai Central
+2025-09-04,14857,Local Tailoring,Bangalore South
+2024-04-04,6928,Local Tailoring,Chennai Central
+2024-08-25,10526,Organic Produce,Chennai Central
+2024-01-21,4510,Handmade Crafts,Chennai Central
+2025-09-02,9367,Street Food,Pune Rural
+2025-09-27,11590,Street Food,Chennai Central
+2025-06-02,13272,Local Tailoring,Bangalore South
+2024-07-29,4495,Kirana Store,Pune Rural
+2024-11-12,2513,Organic Produce,Pune Rural
+2025-07-19,9671,Street Food,Chennai Central
+2025-05-02,10882,Handmade Crafts,Delhi Old City
+2024-02-01,14369,Organic Produce,Chennai Central
+2025-04-29,8295,Local Tailoring,Pune Rural
+2025-11-28,8965,Handmade Crafts,Delhi Old City
+2024-05-16,11699,Handmade Crafts,Bangalore South
+2026-01-05,7157,Handmade Crafts,Mumbai Suburban
+2025-12-29,6048,Kirana Store,Chennai Central
+2024-03-13,7956,Handmade Crafts,Pune Rural
+2024-10-16,3946,Organic Produce,Delhi Old City
+2024-10-29,12732,Kirana Store,Chennai Central
+2024-05-28,13342,Handmade Crafts,Delhi Old City
+2024-12-02,7718,Organic Produce,Bangalore South
+2025-02-09,2593,Local Tailoring,Chennai Central
+2024-08-10,12736,Kirana Store,Mumbai Suburban
+2024-12-12,8127,Street Food,Mumbai Suburban
+2024-04-01,4962,Handmade Crafts,Pune Rural
+2024-09-29,2108,Local Tailoring,Mumbai Suburban
+2025-12-02,9359,Street Food,Chennai Central
+2025-01-10,7253,Kirana Store,Mumbai Suburban
+2024-03-16,13524,Handmade Crafts,Chennai Central
+2024-11-06,9056,Street Food,Mumbai Suburban
+2025-10-07,646,Street Food,Chennai Central
+2024-11-10,12791,Kirana Store,Delhi Old City
+2024-01-27,6541,Organic Produce,Bangalore South
+2025-03-21,770,Kirana Store,Pune Rural
+2025-01-17,565,Street Food,Pune Rural
+2025-08-06,6865,Kirana Store,Chennai Central
+2025-07-19,12248,Local Tailoring,Chennai Central
+2025-06-26,1291,Organic Produce,Delhi Old City
+2024-10-20,10929,Organic Produce,Delhi Old City
+2025-01-04,3382,Kirana Store,Pune Rural
+2024-05-17,4118,Local Tailoring,Delhi Old City
+2024-05-23,7189,Handmade Crafts,Delhi Old City
+2025-04-18,4928,Local Tailoring,Pune Rural
+2025-12-07,10835,Kirana Store,Chennai Central
+2024-03-03,13913,Kirana Store,Delhi Old City
+2024-07-21,14819,Local Tailoring,Bangalore South
+2025-09-20,7492,Handmade Crafts,Bangalore South
+2025-04-19,10945,Handmade Crafts,Bangalore South
+2025-05-21,12837,Kirana Store,Mumbai Suburban
+2024-07-19,875,Kirana Store,Chennai Central
+2025-10-19,5043,Local Tailoring,Pune Rural
+2024-09-18,10150,Kirana Store,Chennai Central
+2024-06-14,7184,Organic Produce,Delhi Old City
+2025-11-24,13019,Street Food,Pune Rural
+2026-01-04,12901,Street Food,Bangalore South
+2025-10-23,7773,Local Tailoring,Chennai Central
+2024-09-04,1615,Handmade Crafts,Pune Rural
+2024-06-20,9490,Kirana Store,Pune Rural
+2024-06-28,5176,Local Tailoring,Delhi Old City
+2025-10-13,3257,Organic Produce,Pune Rural
+2025-12-08,4997,Handmade Crafts,Chennai Central
+2024-09-14,10491,Street Food,Chennai Central
+2025-11-07,13594,Local Tailoring,Mumbai Suburban
+2025-06-06,12105,Street Food,Bangalore South
+2024-02-17,5531,Kirana Store,Bangalore South
+2024-05-18,4761,Handmade Crafts,Mumbai Suburban
+2025-07-12,2821,Local Tailoring,Mumbai Suburban
+2025-04-16,9507,Handmade Crafts,Bangalore South
+2025-10-24,14224,Organic Produce,Bangalore South
+2024-09-20,3115,Local Tailoring,Bangalore South
+2026-01-07,8863,Kirana Store,Delhi Old City
+2024-03-12,10019,Kirana Store,Chennai Central
+2024-05-04,7201,Street Food,Mumbai Suburban
+2024-10-17,12110,Local Tailoring,Pune Rural
+2024-03-18,14841,Organic Produce,Bangalore South
+2024-10-13,10812,Handmade Crafts,Delhi Old City
+2024-11-05,3684,Kirana Store,Mumbai Suburban
+2024-03-02,5042,Local Tailoring,Mumbai Suburban
+2024-02-18,11344,Kirana Store,Pune Rural
+2025-01-12,5475,Handmade Crafts,Delhi Old City
+2024-11-19,6261,Organic Produce,Bangalore South
+2024-09-11,7939,Kirana Store,Delhi Old City
+2024-06-09,5781,Local Tailoring,Mumbai Suburban
+2025-08-26,699,Street Food,Bangalore South
+2024-04-02,12244,Organic Produce,Chennai Central
+2024-09-01,7859,Organic Produce,Mumbai Suburban
+2025-08-23,7280,Street Food,Bangalore South
+2025-02-08,4200,Handmade Crafts,Mumbai Suburban
+2024-07-22,4472,Street Food,Chennai Central
+2025-03-07,11503,Kirana Store,Mumbai Suburban
+2024-02-16,14730,Kirana Store,Delhi Old City
+2025-03-20,12080,Organic Produce,Delhi Old City
+2024-01-25,8612,Handmade Crafts,Pune Rural
+2025-07-07,9965,Street Food,Mumbai Suburban
+2024-06-02,9379,Kirana Store,Chennai Central
+2024-01-26,12238,Organic Produce,Delhi Old City
+2024-03-24,10706,Organic Produce,Pune Rural
+2025-02-12,10099,Organic Produce,Mumbai Suburban
+2025-08-28,6649,Handmade Crafts,Chennai Central
+2025-10-30,4496,Kirana Store,Pune Rural
+2025-05-31,13095,Organic Produce,Bangalore South
+2025-05-06,4647,Organic Produce,Mumbai Suburban
+2025-02-19,10980,Kirana Store,Pune Rural
+2025-07-25,4879,Local Tailoring,Bangalore South
+2024-02-17,8771,Street Food,Delhi Old City
+2025-04-06,7075,Local Tailoring,Chennai Central
+2025-12-29,6743,Organic Produce,Pune Rural
+2025-10-24,6745,Organic Produce,Mumbai Suburban
+2025-08-21,14180,Street Food,Chennai Central
+2024-05-08,13769,Kirana Store,Delhi Old City
+2024-10-16,8342,Street Food,Mumbai Suburban
+2025-07-31,9257,Kirana Store,Mumbai Suburban
+2025-05-06,6574,Kirana Store,Pune Rural
+2024-06-30,3750,Street Food,Bangalore South
+2024-02-25,2503,Local Tailoring,Pune Rural
+2025-11-25,5593,Kirana Store,Chennai Central
+2025-02-14,9884,Local Tailoring,Pune Rural
+2025-10-30,14564,Local Tailoring,Bangalore South
+2024-05-06,4079,Kirana Store,Delhi Old City
+2024-06-01,6219,Street Food,Mumbai Suburban
+2024-10-04,4680,Kirana Store,Mumbai Suburban
+2025-07-13,9266,Organic Produce,Pune Rural
+2025-08-30,5909,Street Food,Chennai Central
+2024-09-05,5757,Handmade Crafts,Pune Rural
+2024-11-29,8095,Organic Produce,Mumbai Suburban
+2024-06-07,6784,Organic Produce,Bangalore South
+2024-02-04,815,Street Food,Pune Rural
+2024-04-11,9807,Kirana Store,Chennai Central
+2024-10-11,10673,Street Food,Pune Rural
+2024-11-05,3309,Organic Produce,Mumbai Suburban
+2025-07-24,2728,Organic Produce,Mumbai Suburban
+2024-03-26,2768,Street Food,Chennai Central
+2025-03-29,1506,Handmade Crafts,Chennai Central
+2024-12-11,11709,Kirana Store,Pune Rural
+2024-12-07,3992,Street Food,Delhi Old City
+2024-08-28,5541,Street Food,Mumbai Suburban
+2024-09-05,898,Local Tailoring,Bangalore South
+2025-03-27,2047,Kirana Store,Bangalore South
+2025-04-14,8144,Kirana Store,Pune Rural
+2025-10-19,14062,Organic Produce,Pune Rural
+2025-12-26,6610,Street Food,Pune Rural
+2025-11-28,11801,Handmade Crafts,Mumbai Suburban
+2024-08-27,10140,Organic Produce,Delhi Old City
+2025-05-31,4705,Handmade Crafts,Delhi Old City
+2024-10-05,12966,Kirana Store,Bangalore South
+2024-09-24,13521,Kirana Store,Delhi Old City
+2025-12-26,9530,Street Food,Pune Rural
+2024-10-30,2801,Street Food,Pune Rural
+2024-08-30,13787,Street Food,Chennai Central
+2024-05-28,8616,Handmade Crafts,Pune Rural
+2024-06-16,10403,Handmade Crafts,Pune Rural
+2025-06-17,14674,Handmade Crafts,Bangalore South
+2025-04-14,5854,Local Tailoring,Delhi Old City
+2024-05-11,2140,Kirana Store,Bangalore South
+2024-10-14,10797,Handmade Crafts,Delhi Old City
+2024-02-06,10948,Organic Produce,Chennai Central
+2024-12-26,10402,Handmade Crafts,Delhi Old City
+2025-08-28,12777,Organic Produce,Bangalore South
+2025-09-13,2417,Kirana Store,Delhi Old City
+2024-12-04,11130,Street Food,Chennai Central
+2025-10-01,1988,Kirana Store,Mumbai Suburban
+2025-03-06,10867,Handmade Crafts,Chennai Central
+2025-11-24,11610,Kirana Store,Bangalore South
+2024-11-07,6975,Kirana Store,Bangalore South
+2024-05-22,4697,Kirana Store,Chennai Central
+2025-02-02,572,Handmade Crafts,Bangalore South
+2024-12-25,4594,Local Tailoring,Delhi Old City
+2024-12-03,4387,Organic Produce,Pune Rural
+2025-09-02,14571,Handmade Crafts,Delhi Old City
+2025-08-30,1717,Organic Produce,Bangalore South
+2025-09-24,5986,Local Tailoring,Bangalore South
+2025-11-25,4869,Local Tailoring,Mumbai Suburban
+2025-01-02,5945,Kirana Store,Chennai Central
+2025-01-21,14134,Organic Produce,Pune Rural
+2025-04-01,3944,Organic Produce,Bangalore South
+2024-05-13,578,Organic Produce,Mumbai Suburban
+2025-05-04,3949,Street Food,Mumbai Suburban
+2025-11-07,5876,Street Food,Chennai Central
+2025-12-24,3733,Street Food,Mumbai Suburban
+2024-10-14,14215,Local Tailoring,Bangalore South
+2025-04-09,4792,Handmade Crafts,Bangalore South
+2025-08-25,1495,Local Tailoring,Pune Rural
+2024-08-15,6929,Handmade Crafts,Delhi Old City
+2025-06-15,5897,Street Food,Delhi Old City
+2025-03-24,10465,Handmade Crafts,Pune Rural
+2026-01-02,10803,Street Food,Mumbai Suburban
+2024-07-09,2101,Street Food,Mumbai Suburban
+2025-11-24,6496,Organic Produce,Pune Rural
+2024-12-17,7207,Handmade Crafts,Delhi Old City
+2024-03-13,5600,Kirana Store,Delhi Old City
+2025-07-05,6718,Handmade Crafts,Delhi Old City
+2025-03-24,14347,Street Food,Delhi Old City
+2024-09-14,5893,Street Food,Delhi Old City
+2024-02-23,6171,Street Food,Bangalore South
+2025-02-20,4524,Kirana Store,Chennai Central
+2025-03-08,12058,Handmade Crafts,Mumbai Suburban
+2025-12-15,5837,Kirana Store,Bangalore South
+2024-03-20,3034,Local Tailoring,Delhi Old City
+2025-09-18,1127,Kirana Store,Chennai Central
+2024-12-23,14195,Local Tailoring,Pune Rural
+2024-02-22,12481,Handmade Crafts,Chennai Central
+2024-09-17,9638,Organic Produce,Pune Rural
+2025-08-24,13274,Street Food,Bangalore South
+2025-03-28,6915,Street Food,Bangalore South
+2025-06-17,770,Organic Produce,Pune Rural
+2025-04-03,14432,Kirana Store,Chennai Central
+2024-05-07,9444,Kirana Store,Pune Rural
+2025-11-08,6000,Local Tailoring,Bangalore South
+2024-11-14,14158,Local Tailoring,Chennai Central
+2025-01-19,9743,Kirana Store,Chennai Central
+2025-01-23,6352,Organic Produce,Chennai Central
+2025-12-16,14848,Local Tailoring,Bangalore South
+2024-12-26,9481,Local Tailoring,Pune Rural
+2025-04-06,6859,Local Tailoring,Chennai Central
+2024-12-30,4739,Local Tailoring,Bangalore South
+2024-02-03,12636,Organic Produce,Pune Rural
+2024-03-08,5762,Local Tailoring,Bangalore South
+2024-12-22,4152,Kirana Store,Mumbai Suburban
+2025-01-22,1082,Handmade Crafts,Pune Rural
+2024-07-21,1270,Street Food,Delhi Old City
+2024-12-11,8630,Kirana Store,Delhi Old City
+2025-11-03,11015,Street Food,Chennai Central
+2024-08-01,6863,Street Food,Delhi Old City
+2025-07-03,10929,Local Tailoring,Mumbai Suburban
+2024-07-07,10781,Local Tailoring,Pune Rural
+2025-10-03,2289,Street Food,Mumbai Suburban
+2024-10-07,10055,Handmade Crafts,Bangalore South
+2024-12-13,11783,Kirana Store,Chennai Central
+2025-08-10,7202,Street Food,Pune Rural
+2024-03-21,2232,Street Food,Mumbai Suburban
+2025-12-10,10676,Kirana Store,Chennai Central
+2024-05-31,5296,Kirana Store,Delhi Old City
+2024-02-23,1930,Local Tailoring,Delhi Old City
+2025-09-30,4055,Local Tailoring,Bangalore South
+2025-11-14,10433,Street Food,Mumbai Suburban
+2025-11-26,4223,Local Tailoring,Pune Rural
+2024-11-17,4553,Street Food,Bangalore South
+2024-01-27,6124,Kirana Store,Mumbai Suburban
+2024-08-03,9708,Local Tailoring,Pune Rural
+2024-01-12,3662,Street Food,Bangalore South
+2024-07-14,10217,Handmade Crafts,Mumbai Suburban
+2025-01-07,11444,Organic Produce,Delhi Old City
+2025-09-24,1723,Kirana Store,Mumbai Suburban
+2024-03-24,5595,Organic Produce,Chennai Central
+2024-05-03,9619,Street Food,Bangalore South
+2025-05-18,14480,Handmade Crafts,Mumbai Suburban
+2025-01-22,13713,Street Food,Chennai Central
+2025-02-28,3949,Local Tailoring,Bangalore South
+2025-08-19,10650,Handmade Crafts,Chennai Central
+2024-09-28,3293,Street Food,Bangalore South
+2024-06-21,1679,Organic Produce,Pune Rural
+2025-01-05,14031,Handmade Crafts,Bangalore South
+2024-03-09,12695,Kirana Store,Chennai Central
+2024-01-22,4907,Local Tailoring,Delhi Old City
+2024-02-23,3623,Handmade Crafts,Mumbai Suburban
+2024-12-05,10637,Local Tailoring,Pune Rural
+2026-01-04,4183,Street Food,Pune Rural
+2024-01-10,14697,Kirana Store,Chennai Central
+2024-06-12,3302,Street Food,Bangalore South
+2024-01-22,7831,Organic Produce,Delhi Old City
+2024-04-19,2935,Handmade Crafts,Pune Rural
+2025-01-22,3103,Street Food,Mumbai Suburban
+2024-03-10,13183,Kirana Store,Bangalore South
+2025-12-14,9369,Local Tailoring,Mumbai Suburban
+2024-11-07,2897,Handmade Crafts,Mumbai Suburban
+2024-07-14,13600,Street Food,Delhi Old City
+2025-08-23,9299,Street Food,Chennai Central
+2025-09-11,6170,Kirana Store,Bangalore South
+2024-10-24,4240,Handmade Crafts,Delhi Old City
+2025-01-27,13167,Organic Produce,Mumbai Suburban
+2025-12-03,2312,Street Food,Delhi Old City
+2025-05-24,6780,Street Food,Delhi Old City
+2024-08-04,1389,Street Food,Delhi Old City
+2024-12-16,9550,Organic Produce,Chennai Central
+2024-08-24,4019,Kirana Store,Delhi Old City
+2025-11-19,1474,Kirana Store,Bangalore South
+2025-03-25,2862,Organic Produce,Pune Rural
+2025-07-24,5963,Local Tailoring,Bangalore South
+2024-11-23,3723,Kirana Store,Bangalore South
+2025-05-05,12495,Local Tailoring,Pune Rural
+2025-06-29,2190,Handmade Crafts,Bangalore South
+2025-06-17,9785,Street Food,Pune Rural
+2025-06-12,8379,Local Tailoring,Delhi Old City
+2025-03-26,12175,Organic Produce,Mumbai Suburban
+2024-07-31,3940,Organic Produce,Pune Rural
+2024-01-29,14666,Organic Produce,Delhi Old City
+2025-03-09,6707,Kirana Store,Pune Rural
+2025-10-28,11337,Kirana Store,Chennai Central
+2025-07-05,4220,Handmade Crafts,Bangalore South
+2025-05-09,7208,Kirana Store,Chennai Central
+2025-12-16,6534,Handmade Crafts,Mumbai Suburban
+2024-12-30,12947,Kirana Store,Chennai Central
+2024-01-22,5487,Organic Produce,Mumbai Suburban
+2024-12-20,1471,Kirana Store,Bangalore South
+2024-02-03,5605,Organic Produce,Delhi Old City
+2024-06-24,2997,Local Tailoring,Mumbai Suburban
+2025-04-18,14037,Kirana Store,Chennai Central
+2024-06-21,763,Handmade Crafts,Bangalore South
+2025-12-09,4741,Handmade Crafts,Delhi Old City
+2024-11-06,755,Kirana Store,Pune Rural
+2025-07-29,14697,Street Food,Bangalore South
+2024-11-14,13442,Organic Produce,Pune Rural
+2024-10-09,7752,Local Tailoring,Pune Rural
+2025-06-28,7514,Organic Produce,Pune Rural
+2024-05-23,1817,Organic Produce,Bangalore South
+2025-10-23,6800,Organic Produce,Mumbai Suburban
+2025-10-14,2288,Organic Produce,Mumbai Suburban
+2025-03-28,3855,Kirana Store,Mumbai Suburban
+2024-09-05,8305,Kirana Store,Chennai Central
+2025-01-23,7969,Organic Produce,Mumbai Suburban
+2025-11-16,1001,Kirana Store,Chennai Central
+2025-02-04,4589,Local Tailoring,Bangalore South
+2024-10-30,2370,Organic Produce,Delhi Old City
+2025-10-27,9623,Handmade Crafts,Delhi Old City
+2025-03-24,1839,Street Food,Chennai Central
+2024-04-16,652,Handmade Crafts,Delhi Old City
+2024-08-03,14590,Kirana Store,Delhi Old City
+2024-03-20,6609,Organic Produce,Chennai Central
+2025-07-10,13782,Local Tailoring,Pune Rural
+2025-10-18,6641,Street Food,Delhi Old City
+2024-06-23,5169,Local Tailoring,Mumbai Suburban
+2024-07-07,10208,Street Food,Mumbai Suburban
+2024-11-07,9524,Organic Produce,Mumbai Suburban
+2025-06-14,675,Kirana Store,Pune Rural
+2024-03-09,2789,Local Tailoring,Delhi Old City
+2024-10-24,4063,Street Food,Chennai Central
+2025-05-15,8912,Local Tailoring,Delhi Old City
+2025-05-26,878,Organic Produce,Mumbai Suburban
+2025-06-15,9489,Handmade Crafts,Delhi Old City
+2025-05-27,12575,Street Food,Chennai Central
+2025-09-03,6092,Organic Produce,Delhi Old City
+2025-02-18,12138,Handmade Crafts,Delhi Old City
+2024-02-18,9137,Handmade Crafts,Chennai Central
+2025-08-12,1813,Organic Produce,Chennai Central
+2025-09-15,6736,Street Food,Mumbai Suburban
+2024-09-26,2801,Kirana Store,Delhi Old City
+2024-06-14,14402,Handmade Crafts,Chennai Central
+2025-06-22,6807,Handmade Crafts,Chennai Central
+2025-04-08,5557,Local Tailoring,Bangalore South
+2025-09-09,14146,Street Food,Delhi Old City
+2025-01-26,10768,Kirana Store,Pune Rural
+2024-05-09,7005,Handmade Crafts,Chennai Central
+2024-05-16,4038,Local Tailoring,Pune Rural
+2024-07-31,12106,Kirana Store,Bangalore South
+2025-09-17,2182,Kirana Store,Delhi Old City
+2024-09-13,5940,Handmade Crafts,Bangalore South
+2025-12-17,2748,Kirana Store,Chennai Central
+2024-03-13,5434,Kirana Store,Mumbai Suburban
+2025-09-01,14622,Organic Produce,Chennai Central
+2024-07-14,14368,Handmade Crafts,Delhi Old City
+2025-10-27,4261,Kirana Store,Chennai Central
+2024-09-11,3654,Handmade Crafts,Bangalore South
+2024-02-16,6678,Street Food,Chennai Central
+2024-03-14,8817,Street Food,Chennai Central
+2025-07-03,9370,Street Food,Delhi Old City
+2024-02-22,1608,Street Food,Pune Rural
+2025-11-29,5512,Kirana Store,Pune Rural
+2025-04-11,4490,Street Food,Bangalore South
+2025-12-21,5926,Local Tailoring,Bangalore South
+2024-04-20,11901,Kirana Store,Mumbai Suburban
+2025-08-11,14916,Street Food,Chennai Central
+2025-03-31,6782,Local Tailoring,Mumbai Suburban
+2024-10-06,1482,Kirana Store,Bangalore South
+2025-02-20,10306,Kirana Store,Bangalore South
+2025-01-23,9701,Street Food,Bangalore South
+2025-06-22,4395,Organic Produce,Delhi Old City
+2024-07-29,4756,Local Tailoring,Mumbai Suburban
+2024-02-27,13237,Street Food,Delhi Old City
+2024-02-04,11311,Handmade Crafts,Pune Rural
+2024-07-08,11792,Organic Produce,Delhi Old City
+2024-12-21,6798,Street Food,Chennai Central
+2025-11-04,14535,Organic Produce,Delhi Old City
+2025-07-01,9257,Local Tailoring,Delhi Old City
+2025-11-17,1393,Handmade Crafts,Delhi Old City
+2025-11-17,12750,Handmade Crafts,Bangalore South
+2024-03-02,14351,Organic Produce,Mumbai Suburban
+2025-08-28,5246,Handmade Crafts,Pune Rural
+2024-06-11,12616,Organic Produce,Pune Rural
+2024-05-14,7560,Handmade Crafts,Mumbai Suburban
+2025-01-15,14090,Kirana Store,Bangalore South
+2024-02-12,5749,Kirana Store,Delhi Old City
+2024-06-25,9422,Kirana Store,Mumbai Suburban
+2025-12-27,2147,Local Tailoring,Bangalore South
+2025-03-21,5003,Handmade Crafts,Delhi Old City
+2024-03-11,12943,Handmade Crafts,Bangalore South
+2025-03-14,13840,Street Food,Delhi Old City
+2024-08-09,13284,Organic Produce,Bangalore South
+2025-12-25,2486,Street Food,Pune Rural
+2024-05-16,2655,Handmade Crafts,Chennai Central
+2025-03-13,4059,Street Food,Delhi Old City
+2024-05-16,14640,Organic Produce,Delhi Old City
+2024-10-04,13155,Kirana Store,Chennai Central
+2025-06-14,10513,Local Tailoring,Delhi Old City
+2024-07-27,12937,Handmade Crafts,Pune Rural
+2025-03-12,7425,Street Food,Mumbai Suburban
+2025-05-29,11589,Organic Produce,Chennai Central
+2024-03-22,5529,Street Food,Pune Rural
+2025-01-17,6183,Handmade Crafts,Chennai Central
+2025-03-06,2379,Street Food,Mumbai Suburban
+2024-05-21,8665,Local Tailoring,Mumbai Suburban
+2024-12-14,2204,Kirana Store,Chennai Central
+2025-10-27,1601,Kirana Store,Delhi Old City
+2024-03-02,11095,Kirana Store,Delhi Old City
+2025-01-25,10153,Kirana Store,Chennai Central
+2025-03-13,10427,Local Tailoring,Chennai Central
+2024-09-28,10091,Handmade Crafts,Delhi Old City
+2025-05-06,14969,Kirana Store,Mumbai Suburban
+2026-01-05,14268,Street Food,Bangalore South
+2025-12-15,3024,Organic Produce,Delhi Old City
+2025-08-16,12252,Local Tailoring,Bangalore South
+2025-11-24,5789,Handmade Crafts,Pune Rural
+2025-08-02,5391,Handmade Crafts,Chennai Central
+2024-03-13,13542,Street Food,Mumbai Suburban
+2025-01-13,7497,Handmade Crafts,Bangalore South
+2024-11-07,9974,Organic Produce,Delhi Old City
+2025-02-01,3180,Organic Produce,Chennai Central
+2026-01-03,2733,Street Food,Mumbai Suburban
+2024-03-18,3371,Organic Produce,Mumbai Suburban
+2026-01-07,9500,Street Food,Pune Rural
+2025-01-12,7502,Local Tailoring,Pune Rural
+2025-04-03,12395,Organic Produce,Chennai Central
+2025-02-23,11319,Local Tailoring,Mumbai Suburban
+2025-06-30,9405,Kirana Store,Chennai Central
+2024-09-15,8211,Street Food,Pune Rural
+2026-01-06,9847,Organic Produce,Delhi Old City
+2025-11-09,11686,Handmade Crafts,Chennai Central
+2024-08-16,2027,Handmade Crafts,Mumbai Suburban
+2024-08-22,4702,Organic Produce,Chennai Central
+2024-09-09,3348,Local Tailoring,Mumbai Suburban
+2024-03-19,9986,Street Food,Bangalore South
+2025-08-25,14153,Local Tailoring,Bangalore South
+2025-01-15,11271,Handmade Crafts,Chennai Central
+2025-05-07,2963,Handmade Crafts,Pune Rural
+2024-09-27,9463,Kirana Store,Pune Rural
+2025-06-10,8992,Handmade Crafts,Pune Rural
+2025-11-24,12487,Organic Produce,Delhi Old City
+2024-10-11,2150,Organic Produce,Delhi Old City
+2025-02-27,1485,Street Food,Chennai Central
+2024-12-09,7999,Local Tailoring,Delhi Old City
+2025-02-21,7087,Local Tailoring,Pune Rural
+2025-10-07,6808,Organic Produce,Delhi Old City
+2024-11-09,14863,Street Food,Pune Rural
+2025-06-04,6961,Handmade Crafts,Mumbai Suburban
+2025-09-04,948,Kirana Store,Mumbai Suburban
+2025-02-14,6300,Handmade Crafts,Pune Rural
+2024-07-13,7737,Handmade Crafts,Mumbai Suburban
+2024-06-30,14136,Local Tailoring,Chennai Central
+2025-05-16,9097,Organic Produce,Delhi Old City
+2024-06-28,3310,Organic Produce,Delhi Old City
+2024-05-27,3483,Organic Produce,Pune Rural
+2024-06-27,8869,Kirana Store,Mumbai Suburban
+2024-07-27,10147,Local Tailoring,Mumbai Suburban
+2024-10-31,9096,Handmade Crafts,Pune Rural
+2025-06-26,9251,Street Food,Delhi Old City
+2024-10-28,3520,Organic Produce,Delhi Old City
+2024-06-17,13674,Handmade Crafts,Delhi Old City
+2024-12-31,6315,Street Food,Chennai Central
+2024-09-01,3695,Organic Produce,Bangalore South
+2024-06-20,11912,Local Tailoring,Bangalore South
+2025-06-02,12022,Handmade Crafts,Pune Rural
+2025-05-07,1955,Kirana Store,Bangalore South
+2024-03-01,6178,Organic Produce,Mumbai Suburban
+2025-05-23,14421,Organic Produce,Mumbai Suburban
+2025-05-20,11123,Local Tailoring,Bangalore South
+2024-01-22,9998,Street Food,Chennai Central
+2025-04-04,12766,Local Tailoring,Chennai Central
+2024-02-14,11330,Handmade Crafts,Pune Rural
+2025-01-15,13023,Street Food,Delhi Old City
+2024-08-08,10063,Handmade Crafts,Mumbai Suburban
+2025-07-15,14697,Organic Produce,Pune Rural
+2025-03-26,11075,Handmade Crafts,Pune Rural
+2025-09-27,9884,Local Tailoring,Delhi Old City
+2024-12-01,838,Handmade Crafts,Pune Rural
+2024-09-02,7599,Kirana Store,Pune Rural
+2024-12-15,2141,Handmade Crafts,Bangalore South
+2024-04-21,10363,Local Tailoring,Chennai Central
+2024-10-25,4879,Street Food,Pune Rural
+2024-05-07,5212,Kirana Store,Mumbai Suburban
+2025-12-05,2253,Street Food,Bangalore South
+2024-04-02,969,Kirana Store,Delhi Old City
+2024-06-14,2727,Kirana Store,Delhi Old City
+2025-10-30,8175,Local Tailoring,Delhi Old City
+2025-10-28,14089,Street Food,Pune Rural
+2025-11-04,12491,Local Tailoring,Bangalore South
+2025-06-24,510,Handmade Crafts,Pune Rural
+2025-05-10,8251,Street Food,Pune Rural
+2025-05-02,13227,Handmade Crafts,Mumbai Suburban
+2025-12-21,14604,Street Food,Chennai Central
+2024-07-30,9107,Kirana Store,Pune Rural
+2024-09-09,12545,Street Food,Chennai Central
+2025-09-17,10619,Organic Produce,Chennai Central
+2024-12-12,9513,Handmade Crafts,Delhi Old City
+2024-10-06,3429,Handmade Crafts,Delhi Old City
+2025-04-20,2948,Handmade Crafts,Bangalore South
+2024-07-21,4919,Street Food,Delhi Old City
+2025-09-14,12753,Kirana Store,Pune Rural
+2024-06-13,6754,Organic Produce,Mumbai Suburban
+2024-03-05,12083,Street Food,Chennai Central
+2024-02-26,3861,Kirana Store,Mumbai Suburban
+2024-06-13,12876,Organic Produce,Mumbai Suburban
+2025-09-11,6319,Handmade Crafts,Pune Rural
+2024-05-08,10545,Organic Produce,Delhi Old City
+2024-07-02,1693,Local Tailoring,Bangalore South
+2024-07-03,13940,Organic Produce,Bangalore South
+2025-09-13,14577,Organic Produce,Delhi Old City
+2025-05-15,10514,Handmade Crafts,Bangalore South
+2025-03-04,11648,Handmade Crafts,Chennai Central
+2025-01-03,8241,Organic Produce,Chennai Central
+2025-12-07,13417,Local Tailoring,Chennai Central
+2024-10-10,14866,Handmade Crafts,Mumbai Suburban
+2024-01-27,10257,Organic Produce,Chennai Central
+2025-03-23,11156,Street Food,Pune Rural
+2025-04-12,12394,Street Food,Bangalore South
+2024-11-26,6158,Kirana Store,Delhi Old City
+2025-11-17,1908,Organic Produce,Chennai Central
+2025-07-07,8347,Organic Produce,Chennai Central
+2024-10-08,9553,Kirana Store,Chennai Central
+2025-04-30,8309,Organic Produce,Chennai Central
+2025-10-01,13943,Local Tailoring,Delhi Old City
+2024-05-26,12148,Organic Produce,Mumbai Suburban
+2025-01-09,12224,Street Food,Delhi Old City
+2025-04-11,11201,Street Food,Bangalore South
+2025-08-12,6155,Organic Produce,Chennai Central
+2025-06-04,6183,Local Tailoring,Pune Rural
+2024-02-05,4815,Handmade Crafts,Chennai Central
+2024-04-10,5343,Handmade Crafts,Delhi Old City
+2024-02-13,2317,Organic Produce,Delhi Old City
+2025-06-07,11675,Organic Produce,Chennai Central
+2025-09-13,6272,Street Food,Mumbai Suburban
+2024-09-13,10319,Local Tailoring,Pune Rural
+2024-11-13,14222,Organic Produce,Pune Rural
+2024-11-20,11161,Local Tailoring,Delhi Old City
+2024-11-13,11448,Local Tailoring,Delhi Old City
+2024-03-01,14704,Kirana Store,Pune Rural
+2024-04-11,5074,Organic Produce,Pune Rural
+2025-02-06,5740,Handmade Crafts,Pune Rural
+2024-05-20,3309,Kirana Store,Delhi Old City
+2025-07-14,10887,Kirana Store,Chennai Central
+2024-09-27,5477,Local Tailoring,Chennai Central
+2025-05-01,10859,Local Tailoring,Mumbai Suburban
+2024-10-04,3994,Organic Produce,Pune Rural
+2025-04-12,12692,Handmade Crafts,Pune Rural
+2025-01-17,5471,Handmade Crafts,Mumbai Suburban
+2024-10-02,9728,Kirana Store,Chennai Central
+2024-07-09,2399,Local Tailoring,Pune Rural
+2024-07-23,4841,Local Tailoring,Delhi Old City
+2024-06-06,10142,Handmade Crafts,Chennai Central
+2024-02-11,5289,Kirana Store,Chennai Central
+2024-08-24,4432,Local Tailoring,Chennai Central
+2024-07-13,1189,Handmade Crafts,Delhi Old City
+2025-11-22,1748,Kirana Store,Pune Rural
+2024-04-11,10298,Handmade Crafts,Delhi Old City
+2025-07-23,10435,Street Food,Mumbai Suburban
+2025-12-29,12392,Street Food,Delhi Old City
+2024-05-30,7576,Handmade Crafts,Pune Rural
+2025-07-11,2967,Street Food,Delhi Old City
+2025-03-24,4902,Kirana Store,Delhi Old City
+2025-09-12,1212,Street Food,Chennai Central
+2024-08-04,919,Organic Produce,Delhi Old City
+2024-02-04,1557,Street Food,Mumbai Suburban
+2025-03-19,7510,Handmade Crafts,Bangalore South
+2025-08-07,12508,Kirana Store,Chennai Central
+2025-12-01,10465,Kirana Store,Mumbai Suburban
+2024-12-07,11463,Handmade Crafts,Delhi Old City
+2024-07-13,14892,Handmade Crafts,Delhi Old City
+2025-09-23,4608,Handmade Crafts,Mumbai Suburban
+2024-12-30,4140,Street Food,Mumbai Suburban
+2025-05-30,933,Kirana Store,Delhi Old City
+2024-01-19,10996,Handmade Crafts,Pune Rural
+2025-05-29,10939,Kirana Store,Delhi Old City
+2024-02-25,1297,Local Tailoring,Mumbai Suburban
+2024-07-04,13404,Organic Produce,Chennai Central
+2024-11-23,7240,Handmade Crafts,Pune Rural
+2024-07-01,7055,Local Tailoring,Delhi Old City
+2024-01-30,3487,Organic Produce,Pune Rural
+2025-09-06,4440,Handmade Crafts,Mumbai Suburban
+2025-05-29,6102,Street Food,Chennai Central
+2025-02-17,7702,Organic Produce,Bangalore South
+2024-02-03,561,Handmade Crafts,Mumbai Suburban
+2024-05-02,14742,Street Food,Delhi Old City
+2024-12-20,12900,Organic Produce,Mumbai Suburban
+2025-03-07,6055,Local Tailoring,Pune Rural
+2025-11-20,6163,Kirana Store,Pune Rural
+2025-04-23,7875,Organic Produce,Chennai Central
+2025-08-25,6183,Local Tailoring,Pune Rural
+2025-04-24,6923,Street Food,Mumbai Suburban
+2024-03-03,11220,Street Food,Chennai Central
+2024-05-12,12301,Local Tailoring,Pune Rural
+2024-03-26,3270,Street Food,Delhi Old City
+2025-11-24,9624,Local Tailoring,Bangalore South
+2024-12-12,2963,Kirana Store,Mumbai Suburban
+2025-07-09,2867,Local Tailoring,Chennai Central
+2026-01-05,4301,Organic Produce,Bangalore South
+2024-10-05,12032,Kirana Store,Mumbai Suburban
+2024-12-13,10984,Kirana Store,Bangalore South
+2024-10-31,11747,Handmade Crafts,Bangalore South
+2025-04-15,2568,Local Tailoring,Mumbai Suburban
+2024-10-15,6880,Street Food,Mumbai Suburban
+2024-04-11,14903,Organic Produce,Delhi Old City
+2024-05-02,2601,Kirana Store,Bangalore South
+2024-04-25,7717,Kirana Store,Chennai Central
+2025-11-09,13578,Street Food,Pune Rural
+2024-12-31,13562,Local Tailoring,Mumbai Suburban
+2025-12-19,11864,Local Tailoring,Chennai Central
+2024-02-25,2782,Local Tailoring,Chennai Central
+2025-04-25,9730,Local Tailoring,Mumbai Suburban
+2025-05-15,2021,Handmade Crafts,Pune Rural
+2025-10-26,12769,Street Food,Bangalore South
+2025-01-06,6112,Local Tailoring,Mumbai Suburban
+2024-12-26,11193,Local Tailoring,Chennai Central
+2024-03-31,8700,Handmade Crafts,Chennai Central
+2025-03-30,9599,Street Food,Bangalore South
+2025-01-01,2608,Handmade Crafts,Bangalore South
+2024-01-26,3157,Street Food,Bangalore South
+2025-04-04,2636,Local Tailoring,Pune Rural
+2024-08-08,8657,Kirana Store,Pune Rural
+2025-01-02,9847,Handmade Crafts,Pune Rural
+2025-10-17,8729,Organic Produce,Bangalore South
+2025-06-15,8100,Kirana Store,Chennai Central
+2024-07-06,3641,Kirana Store,Pune Rural
+2025-06-14,3388,Kirana Store,Mumbai Suburban
+2025-01-30,3000,Handmade Crafts,Chennai Central
+2024-05-11,9039,Kirana Store,Mumbai Suburban
+2025-05-28,3278,Street Food,Mumbai Suburban
+2024-05-26,2523,Handmade Crafts,Delhi Old City
+2024-06-20,8321,Street Food,Pune Rural
+2025-09-10,995,Street Food,Mumbai Suburban
+2025-03-05,14894,Local Tailoring,Bangalore South
+2025-08-21,4161,Street Food,Mumbai Suburban
+2024-10-18,9281,Local Tailoring,Bangalore South
+2024-05-17,4123,Local Tailoring,Chennai Central
+2025-04-16,10297,Organic Produce,Pune Rural
+2025-04-13,11199,Organic Produce,Bangalore South
+2025-08-25,5018,Organic Produce,Pune Rural
+2024-04-24,12441,Handmade Crafts,Mumbai Suburban
+2024-07-04,13080,Street Food,Mumbai Suburban
+2024-07-16,12322,Organic Produce,Delhi Old City
+2025-04-15,2452,Handmade Crafts,Delhi Old City
+2024-04-05,1950,Street Food,Delhi Old City
+2024-02-11,8135,Local Tailoring,Pune Rural
+2025-07-22,6750,Handmade Crafts,Pune Rural
+2024-09-23,12767,Kirana Store,Chennai Central
+2024-02-27,10285,Street Food,Mumbai Suburban
+2024-03-03,11807,Kirana Store,Chennai Central
+2024-12-19,6902,Local Tailoring,Delhi Old City
+2025-01-25,6997,Local Tailoring,Delhi Old City
+2024-03-08,11560,Organic Produce,Delhi Old City
+2025-12-08,9571,Kirana Store,Pune Rural
+2025-07-08,6168,Local Tailoring,Pune Rural
+2025-08-17,6797,Organic Produce,Delhi Old City
+2024-06-25,703,Street Food,Bangalore South
+2025-02-05,2123,Handmade Crafts,Chennai Central
+2024-02-27,14842,Organic Produce,Pune Rural
+2024-06-25,12977,Organic Produce,Mumbai Suburban
+2025-12-17,12620,Local Tailoring,Mumbai Suburban
+2024-05-21,2803,Street Food,Mumbai Suburban
+2024-11-25,14335,Handmade Crafts,Mumbai Suburban
+2024-05-17,7334,Handmade Crafts,Delhi Old City
+2025-01-06,6332,Street Food,Pune Rural
+2025-12-13,11531,Street Food,Chennai Central
+2024-10-27,9348,Organic Produce,Delhi Old City
+2024-11-05,11636,Handmade Crafts,Chennai Central
+2025-01-06,6518,Organic Produce,Mumbai Suburban
+2025-05-14,4016,Local Tailoring,Delhi Old City
+2024-02-08,4626,Street Food,Chennai Central
+2025-10-23,13448,Kirana Store,Pune Rural
+2024-10-25,1641,Organic Produce,Mumbai Suburban
+2024-12-12,12345,Kirana Store,Bangalore South
+2024-03-14,1867,Street Food,Pune Rural
+2025-11-23,1149,Organic Produce,Pune Rural
+2024-11-04,7992,Street Food,Delhi Old City
+2024-01-15,5783,Street Food,Pune Rural
+2025-05-21,4358,Street Food,Delhi Old City
+2025-11-24,3970,Handmade Crafts,Pune Rural
+2024-08-13,13982,Kirana Store,Chennai Central
+2025-10-24,694,Handmade Crafts,Pune Rural
+2024-04-10,5155,Street Food,Bangalore South
+2025-09-11,12304,Organic Produce,Delhi Old City
+2025-11-06,3859,Organic Produce,Mumbai Suburban
+2025-12-03,12378,Local Tailoring,Bangalore South
+2025-03-15,10701,Organic Produce,Pune Rural
+2024-11-06,9282,Local Tailoring,Chennai Central
+2025-07-12,14236,Organic Produce,Chennai Central
+2025-01-29,10804,Street Food,Mumbai Suburban
+2025-12-01,11084,Local Tailoring,Mumbai Suburban
+2025-08-03,9271,Street Food,Mumbai Suburban
+2024-05-01,1540,Organic Produce,Mumbai Suburban
+2025-04-14,11655,Handmade Crafts,Mumbai Suburban
+2025-07-16,12280,Kirana Store,Pune Rural
+2025-04-14,6466,Street Food,Bangalore South
+2024-03-21,12499,Street Food,Pune Rural
+2025-10-14,13356,Kirana Store,Delhi Old City
+2025-09-14,11921,Organic Produce,Bangalore South
+2024-02-21,8606,Organic Produce,Pune Rural
+2025-08-01,10899,Local Tailoring,Chennai Central
+2025-11-20,11170,Street Food,Delhi Old City
+2025-03-14,4276,Organic Produce,Pune Rural
+2024-09-10,6262,Local Tailoring,Chennai Central
+2024-08-18,7812,Street Food,Chennai Central
+2025-04-01,4711,Kirana Store,Pune Rural
+2025-05-12,7767,Local Tailoring,Mumbai Suburban
+2025-09-29,11819,Organic Produce,Pune Rural
+2025-07-23,5516,Local Tailoring,Pune Rural
+2024-05-20,3246,Kirana Store,Chennai Central
+2025-12-11,6739,Organic Produce,Delhi Old City
+2024-08-28,11529,Kirana Store,Mumbai Suburban
+2025-11-05,2256,Street Food,Chennai Central
+2025-02-18,11712,Street Food,Pune Rural
+2025-07-15,10405,Kirana Store,Pune Rural
+2024-01-10,10654,Street Food,Bangalore South
+2024-02-12,13887,Handmade Crafts,Delhi Old City
+2025-06-01,13828,Street Food,Bangalore South
+2025-09-24,14458,Local Tailoring,Pune Rural
+2025-06-02,6863,Organic Produce,Chennai Central
+2024-01-23,14698,Street Food,Chennai Central
+2025-09-07,7264,Street Food,Delhi Old City
+2024-05-24,7935,Handmade Crafts,Bangalore South
+2025-11-13,1962,Organic Produce,Pune Rural
+2025-11-17,13204,Local Tailoring,Delhi Old City
+2025-06-30,14802,Organic Produce,Delhi Old City
+2024-01-19,8538,Kirana Store,Delhi Old City
+2024-04-12,2796,Organic Produce,Bangalore South
+2025-09-01,7447,Street Food,Chennai Central
+2024-04-30,4115,Kirana Store,Chennai Central
+2025-01-07,14491,Street Food,Bangalore South
+2024-10-22,5624,Kirana Store,Chennai Central
+2024-02-23,3977,Local Tailoring,Delhi Old City
+2024-08-05,7532,Street Food,Bangalore South
+2024-04-20,9934,Street Food,Bangalore South
+2024-07-19,14009,Local Tailoring,Delhi Old City
+2024-08-25,6683,Organic Produce,Bangalore South
+2025-11-19,11579,Street Food,Bangalore South
+2024-04-10,4152,Kirana Store,Chennai Central
+2025-11-23,11407,Handmade Crafts,Pune Rural
+2024-07-29,9150,Street Food,Bangalore South
+2025-12-08,7821,Local Tailoring,Chennai Central
+2025-06-06,837,Organic Produce,Mumbai Suburban
+2024-12-31,11304,Street Food,Mumbai Suburban
+2025-03-19,7191,Local Tailoring,Mumbai Suburban
+2025-11-17,1447,Street Food,Delhi Old City
+2025-06-22,1719,Street Food,Delhi Old City
+2024-11-14,8764,Handmade Crafts,Pune Rural
+2025-06-19,12509,Street Food,Delhi Old City
+2024-07-15,10901,Handmade Crafts,Mumbai Suburban
+2024-07-03,5028,Local Tailoring,Chennai Central
+2024-04-02,1111,Local Tailoring,Mumbai Suburban
+2024-05-17,7203,Kirana Store,Mumbai Suburban
+2024-09-10,8446,Kirana Store,Pune Rural
+2025-09-10,9296,Kirana Store,Pune Rural
+2024-12-19,1244,Handmade Crafts,Pune Rural
+2025-04-13,13529,Street Food,Pune Rural
+2024-05-06,13301,Local Tailoring,Pune Rural
+2024-03-04,1362,Handmade Crafts,Pune Rural
+2024-10-21,2991,Organic Produce,Mumbai Suburban
+2024-01-24,13242,Street Food,Chennai Central
+2025-08-13,8783,Street Food,Chennai Central
+2024-11-30,14458,Organic Produce,Bangalore South
+2024-09-01,5055,Street Food,Pune Rural
+2025-06-30,821,Local Tailoring,Bangalore South
+2024-08-18,4275,Local Tailoring,Chennai Central
+2025-02-04,10696,Street Food,Mumbai Suburban
+2024-02-08,4102,Kirana Store,Pune Rural
+2024-03-24,7513,Kirana Store,Delhi Old City
+2024-12-21,2482,Organic Produce,Mumbai Suburban
+2024-06-17,743,Organic Produce,Delhi Old City
+2024-02-15,11101,Organic Produce,Bangalore South
+2025-02-03,1839,Local Tailoring,Delhi Old City
+2025-09-25,12693,Handmade Crafts,Mumbai Suburban
+2025-09-24,3259,Handmade Crafts,Delhi Old City
+2024-02-29,7951,Street Food,Mumbai Suburban
+2024-06-08,3941,Street Food,Chennai Central
+2025-06-09,14184,Street Food,Delhi Old City
+2025-05-13,3601,Street Food,Mumbai Suburban
+2025-12-16,14710,Handmade Crafts,Delhi Old City
+2024-10-19,10140,Local Tailoring,Chennai Central
+2025-08-11,2475,Handmade Crafts,Delhi Old City
+2025-07-13,7177,Organic Produce,Delhi Old City
+2024-11-25,14451,Handmade Crafts,Mumbai Suburban
+2025-04-30,2793,Kirana Store,Bangalore South
+2025-10-22,5194,Street Food,Bangalore South
+2025-01-07,13772,Local Tailoring,Mumbai Suburban
+2024-06-05,13197,Handmade Crafts,Pune Rural
+2024-12-23,1629,Kirana Store,Delhi Old City
+2024-07-11,11340,Organic Produce,Mumbai Suburban
+2024-10-13,7803,Handmade Crafts,Delhi Old City
+2024-06-23,9190,Kirana Store,Mumbai Suburban
+2025-11-20,7377,Street Food,Chennai Central
+2024-10-27,638,Local Tailoring,Pune Rural
+2024-06-18,2502,Local Tailoring,Chennai Central
+2024-06-14,4057,Kirana Store,Chennai Central
+2025-02-05,10831,Local Tailoring,Delhi Old City
+2025-10-13,14377,Organic Produce,Pune Rural
+2025-06-02,3327,Local Tailoring,Chennai Central
+2024-10-25,5529,Handmade Crafts,Chennai Central
+2025-02-05,2714,Handmade Crafts,Delhi Old City
+2025-01-31,2858,Organic Produce,Bangalore South
+2024-08-23,4743,Street Food,Mumbai Suburban
+2025-11-03,8000,Handmade Crafts,Pune Rural
+2024-03-26,6400,Street Food,Mumbai Suburban
+2025-10-16,858,Kirana Store,Mumbai Suburban
+2024-05-20,2628,Kirana Store,Mumbai Suburban
+2025-12-23,13154,Local Tailoring,Chennai Central
+2025-01-31,7829,Handmade Crafts,Mumbai Suburban
+2024-04-30,6284,Handmade Crafts,Chennai Central
+2025-11-02,14712,Kirana Store,Pune Rural
+2024-01-25,6795,Handmade Crafts,Chennai Central
+2025-03-18,8404,Organic Produce,Pune Rural
+2024-04-29,2145,Handmade Crafts,Bangalore South
+2024-07-30,2199,Handmade Crafts,Delhi Old City
+2025-05-21,11181,Local Tailoring,Delhi Old City
+2024-04-13,12919,Handmade Crafts,Bangalore South
+2025-07-12,4582,Kirana Store,Pune Rural
+2024-05-29,11799,Handmade Crafts,Chennai Central
+2025-04-30,4448,Street Food,Delhi Old City
+2024-05-28,11437,Kirana Store,Bangalore South
+2025-09-07,8266,Organic Produce,Bangalore South
+2024-06-26,4734,Organic Produce,Mumbai Suburban
+2025-08-03,1779,Local Tailoring,Delhi Old City
+2025-04-24,5512,Handmade Crafts,Chennai Central
+2025-11-05,14662,Organic Produce,Chennai Central
+2025-05-25,12149,Street Food,Mumbai Suburban
+2025-08-31,3608,Street Food,Delhi Old City
+2024-10-30,7691,Local Tailoring,Pune Rural
+2025-04-01,8824,Handmade Crafts,Delhi Old City
+2025-06-12,10622,Street Food,Mumbai Suburban
+2025-08-03,3736,Kirana Store,Chennai Central
+2025-07-25,693,Local Tailoring,Mumbai Suburban
+2024-06-19,13997,Organic Produce,Chennai Central
+2025-02-18,12491,Handmade Crafts,Mumbai Suburban
+2025-07-02,6412,Organic Produce,Pune Rural
+2024-12-13,1124,Handmade Crafts,Delhi Old City
+2025-05-15,12296,Handmade Crafts,Chennai Central
+2025-07-01,13411,Handmade Crafts,Delhi Old City
+2025-03-28,8635,Kirana Store,Delhi Old City
+2024-01-31,5368,Handmade Crafts,Bangalore South
+2024-12-06,12366,Street Food,Mumbai Suburban
+2025-01-13,8100,Organic Produce,Pune Rural
+2025-12-01,2187,Local Tailoring,Mumbai Suburban
+2024-12-04,14171,Street Food,Chennai Central
+2025-06-29,8969,Street Food,Pune Rural
+2025-02-14,5300,Handmade Crafts,Mumbai Suburban
+2025-01-30,8556,Street Food,Mumbai Suburban

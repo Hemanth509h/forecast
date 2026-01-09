@@ -1,0 +1,2001 @@
+date,amount,productCategory,region
+2025-08-27,359341,Tea & Spices,Central - Nagpur
+2023-11-23,231591,Information Technology,South - Bengaluru
+2021-09-09,490633,Information Technology,South - Bengaluru
+2023-08-19,90890,Textiles,East - Kolkata
+2023-01-30,225270,Automobiles,Central - Nagpur
+2024-09-12,453536,Automobiles,North - Delhi
+2024-01-10,286139,Textiles,South - Bengaluru
+2025-02-14,185509,Steel,West - Mumbai
+2021-06-29,453904,Textiles,Central - Nagpur
+2021-12-20,122952,Automobiles,West - Mumbai
+2024-10-09,412421,Tea & Spices,South - Bengaluru
+2022-09-04,469656,Tea & Spices,North - Delhi
+2023-08-24,422714,Information Technology,East - Kolkata
+2024-01-24,275578,Automobiles,North - Delhi
+2022-01-02,466031,Textiles,South - Bengaluru
+2025-07-13,387523,Automobiles,South - Bengaluru
+2023-01-25,489305,Automobiles,East - Kolkata
+2024-12-24,275605,Automobiles,North - Delhi
+2025-08-02,307903,Tea & Spices,Central - Nagpur
+2021-11-03,322623,Steel,South - Bengaluru
+2023-03-06,83541,Information Technology,East - Kolkata
+2021-11-27,74237,Automobiles,Central - Nagpur
+2023-09-18,262630,Textiles,South - Bengaluru
+2022-11-29,364257,Automobiles,Central - Nagpur
+2021-07-11,222139,Automobiles,North - Delhi
+2022-08-03,290490,Tea & Spices,Central - Nagpur
+2025-05-30,363817,Steel,Central - Nagpur
+2025-09-05,113631,Steel,West - Mumbai
+2022-02-22,499878,Automobiles,North - Delhi
+2023-12-26,383778,Textiles,Central - Nagpur
+2021-06-05,187618,Steel,East - Kolkata
+2021-03-19,120390,Steel,South - Bengaluru
+2022-12-24,228999,Steel,Central - Nagpur
+2025-09-04,216292,Automobiles,East - Kolkata
+2025-03-19,348325,Tea & Spices,North - Delhi
+2021-07-29,108626,Steel,South - Bengaluru
+2025-11-16,90376,Automobiles,East - Kolkata
+2023-09-18,227120,Tea & Spices,West - Mumbai
+2024-07-27,88768,Information Technology,Central - Nagpur
+2025-04-26,342891,Textiles,South - Bengaluru
+2021-06-17,323464,Steel,West - Mumbai
+2024-06-19,122338,Steel,East - Kolkata
+2024-08-11,295807,Textiles,South - Bengaluru
+2022-04-05,237130,Steel,West - Mumbai
+2021-07-06,259999,Automobiles,West - Mumbai
+2024-12-21,149361,Steel,North - Delhi
+2022-12-10,460890,Automobiles,South - Bengaluru
+2022-12-20,246851,Tea & Spices,Central - Nagpur
+2021-12-01,407194,Textiles,East - Kolkata
+2021-03-30,343823,Information Technology,South - Bengaluru
+2021-09-17,219501,Steel,Central - Nagpur
+2022-12-28,139464,Automobiles,West - Mumbai
+2023-12-17,57193,Tea & Spices,South - Bengaluru
+2024-07-03,462145,Textiles,West - Mumbai
+2025-09-11,87192,Information Technology,West - Mumbai
+2023-12-30,325481,Steel,South - Bengaluru
+2023-11-09,116554,Textiles,Central - Nagpur
+2022-08-06,484132,Tea & Spices,South - Bengaluru
+2021-05-14,65560,Information Technology,West - Mumbai
+2021-08-25,381773,Textiles,Central - Nagpur
+2022-04-28,357760,Textiles,East - Kolkata
+2024-12-30,234581,Information Technology,South - Bengaluru
+2022-08-06,237802,Information Technology,West - Mumbai
+2025-07-27,244316,Automobiles,South - Bengaluru
+2022-12-25,419119,Textiles,South - Bengaluru
+2021-02-26,373139,Tea & Spices,South - Bengaluru
+2021-11-02,185594,Automobiles,Central - Nagpur
+2022-03-19,406969,Textiles,West - Mumbai
+2022-03-15,174998,Automobiles,Central - Nagpur
+2021-03-22,420439,Information Technology,West - Mumbai
+2021-01-24,125666,Information Technology,South - Bengaluru
+2024-12-14,279401,Tea & Spices,East - Kolkata
+2025-05-07,187535,Textiles,East - Kolkata
+2022-10-14,435422,Steel,West - Mumbai
+2022-07-09,448407,Steel,South - Bengaluru
+2021-06-29,367925,Steel,West - Mumbai
+2023-03-31,122476,Tea & Spices,West - Mumbai
+2022-02-02,184500,Textiles,West - Mumbai
+2023-10-25,296142,Information Technology,South - Bengaluru
+2025-07-08,130028,Textiles,East - Kolkata
+2023-09-11,221025,Information Technology,South - Bengaluru
+2021-10-29,322440,Automobiles,South - Bengaluru
+2025-01-06,410846,Steel,West - Mumbai
+2022-01-21,439710,Automobiles,North - Delhi
+2023-05-24,166953,Automobiles,West - Mumbai
+2022-07-29,224075,Tea & Spices,South - Bengaluru
+2025-03-29,177250,Automobiles,South - Bengaluru
+2023-10-21,128113,Automobiles,East - Kolkata
+2025-10-11,106434,Textiles,South - Bengaluru
+2021-12-14,321290,Tea & Spices,East - Kolkata
+2021-01-14,133051,Automobiles,East - Kolkata
+2021-02-23,370119,Information Technology,East - Kolkata
+2023-07-22,468075,Textiles,East - Kolkata
+2021-03-08,239766,Tea & Spices,East - Kolkata
+2022-04-26,263298,Tea & Spices,East - Kolkata
+2025-08-19,467459,Textiles,North - Delhi
+2023-11-03,152918,Textiles,Central - Nagpur
+2022-09-05,78141,Steel,South - Bengaluru
+2022-04-17,202430,Textiles,North - Delhi
+2024-08-24,197151,Steel,East - Kolkata
+2024-06-28,300682,Information Technology,North - Delhi
+2022-06-07,397881,Steel,South - Bengaluru
+2025-05-22,371408,Textiles,West - Mumbai
+2022-11-08,252507,Textiles,Central - Nagpur
+2025-09-22,440791,Tea & Spices,North - Delhi
+2024-12-27,140367,Steel,North - Delhi
+2021-02-04,185781,Textiles,Central - Nagpur
+2022-08-31,110066,Tea & Spices,South - Bengaluru
+2022-01-29,142354,Steel,South - Bengaluru
+2024-10-04,265984,Steel,South - Bengaluru
+2025-11-06,320844,Tea & Spices,North - Delhi
+2024-04-30,310623,Tea & Spices,Central - Nagpur
+2022-03-14,420685,Steel,West - Mumbai
+2023-06-04,107679,Tea & Spices,North - Delhi
+2023-04-28,177606,Automobiles,East - Kolkata
+2024-09-26,255815,Tea & Spices,North - Delhi
+2025-01-23,499918,Steel,South - Bengaluru
+2022-07-08,442388,Steel,Central - Nagpur
+2022-06-08,244172,Automobiles,North - Delhi
+2023-03-01,121171,Tea & Spices,East - Kolkata
+2025-12-04,458601,Tea & Spices,West - Mumbai
+2024-12-08,421691,Tea & Spices,South - Bengaluru
+2021-07-24,419829,Tea & Spices,North - Delhi
+2023-11-17,338917,Steel,South - Bengaluru
+2021-02-15,204785,Tea & Spices,East - Kolkata
+2024-03-25,424967,Information Technology,North - Delhi
+2023-09-05,213930,Automobiles,North - Delhi
+2023-08-26,283069,Automobiles,West - Mumbai
+2024-08-09,489395,Steel,East - Kolkata
+2025-09-19,285027,Tea & Spices,East - Kolkata
+2022-07-14,464523,Textiles,East - Kolkata
+2021-12-06,486651,Textiles,South - Bengaluru
+2021-12-23,480856,Steel,West - Mumbai
+2025-09-03,131714,Textiles,Central - Nagpur
+2023-08-30,187138,Steel,East - Kolkata
+2023-02-18,245878,Tea & Spices,Central - Nagpur
+2023-11-25,194284,Steel,South - Bengaluru
+2023-09-05,361998,Steel,North - Delhi
+2023-01-07,296543,Steel,East - Kolkata
+2023-10-17,277896,Automobiles,West - Mumbai
+2021-07-14,394699,Information Technology,East - Kolkata
+2023-04-30,162664,Textiles,South - Bengaluru
+2022-07-18,366646,Information Technology,West - Mumbai
+2021-03-06,403267,Textiles,East - Kolkata
+2021-11-12,65206,Steel,North - Delhi
+2021-01-12,259720,Textiles,Central - Nagpur
+2023-03-18,98834,Information Technology,North - Delhi
+2023-04-09,154795,Textiles,East - Kolkata
+2021-08-30,113604,Automobiles,Central - Nagpur
+2021-05-22,230930,Textiles,South - Bengaluru
+2024-11-15,460271,Information Technology,West - Mumbai
+2023-11-17,231395,Textiles,South - Bengaluru
+2021-09-16,450863,Steel,West - Mumbai
+2023-11-19,263317,Automobiles,East - Kolkata
+2024-03-20,52946,Tea & Spices,South - Bengaluru
+2024-10-11,310330,Automobiles,Central - Nagpur
+2022-04-24,126533,Automobiles,West - Mumbai
+2022-05-16,132775,Tea & Spices,South - Bengaluru
+2024-04-08,447687,Information Technology,East - Kolkata
+2021-02-26,245473,Information Technology,South - Bengaluru
+2022-10-04,384130,Textiles,North - Delhi
+2022-10-27,353724,Textiles,North - Delhi
+2023-01-12,418037,Information Technology,South - Bengaluru
+2025-08-03,327211,Automobiles,East - Kolkata
+2023-12-26,384630,Information Technology,South - Bengaluru
+2024-01-27,151167,Steel,North - Delhi
+2021-10-30,441949,Tea & Spices,North - Delhi
+2023-11-09,101707,Textiles,North - Delhi
+2025-09-14,405740,Textiles,West - Mumbai
+2021-07-09,354948,Textiles,West - Mumbai
+2023-11-23,359330,Information Technology,South - Bengaluru
+2022-01-01,152131,Information Technology,North - Delhi
+2024-07-06,316738,Steel,West - Mumbai
+2021-02-02,263014,Steel,South - Bengaluru
+2023-11-07,262237,Automobiles,East - Kolkata
+2025-07-04,418552,Automobiles,West - Mumbai
+2021-08-09,320435,Automobiles,East - Kolkata
+2023-08-02,107979,Tea & Spices,Central - Nagpur
+2025-09-22,327119,Information Technology,West - Mumbai
+2024-02-18,188811,Textiles,Central - Nagpur
+2024-05-05,491381,Steel,West - Mumbai
+2021-08-22,277857,Information Technology,East - Kolkata
+2022-08-16,245974,Automobiles,West - Mumbai
+2024-05-27,364114,Automobiles,South - Bengaluru
+2025-07-07,392284,Steel,Central - Nagpur
+2024-08-24,120826,Information Technology,South - Bengaluru
+2022-05-13,427551,Automobiles,Central - Nagpur
+2023-11-01,427045,Steel,Central - Nagpur
+2021-11-28,229402,Information Technology,North - Delhi
+2025-06-17,427579,Tea & Spices,Central - Nagpur
+2025-09-14,159003,Automobiles,Central - Nagpur
+2022-11-09,121688,Information Technology,Central - Nagpur
+2025-01-06,192705,Information Technology,North - Delhi
+2024-03-17,451781,Automobiles,Central - Nagpur
+2022-08-02,246231,Steel,North - Delhi
+2021-06-11,416419,Steel,East - Kolkata
+2025-02-23,469749,Tea & Spices,West - Mumbai
+2023-08-21,142394,Textiles,Central - Nagpur
+2023-08-20,73110,Automobiles,West - Mumbai
+2021-07-22,293921,Steel,West - Mumbai
+2022-02-02,371082,Textiles,East - Kolkata
+2025-04-22,208757,Steel,Central - Nagpur
+2024-05-14,429769,Steel,East - Kolkata
+2024-08-21,405226,Information Technology,North - Delhi
+2022-10-09,115895,Steel,West - Mumbai
+2021-10-10,83034,Steel,East - Kolkata
+2024-12-05,480294,Automobiles,East - Kolkata
+2022-07-18,468045,Automobiles,East - Kolkata
+2024-02-12,383743,Automobiles,West - Mumbai
+2023-11-26,333316,Information Technology,Central - Nagpur
+2022-09-04,54373,Automobiles,Central - Nagpur
+2023-09-09,153521,Information Technology,Central - Nagpur
+2026-01-09,351937,Steel,East - Kolkata
+2024-06-20,314873,Information Technology,West - Mumbai
+2022-06-13,268331,Tea & Spices,South - Bengaluru
+2025-03-31,293810,Information Technology,West - Mumbai
+2023-05-04,224508,Tea & Spices,South - Bengaluru
+2022-07-23,363058,Textiles,Central - Nagpur
+2021-02-14,263581,Tea & Spices,East - Kolkata
+2022-07-24,399826,Information Technology,West - Mumbai
+2025-05-05,188047,Information Technology,East - Kolkata
+2023-07-08,119527,Automobiles,North - Delhi
+2024-12-14,125045,Textiles,South - Bengaluru
+2022-11-22,183265,Information Technology,East - Kolkata
+2022-06-04,344032,Textiles,South - Bengaluru
+2024-09-15,161695,Textiles,South - Bengaluru
+2023-11-08,365411,Information Technology,Central - Nagpur
+2025-01-19,367335,Automobiles,Central - Nagpur
+2023-08-09,378238,Information Technology,Central - Nagpur
+2025-11-04,75959,Information Technology,Central - Nagpur
+2021-03-29,213957,Tea & Spices,East - Kolkata
+2022-03-28,73395,Tea & Spices,East - Kolkata
+2024-01-30,205572,Information Technology,North - Delhi
+2023-05-08,86168,Textiles,West - Mumbai
+2024-11-27,244742,Tea & Spices,West - Mumbai
+2021-11-27,243802,Information Technology,Central - Nagpur
+2025-12-14,259242,Textiles,Central - Nagpur
+2024-05-16,482548,Automobiles,West - Mumbai
+2022-08-12,50483,Information Technology,North - Delhi
+2022-06-13,391820,Information Technology,South - Bengaluru
+2021-11-09,323873,Steel,North - Delhi
+2025-04-11,230681,Automobiles,East - Kolkata
+2021-07-21,409935,Tea & Spices,East - Kolkata
+2024-11-15,96567,Automobiles,South - Bengaluru
+2022-09-28,264643,Automobiles,West - Mumbai
+2023-02-14,436381,Steel,East - Kolkata
+2022-03-08,346392,Textiles,East - Kolkata
+2025-08-26,66506,Textiles,Central - Nagpur
+2022-12-20,152954,Automobiles,East - Kolkata
+2022-06-11,262680,Information Technology,South - Bengaluru
+2025-07-19,348290,Automobiles,North - Delhi
+2021-12-19,185101,Steel,North - Delhi
+2025-01-03,150710,Steel,South - Bengaluru
+2025-06-16,199513,Steel,North - Delhi
+2024-01-11,321725,Steel,East - Kolkata
+2023-01-23,207613,Tea & Spices,North - Delhi
+2021-07-01,413512,Textiles,East - Kolkata
+2023-01-17,348092,Steel,Central - Nagpur
+2023-12-01,234191,Tea & Spices,Central - Nagpur
+2021-12-29,247896,Information Technology,South - Bengaluru
+2021-02-20,343408,Automobiles,East - Kolkata
+2022-07-26,148619,Steel,West - Mumbai
+2026-01-02,337149,Information Technology,East - Kolkata
+2025-09-18,110683,Steel,East - Kolkata
+2023-12-09,50168,Textiles,West - Mumbai
+2024-08-10,136170,Textiles,South - Bengaluru
+2024-07-26,112582,Tea & Spices,Central - Nagpur
+2022-03-06,88354,Textiles,South - Bengaluru
+2024-05-22,171545,Information Technology,West - Mumbai
+2021-10-12,99546,Automobiles,Central - Nagpur
+2022-07-03,295024,Textiles,Central - Nagpur
+2023-07-03,444980,Tea & Spices,Central - Nagpur
+2025-09-11,133489,Tea & Spices,East - Kolkata
+2024-03-11,392175,Information Technology,North - Delhi
+2024-11-20,87267,Steel,Central - Nagpur
+2022-03-30,313578,Tea & Spices,East - Kolkata
+2025-08-27,135246,Tea & Spices,South - Bengaluru
+2021-09-06,334133,Automobiles,Central - Nagpur
+2023-04-01,478972,Steel,West - Mumbai
+2021-04-21,363608,Information Technology,East - Kolkata
+2021-01-18,454416,Tea & Spices,East - Kolkata
+2024-03-19,373669,Automobiles,West - Mumbai
+2025-05-29,382686,Automobiles,West - Mumbai
+2025-12-20,405312,Information Technology,West - Mumbai
+2021-12-15,85146,Information Technology,Central - Nagpur
+2023-10-24,236558,Automobiles,North - Delhi
+2023-12-22,479994,Automobiles,West - Mumbai
+2024-10-11,255688,Tea & Spices,North - Delhi
+2024-02-07,440978,Information Technology,Central - Nagpur
+2023-05-28,58331,Information Technology,South - Bengaluru
+2022-01-22,90678,Information Technology,South - Bengaluru
+2022-08-21,81845,Tea & Spices,East - Kolkata
+2021-04-21,99374,Tea & Spices,West - Mumbai
+2021-10-13,234896,Tea & Spices,Central - Nagpur
+2024-03-15,353795,Tea & Spices,East - Kolkata
+2023-08-11,175109,Steel,North - Delhi
+2025-01-28,226497,Tea & Spices,East - Kolkata
+2024-10-24,166310,Textiles,East - Kolkata
+2023-11-06,146114,Textiles,West - Mumbai
+2021-09-19,390379,Steel,South - Bengaluru
+2023-07-21,189039,Textiles,West - Mumbai
+2025-04-17,121821,Automobiles,North - Delhi
+2023-04-21,491852,Tea & Spices,East - Kolkata
+2021-08-21,475708,Information Technology,West - Mumbai
+2024-04-20,254693,Tea & Spices,Central - Nagpur
+2024-08-02,454803,Automobiles,West - Mumbai
+2022-07-28,362089,Automobiles,West - Mumbai
+2025-03-23,237874,Steel,West - Mumbai
+2022-03-21,181896,Steel,South - Bengaluru
+2022-03-17,346401,Tea & Spices,West - Mumbai
+2024-02-03,191847,Steel,South - Bengaluru
+2022-11-10,175740,Textiles,West - Mumbai
+2022-09-25,496329,Information Technology,West - Mumbai
+2024-08-25,406872,Automobiles,West - Mumbai
+2024-06-12,315611,Tea & Spices,North - Delhi
+2024-07-22,296235,Automobiles,North - Delhi
+2025-02-07,255071,Textiles,South - Bengaluru
+2023-08-25,68865,Steel,East - Kolkata
+2025-11-08,411399,Information Technology,Central - Nagpur
+2025-11-30,399676,Tea & Spices,Central - Nagpur
+2022-04-22,275970,Steel,North - Delhi
+2022-02-10,183250,Information Technology,South - Bengaluru
+2024-08-05,243081,Automobiles,South - Bengaluru
+2023-11-21,375973,Information Technology,South - Bengaluru
+2021-05-12,195815,Steel,South - Bengaluru
+2022-02-01,101268,Steel,Central - Nagpur
+2025-04-15,244180,Automobiles,West - Mumbai
+2024-06-02,423959,Textiles,South - Bengaluru
+2022-11-06,315110,Textiles,Central - Nagpur
+2024-06-22,213968,Information Technology,North - Delhi
+2023-06-01,480276,Automobiles,East - Kolkata
+2022-08-06,300799,Tea & Spices,South - Bengaluru
+2022-12-25,113231,Information Technology,Central - Nagpur
+2021-05-10,453551,Steel,North - Delhi
+2025-10-15,116328,Information Technology,North - Delhi
+2024-07-20,311889,Automobiles,North - Delhi
+2025-08-01,310556,Information Technology,Central - Nagpur
+2024-03-17,430786,Tea & Spices,Central - Nagpur
+2023-07-29,371927,Information Technology,South - Bengaluru
+2022-05-22,306949,Textiles,West - Mumbai
+2025-03-20,351525,Tea & Spices,South - Bengaluru
+2022-07-11,410271,Information Technology,North - Delhi
+2022-05-04,204673,Tea & Spices,North - Delhi
+2023-01-31,482577,Tea & Spices,South - Bengaluru
+2021-01-15,474265,Information Technology,Central - Nagpur
+2022-11-07,310651,Automobiles,West - Mumbai
+2022-12-22,133255,Steel,North - Delhi
+2024-09-16,414014,Steel,South - Bengaluru
+2025-10-08,159018,Tea & Spices,South - Bengaluru
+2022-05-18,51205,Information Technology,East - Kolkata
+2025-10-28,426743,Tea & Spices,West - Mumbai
+2022-01-25,152804,Tea & Spices,East - Kolkata
+2021-11-01,118979,Textiles,West - Mumbai
+2024-06-23,146510,Tea & Spices,North - Delhi
+2022-05-15,262655,Automobiles,South - Bengaluru
+2024-09-18,499007,Automobiles,Central - Nagpur
+2022-06-05,106139,Steel,East - Kolkata
+2021-05-24,150754,Textiles,Central - Nagpur
+2023-03-04,347614,Automobiles,Central - Nagpur
+2021-09-22,485427,Information Technology,Central - Nagpur
+2021-05-06,277231,Tea & Spices,South - Bengaluru
+2025-02-05,168917,Automobiles,West - Mumbai
+2024-06-15,375161,Information Technology,South - Bengaluru
+2024-04-17,348864,Steel,East - Kolkata
+2021-08-10,489262,Information Technology,West - Mumbai
+2021-10-21,441762,Textiles,North - Delhi
+2021-12-11,184600,Tea & Spices,West - Mumbai
+2023-01-06,435130,Steel,West - Mumbai
+2024-03-02,269001,Automobiles,Central - Nagpur
+2021-03-21,430257,Steel,Central - Nagpur
+2025-07-31,116768,Information Technology,South - Bengaluru
+2024-12-17,322341,Automobiles,West - Mumbai
+2023-02-16,246236,Information Technology,North - Delhi
+2022-04-21,295025,Steel,East - Kolkata
+2021-11-01,477498,Information Technology,Central - Nagpur
+2024-10-27,483286,Automobiles,West - Mumbai
+2021-01-20,391221,Steel,West - Mumbai
+2022-12-12,105096,Steel,West - Mumbai
+2022-11-15,326988,Information Technology,Central - Nagpur
+2022-10-02,71562,Information Technology,West - Mumbai
+2022-08-06,208382,Textiles,North - Delhi
+2021-04-01,403296,Automobiles,East - Kolkata
+2023-12-07,116377,Automobiles,East - Kolkata
+2023-04-10,125377,Automobiles,South - Bengaluru
+2025-09-19,396828,Automobiles,East - Kolkata
+2024-10-12,364573,Tea & Spices,East - Kolkata
+2023-06-19,253065,Steel,West - Mumbai
+2022-05-05,223374,Information Technology,South - Bengaluru
+2022-08-03,290942,Automobiles,North - Delhi
+2025-05-02,419931,Textiles,North - Delhi
+2024-06-04,88633,Information Technology,North - Delhi
+2025-11-04,475480,Steel,West - Mumbai
+2023-04-29,354260,Steel,North - Delhi
+2024-11-09,185194,Information Technology,North - Delhi
+2022-09-18,308393,Steel,West - Mumbai
+2022-08-03,349345,Steel,North - Delhi
+2023-01-02,412552,Tea & Spices,North - Delhi
+2021-10-13,291494,Steel,North - Delhi
+2025-01-11,467204,Automobiles,East - Kolkata
+2023-09-16,202744,Textiles,Central - Nagpur
+2023-02-18,277088,Automobiles,South - Bengaluru
+2021-10-18,113495,Automobiles,North - Delhi
+2023-11-19,151628,Automobiles,West - Mumbai
+2023-02-02,498217,Textiles,West - Mumbai
+2025-12-27,85476,Textiles,East - Kolkata
+2025-12-07,258650,Tea & Spices,North - Delhi
+2022-12-15,306018,Tea & Spices,Central - Nagpur
+2022-07-04,53223,Automobiles,West - Mumbai
+2021-10-20,57319,Textiles,West - Mumbai
+2023-08-08,145658,Automobiles,Central - Nagpur
+2024-11-03,412046,Textiles,East - Kolkata
+2025-10-06,177903,Information Technology,Central - Nagpur
+2024-01-27,358352,Steel,West - Mumbai
+2021-03-22,88223,Textiles,North - Delhi
+2025-07-02,343337,Tea & Spices,North - Delhi
+2024-04-17,214332,Information Technology,North - Delhi
+2024-01-26,226529,Information Technology,East - Kolkata
+2025-02-18,398419,Steel,South - Bengaluru
+2021-09-19,99676,Textiles,West - Mumbai
+2024-10-15,170569,Automobiles,West - Mumbai
+2021-08-27,256934,Automobiles,West - Mumbai
+2021-12-20,483012,Steel,Central - Nagpur
+2023-01-23,484330,Automobiles,West - Mumbai
+2025-04-06,284339,Steel,South - Bengaluru
+2024-02-03,168433,Steel,East - Kolkata
+2021-11-09,292693,Textiles,East - Kolkata
+2022-03-11,160651,Textiles,South - Bengaluru
+2021-07-18,375953,Steel,West - Mumbai
+2025-11-07,277855,Textiles,North - Delhi
+2021-04-10,297381,Steel,Central - Nagpur
+2024-10-31,463759,Information Technology,West - Mumbai
+2022-04-02,61334,Steel,East - Kolkata
+2025-07-04,412611,Tea & Spices,North - Delhi
+2024-05-01,171828,Automobiles,West - Mumbai
+2025-12-13,441291,Textiles,Central - Nagpur
+2024-12-31,163572,Information Technology,Central - Nagpur
+2025-08-07,165204,Steel,West - Mumbai
+2023-06-16,50919,Steel,West - Mumbai
+2024-04-14,247290,Tea & Spices,South - Bengaluru
+2025-01-29,197843,Automobiles,West - Mumbai
+2022-02-18,454984,Information Technology,North - Delhi
+2025-02-04,50567,Automobiles,Central - Nagpur
+2023-03-18,493782,Textiles,East - Kolkata
+2022-04-26,178144,Tea & Spices,South - Bengaluru
+2024-10-15,142932,Steel,South - Bengaluru
+2024-07-22,168619,Textiles,East - Kolkata
+2022-10-25,199082,Automobiles,North - Delhi
+2022-01-14,413579,Automobiles,South - Bengaluru
+2024-09-25,413745,Information Technology,East - Kolkata
+2023-04-07,88172,Tea & Spices,North - Delhi
+2021-03-31,135402,Automobiles,South - Bengaluru
+2022-03-07,479347,Textiles,Central - Nagpur
+2022-03-22,164019,Steel,South - Bengaluru
+2025-03-14,337238,Steel,South - Bengaluru
+2024-12-28,230793,Automobiles,South - Bengaluru
+2023-10-09,297322,Automobiles,North - Delhi
+2023-09-21,204838,Information Technology,East - Kolkata
+2022-08-20,55867,Steel,East - Kolkata
+2023-03-12,494223,Textiles,North - Delhi
+2022-03-23,90790,Tea & Spices,East - Kolkata
+2022-12-18,204167,Steel,Central - Nagpur
+2024-12-07,104638,Information Technology,North - Delhi
+2023-05-14,273527,Information Technology,South - Bengaluru
+2021-05-14,95916,Information Technology,East - Kolkata
+2022-07-04,372059,Steel,South - Bengaluru
+2024-03-23,343482,Information Technology,Central - Nagpur
+2025-11-29,59929,Automobiles,South - Bengaluru
+2024-05-03,284963,Information Technology,North - Delhi
+2024-08-22,364093,Tea & Spices,East - Kolkata
+2021-11-18,142363,Information Technology,South - Bengaluru
+2023-02-17,428351,Tea & Spices,South - Bengaluru
+2025-05-04,225126,Automobiles,West - Mumbai
+2022-02-22,263066,Automobiles,West - Mumbai
+2026-01-04,456983,Information Technology,West - Mumbai
+2023-10-20,481219,Tea & Spices,West - Mumbai
+2023-11-19,396900,Automobiles,West - Mumbai
+2021-04-25,297732,Information Technology,North - Delhi
+2021-09-30,470473,Automobiles,South - Bengaluru
+2021-06-06,232427,Textiles,East - Kolkata
+2025-07-13,302835,Tea & Spices,West - Mumbai
+2023-05-18,384013,Tea & Spices,North - Delhi
+2023-12-29,340524,Automobiles,North - Delhi
+2021-04-07,397049,Textiles,East - Kolkata
+2023-11-06,295204,Automobiles,North - Delhi
+2023-01-23,286524,Automobiles,Central - Nagpur
+2025-01-24,105754,Automobiles,South - Bengaluru
+2022-03-17,296012,Information Technology,South - Bengaluru
+2022-12-02,478423,Tea & Spices,Central - Nagpur
+2021-01-18,419780,Steel,North - Delhi
+2025-02-14,422630,Automobiles,Central - Nagpur
+2024-06-07,162709,Tea & Spices,South - Bengaluru
+2024-07-26,114206,Steel,East - Kolkata
+2025-06-22,409291,Tea & Spices,North - Delhi
+2024-10-18,342441,Steel,East - Kolkata
+2022-09-12,453543,Tea & Spices,West - Mumbai
+2021-02-11,394020,Steel,Central - Nagpur
+2024-03-17,221379,Tea & Spices,East - Kolkata
+2025-01-08,60451,Information Technology,Central - Nagpur
+2024-09-19,162580,Information Technology,East - Kolkata
+2022-08-23,182216,Steel,Central - Nagpur
+2022-05-10,63500,Textiles,West - Mumbai
+2021-02-08,446938,Steel,East - Kolkata
+2024-01-20,112927,Automobiles,Central - Nagpur
+2022-06-05,429506,Steel,South - Bengaluru
+2021-07-02,61810,Automobiles,South - Bengaluru
+2023-02-08,350968,Automobiles,South - Bengaluru
+2021-07-06,444618,Information Technology,North - Delhi
+2023-08-18,226302,Tea & Spices,West - Mumbai
+2025-08-21,416730,Steel,East - Kolkata
+2024-10-24,117855,Textiles,North - Delhi
+2022-10-29,76710,Automobiles,North - Delhi
+2025-03-04,278053,Tea & Spices,West - Mumbai
+2023-09-10,493082,Information Technology,West - Mumbai
+2023-10-14,466869,Tea & Spices,South - Bengaluru
+2021-01-20,193211,Textiles,South - Bengaluru
+2022-07-04,350734,Automobiles,North - Delhi
+2021-12-01,57937,Automobiles,North - Delhi
+2025-08-22,119770,Information Technology,South - Bengaluru
+2022-04-20,238636,Information Technology,South - Bengaluru
+2022-02-08,113745,Textiles,North - Delhi
+2022-09-18,331291,Steel,Central - Nagpur
+2024-02-04,81157,Automobiles,North - Delhi
+2022-05-26,183222,Tea & Spices,East - Kolkata
+2021-10-27,58264,Tea & Spices,West - Mumbai
+2025-07-05,316116,Tea & Spices,East - Kolkata
+2024-03-05,268762,Tea & Spices,West - Mumbai
+2025-05-06,310303,Tea & Spices,South - Bengaluru
+2025-07-20,358623,Information Technology,North - Delhi
+2023-02-13,272092,Tea & Spices,North - Delhi
+2024-12-08,263571,Textiles,Central - Nagpur
+2023-03-28,261431,Tea & Spices,South - Bengaluru
+2023-06-24,57816,Tea & Spices,East - Kolkata
+2024-04-16,243774,Automobiles,North - Delhi
+2021-04-02,63876,Automobiles,East - Kolkata
+2024-05-09,299302,Information Technology,East - Kolkata
+2025-06-29,312955,Tea & Spices,East - Kolkata
+2025-03-23,99603,Tea & Spices,East - Kolkata
+2022-04-10,470685,Steel,West - Mumbai
+2023-08-22,445932,Automobiles,West - Mumbai
+2021-06-04,248686,Automobiles,South - Bengaluru
+2023-11-11,184777,Information Technology,North - Delhi
+2024-05-05,126047,Tea & Spices,South - Bengaluru
+2022-06-22,342879,Steel,West - Mumbai
+2021-08-27,103965,Information Technology,North - Delhi
+2024-02-28,316115,Tea & Spices,South - Bengaluru
+2022-06-20,363604,Textiles,West - Mumbai
+2022-05-20,89983,Steel,South - Bengaluru
+2024-06-18,252920,Information Technology,West - Mumbai
+2023-02-27,439811,Information Technology,North - Delhi
+2022-01-15,231074,Tea & Spices,East - Kolkata
+2024-08-04,497712,Information Technology,Central - Nagpur
+2022-02-17,100978,Tea & Spices,North - Delhi
+2022-08-09,369694,Tea & Spices,South - Bengaluru
+2024-10-21,343346,Textiles,West - Mumbai
+2021-11-28,126582,Information Technology,Central - Nagpur
+2024-11-20,392006,Steel,East - Kolkata
+2025-06-01,220593,Steel,North - Delhi
+2021-04-21,471409,Tea & Spices,Central - Nagpur
+2024-10-31,481610,Steel,South - Bengaluru
+2021-09-06,292112,Textiles,East - Kolkata
+2022-05-22,326869,Steel,North - Delhi
+2023-12-14,463706,Automobiles,West - Mumbai
+2023-03-20,441096,Steel,East - Kolkata
+2023-12-10,284489,Textiles,East - Kolkata
+2022-04-07,69565,Textiles,East - Kolkata
+2024-10-10,171914,Steel,East - Kolkata
+2023-06-09,265401,Steel,East - Kolkata
+2025-09-06,187872,Information Technology,North - Delhi
+2023-05-04,393491,Steel,West - Mumbai
+2023-11-07,246262,Automobiles,North - Delhi
+2024-11-23,459154,Information Technology,East - Kolkata
+2022-11-15,334975,Tea & Spices,South - Bengaluru
+2023-02-02,487650,Automobiles,West - Mumbai
+2024-06-15,146845,Tea & Spices,Central - Nagpur
+2025-02-18,100984,Tea & Spices,North - Delhi
+2022-06-21,365321,Automobiles,West - Mumbai
+2021-11-23,420642,Tea & Spices,South - Bengaluru
+2022-02-28,211491,Textiles,North - Delhi
+2025-11-14,227417,Textiles,South - Bengaluru
+2023-01-01,296112,Steel,Central - Nagpur
+2023-10-31,325308,Tea & Spices,East - Kolkata
+2023-09-15,292516,Steel,East - Kolkata
+2022-08-19,59358,Textiles,West - Mumbai
+2021-12-22,223789,Tea & Spices,South - Bengaluru
+2022-06-26,249769,Information Technology,North - Delhi
+2023-06-22,396611,Tea & Spices,South - Bengaluru
+2021-02-24,350877,Textiles,Central - Nagpur
+2025-04-27,248212,Tea & Spices,Central - Nagpur
+2023-06-14,343226,Automobiles,East - Kolkata
+2023-03-18,443969,Tea & Spices,East - Kolkata
+2021-01-14,150803,Tea & Spices,East - Kolkata
+2023-12-13,468418,Information Technology,Central - Nagpur
+2022-09-26,479622,Steel,South - Bengaluru
+2023-04-05,86434,Textiles,West - Mumbai
+2022-08-25,54251,Steel,West - Mumbai
+2021-12-23,125937,Automobiles,North - Delhi
+2022-09-17,394569,Textiles,Central - Nagpur
+2025-12-29,240746,Tea & Spices,South - Bengaluru
+2021-11-25,57594,Steel,South - Bengaluru
+2025-02-13,494159,Textiles,North - Delhi
+2025-05-12,92265,Steel,West - Mumbai
+2022-10-01,151079,Textiles,Central - Nagpur
+2022-07-26,208298,Information Technology,North - Delhi
+2025-07-05,436815,Automobiles,East - Kolkata
+2025-08-02,451833,Tea & Spices,North - Delhi
+2023-01-31,167189,Information Technology,East - Kolkata
+2021-08-08,407900,Information Technology,Central - Nagpur
+2024-08-11,111590,Textiles,East - Kolkata
+2025-04-03,229535,Information Technology,East - Kolkata
+2021-01-26,325703,Automobiles,Central - Nagpur
+2022-10-30,54884,Tea & Spices,Central - Nagpur
+2025-12-05,148449,Steel,North - Delhi
+2022-08-18,338123,Tea & Spices,Central - Nagpur
+2024-01-24,128740,Tea & Spices,East - Kolkata
+2023-09-02,414983,Steel,West - Mumbai
+2023-02-18,313083,Information Technology,East - Kolkata
+2024-10-23,316068,Automobiles,Central - Nagpur
+2022-06-21,462421,Tea & Spices,Central - Nagpur
+2024-06-29,116902,Information Technology,South - Bengaluru
+2021-12-04,292742,Textiles,East - Kolkata
+2024-09-29,314195,Steel,South - Bengaluru
+2021-06-05,467389,Steel,East - Kolkata
+2025-02-15,414679,Information Technology,North - Delhi
+2025-03-27,236377,Automobiles,North - Delhi
+2024-11-17,487556,Steel,East - Kolkata
+2023-12-27,353763,Tea & Spices,North - Delhi
+2021-03-23,384019,Information Technology,West - Mumbai
+2025-11-05,472068,Information Technology,West - Mumbai
+2025-04-15,146996,Information Technology,Central - Nagpur
+2021-07-10,169225,Information Technology,West - Mumbai
+2021-06-15,178547,Automobiles,South - Bengaluru
+2023-02-09,210916,Textiles,Central - Nagpur
+2021-07-03,144926,Textiles,Central - Nagpur
+2025-09-13,482675,Information Technology,South - Bengaluru
+2021-04-01,84291,Textiles,North - Delhi
+2022-10-04,397015,Automobiles,East - Kolkata
+2022-06-29,232000,Information Technology,East - Kolkata
+2022-02-18,255615,Automobiles,East - Kolkata
+2025-06-23,338435,Information Technology,North - Delhi
+2023-02-20,141107,Steel,East - Kolkata
+2023-03-15,417850,Textiles,West - Mumbai
+2022-07-03,112364,Textiles,North - Delhi
+2022-07-15,268514,Textiles,Central - Nagpur
+2021-12-15,491543,Information Technology,North - Delhi
+2025-09-06,184036,Automobiles,West - Mumbai
+2023-02-05,460759,Tea & Spices,North - Delhi
+2022-03-11,287720,Automobiles,Central - Nagpur
+2021-01-16,216965,Automobiles,East - Kolkata
+2025-02-27,119834,Tea & Spices,West - Mumbai
+2022-05-10,78106,Information Technology,South - Bengaluru
+2022-10-23,260313,Automobiles,West - Mumbai
+2021-10-07,75558,Information Technology,North - Delhi
+2022-08-22,307691,Automobiles,North - Delhi
+2022-01-29,82263,Textiles,East - Kolkata
+2022-02-22,202638,Textiles,West - Mumbai
+2024-09-07,143178,Steel,West - Mumbai
+2023-06-24,64908,Tea & Spices,Central - Nagpur
+2022-04-30,383598,Tea & Spices,South - Bengaluru
+2023-04-27,429550,Information Technology,Central - Nagpur
+2023-01-15,223615,Steel,West - Mumbai
+2021-07-14,386557,Tea & Spices,West - Mumbai
+2021-11-08,214037,Automobiles,East - Kolkata
+2023-02-11,195136,Steel,Central - Nagpur
+2022-09-23,132829,Textiles,South - Bengaluru
+2025-09-07,68392,Tea & Spices,Central - Nagpur
+2021-03-29,343200,Textiles,West - Mumbai
+2022-06-18,168313,Automobiles,West - Mumbai
+2023-12-04,182631,Tea & Spices,South - Bengaluru
+2021-01-21,465970,Information Technology,North - Delhi
+2022-10-02,454061,Steel,West - Mumbai
+2025-12-31,53026,Information Technology,South - Bengaluru
+2022-03-19,344458,Automobiles,Central - Nagpur
+2023-01-17,235765,Tea & Spices,Central - Nagpur
+2021-04-25,175464,Textiles,West - Mumbai
+2021-10-18,260214,Steel,East - Kolkata
+2025-06-25,255820,Information Technology,North - Delhi
+2025-09-04,269737,Steel,North - Delhi
+2022-06-06,414938,Textiles,West - Mumbai
+2022-11-02,64131,Textiles,North - Delhi
+2024-01-14,107141,Tea & Spices,East - Kolkata
+2025-07-25,93316,Information Technology,Central - Nagpur
+2023-02-21,281364,Tea & Spices,West - Mumbai
+2021-12-22,205610,Textiles,Central - Nagpur
+2023-07-17,188769,Textiles,West - Mumbai
+2024-11-25,219712,Information Technology,Central - Nagpur
+2024-06-13,152221,Steel,East - Kolkata
+2022-07-21,172094,Steel,East - Kolkata
+2024-01-08,358619,Information Technology,South - Bengaluru
+2024-04-09,409273,Information Technology,North - Delhi
+2021-01-26,438358,Steel,East - Kolkata
+2025-04-16,488447,Textiles,East - Kolkata
+2023-05-08,246327,Information Technology,West - Mumbai
+2025-07-28,84781,Tea & Spices,East - Kolkata
+2022-01-12,422247,Textiles,North - Delhi
+2024-07-28,217612,Information Technology,East - Kolkata
+2024-12-14,221144,Steel,Central - Nagpur
+2022-07-05,184124,Tea & Spices,West - Mumbai
+2021-04-12,398848,Automobiles,East - Kolkata
+2024-06-12,400661,Automobiles,South - Bengaluru
+2021-01-24,314310,Textiles,North - Delhi
+2023-06-02,357683,Automobiles,East - Kolkata
+2025-06-08,145095,Tea & Spices,South - Bengaluru
+2025-03-01,359193,Steel,South - Bengaluru
+2025-12-15,187778,Tea & Spices,East - Kolkata
+2024-06-20,209454,Steel,Central - Nagpur
+2021-03-04,176730,Information Technology,Central - Nagpur
+2024-10-05,374473,Automobiles,North - Delhi
+2023-05-15,349785,Tea & Spices,Central - Nagpur
+2022-12-12,265747,Textiles,East - Kolkata
+2021-03-08,399265,Steel,South - Bengaluru
+2024-12-27,52537,Automobiles,Central - Nagpur
+2022-07-25,292286,Information Technology,West - Mumbai
+2025-06-01,124319,Tea & Spices,East - Kolkata
+2022-10-05,314461,Automobiles,South - Bengaluru
+2025-11-30,105705,Steel,North - Delhi
+2025-02-24,309028,Steel,East - Kolkata
+2022-03-28,303927,Information Technology,West - Mumbai
+2021-03-05,372257,Tea & Spices,West - Mumbai
+2025-06-02,214473,Information Technology,Central - Nagpur
+2023-04-20,392182,Tea & Spices,North - Delhi
+2025-03-30,231921,Information Technology,North - Delhi
+2024-03-09,147164,Textiles,East - Kolkata
+2023-10-24,88477,Automobiles,East - Kolkata
+2023-05-13,405674,Steel,Central - Nagpur
+2024-08-26,117558,Steel,West - Mumbai
+2025-04-09,247607,Tea & Spices,North - Delhi
+2024-08-28,165208,Steel,West - Mumbai
+2023-05-01,188991,Textiles,North - Delhi
+2023-04-24,306902,Automobiles,North - Delhi
+2023-05-30,336212,Automobiles,Central - Nagpur
+2025-06-27,351394,Information Technology,South - Bengaluru
+2021-08-04,175513,Automobiles,South - Bengaluru
+2023-10-15,316144,Tea & Spices,East - Kolkata
+2021-06-29,307325,Automobiles,East - Kolkata
+2021-07-09,375643,Steel,Central - Nagpur
+2025-09-15,307930,Tea & Spices,North - Delhi
+2025-07-22,382282,Tea & Spices,West - Mumbai
+2024-10-03,157077,Automobiles,East - Kolkata
+2021-06-14,307289,Automobiles,North - Delhi
+2021-03-26,249424,Textiles,North - Delhi
+2021-07-04,450235,Information Technology,Central - Nagpur
+2024-04-05,247047,Automobiles,South - Bengaluru
+2023-05-27,95411,Automobiles,North - Delhi
+2022-02-12,338756,Tea & Spices,North - Delhi
+2022-08-10,351130,Steel,North - Delhi
+2023-08-17,350633,Information Technology,West - Mumbai
+2025-02-13,52238,Automobiles,Central - Nagpur
+2025-10-02,282940,Tea & Spices,South - Bengaluru
+2025-06-30,280085,Tea & Spices,South - Bengaluru
+2021-02-14,188852,Information Technology,East - Kolkata
+2023-03-31,421830,Tea & Spices,East - Kolkata
+2025-02-11,495019,Tea & Spices,Central - Nagpur
+2025-01-29,306922,Steel,West - Mumbai
+2021-02-02,387648,Automobiles,East - Kolkata
+2022-07-24,182041,Tea & Spices,East - Kolkata
+2021-07-26,321045,Tea & Spices,South - Bengaluru
+2021-12-11,100058,Tea & Spices,West - Mumbai
+2025-08-27,212904,Steel,West - Mumbai
+2024-03-23,71374,Automobiles,West - Mumbai
+2025-10-14,71863,Automobiles,East - Kolkata
+2024-12-05,292533,Steel,South - Bengaluru
+2022-05-25,352618,Steel,West - Mumbai
+2021-02-28,420590,Steel,North - Delhi
+2024-07-01,194754,Tea & Spices,South - Bengaluru
+2022-03-01,339397,Information Technology,South - Bengaluru
+2024-12-20,484932,Steel,West - Mumbai
+2021-09-22,323401,Information Technology,Central - Nagpur
+2025-03-13,120042,Tea & Spices,East - Kolkata
+2022-07-12,72288,Steel,West - Mumbai
+2025-03-06,380336,Automobiles,Central - Nagpur
+2022-03-12,115979,Automobiles,Central - Nagpur
+2024-08-12,213491,Steel,East - Kolkata
+2023-01-13,426437,Information Technology,South - Bengaluru
+2021-09-29,311235,Automobiles,Central - Nagpur
+2025-08-29,277151,Automobiles,Central - Nagpur
+2023-02-18,344205,Textiles,East - Kolkata
+2023-01-26,256127,Information Technology,West - Mumbai
+2023-06-02,354072,Steel,West - Mumbai
+2025-02-27,255666,Steel,South - Bengaluru
+2023-10-10,87287,Automobiles,East - Kolkata
+2023-11-23,276576,Steel,West - Mumbai
+2025-10-23,54183,Tea & Spices,West - Mumbai
+2022-09-27,123612,Tea & Spices,Central - Nagpur
+2021-04-10,311287,Automobiles,South - Bengaluru
+2025-01-24,93978,Textiles,West - Mumbai
+2025-04-17,261309,Tea & Spices,East - Kolkata
+2025-07-31,163681,Automobiles,East - Kolkata
+2024-06-10,434709,Tea & Spices,North - Delhi
+2021-06-01,121769,Automobiles,East - Kolkata
+2022-02-09,157716,Information Technology,West - Mumbai
+2025-12-28,73765,Automobiles,Central - Nagpur
+2025-08-29,254360,Steel,South - Bengaluru
+2025-03-04,153579,Textiles,Central - Nagpur
+2023-04-15,407371,Automobiles,North - Delhi
+2021-11-30,438000,Textiles,East - Kolkata
+2025-12-03,346509,Steel,South - Bengaluru
+2024-12-09,358500,Tea & Spices,East - Kolkata
+2022-05-30,143333,Automobiles,East - Kolkata
+2025-01-22,113710,Tea & Spices,East - Kolkata
+2023-05-19,249269,Steel,East - Kolkata
+2021-09-10,359445,Tea & Spices,South - Bengaluru
+2024-10-27,134058,Textiles,South - Bengaluru
+2021-02-21,373480,Information Technology,North - Delhi
+2024-06-19,63301,Information Technology,West - Mumbai
+2023-11-18,62357,Textiles,West - Mumbai
+2021-06-29,388873,Automobiles,North - Delhi
+2022-11-12,204665,Automobiles,East - Kolkata
+2025-12-08,335469,Automobiles,South - Bengaluru
+2025-02-07,341284,Information Technology,West - Mumbai
+2023-09-15,493641,Information Technology,North - Delhi
+2025-03-04,400380,Tea & Spices,North - Delhi
+2024-01-25,240424,Information Technology,South - Bengaluru
+2022-10-06,373494,Textiles,Central - Nagpur
+2021-07-22,374696,Automobiles,North - Delhi
+2024-05-24,210046,Textiles,West - Mumbai
+2021-12-06,376002,Automobiles,Central - Nagpur
+2022-07-14,153604,Automobiles,South - Bengaluru
+2025-02-19,370829,Tea & Spices,Central - Nagpur
+2025-05-07,288561,Tea & Spices,East - Kolkata
+2022-09-24,450313,Textiles,East - Kolkata
+2024-03-18,175169,Textiles,West - Mumbai
+2022-10-13,184807,Textiles,East - Kolkata
+2024-11-26,345311,Textiles,West - Mumbai
+2024-11-04,396991,Steel,East - Kolkata
+2022-07-11,445979,Information Technology,South - Bengaluru
+2023-11-20,374644,Textiles,West - Mumbai
+2025-08-25,93270,Tea & Spices,North - Delhi
+2021-05-13,266821,Steel,East - Kolkata
+2023-01-19,399886,Tea & Spices,East - Kolkata
+2024-02-21,162429,Information Technology,West - Mumbai
+2025-11-03,315669,Textiles,Central - Nagpur
+2024-02-29,95144,Textiles,East - Kolkata
+2023-11-29,344165,Textiles,East - Kolkata
+2022-02-19,154227,Information Technology,North - Delhi
+2025-12-23,254739,Textiles,West - Mumbai
+2022-07-11,337215,Automobiles,East - Kolkata
+2025-01-16,277660,Tea & Spices,West - Mumbai
+2021-02-11,193533,Steel,East - Kolkata
+2023-03-17,193107,Textiles,Central - Nagpur
+2021-11-05,281673,Automobiles,North - Delhi
+2023-07-02,311639,Tea & Spices,West - Mumbai
+2023-09-04,264339,Textiles,East - Kolkata
+2022-05-27,346351,Steel,South - Bengaluru
+2021-07-26,490318,Tea & Spices,South - Bengaluru
+2023-07-06,361414,Information Technology,North - Delhi
+2021-07-03,320699,Textiles,North - Delhi
+2024-03-08,361912,Automobiles,North - Delhi
+2022-03-07,469817,Steel,East - Kolkata
+2021-09-25,263664,Tea & Spices,East - Kolkata
+2022-10-20,162390,Automobiles,West - Mumbai
+2023-12-29,260015,Information Technology,South - Bengaluru
+2023-06-08,217296,Tea & Spices,North - Delhi
+2021-08-27,498695,Textiles,North - Delhi
+2021-05-29,276237,Information Technology,South - Bengaluru
+2022-02-17,202697,Steel,Central - Nagpur
+2025-04-06,277425,Textiles,South - Bengaluru
+2022-11-30,165547,Tea & Spices,West - Mumbai
+2025-07-06,126511,Information Technology,East - Kolkata
+2023-05-12,355234,Steel,East - Kolkata
+2022-04-26,328119,Textiles,North - Delhi
+2025-10-09,249902,Tea & Spices,East - Kolkata
+2023-01-24,162898,Information Technology,North - Delhi
+2023-10-04,138425,Information Technology,South - Bengaluru
+2021-02-22,84513,Steel,South - Bengaluru
+2024-04-20,334563,Information Technology,South - Bengaluru
+2025-11-05,188472,Steel,Central - Nagpur
+2025-08-22,187649,Information Technology,West - Mumbai
+2024-03-21,299820,Automobiles,West - Mumbai
+2021-09-30,432059,Textiles,West - Mumbai
+2023-06-29,290201,Automobiles,West - Mumbai
+2022-11-28,294528,Steel,South - Bengaluru
+2021-05-31,247084,Automobiles,East - Kolkata
+2023-07-30,445598,Information Technology,Central - Nagpur
+2025-02-24,301395,Textiles,East - Kolkata
+2025-08-05,92685,Automobiles,East - Kolkata
+2024-03-23,54465,Tea & Spices,East - Kolkata
+2021-11-09,102024,Information Technology,North - Delhi
+2023-06-15,304368,Steel,West - Mumbai
+2022-01-21,75783,Steel,North - Delhi
+2022-11-13,215143,Textiles,East - Kolkata
+2023-10-13,128412,Tea & Spices,West - Mumbai
+2021-05-25,276352,Steel,West - Mumbai
+2021-08-10,185799,Automobiles,South - Bengaluru
+2025-06-29,430686,Automobiles,North - Delhi
+2023-01-18,456691,Tea & Spices,East - Kolkata
+2024-11-01,222316,Textiles,Central - Nagpur
+2023-07-25,429009,Automobiles,West - Mumbai
+2023-02-23,334692,Information Technology,Central - Nagpur
+2021-08-01,266561,Textiles,West - Mumbai
+2023-12-18,324127,Automobiles,Central - Nagpur
+2025-07-21,457902,Automobiles,West - Mumbai
+2023-01-05,215160,Tea & Spices,North - Delhi
+2023-12-16,123070,Tea & Spices,West - Mumbai
+2022-12-14,195081,Tea & Spices,West - Mumbai
+2025-11-11,85914,Automobiles,East - Kolkata
+2023-06-20,173709,Textiles,North - Delhi
+2022-08-07,453097,Textiles,Central - Nagpur
+2025-07-27,179312,Information Technology,North - Delhi
+2025-07-28,305785,Information Technology,East - Kolkata
+2025-01-01,66559,Information Technology,East - Kolkata
+2025-11-29,485537,Steel,North - Delhi
+2024-01-16,363907,Tea & Spices,South - Bengaluru
+2023-10-25,110863,Steel,North - Delhi
+2025-11-20,177406,Information Technology,West - Mumbai
+2024-02-10,226358,Textiles,West - Mumbai
+2024-06-24,224790,Tea & Spices,East - Kolkata
+2021-06-30,64800,Textiles,West - Mumbai
+2024-07-29,449249,Information Technology,East - Kolkata
+2023-12-19,339252,Steel,Central - Nagpur
+2025-12-17,93384,Tea & Spices,West - Mumbai
+2022-09-27,133481,Tea & Spices,East - Kolkata
+2024-11-02,308223,Automobiles,North - Delhi
+2022-09-16,223146,Textiles,West - Mumbai
+2025-03-22,374854,Tea & Spices,Central - Nagpur
+2021-07-25,441649,Steel,Central - Nagpur
+2024-10-14,398486,Textiles,South - Bengaluru
+2024-05-20,198689,Steel,West - Mumbai
+2021-01-20,331113,Textiles,West - Mumbai
+2023-05-10,446094,Automobiles,Central - Nagpur
+2025-06-29,442121,Steel,Central - Nagpur
+2021-12-06,339483,Automobiles,East - Kolkata
+2025-07-24,347247,Information Technology,South - Bengaluru
+2025-05-18,420157,Tea & Spices,South - Bengaluru
+2021-09-14,67982,Steel,West - Mumbai
+2022-05-04,488111,Information Technology,East - Kolkata
+2025-11-26,180111,Information Technology,North - Delhi
+2025-08-09,311288,Information Technology,West - Mumbai
+2025-08-15,53987,Information Technology,West - Mumbai
+2021-04-29,321742,Automobiles,North - Delhi
+2024-11-05,221037,Textiles,East - Kolkata
+2024-04-12,109139,Steel,North - Delhi
+2021-05-20,491637,Textiles,Central - Nagpur
+2024-03-18,377497,Textiles,South - Bengaluru
+2024-03-30,478486,Textiles,West - Mumbai
+2024-09-20,73564,Information Technology,West - Mumbai
+2022-08-05,408306,Information Technology,Central - Nagpur
+2021-03-16,392131,Tea & Spices,South - Bengaluru
+2021-12-10,332801,Steel,Central - Nagpur
+2025-10-03,301872,Automobiles,Central - Nagpur
+2021-11-18,483960,Tea & Spices,Central - Nagpur
+2025-10-03,213464,Tea & Spices,West - Mumbai
+2023-02-04,275156,Information Technology,South - Bengaluru
+2024-02-22,110887,Information Technology,South - Bengaluru
+2022-12-15,118398,Automobiles,South - Bengaluru
+2022-11-06,330427,Steel,Central - Nagpur
+2021-08-16,389205,Automobiles,East - Kolkata
+2023-06-03,118341,Information Technology,Central - Nagpur
+2022-07-23,208404,Tea & Spices,West - Mumbai
+2023-10-07,370819,Textiles,South - Bengaluru
+2022-11-10,212786,Steel,West - Mumbai
+2021-05-02,86089,Steel,North - Delhi
+2021-10-02,91454,Information Technology,North - Delhi
+2022-11-18,314111,Textiles,South - Bengaluru
+2023-01-23,113926,Automobiles,South - Bengaluru
+2023-11-10,409208,Steel,West - Mumbai
+2024-09-06,107122,Automobiles,North - Delhi
+2022-09-05,316058,Tea & Spices,West - Mumbai
+2022-05-09,343968,Steel,North - Delhi
+2025-03-01,120240,Information Technology,West - Mumbai
+2025-01-19,232770,Textiles,East - Kolkata
+2023-05-10,409599,Textiles,Central - Nagpur
+2023-11-04,291761,Information Technology,East - Kolkata
+2021-08-25,364566,Textiles,South - Bengaluru
+2021-04-20,493153,Information Technology,South - Bengaluru
+2022-04-25,75034,Tea & Spices,East - Kolkata
+2023-06-26,215657,Tea & Spices,East - Kolkata
+2021-08-17,430590,Tea & Spices,South - Bengaluru
+2025-09-16,262304,Automobiles,Central - Nagpur
+2024-06-12,240182,Tea & Spices,East - Kolkata
+2023-08-06,448380,Tea & Spices,East - Kolkata
+2023-09-03,289502,Steel,East - Kolkata
+2024-06-08,435451,Tea & Spices,Central - Nagpur
+2023-11-30,451633,Automobiles,West - Mumbai
+2022-12-24,86747,Information Technology,North - Delhi
+2024-08-04,374635,Automobiles,East - Kolkata
+2024-10-02,394918,Tea & Spices,East - Kolkata
+2024-11-26,265458,Steel,North - Delhi
+2025-06-10,135857,Textiles,East - Kolkata
+2025-02-26,367660,Steel,North - Delhi
+2025-12-12,250141,Textiles,West - Mumbai
+2023-12-08,264986,Textiles,South - Bengaluru
+2025-06-04,138898,Textiles,South - Bengaluru
+2021-05-01,494525,Steel,Central - Nagpur
+2024-02-27,209910,Automobiles,North - Delhi
+2021-07-24,406124,Steel,North - Delhi
+2023-03-13,160323,Tea & Spices,North - Delhi
+2024-07-15,73425,Automobiles,East - Kolkata
+2021-08-26,290909,Steel,North - Delhi
+2025-01-04,67468,Information Technology,South - Bengaluru
+2021-04-14,301396,Information Technology,West - Mumbai
+2025-06-28,355833,Textiles,South - Bengaluru
+2023-10-30,174593,Information Technology,East - Kolkata
+2025-11-09,219174,Textiles,South - Bengaluru
+2025-06-27,134503,Tea & Spices,North - Delhi
+2022-02-11,413695,Automobiles,East - Kolkata
+2024-09-15,395110,Textiles,Central - Nagpur
+2023-07-06,209146,Steel,West - Mumbai
+2021-11-10,178776,Tea & Spices,South - Bengaluru
+2025-11-20,381262,Information Technology,East - Kolkata
+2024-12-18,69506,Steel,West - Mumbai
+2021-09-13,446358,Tea & Spices,East - Kolkata
+2022-07-11,306801,Automobiles,Central - Nagpur
+2021-05-28,308066,Steel,Central - Nagpur
+2023-02-27,403782,Automobiles,South - Bengaluru
+2023-07-23,435320,Steel,South - Bengaluru
+2021-08-27,352878,Steel,South - Bengaluru
+2025-06-17,234087,Information Technology,Central - Nagpur
+2025-05-27,129482,Automobiles,South - Bengaluru
+2024-10-25,271842,Textiles,East - Kolkata
+2025-04-25,302129,Information Technology,South - Bengaluru
+2025-04-27,60331,Steel,East - Kolkata
+2022-01-18,208582,Textiles,North - Delhi
+2021-12-17,69178,Textiles,North - Delhi
+2023-07-25,288090,Textiles,West - Mumbai
+2023-01-16,440409,Textiles,South - Bengaluru
+2025-09-06,390279,Automobiles,East - Kolkata
+2022-09-05,324944,Tea & Spices,North - Delhi
+2022-10-09,232126,Automobiles,East - Kolkata
+2025-10-14,53504,Tea & Spices,North - Delhi
+2022-04-04,118337,Automobiles,Central - Nagpur
+2021-11-19,188281,Automobiles,West - Mumbai
+2025-07-30,286109,Automobiles,West - Mumbai
+2024-01-27,282477,Tea & Spices,Central - Nagpur
+2025-01-12,414889,Information Technology,West - Mumbai
+2025-08-08,167402,Automobiles,South - Bengaluru
+2021-11-15,331505,Information Technology,Central - Nagpur
+2023-09-24,214943,Tea & Spices,West - Mumbai
+2025-09-03,367151,Automobiles,West - Mumbai
+2022-10-28,156912,Textiles,South - Bengaluru
+2023-01-08,94339,Automobiles,East - Kolkata
+2024-02-25,290418,Automobiles,North - Delhi
+2022-09-29,249430,Tea & Spices,West - Mumbai
+2021-06-24,126588,Information Technology,East - Kolkata
+2025-11-05,80052,Textiles,Central - Nagpur
+2025-05-30,153494,Tea & Spices,Central - Nagpur
+2023-12-30,414566,Steel,East - Kolkata
+2023-12-30,80895,Information Technology,Central - Nagpur
+2024-05-25,264775,Textiles,Central - Nagpur
+2024-11-02,114020,Tea & Spices,East - Kolkata
+2022-06-08,385872,Tea & Spices,West - Mumbai
+2025-09-03,235853,Automobiles,North - Delhi
+2023-08-18,183541,Automobiles,East - Kolkata
+2022-01-07,207842,Steel,West - Mumbai
+2024-02-24,451150,Steel,West - Mumbai
+2024-12-02,491167,Textiles,North - Delhi
+2022-05-01,346985,Tea & Spices,North - Delhi
+2024-07-23,163644,Automobiles,West - Mumbai
+2023-11-08,208182,Textiles,North - Delhi
+2022-10-21,298034,Information Technology,Central - Nagpur
+2021-03-28,157618,Information Technology,North - Delhi
+2021-10-14,310823,Tea & Spices,West - Mumbai
+2025-08-31,360178,Automobiles,South - Bengaluru
+2023-07-05,404908,Information Technology,Central - Nagpur
+2025-08-12,316000,Textiles,West - Mumbai
+2021-03-03,195337,Information Technology,Central - Nagpur
+2021-07-25,251857,Textiles,West - Mumbai
+2023-02-20,466647,Automobiles,East - Kolkata
+2025-05-29,382573,Textiles,South - Bengaluru
+2025-11-04,51557,Information Technology,North - Delhi
+2025-06-21,267389,Information Technology,East - Kolkata
+2024-08-24,250228,Information Technology,East - Kolkata
+2025-01-22,231186,Steel,Central - Nagpur
+2023-04-10,144502,Automobiles,South - Bengaluru
+2023-01-28,257684,Information Technology,Central - Nagpur
+2021-05-24,192039,Steel,East - Kolkata
+2021-09-25,182889,Steel,North - Delhi
+2022-07-21,493098,Textiles,Central - Nagpur
+2021-08-05,363680,Textiles,Central - Nagpur
+2023-12-06,199993,Automobiles,Central - Nagpur
+2023-04-10,339728,Information Technology,Central - Nagpur
+2024-09-01,320231,Automobiles,North - Delhi
+2024-09-11,354117,Textiles,Central - Nagpur
+2023-03-04,391516,Tea & Spices,West - Mumbai
+2023-04-22,188641,Steel,South - Bengaluru
+2024-10-23,351741,Automobiles,West - Mumbai
+2023-07-26,91916,Tea & Spices,North - Delhi
+2022-07-08,133339,Automobiles,Central - Nagpur
+2025-02-12,92652,Steel,Central - Nagpur
+2024-01-13,313376,Steel,East - Kolkata
+2021-12-08,469321,Automobiles,West - Mumbai
+2021-11-16,440244,Information Technology,South - Bengaluru
+2025-12-17,121639,Automobiles,Central - Nagpur
+2026-01-09,202228,Steel,North - Delhi
+2022-07-17,332152,Automobiles,South - Bengaluru
+2025-04-18,481211,Tea & Spices,East - Kolkata
+2023-01-15,411708,Tea & Spices,East - Kolkata
+2024-08-06,138605,Tea & Spices,Central - Nagpur
+2023-09-26,111273,Information Technology,North - Delhi
+2023-10-17,301307,Automobiles,South - Bengaluru
+2022-07-08,438610,Automobiles,East - Kolkata
+2022-10-03,218549,Automobiles,South - Bengaluru
+2025-09-08,51562,Textiles,Central - Nagpur
+2023-07-15,325753,Steel,East - Kolkata
+2025-06-25,382085,Automobiles,South - Bengaluru
+2023-06-04,318891,Information Technology,South - Bengaluru
+2025-07-12,240321,Textiles,North - Delhi
+2023-12-31,356921,Automobiles,South - Bengaluru
+2022-10-30,423313,Textiles,North - Delhi
+2025-11-30,53063,Automobiles,South - Bengaluru
+2024-02-16,363409,Information Technology,Central - Nagpur
+2021-09-04,420386,Automobiles,West - Mumbai
+2023-06-24,419530,Steel,North - Delhi
+2021-02-15,498634,Tea & Spices,East - Kolkata
+2025-08-25,459692,Automobiles,North - Delhi
+2024-03-06,312099,Steel,East - Kolkata
+2025-11-14,308580,Automobiles,East - Kolkata
+2022-10-27,157880,Tea & Spices,Central - Nagpur
+2022-08-22,446913,Textiles,South - Bengaluru
+2024-09-14,137573,Automobiles,North - Delhi
+2025-03-25,265339,Information Technology,West - Mumbai
+2025-06-03,198508,Textiles,North - Delhi
+2021-08-14,447692,Automobiles,West - Mumbai
+2024-12-05,159378,Information Technology,East - Kolkata
+2023-02-14,82900,Information Technology,North - Delhi
+2021-01-12,209141,Tea & Spices,East - Kolkata
+2021-02-05,131249,Automobiles,Central - Nagpur
+2021-10-19,452863,Steel,East - Kolkata
+2024-01-08,288971,Automobiles,West - Mumbai
+2021-03-29,431812,Automobiles,East - Kolkata
+2022-02-12,345360,Tea & Spices,East - Kolkata
+2021-02-07,93356,Information Technology,East - Kolkata
+2021-09-07,426043,Information Technology,South - Bengaluru
+2022-03-21,348445,Steel,South - Bengaluru
+2021-03-22,402484,Steel,Central - Nagpur
+2023-03-01,438008,Automobiles,South - Bengaluru
+2021-09-03,380434,Automobiles,West - Mumbai
+2022-06-26,320975,Textiles,West - Mumbai
+2023-08-18,284905,Tea & Spices,West - Mumbai
+2023-10-14,158342,Steel,North - Delhi
+2025-05-04,282666,Steel,East - Kolkata
+2021-04-28,471635,Steel,West - Mumbai
+2022-11-17,94286,Automobiles,Central - Nagpur
+2021-03-15,290325,Tea & Spices,North - Delhi
+2025-10-20,320361,Automobiles,South - Bengaluru
+2025-11-16,292889,Tea & Spices,West - Mumbai
+2023-05-26,82141,Tea & Spices,Central - Nagpur
+2022-03-05,320806,Automobiles,South - Bengaluru
+2022-09-03,205825,Steel,West - Mumbai
+2021-09-07,266109,Automobiles,East - Kolkata
+2022-04-29,289575,Tea & Spices,West - Mumbai
+2025-09-20,216791,Steel,West - Mumbai
+2022-06-12,348958,Tea & Spices,West - Mumbai
+2025-07-12,173397,Automobiles,Central - Nagpur
+2024-06-16,390574,Tea & Spices,West - Mumbai
+2022-02-28,405568,Tea & Spices,West - Mumbai
+2024-05-23,286830,Steel,North - Delhi
+2025-09-23,100025,Information Technology,West - Mumbai
+2021-05-12,406585,Textiles,North - Delhi
+2022-12-12,406317,Textiles,South - Bengaluru
+2021-07-21,124323,Steel,West - Mumbai
+2022-06-14,292078,Steel,West - Mumbai
+2023-07-22,421140,Information Technology,North - Delhi
+2024-08-26,248692,Tea & Spices,South - Bengaluru
+2021-10-25,218809,Automobiles,South - Bengaluru
+2022-05-19,419836,Automobiles,West - Mumbai
+2025-04-29,272386,Automobiles,North - Delhi
+2024-08-27,68694,Information Technology,East - Kolkata
+2021-10-28,250929,Textiles,North - Delhi
+2021-01-21,443216,Information Technology,West - Mumbai
+2021-02-19,402789,Automobiles,South - Bengaluru
+2024-04-23,262164,Tea & Spices,West - Mumbai
+2023-12-14,205712,Textiles,North - Delhi
+2023-03-07,445215,Textiles,South - Bengaluru
+2021-06-07,398951,Steel,North - Delhi
+2023-10-03,269450,Steel,Central - Nagpur
+2023-09-01,278652,Textiles,Central - Nagpur
+2025-07-07,336250,Automobiles,North - Delhi
+2024-10-11,278384,Steel,West - Mumbai
+2021-12-26,117480,Steel,North - Delhi
+2022-05-03,129979,Textiles,South - Bengaluru
+2022-04-12,354164,Textiles,Central - Nagpur
+2023-11-24,262082,Steel,Central - Nagpur
+2024-03-08,64094,Automobiles,East - Kolkata
+2024-12-23,253757,Information Technology,East - Kolkata
+2025-01-17,302198,Textiles,East - Kolkata
+2021-05-17,128215,Information Technology,East - Kolkata
+2023-08-16,102285,Tea & Spices,Central - Nagpur
+2025-12-04,68851,Tea & Spices,North - Delhi
+2023-02-26,227608,Automobiles,North - Delhi
+2023-08-10,196572,Automobiles,West - Mumbai
+2024-09-24,219320,Tea & Spices,East - Kolkata
+2023-10-31,197193,Automobiles,South - Bengaluru
+2023-01-21,309464,Textiles,Central - Nagpur
+2023-10-12,107086,Textiles,East - Kolkata
+2021-04-06,195781,Automobiles,Central - Nagpur
+2025-11-29,395452,Steel,West - Mumbai
+2021-12-09,445132,Automobiles,Central - Nagpur
+2021-06-22,212510,Steel,South - Bengaluru
+2023-07-29,298200,Automobiles,East - Kolkata
+2022-02-05,259578,Textiles,North - Delhi
+2025-06-06,365191,Textiles,North - Delhi
+2022-02-23,78975,Automobiles,West - Mumbai
+2024-02-15,276536,Information Technology,East - Kolkata
+2021-05-31,141033,Information Technology,South - Bengaluru
+2025-02-27,498990,Information Technology,Central - Nagpur
+2021-08-14,117166,Tea & Spices,East - Kolkata
+2025-03-07,271879,Textiles,West - Mumbai
+2023-01-10,168226,Information Technology,West - Mumbai
+2022-05-06,353820,Textiles,Central - Nagpur
+2023-07-03,347935,Information Technology,South - Bengaluru
+2025-08-30,402548,Steel,West - Mumbai
+2023-01-29,88271,Tea & Spices,South - Bengaluru
+2023-03-29,365061,Information Technology,East - Kolkata
+2025-08-04,393736,Steel,Central - Nagpur
+2021-07-04,377958,Information Technology,West - Mumbai
+2024-11-21,179174,Steel,East - Kolkata
+2023-07-24,483879,Tea & Spices,East - Kolkata
+2021-07-20,365674,Information Technology,West - Mumbai
+2021-12-13,267210,Information Technology,Central - Nagpur
+2023-03-18,130305,Tea & Spices,West - Mumbai
+2023-07-26,133121,Automobiles,North - Delhi
+2025-04-12,257766,Textiles,South - Bengaluru
+2021-10-27,98340,Tea & Spices,Central - Nagpur
+2023-01-30,414475,Automobiles,East - Kolkata
+2024-11-01,201933,Automobiles,Central - Nagpur
+2021-07-25,55029,Automobiles,East - Kolkata
+2024-04-06,128892,Tea & Spices,North - Delhi
+2022-10-28,198760,Tea & Spices,South - Bengaluru
+2025-06-18,457396,Information Technology,East - Kolkata
+2025-05-09,384961,Information Technology,East - Kolkata
+2025-02-23,368509,Automobiles,Central - Nagpur
+2025-04-28,221673,Textiles,Central - Nagpur
+2024-10-14,197989,Tea & Spices,East - Kolkata
+2022-12-02,360327,Information Technology,North - Delhi
+2022-07-23,223805,Steel,Central - Nagpur
+2021-05-07,459891,Information Technology,Central - Nagpur
+2024-12-16,377409,Steel,South - Bengaluru
+2024-09-26,192382,Automobiles,South - Bengaluru
+2024-10-26,321513,Textiles,Central - Nagpur
+2025-09-12,465762,Steel,South - Bengaluru
+2023-02-11,125351,Information Technology,North - Delhi
+2025-12-15,140601,Steel,West - Mumbai
+2023-06-06,447649,Information Technology,West - Mumbai
+2021-08-18,177816,Information Technology,Central - Nagpur
+2023-01-25,378250,Textiles,Central - Nagpur
+2022-05-17,416269,Automobiles,West - Mumbai
+2021-08-24,419167,Steel,South - Bengaluru
+2023-02-14,482105,Information Technology,South - Bengaluru
+2024-02-08,159678,Steel,East - Kolkata
+2025-07-21,462840,Textiles,West - Mumbai
+2024-07-16,287074,Steel,East - Kolkata
+2025-01-12,134174,Steel,South - Bengaluru
+2022-09-11,410006,Textiles,West - Mumbai
+2025-07-02,251585,Automobiles,West - Mumbai
+2025-06-30,291419,Tea & Spices,West - Mumbai
+2022-01-07,353525,Textiles,Central - Nagpur
+2025-08-21,459271,Textiles,South - Bengaluru
+2023-02-24,200430,Automobiles,West - Mumbai
+2025-05-07,127371,Textiles,North - Delhi
+2025-02-13,295300,Textiles,Central - Nagpur
+2022-09-13,327221,Tea & Spices,West - Mumbai
+2023-06-02,374995,Information Technology,Central - Nagpur
+2023-04-14,496518,Textiles,East - Kolkata
+2022-11-21,168047,Steel,South - Bengaluru
+2025-03-08,322059,Information Technology,South - Bengaluru
+2023-08-28,205672,Textiles,East - Kolkata
+2025-04-19,384227,Information Technology,West - Mumbai
+2022-09-30,430721,Information Technology,West - Mumbai
+2025-09-11,109522,Tea & Spices,North - Delhi
+2022-04-08,53772,Tea & Spices,South - Bengaluru
+2024-06-17,223127,Steel,North - Delhi
+2024-11-28,248792,Textiles,South - Bengaluru
+2023-09-01,83245,Steel,North - Delhi
+2022-01-05,261611,Textiles,West - Mumbai
+2021-03-05,97606,Information Technology,North - Delhi
+2022-05-07,410135,Textiles,East - Kolkata
+2025-01-22,375703,Information Technology,Central - Nagpur
+2022-09-11,498613,Textiles,South - Bengaluru
+2022-02-04,265418,Tea & Spices,West - Mumbai
+2025-05-07,68978,Steel,Central - Nagpur
+2024-11-07,269513,Textiles,East - Kolkata
+2024-05-07,59686,Steel,North - Delhi
+2023-12-06,332262,Automobiles,North - Delhi
+2022-04-02,212440,Steel,East - Kolkata
+2024-03-17,372136,Tea & Spices,West - Mumbai
+2025-11-14,201259,Textiles,East - Kolkata
+2022-11-02,307157,Steel,East - Kolkata
+2025-06-28,323360,Textiles,Central - Nagpur
+2022-05-13,377916,Textiles,North - Delhi
+2024-07-19,353639,Automobiles,Central - Nagpur
+2024-03-07,296714,Tea & Spices,South - Bengaluru
+2024-05-09,119386,Steel,North - Delhi
+2023-11-16,379370,Automobiles,Central - Nagpur
+2025-01-27,119052,Textiles,Central - Nagpur
+2024-09-29,181232,Automobiles,North - Delhi
+2021-12-22,213094,Information Technology,South - Bengaluru
+2021-08-30,72990,Automobiles,North - Delhi
+2023-01-11,414672,Information Technology,North - Delhi
+2024-01-30,371620,Automobiles,South - Bengaluru
+2025-04-22,123454,Information Technology,West - Mumbai
+2025-05-05,407349,Automobiles,South - Bengaluru
+2024-07-01,320137,Textiles,Central - Nagpur
+2022-02-09,346588,Steel,North - Delhi
+2025-06-10,291394,Automobiles,East - Kolkata
+2024-02-24,227488,Automobiles,South - Bengaluru
+2021-07-08,368184,Steel,North - Delhi
+2024-02-19,236859,Information Technology,North - Delhi
+2025-01-06,267017,Textiles,West - Mumbai
+2024-10-11,425010,Automobiles,North - Delhi
+2022-07-24,63788,Textiles,North - Delhi
+2025-12-07,400538,Information Technology,Central - Nagpur
+2024-04-10,412195,Automobiles,West - Mumbai
+2025-07-27,259910,Tea & Spices,West - Mumbai
+2023-04-13,390440,Tea & Spices,West - Mumbai
+2025-05-05,208664,Tea & Spices,Central - Nagpur
+2022-12-09,121366,Tea & Spices,North - Delhi
+2024-02-11,172067,Steel,East - Kolkata
+2024-02-07,146693,Textiles,West - Mumbai
+2024-04-01,53514,Textiles,Central - Nagpur
+2023-01-04,285929,Information Technology,Central - Nagpur
+2024-10-07,301642,Tea & Spices,East - Kolkata
+2023-12-27,463554,Textiles,North - Delhi
+2025-03-31,469175,Textiles,East - Kolkata
+2022-09-08,491373,Tea & Spices,South - Bengaluru
+2023-07-04,200199,Information Technology,North - Delhi
+2024-10-10,334032,Textiles,North - Delhi
+2022-12-11,470646,Steel,West - Mumbai
+2023-06-01,321801,Tea & Spices,Central - Nagpur
+2022-08-21,56670,Information Technology,West - Mumbai
+2025-01-17,116180,Tea & Spices,Central - Nagpur
+2021-06-11,472274,Steel,Central - Nagpur
+2023-05-17,84319,Textiles,South - Bengaluru
+2022-12-10,328865,Information Technology,Central - Nagpur
+2022-11-19,248669,Tea & Spices,South - Bengaluru
+2021-02-10,190981,Textiles,West - Mumbai
+2024-09-07,412830,Steel,East - Kolkata
+2022-08-28,496153,Steel,Central - Nagpur
+2025-07-11,167633,Steel,South - Bengaluru
+2022-02-28,220343,Steel,Central - Nagpur
+2023-02-13,422543,Information Technology,West - Mumbai
+2023-03-23,412859,Tea & Spices,South - Bengaluru
+2025-06-08,184823,Information Technology,Central - Nagpur
+2021-04-02,321167,Tea & Spices,South - Bengaluru
+2021-10-09,398675,Automobiles,West - Mumbai
+2023-03-10,191697,Textiles,South - Bengaluru
+2022-03-02,99809,Information Technology,North - Delhi
+2023-04-17,205496,Automobiles,West - Mumbai
+2024-04-29,173369,Textiles,West - Mumbai
+2022-05-07,446008,Automobiles,East - Kolkata
+2021-04-30,266027,Information Technology,West - Mumbai
+2021-12-19,142215,Information Technology,Central - Nagpur
+2021-07-09,343600,Automobiles,Central - Nagpur
+2025-03-07,271344,Tea & Spices,East - Kolkata
+2024-09-29,265852,Automobiles,East - Kolkata
+2025-03-20,275249,Tea & Spices,Central - Nagpur
+2024-06-17,272264,Steel,East - Kolkata
+2022-10-17,464283,Steel,Central - Nagpur
+2025-05-21,454391,Steel,South - Bengaluru
+2022-09-19,57009,Automobiles,East - Kolkata
+2025-11-25,316841,Textiles,South - Bengaluru
+2021-01-30,490989,Information Technology,North - Delhi
+2025-02-01,360754,Tea & Spices,South - Bengaluru
+2021-11-02,210378,Steel,East - Kolkata
+2024-10-25,326557,Steel,East - Kolkata
+2022-11-23,166627,Automobiles,Central - Nagpur
+2025-09-23,181763,Automobiles,East - Kolkata
+2023-10-22,485738,Information Technology,West - Mumbai
+2025-03-18,97573,Tea & Spices,East - Kolkata
+2023-11-30,447182,Tea & Spices,Central - Nagpur
+2025-02-23,208242,Automobiles,East - Kolkata
+2025-01-09,416776,Steel,South - Bengaluru
+2023-06-13,168524,Steel,North - Delhi
+2024-02-19,303171,Tea & Spices,South - Bengaluru
+2024-10-30,338780,Steel,North - Delhi
+2025-01-30,63106,Steel,West - Mumbai
+2024-09-13,432744,Tea & Spices,South - Bengaluru
+2025-08-11,242907,Tea & Spices,Central - Nagpur
+2021-10-21,71302,Steel,North - Delhi
+2021-04-14,87414,Steel,South - Bengaluru
+2021-02-16,232750,Textiles,West - Mumbai
+2021-02-05,150999,Steel,West - Mumbai
+2024-02-21,480232,Tea & Spices,Central - Nagpur
+2025-04-07,317709,Steel,Central - Nagpur
+2025-08-20,261362,Tea & Spices,West - Mumbai
+2025-05-25,414174,Steel,North - Delhi
+2023-07-21,362135,Information Technology,South - Bengaluru
+2021-08-26,496204,Tea & Spices,East - Kolkata
+2023-04-25,350647,Automobiles,East - Kolkata
+2024-09-08,300060,Steel,Central - Nagpur
+2023-04-24,384638,Steel,North - Delhi
+2025-06-02,103072,Tea & Spices,Central - Nagpur
+2024-06-27,286568,Steel,West - Mumbai
+2023-08-10,352699,Steel,South - Bengaluru
+2024-09-19,360888,Tea & Spices,North - Delhi
+2022-02-09,299840,Steel,Central - Nagpur
+2022-11-06,138899,Steel,North - Delhi
+2023-12-12,206375,Textiles,South - Bengaluru
+2023-02-12,298765,Steel,South - Bengaluru
+2025-10-24,350215,Information Technology,East - Kolkata
+2023-06-27,331681,Automobiles,West - Mumbai
+2023-05-21,295379,Steel,East - Kolkata
+2021-07-19,141602,Steel,South - Bengaluru
+2025-02-18,125924,Steel,West - Mumbai
+2022-02-18,278667,Information Technology,South - Bengaluru
+2021-10-10,83980,Textiles,South - Bengaluru
+2024-03-31,92580,Tea & Spices,North - Delhi
+2023-09-14,441351,Textiles,Central - Nagpur
+2024-09-01,379450,Steel,West - Mumbai
+2025-06-04,116177,Tea & Spices,North - Delhi
+2022-06-02,373124,Tea & Spices,South - Bengaluru
+2024-12-24,253375,Steel,East - Kolkata
+2025-10-18,487381,Automobiles,West - Mumbai
+2024-01-30,178518,Tea & Spices,West - Mumbai
+2024-07-14,419499,Information Technology,South - Bengaluru
+2024-12-30,435933,Steel,East - Kolkata
+2024-04-30,169045,Information Technology,East - Kolkata
+2021-10-26,384296,Information Technology,Central - Nagpur
+2021-06-08,268703,Tea & Spices,South - Bengaluru
+2023-02-05,458640,Automobiles,Central - Nagpur
+2021-01-19,106435,Automobiles,North - Delhi
+2024-05-15,323996,Tea & Spices,West - Mumbai
+2025-05-29,356787,Automobiles,Central - Nagpur
+2022-01-02,486936,Information Technology,East - Kolkata
+2023-04-05,199712,Information Technology,West - Mumbai
+2025-01-12,423346,Steel,West - Mumbai
+2024-12-28,74681,Information Technology,East - Kolkata
+2024-04-24,215687,Steel,Central - Nagpur
+2022-03-31,79887,Information Technology,East - Kolkata
+2025-12-01,174496,Steel,West - Mumbai
+2022-11-16,322008,Textiles,South - Bengaluru
+2025-03-14,400108,Steel,East - Kolkata
+2022-05-02,363986,Steel,East - Kolkata
+2021-09-06,470143,Steel,North - Delhi
+2024-03-09,138933,Automobiles,West - Mumbai
+2021-03-27,293257,Automobiles,East - Kolkata
+2021-04-29,307173,Tea & Spices,North - Delhi
+2022-08-24,242194,Steel,North - Delhi
+2023-08-07,488895,Information Technology,South - Bengaluru
+2021-12-01,247877,Steel,East - Kolkata
+2023-04-04,378127,Textiles,East - Kolkata
+2025-02-14,331526,Tea & Spices,West - Mumbai
+2023-06-19,406162,Tea & Spices,South - Bengaluru
+2023-03-07,81587,Information Technology,West - Mumbai
+2025-07-23,276974,Tea & Spices,Central - Nagpur
+2025-06-07,331324,Automobiles,South - Bengaluru
+2023-11-16,358227,Information Technology,North - Delhi
+2021-11-20,182037,Textiles,North - Delhi
+2021-01-21,162838,Automobiles,East - Kolkata
+2021-05-09,238709,Tea & Spices,West - Mumbai
+2022-12-18,296977,Steel,West - Mumbai
+2022-10-13,121893,Tea & Spices,South - Bengaluru
+2023-03-07,214449,Textiles,North - Delhi
+2023-12-08,495676,Tea & Spices,North - Delhi
+2024-02-14,245670,Information Technology,North - Delhi
+2025-01-25,118294,Information Technology,West - Mumbai
+2022-03-21,330814,Textiles,Central - Nagpur
+2025-06-22,61025,Steel,Central - Nagpur
+2022-01-09,304092,Textiles,South - Bengaluru
+2023-12-14,294975,Textiles,Central - Nagpur
+2025-10-03,100968,Tea & Spices,Central - Nagpur
+2021-05-11,436122,Tea & Spices,West - Mumbai
+2023-02-11,251491,Tea & Spices,West - Mumbai
+2021-01-10,341600,Textiles,East - Kolkata
+2021-10-22,264117,Textiles,East - Kolkata
+2021-03-05,239026,Information Technology,East - Kolkata
+2022-04-24,56939,Tea & Spices,East - Kolkata
+2021-08-30,321430,Information Technology,West - Mumbai
+2024-06-13,432247,Tea & Spices,South - Bengaluru
+2023-07-21,347438,Information Technology,West - Mumbai
+2022-06-02,386052,Tea & Spices,Central - Nagpur
+2025-07-20,456522,Tea & Spices,South - Bengaluru
+2025-11-18,483005,Tea & Spices,North - Delhi
+2025-02-14,214823,Tea & Spices,East - Kolkata
+2021-06-22,274222,Steel,East - Kolkata
+2025-01-31,153654,Tea & Spices,West - Mumbai
+2022-07-28,400389,Textiles,North - Delhi
+2024-04-25,59143,Automobiles,South - Bengaluru
+2025-04-17,92680,Information Technology,Central - Nagpur
+2023-02-25,369505,Tea & Spices,East - Kolkata
+2025-02-03,261087,Information Technology,West - Mumbai
+2025-11-30,87767,Automobiles,Central - Nagpur
+2021-11-14,238576,Steel,South - Bengaluru
+2021-07-13,319577,Textiles,East - Kolkata
+2021-01-11,88321,Automobiles,Central - Nagpur
+2025-05-20,248170,Automobiles,Central - Nagpur
+2021-02-08,263512,Steel,Central - Nagpur
+2022-09-19,86778,Tea & Spices,East - Kolkata
+2024-05-20,276283,Steel,Central - Nagpur
+2024-06-23,251003,Automobiles,Central - Nagpur
+2021-01-30,113592,Automobiles,North - Delhi
+2023-04-11,344802,Textiles,Central - Nagpur
+2025-09-10,369707,Information Technology,Central - Nagpur
+2025-12-23,301765,Textiles,North - Delhi
+2024-04-16,306971,Automobiles,East - Kolkata
+2023-12-21,57767,Steel,North - Delhi
+2023-09-07,478307,Steel,South - Bengaluru
+2021-12-29,288613,Steel,North - Delhi
+2024-07-04,318532,Steel,East - Kolkata
+2024-02-10,168601,Tea & Spices,West - Mumbai
+2022-10-08,395941,Textiles,Central - Nagpur
+2024-07-10,308036,Steel,North - Delhi
+2025-09-16,244001,Automobiles,North - Delhi
+2023-03-16,415066,Information Technology,North - Delhi
+2022-09-20,192865,Automobiles,East - Kolkata
+2021-01-22,271211,Steel,East - Kolkata
+2025-07-12,495859,Steel,North - Delhi
+2023-05-27,293741,Textiles,West - Mumbai
+2023-05-18,491369,Automobiles,Central - Nagpur
+2024-01-24,207778,Automobiles,South - Bengaluru
+2025-09-06,188550,Information Technology,East - Kolkata
+2021-10-12,164292,Textiles,South - Bengaluru
+2022-11-16,280762,Steel,Central - Nagpur
+2024-01-05,468471,Automobiles,South - Bengaluru
+2022-07-28,280858,Information Technology,Central - Nagpur
+2023-09-17,321834,Automobiles,West - Mumbai
+2023-04-30,134514,Textiles,West - Mumbai
+2025-06-06,406847,Steel,East - Kolkata
+2025-09-02,191970,Tea & Spices,North - Delhi
+2024-09-11,291131,Automobiles,West - Mumbai
+2022-08-10,354989,Steel,South - Bengaluru
+2023-06-08,400225,Automobiles,South - Bengaluru
+2023-03-28,256462,Steel,South - Bengaluru
+2023-06-24,432903,Textiles,North - Delhi
+2024-03-29,271841,Steel,South - Bengaluru
+2022-07-13,465120,Information Technology,North - Delhi
+2021-02-20,113699,Tea & Spices,South - Bengaluru
+2021-06-15,277154,Textiles,West - Mumbai
+2021-08-25,248859,Tea & Spices,South - Bengaluru
+2022-03-27,198533,Tea & Spices,West - Mumbai
+2021-02-15,400205,Steel,East - Kolkata
+2021-07-01,313263,Textiles,West - Mumbai
+2022-06-20,425818,Automobiles,West - Mumbai
+2025-08-29,278760,Information Technology,East - Kolkata
+2022-08-18,54941,Steel,West - Mumbai
+2025-11-19,307993,Tea & Spices,West - Mumbai
+2025-02-05,324971,Tea & Spices,West - Mumbai
+2022-12-12,273886,Automobiles,West - Mumbai
+2025-09-03,270205,Steel,West - Mumbai
+2025-10-29,400793,Automobiles,North - Delhi
+2021-12-27,99602,Textiles,North - Delhi
+2025-12-21,199718,Steel,North - Delhi
+2022-01-08,99390,Textiles,East - Kolkata
+2023-08-21,480176,Automobiles,West - Mumbai
+2022-10-26,240263,Tea & Spices,East - Kolkata
+2023-11-06,256437,Textiles,North - Delhi
+2022-09-04,81151,Information Technology,Central - Nagpur
+2023-03-24,282549,Automobiles,North - Delhi
+2021-12-14,76921,Information Technology,West - Mumbai
+2025-11-17,85494,Textiles,West - Mumbai
+2025-06-27,242504,Steel,West - Mumbai
+2024-08-28,219174,Tea & Spices,Central - Nagpur
+2025-03-25,428954,Steel,North - Delhi
+2023-06-07,264965,Automobiles,West - Mumbai
+2021-10-04,279444,Steel,Central - Nagpur
+2025-01-31,255805,Information Technology,Central - Nagpur
+2022-10-13,481535,Information Technology,South - Bengaluru
+2025-07-20,433596,Textiles,South - Bengaluru
+2021-08-22,276939,Steel,East - Kolkata
+2024-08-17,314931,Automobiles,Central - Nagpur
+2025-02-01,245459,Textiles,North - Delhi
+2024-02-11,274530,Tea & Spices,West - Mumbai
+2024-10-31,348033,Tea & Spices,East - Kolkata
+2021-02-25,393218,Information Technology,West - Mumbai
+2023-12-22,332372,Textiles,Central - Nagpur
+2023-06-16,436994,Tea & Spices,North - Delhi
+2023-02-17,440790,Information Technology,East - Kolkata
+2022-09-30,155091,Tea & Spices,West - Mumbai
+2025-05-13,55634,Information Technology,West - Mumbai
+2021-05-17,208093,Information Technology,South - Bengaluru
+2023-09-26,384900,Automobiles,South - Bengaluru
+2023-01-08,123727,Information Technology,West - Mumbai
+2023-09-13,301088,Information Technology,West - Mumbai
+2022-07-15,369821,Automobiles,Central - Nagpur
+2023-05-07,269263,Steel,West - Mumbai
+2025-08-29,184222,Steel,North - Delhi
+2023-03-06,444289,Automobiles,South - Bengaluru
+2022-05-25,181347,Steel,East - Kolkata
+2022-07-07,408946,Information Technology,West - Mumbai
+2024-02-21,430643,Tea & Spices,East - Kolkata
+2021-02-27,168085,Tea & Spices,West - Mumbai
+2021-03-25,201840,Automobiles,East - Kolkata
+2025-10-07,398916,Automobiles,West - Mumbai
+2024-03-26,325813,Textiles,West - Mumbai
+2024-04-02,364010,Information Technology,Central - Nagpur
+2024-05-23,96653,Information Technology,West - Mumbai
+2021-02-18,193560,Automobiles,East - Kolkata
+2025-03-23,432473,Textiles,East - Kolkata
+2024-09-27,299909,Textiles,East - Kolkata
+2022-08-22,357715,Automobiles,North - Delhi
+2024-06-28,476717,Automobiles,East - Kolkata
+2024-01-08,386506,Automobiles,East - Kolkata
+2022-09-30,350843,Textiles,South - Bengaluru
+2022-11-24,274557,Tea & Spices,West - Mumbai
+2025-06-10,94684,Information Technology,South - Bengaluru
+2023-04-16,322736,Automobiles,East - Kolkata
+2025-05-20,491790,Automobiles,South - Bengaluru
+2025-04-24,278908,Textiles,Central - Nagpur
+2023-03-11,96874,Information Technology,West - Mumbai
+2024-10-06,418272,Textiles,East - Kolkata
+2021-07-20,297532,Textiles,South - Bengaluru
+2024-08-11,253687,Automobiles,North - Delhi
+2025-01-22,259202,Steel,South - Bengaluru
+2022-11-29,143728,Textiles,South - Bengaluru
+2025-10-31,385154,Tea & Spices,East - Kolkata
+2023-05-27,370577,Textiles,West - Mumbai
+2023-09-07,149605,Information Technology,South - Bengaluru
+2022-08-09,259720,Steel,South - Bengaluru
+2022-12-12,203550,Tea & Spices,Central - Nagpur
+2021-05-29,321698,Steel,East - Kolkata
+2024-01-01,98559,Textiles,East - Kolkata
+2025-03-02,111674,Textiles,West - Mumbai
+2022-09-17,296570,Information Technology,South - Bengaluru
+2022-04-08,236117,Information Technology,North - Delhi
+2023-07-21,126319,Steel,West - Mumbai
+2024-01-27,229512,Steel,East - Kolkata
+2025-12-21,444046,Tea & Spices,West - Mumbai
+2023-06-30,189891,Tea & Spices,North - Delhi
+2024-04-29,483526,Steel,South - Bengaluru
+2022-02-02,75899,Textiles,North - Delhi
+2024-11-09,110765,Steel,Central - Nagpur
+2022-03-09,187125,Information Technology,South - Bengaluru
+2024-03-26,470170,Textiles,South - Bengaluru
+2021-09-03,335282,Steel,West - Mumbai
+2025-06-07,315814,Textiles,West - Mumbai
+2024-09-18,310357,Information Technology,North - Delhi
+2024-07-23,353871,Automobiles,South - Bengaluru
+2022-03-17,213652,Textiles,East - Kolkata
+2021-05-17,143557,Information Technology,West - Mumbai
+2023-09-25,245346,Automobiles,South - Bengaluru
+2024-08-14,238883,Textiles,West - Mumbai
+2023-11-14,400553,Information Technology,East - Kolkata
+2021-12-07,491269,Textiles,South - Bengaluru
+2025-02-14,226063,Tea & Spices,North - Delhi
+2024-04-25,133284,Steel,South - Bengaluru
+2021-08-11,432968,Tea & Spices,Central - Nagpur
+2022-07-09,495124,Automobiles,South - Bengaluru
+2022-12-04,486194,Automobiles,Central - Nagpur
+2025-01-30,192633,Automobiles,Central - Nagpur
+2023-12-22,477818,Automobiles,South - Bengaluru
+2021-10-02,335099,Tea & Spices,Central - Nagpur
+2024-05-23,161954,Tea & Spices,Central - Nagpur
+2023-09-07,173007,Tea & Spices,North - Delhi
+2025-05-03,442734,Information Technology,South - Bengaluru
+2025-01-16,487245,Textiles,North - Delhi
+2021-11-27,180757,Automobiles,South - Bengaluru
+2022-01-29,444362,Textiles,South - Bengaluru
+2025-04-17,223277,Tea & Spices,North - Delhi
+2021-12-18,278722,Automobiles,West - Mumbai
+2022-06-13,126099,Steel,South - Bengaluru
+2022-11-12,443385,Textiles,West - Mumbai
+2023-06-24,494609,Information Technology,West - Mumbai
+2023-01-08,370609,Textiles,East - Kolkata
+2024-09-07,217033,Automobiles,East - Kolkata
+2023-01-10,208225,Tea & Spices,North - Delhi
+2021-03-16,311307,Tea & Spices,East - Kolkata
+2024-07-28,457556,Tea & Spices,North - Delhi
+2023-01-07,358609,Information Technology,North - Delhi
+2021-05-08,496917,Information Technology,North - Delhi
+2024-06-08,164928,Automobiles,North - Delhi
+2024-02-03,428199,Information Technology,East - Kolkata
+2023-07-02,89597,Automobiles,North - Delhi
+2021-07-19,136819,Information Technology,East - Kolkata
+2024-06-10,337050,Automobiles,Central - Nagpur
+2022-06-06,236457,Automobiles,Central - Nagpur
+2022-04-17,286744,Steel,Central - Nagpur
+2021-08-15,295728,Textiles,West - Mumbai
+2023-06-22,88570,Tea & Spices,North - Delhi
+2023-02-13,159465,Information Technology,East - Kolkata
+2023-03-19,127747,Textiles,East - Kolkata
+2024-11-28,440902,Information Technology,Central - Nagpur
+2022-02-22,326551,Information Technology,North - Delhi
+2024-11-06,108590,Information Technology,North - Delhi
+2025-08-11,228440,Steel,Central - Nagpur
+2022-03-14,471181,Information Technology,South - Bengaluru
+2025-07-04,81956,Information Technology,East - Kolkata
+2024-01-30,445609,Information Technology,East - Kolkata
+2024-06-09,104745,Steel,North - Delhi
+2021-06-12,362144,Information Technology,North - Delhi
+2021-07-18,180928,Automobiles,North - Delhi
+2022-09-19,130349,Information Technology,Central - Nagpur
+2024-01-18,280083,Information Technology,North - Delhi
+2025-01-17,203734,Information Technology,North - Delhi
+2022-10-04,282764,Steel,North - Delhi
+2022-11-16,79504,Automobiles,Central - Nagpur
+2021-03-12,239814,Textiles,Central - Nagpur
+2021-03-21,425537,Automobiles,West - Mumbai
+2025-08-27,343185,Tea & Spices,East - Kolkata
+2021-03-25,205064,Tea & Spices,South - Bengaluru
+2021-03-23,100756,Tea & Spices,North - Delhi
+2021-04-21,341348,Tea & Spices,West - Mumbai
+2023-04-10,403471,Tea & Spices,Central - Nagpur
+2025-03-07,498614,Automobiles,North - Delhi
+2022-11-07,461132,Textiles,East - Kolkata
+2022-04-29,269627,Information Technology,South - Bengaluru
+2022-07-12,340131,Automobiles,North - Delhi
+2022-12-17,56796,Tea & Spices,East - Kolkata
+2021-10-02,143540,Tea & Spices,Central - Nagpur
+2022-05-04,144718,Automobiles,West - Mumbai
+2024-02-22,320887,Textiles,South - Bengaluru
+2022-03-09,474823,Automobiles,North - Delhi
+2025-12-20,151604,Information Technology,Central - Nagpur
+2025-02-21,284115,Tea & Spices,South - Bengaluru
+2021-12-14,496656,Information Technology,East - Kolkata
+2025-03-10,408927,Textiles,North - Delhi
+2022-11-07,218226,Tea & Spices,West - Mumbai
+2024-10-04,321376,Tea & Spices,East - Kolkata
+2024-10-30,225857,Textiles,North - Delhi
+2024-10-24,197641,Steel,East - Kolkata
+2025-04-17,337418,Steel,North - Delhi
+2025-06-21,404995,Steel,North - Delhi
+2025-08-24,190754,Textiles,South - Bengaluru
+2022-04-12,445957,Information Technology,West - Mumbai
+2022-08-05,487206,Textiles,North - Delhi
+2022-04-09,439850,Tea & Spices,West - Mumbai
+2021-07-06,470903,Tea & Spices,West - Mumbai
+2023-08-03,54191,Steel,West - Mumbai
+2023-11-03,210646,Tea & Spices,North - Delhi
+2025-04-16,388765,Automobiles,West - Mumbai
+2023-10-13,456445,Tea & Spices,South - Bengaluru
+2023-08-23,101820,Textiles,Central - Nagpur
+2022-07-04,177702,Automobiles,Central - Nagpur
+2025-01-30,336126,Information Technology,East - Kolkata
+2024-07-02,326415,Steel,North - Delhi
+2022-05-01,233512,Steel,East - Kolkata
+2023-05-21,156934,Information Technology,North - Delhi
+2025-10-17,73131,Automobiles,Central - Nagpur
+2024-08-15,498279,Information Technology,South - Bengaluru
+2024-05-31,149108,Textiles,West - Mumbai
+2023-04-17,184433,Steel,South - Bengaluru
+2023-01-07,496693,Textiles,South - Bengaluru
+2022-08-23,121333,Tea & Spices,Central - Nagpur
+2023-01-08,318936,Information Technology,East - Kolkata
+2023-11-18,288443,Textiles,South - Bengaluru
+2022-08-19,71573,Information Technology,Central - Nagpur
+2021-08-30,241457,Steel,North - Delhi
+2021-04-25,247408,Textiles,South - Bengaluru
+2024-03-02,81321,Tea & Spices,Central - Nagpur
+2025-05-08,108558,Tea & Spices,North - Delhi
+2022-06-03,342236,Steel,North - Delhi
+2022-08-12,69278,Information Technology,South - Bengaluru
+2022-07-16,136124,Steel,South - Bengaluru
+2022-09-14,308726,Steel,East - Kolkata
+2023-07-23,291466,Automobiles,West - Mumbai
+2023-05-01,275618,Tea & Spices,South - Bengaluru
+2023-01-03,426521,Information Technology,East - Kolkata
+2025-10-06,302893,Textiles,West - Mumbai
+2022-05-09,178688,Information Technology,South - Bengaluru
+2021-05-29,441910,Tea & Spices,East - Kolkata
+2021-12-05,309023,Textiles,West - Mumbai
+2022-10-15,364080,Textiles,North - Delhi
+2023-04-08,185926,Information Technology,South - Bengaluru
+2022-12-31,164722,Textiles,North - Delhi
+2023-07-28,313258,Textiles,North - Delhi
+2025-12-05,430436,Tea & Spices,West - Mumbai
+2024-07-25,230458,Textiles,South - Bengaluru
+2024-06-21,494590,Tea & Spices,North - Delhi
+2026-01-09,199929,Textiles,North - Delhi
+2024-11-08,444116,Tea & Spices,West - Mumbai
+2025-03-20,488595,Automobiles,South - Bengaluru
+2025-03-09,196152,Information Technology,West - Mumbai
+2025-09-22,310346,Tea & Spices,South - Bengaluru
+2025-09-10,415701,Steel,South - Bengaluru
+2025-07-05,359508,Information Technology,North - Delhi
+2021-03-01,64509,Tea & Spices,East - Kolkata
+2023-01-24,235431,Tea & Spices,West - Mumbai
+2024-01-10,369850,Automobiles,East - Kolkata
+2025-02-20,490391,Tea & Spices,South - Bengaluru
+2022-07-17,361433,Information Technology,North - Delhi
+2021-03-13,94382,Information Technology,East - Kolkata
+2024-11-12,323311,Steel,West - Mumbai
+2025-06-26,264390,Steel,West - Mumbai
+2024-07-04,363945,Textiles,North - Delhi
+2021-08-11,245952,Tea & Spices,North - Delhi
+2024-02-17,187978,Textiles,Central - Nagpur
+2025-11-07,188668,Textiles,Central - Nagpur
+2025-05-03,187459,Automobiles,North - Delhi
+2022-08-16,262345,Tea & Spices,North - Delhi
+2024-09-07,283514,Steel,South - Bengaluru
+2022-07-02,114413,Steel,East - Kolkata
+2023-08-05,208280,Steel,West - Mumbai
+2025-03-23,443899,Automobiles,East - Kolkata
+2023-03-06,479977,Automobiles,North - Delhi
+2025-02-26,239872,Tea & Spices,North - Delhi
+2024-10-08,496980,Information Technology,West - Mumbai
+2021-08-26,245173,Automobiles,South - Bengaluru
+2022-09-24,423318,Information Technology,East - Kolkata
+2021-08-15,160280,Textiles,South - Bengaluru
+2025-07-17,144510,Steel,Central - Nagpur
+2025-02-04,247939,Automobiles,Central - Nagpur
+2025-10-14,230007,Textiles,South - Bengaluru
+2023-05-24,315231,Information Technology,North - Delhi
+2021-02-20,407115,Tea & Spices,Central - Nagpur
+2024-10-08,194029,Tea & Spices,South - Bengaluru
+2021-08-25,370007,Tea & Spices,West - Mumbai
+2021-06-12,58835,Textiles,West - Mumbai
+2023-01-10,463962,Tea & Spices,West - Mumbai
+2024-12-14,499962,Automobiles,Central - Nagpur
+2023-06-17,438173,Tea & Spices,East - Kolkata
+2023-10-27,245932,Tea & Spices,East - Kolkata
+2025-08-09,336705,Textiles,Central - Nagpur
+2022-06-18,336477,Tea & Spices,East - Kolkata
+2022-10-11,450576,Textiles,East - Kolkata
+2021-03-03,323011,Tea & Spices,West - Mumbai
+2022-10-19,221588,Tea & Spices,Central - Nagpur
+2024-10-17,240194,Automobiles,South - Bengaluru
+2022-06-16,327581,Tea & Spices,West - Mumbai
+2022-05-03,324770,Tea & Spices,South - Bengaluru
+2021-05-30,125702,Textiles,East - Kolkata
+2024-10-16,381750,Steel,North - Delhi
+2024-07-07,343899,Steel,Central - Nagpur
+2025-11-05,335649,Automobiles,West - Mumbai
+2023-01-09,119107,Information Technology,North - Delhi
+2025-06-21,93234,Information Technology,South - Bengaluru
+2023-07-24,132938,Information Technology,West - Mumbai
+2025-08-26,137242,Steel,South - Bengaluru
+2025-12-12,102366,Textiles,South - Bengaluru
+2022-08-01,252896,Automobiles,North - Delhi
+2025-10-22,424894,Information Technology,Central - Nagpur
+2025-11-18,136602,Steel,East - Kolkata
+2024-04-21,205103,Automobiles,East - Kolkata
+2021-05-22,458318,Tea & Spices,South - Bengaluru
+2022-07-04,416715,Automobiles,East - Kolkata
+2025-07-30,142852,Automobiles,East - Kolkata
+2025-05-28,132698,Textiles,North - Delhi
+2022-08-21,339493,Information Technology,South - Bengaluru
+2021-04-07,462806,Steel,Central - Nagpur
+2022-08-10,263871,Textiles,East - Kolkata
+2023-09-06,218852,Information Technology,South - Bengaluru
+2024-09-14,323694,Tea & Spices,North - Delhi
+2025-05-28,432944,Textiles,North - Delhi
+2023-10-28,228868,Textiles,Central - Nagpur
+2024-01-22,396840,Steel,Central - Nagpur
+2021-01-15,373513,Information Technology,Central - Nagpur
+2024-03-27,446254,Tea & Spices,East - Kolkata
+2024-07-15,443318,Information Technology,East - Kolkata
+2025-03-29,484656,Automobiles,West - Mumbai
+2024-04-29,431495,Tea & Spices,East - Kolkata
+2022-12-16,224970,Steel,South - Bengaluru
+2022-08-28,482224,Automobiles,West - Mumbai
+2024-04-11,274463,Tea & Spices,North - Delhi
+2023-10-23,276311,Automobiles,Central - Nagpur
+2025-07-19,261196,Automobiles,Central - Nagpur
+2024-08-25,289924,Information Technology,North - Delhi
+2024-12-28,132356,Textiles,East - Kolkata
+2021-11-19,143645,Tea & Spices,West - Mumbai
+2025-08-30,432770,Automobiles,Central - Nagpur
+2023-04-26,228878,Tea & Spices,North - Delhi
+2022-09-06,345568,Steel,South - Bengaluru
+2025-10-26,362780,Steel,West - Mumbai
+2022-03-04,97935,Steel,Central - Nagpur
+2023-11-05,416929,Textiles,West - Mumbai
+2023-02-20,485434,Information Technology,West - Mumbai
+2021-09-02,50417,Steel,North - Delhi
+2022-12-01,235524,Tea & Spices,West - Mumbai
+2024-05-22,191588,Steel,Central - Nagpur
+2021-02-14,144993,Steel,North - Delhi
+2023-08-08,352906,Steel,West - Mumbai
+2026-01-04,366747,Information Technology,East - Kolkata
+2021-08-07,212195,Textiles,Central - Nagpur
+2024-07-01,367396,Automobiles,North - Delhi
+2024-03-15,143228,Steel,South - Bengaluru
+2021-06-22,382081,Information Technology,Central - Nagpur
+2022-01-14,245018,Textiles,South - Bengaluru
+2022-01-04,444592,Textiles,East - Kolkata
+2023-08-24,365791,Tea & Spices,Central - Nagpur
+2022-03-16,62623,Automobiles,East - Kolkata
+2021-04-27,266464,Steel,North - Delhi
+2024-10-01,267725,Information Technology,Central - Nagpur
+2024-04-22,113826,Automobiles,West - Mumbai
+2021-11-07,215281,Tea & Spices,West - Mumbai
+2021-10-29,70584,Textiles,East - Kolkata
+2023-04-29,322792,Textiles,East - Kolkata
+2021-08-01,400512,Steel,Central - Nagpur
+2024-04-09,167646,Information Technology,South - Bengaluru
+2021-11-21,425564,Textiles,North - Delhi
+2025-11-17,471410,Automobiles,East - Kolkata
+2024-05-07,136879,Automobiles,North - Delhi
+2025-08-28,201935,Information Technology,East - Kolkata
+2022-05-09,427596,Tea & Spices,East - Kolkata
+2021-03-22,487523,Steel,East - Kolkata
+2025-12-06,64721,Textiles,West - Mumbai
+2023-02-08,290861,Tea & Spices,North - Delhi
+2025-11-01,248606,Textiles,West - Mumbai
+2023-06-26,371798,Automobiles,West - Mumbai
+2022-05-07,341797,Automobiles,West - Mumbai
+2021-09-30,458617,Automobiles,East - Kolkata
+2024-11-09,466345,Steel,East - Kolkata
+2022-03-05,185986,Tea & Spices,East - Kolkata
+2022-05-29,231134,Information Technology,South - Bengaluru
+2023-06-30,235358,Automobiles,South - Bengaluru
+2025-09-01,461165,Textiles,Central - Nagpur
+2025-04-30,70806,Textiles,West - Mumbai
+2023-12-09,472340,Textiles,Central - Nagpur
+2025-01-24,342908,Textiles,West - Mumbai
+2023-10-06,247021,Tea & Spices,South - Bengaluru
+2024-02-24,480046,Steel,West - Mumbai
+2025-02-11,179672,Textiles,Central - Nagpur
+2021-01-30,140905,Information Technology,Central - Nagpur
+2025-04-02,351215,Automobiles,South - Bengaluru
+2025-03-15,293498,Textiles,North - Delhi
+2022-08-30,226300,Information Technology,South - Bengaluru
+2024-12-12,198570,Textiles,East - Kolkata
+2024-01-30,132500,Information Technology,East - Kolkata
+2021-07-03,331974,Steel,West - Mumbai
+2022-01-15,95767,Information Technology,South - Bengaluru
+2021-02-11,171593,Steel,South - Bengaluru
+2023-09-20,355402,Steel,North - Delhi
+2023-07-16,387085,Textiles,North - Delhi
+2021-03-13,362257,Information Technology,South - Bengaluru
+2022-04-20,181601,Textiles,West - Mumbai
+2022-05-26,314482,Information Technology,South - Bengaluru
+2022-03-22,136903,Automobiles,North - Delhi
+2023-02-18,129114,Steel,East - Kolkata
+2021-07-10,267810,Textiles,Central - Nagpur
+2023-04-03,428150,Information Technology,West - Mumbai
+2023-12-30,482445,Information Technology,West - Mumbai
+2021-09-03,128954,Tea & Spices,North - Delhi
+2024-01-05,53139,Information Technology,North - Delhi
+2025-10-08,323924,Automobiles,South - Bengaluru
+2023-06-13,472324,Information Technology,North - Delhi
+2023-06-14,294164,Tea & Spices,North - Delhi
+2023-02-17,245021,Steel,West - Mumbai
+2025-08-27,175247,Textiles,North - Delhi
+2022-07-28,330784,Automobiles,Central - Nagpur
+2025-12-21,145624,Information Technology,South - Bengaluru
+2023-02-19,457078,Steel,West - Mumbai
+2025-02-21,423695,Automobiles,East - Kolkata
+2021-07-07,384707,Steel,East - Kolkata
+2021-11-15,369791,Information Technology,Central - Nagpur
+2021-03-07,197177,Information Technology,East - Kolkata
+2024-11-28,380418,Automobiles,South - Bengaluru
+2023-12-02,361787,Automobiles,North - Delhi
+2025-09-25,422829,Automobiles,South - Bengaluru
+2025-04-05,179698,Steel,South - Bengaluru
+2023-06-28,88622,Textiles,South - Bengaluru
+2022-04-28,94021,Steel,East - Kolkata
+2022-04-26,76076,Information Technology,Central - Nagpur
+2022-06-19,362060,Textiles,East - Kolkata
+2024-02-24,411440,Textiles,South - Bengaluru
+2024-08-08,419646,Steel,West - Mumbai
+2023-10-29,77663,Automobiles,East - Kolkata
+2025-01-08,481694,Information Technology,North - Delhi
+2022-10-25,117823,Tea & Spices,North - Delhi
+2021-04-24,84182,Textiles,West - Mumbai
+2025-06-28,262740,Steel,Central - Nagpur
+2023-01-11,413874,Steel,East - Kolkata
+2024-09-09,302177,Textiles,Central - Nagpur
+2024-08-23,399980,Automobiles,West - Mumbai
+2025-05-30,455616,Steel,North - Delhi
+2023-07-15,286177,Tea & Spices,North - Delhi
+2021-10-18,492064,Steel,South - Bengaluru
+2024-09-10,65839,Information Technology,North - Delhi
+2024-05-12,455664,Steel,Central - Nagpur
+2024-08-08,375563,Information Technology,West - Mumbai
+2025-03-15,436063,Information Technology,East - Kolkata
+2022-09-17,389166,Automobiles,Central - Nagpur
+2023-10-07,203743,Information Technology,West - Mumbai
+2023-06-15,449571,Tea & Spices,West - Mumbai
+2025-05-11,252808,Textiles,South - Bengaluru
+2022-10-12,268042,Textiles,West - Mumbai
+2024-02-02,179580,Information Technology,North - Delhi
+2021-02-20,423259,Textiles,West - Mumbai
+2023-08-19,356323,Automobiles,West - Mumbai
+2025-08-27,381938,Textiles,South - Bengaluru
+2025-05-31,84784,Steel,West - Mumbai
+2021-12-21,67308,Textiles,South - Bengaluru
+2024-09-13,176817,Textiles,East - Kolkata
+2025-07-23,214174,Automobiles,East - Kolkata
+2021-07-21,298299,Tea & Spices,West - Mumbai
+2024-04-24,452008,Tea & Spices,Central - Nagpur
+2021-12-22,127142,Automobiles,East - Kolkata
+2025-01-23,322692,Steel,Central - Nagpur
+2022-09-23,163587,Automobiles,East - Kolkata
+2025-12-17,355627,Information Technology,North - Delhi
+2022-03-06,284814,Tea & Spices,West - Mumbai
+2021-08-15,88748,Automobiles,South - Bengaluru
+2025-03-18,154665,Automobiles,East - Kolkata
+2024-12-15,357562,Automobiles,East - Kolkata
+2022-04-30,439106,Automobiles,East - Kolkata
+2021-07-18,313082,Information Technology,North - Delhi
+2022-11-18,441391,Steel,Central - Nagpur
+2025-07-10,398227,Steel,East - Kolkata
+2024-09-15,451939,Automobiles,South - Bengaluru
+2023-10-27,289861,Information Technology,Central - Nagpur
+2023-08-19,378385,Automobiles,West - Mumbai
+2022-11-05,95086,Textiles,South - Bengaluru
+2024-05-16,227478,Tea & Spices,West - Mumbai
+2023-10-03,430641,Automobiles,North - Delhi
+2024-10-27,171058,Automobiles,East - Kolkata
+2022-09-16,391964,Steel,Central - Nagpur
+2023-08-14,408003,Automobiles,North - Delhi
+2023-08-29,257955,Information Technology,North - Delhi
+2022-02-07,310758,Textiles,West - Mumbai
+2024-11-19,64598,Tea & Spices,East - Kolkata
+2025-11-22,421719,Steel,Central - Nagpur
+2025-10-29,364482,Tea & Spices,North - Delhi
+2024-09-14,309017,Tea & Spices,South - Bengaluru
+2021-12-23,393480,Tea & Spices,North - Delhi
+2023-05-07,328005,Steel,West - Mumbai
+2021-08-08,195264,Information Technology,Central - Nagpur
+2022-10-07,391387,Textiles,South - Bengaluru
+2021-06-22,364308,Information Technology,North - Delhi
+2025-09-15,484787,Textiles,East - Kolkata
+2022-01-04,441687,Textiles,West - Mumbai
+2023-08-15,112565,Information Technology,South - Bengaluru
+2023-07-29,77936,Tea & Spices,South - Bengaluru
+2023-04-10,496261,Information Technology,Central - Nagpur
+2023-10-15,313769,Automobiles,South - Bengaluru
+2025-01-05,252087,Tea & Spices,Central - Nagpur
+2024-03-08,292286,Information Technology,West - Mumbai
