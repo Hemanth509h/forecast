@@ -41,6 +41,14 @@ export const api = {
         400: errorSchemas.validation,
       },
     },
+    clear: {
+      method: 'POST' as const,
+      path: '/api/sales/clear',
+      input: z.object({}),
+      responses: {
+        200: z.object({ message: z.string() }),
+      },
+    },
   },
   forecasts: {
     generate: {

@@ -66,6 +66,11 @@ export class MemStorage implements IStorage {
     this.forecasts.push(...newForecasts);
     return newForecasts;
   }
+
+  async clearSales(): Promise<void> {
+    this.sales = [];
+    this.forecasts = [];
+  }
 }
 
 export const storage = new MemStorage();

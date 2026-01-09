@@ -114,6 +114,11 @@ export async function registerRoutes(
     }
   });
 
+  app.post(api.sales.clear.path, async (req, res) => {
+    await storage.clearSales();
+    res.json({ message: "Data cleared successfully" });
+  });
+
   app.get(api.forecasts.list.path, async (req, res) => {
     const forecasts = await storage.getForecasts();
     res.json(forecasts);

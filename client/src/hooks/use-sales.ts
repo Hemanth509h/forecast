@@ -67,3 +67,26 @@ export function useBulkCreateSales() {
     },
   });
 }
+
+export function useClearSales() {
+  const queryClient = useQueryClient();
+  return useMutation({
+    mutationFn: async () => {
+      const res = await fetch(api.sales.clear.path, {
+        method: api.sales.clear.method,
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({}),
+        credentials: "include",
+      });
+
+      if (!res.ok) {
+        throw new Error("Failed to clear data");
+      }
+      return api.sales.clear.responses[200].parse(await res.json());
+    },
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: [api.sales.list.path] });
+      queryClient.invalidateQueries({ queryKey: [api.forecasts.list.path] });
+    },
+  });
+}

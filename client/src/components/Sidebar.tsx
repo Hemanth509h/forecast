@@ -1,6 +1,9 @@
 import { Link, useLocation } from "wouter";
-import { LayoutDashboard, TrendingUp, TableProperties, LineChart } from "lucide-react";
+import { LayoutDashboard, TrendingUp, TableProperties, LineChart, Trash2, Loader2 } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { Button } from "@/components/ui/button";
+import { useClearSales } from "@/hooks/use-sales";
+import { useToast } from "@/hooks/use-toast";
 
 const NAV_ITEMS = [
   { label: "Dashboard", href: "/", icon: LayoutDashboard },
@@ -10,6 +13,19 @@ const NAV_ITEMS = [
 
 export function Sidebar() {
   const [location] = useLocation();
+  const clearSales = useClearSales();
+  const { toast } = useToast();
+
+  const handleClearData = () => {
+    clearSales.mutate(undefined, {
+      onSuccess: () => {
+        toast({ title: "Data Cleared", description: "All temporary datasets and forecasts have been removed." });
+      },
+      onError: (error) => {
+        toast({ title: "Clear Failed", description: error.message, variant: "destructive" });
+      }
+    });
+  };
 
   return (
     <aside className="hidden md:flex flex-col w-64 h-screen bg-card border-r border-border sticky top-0">
@@ -44,7 +60,21 @@ export function Sidebar() {
         })}
       </nav>
 
-      <div className="p-4 mt-auto border-t border-border/50">
+      <div className="p-4 space-y-4 border-t border-border/50">
+        <Button 
+          variant="outline" 
+          className="w-full justify-start text-destructive hover:text-destructive hover:bg-destructive/10 border-destructive/20"
+          onClick={handleClearData}
+          disabled={clearSales.isPending}
+        >
+          {clearSales.isPending ? (
+            <Loader2 className="w-4 h-4 mr-3 animate-spin" />
+          ) : (
+            <Trash2 className="w-4 h-4 mr-3" />
+          )}
+          Clear Data
+        </Button>
+
         <div className="bg-gradient-to-br from-primary/10 to-accent/10 rounded-xl p-4">
           <h4 className="text-sm font-semibold text-foreground mb-1">Pro Tip</h4>
           <p className="text-xs text-muted-foreground leading-relaxed">
