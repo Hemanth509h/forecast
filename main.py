@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException, Body, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from typing import List, Optional, Dict, Any
 from datetime import datetime
 from server.storage import storage
@@ -29,8 +29,11 @@ app.add_middleware(
 class SaleCreate(BaseModel):
     date: datetime
     amount: str
-    product_category: str
+    product_category: str = Field(alias="productCategory")
     region: str
+
+    class Config:
+        populate_by_name = True
 
 class ForecastGenerate(BaseModel):
     months: int
@@ -48,7 +51,7 @@ async def ai_map(req: AIMapRequest):
             messages=[
                 {
                     "role": "system",
-                    "content": "You are a data mapping expert. Map the given CSV headers to our internal schema: date, amount, product_category, region. Note that currency is in Indian Rupees (₹). Return a JSON object mapping each internal field to the index (0-based) of the corresponding CSV header. If a field cannot be mapped, omit it."
+                    "content": "You are a data mapping expert. Map the given CSV headers to our internal schema: date, amount, productCategory, region. Note that currency is in Indian Rupees (₹). Return a JSON object mapping each internal field to the index (0-based) of the corresponding CSV header. If a field cannot be mapped, omit it."
                 },
                 {
                     "role": "user",
@@ -64,15 +67,49 @@ async def ai_map(req: AIMapRequest):
 
 @app.get("/api/sales")
 async def get_sales():
-    return await storage.get_sales()
+    sales = await storage.get_sales()
+    # Return with camelCase for frontend
+    return [
+        {
+            "id": s.id,
+            "date": s.date,
+            "amount": str(s.amount),
+            "productCategory": s.product_category,
+            "region": s.region
+        } for s in sales
+    ]
 
 @app.post("/api/sales")
 async def create_sale(sale: SaleCreate):
-    return await storage.create_sale(sale.dict())
+    data = sale.dict(by_alias=True)
+    # Map back to snake_case for storage
+    storage_data = {
+        "date": data["date"],
+        "amount": data["amount"],
+        "product_category": data["productCategory"],
+        "region": data["region"]
+    }
+    new_sale = await storage.create_sale(storage_data)
+    return {
+        "id": new_sale.id,
+        "date": new_sale.date,
+        "amount": str(new_sale.amount),
+        "productCategory": new_sale.product_category,
+        "region": new_sale.region
+    }
 
 @app.post("/api/sales/bulk")
 async def bulk_create_sales(sales: List[SaleCreate]):
-    count = await storage.create_sales([s.dict() for s in sales])
+    storage_list = []
+    for s in sales:
+        data = s.dict(by_alias=True)
+        storage_list.append({
+            "date": data["date"],
+            "amount": data["amount"],
+            "product_category": data["productCategory"],
+            "region": data["region"]
+        })
+    count = await storage.create_sales(storage_list)
     return {"count": count}
 
 @app.post("/api/sales/clear")
@@ -82,7 +119,16 @@ async def clear_sales():
 
 @app.get("/api/forecasts")
 async def get_forecasts():
-    return await storage.get_forecasts()
+    forecasts = await storage.get_forecasts()
+    return [
+        {
+            "id": f.id,
+            "forecastDate": f.forecast_date,
+            "predictedAmount": str(f.predicted_amount),
+            "modelName": f.model_name,
+            "createdAt": f.created_at
+        } for f in forecasts
+    ]
 
 @app.post("/api/forecasts/generate")
 async def generate_forecast(input: ForecastGenerate):
@@ -141,7 +187,16 @@ async def generate_forecast(input: ForecastGenerate):
             })
             
     await storage.clear_forecasts()
-    return await storage.create_forecasts(forecasts)
+    created = await storage.create_forecasts(forecasts)
+    return [
+        {
+            "id": f.id,
+            "forecastDate": f.forecast_date,
+            "predictedAmount": str(f.predicted_amount),
+            "modelName": f.model_name,
+            "createdAt": f.created_at
+        } for f in created
+    ]
 
 # Mount static files correctly
 dist_path = os.path.join(os.getcwd(), "dist", "public")
