@@ -20,8 +20,12 @@ class MemStorage:
         return new_sale
 
     async def create_sales(self, sales_list: List[dict]) -> int:
+        # Volatile storage: reset on every bulk import as requested
         self.sales = []
         self.forecasts = []
+        self.current_sale_id = 1
+        self.current_forecast_id = 1
+        
         for s in sales_list:
             new_sale = Sale(id=self.current_sale_id, **s)
             self.current_sale_id += 1
