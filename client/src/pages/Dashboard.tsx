@@ -12,17 +12,20 @@ export default function Dashboard() {
   // Calculate Metrics
   const totalSales = sales?.reduce((acc, curr) => acc + Number(curr.amount), 0) || 0;
   
-  const lastMonth = subMonths(new Date(), 1);
+  const latestSaleDate = sales?.length 
+    ? new Date(Math.max(...sales.map(s => new Date(s.date).getTime())))
+    : new Date();
+  
   const lastMonthSales = sales?.filter(s => {
     const d = new Date(s.date);
-    return d.getMonth() === lastMonth.getMonth() && d.getFullYear() === lastMonth.getFullYear();
+    return d.getMonth() === latestSaleDate.getMonth() && d.getFullYear() === latestSaleDate.getFullYear();
   }).reduce((acc, curr) => acc + Number(curr.amount), 0) || 0;
 
-  const nextMonth = addMonths(new Date(), 1);
-  const nextMonthForecast = forecasts?.filter(f => {
-    const d = new Date(f.forecastDate);
-    return d.getMonth() === nextMonth.getMonth() && d.getFullYear() === nextMonth.getFullYear();
-  }).reduce((acc, curr) => acc + Number(curr.predictedAmount), 0) || 0;
+  const nextMonthForecastData = forecasts?.length 
+    ? [...forecasts].sort((a, b) => new Date(a.forecastDate).getTime() - new Date(b.forecastDate).getTime())[0]
+    : null;
+    
+  const nextMonthForecast = Number(nextMonthForecastData?.predictedAmount || 0);
 
   const isLoading = salesLoading || forecastsLoading;
 
@@ -46,17 +49,17 @@ export default function Dashboard() {
           loading={isLoading}
         />
         <MetricCard
-          title="Last Month"
+          title="Latest Month"
           value={`$${lastMonthSales.toLocaleString()}`}
-          description={format(lastMonth, 'MMMM yyyy')}
-          trend={12.5} // Mock trend for demo
+          description={sales?.length ? format(latestSaleDate, 'MMMM yyyy') : "No data"}
+          trend={sales?.length ? 12.5 : undefined} 
           icon={Calendar}
           loading={isLoading}
         />
         <MetricCard
-          title="Next Month Forecast"
+          title="Immediate Forecast"
           value={`$${nextMonthForecast.toLocaleString()}`}
-          description="Predicted revenue"
+          description={nextMonthForecastData ? format(new Date(nextMonthForecastData.forecastDate), 'MMMM yyyy') : "Generate forecast"}
           icon={TrendingUp}
           loading={isLoading}
         />
