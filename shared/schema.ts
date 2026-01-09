@@ -1,4 +1,5 @@
-import { pgTable, text, serial, decimal, timestamp, integer } from "drizzle-orm/pg-core";
+import { pgTable, text, serial, decimal, timestamp } from "drizzle-orm/pg-core";
+import { z } from "zod";
 
 export const sales = pgTable("sales", {
   id: serial("id").primaryKey(),
@@ -15,3 +16,20 @@ export const forecasts = pgTable("forecasts", {
   modelName: text("model_name").notNull(),
   createdAt: timestamp("created_at").defaultNow(),
 });
+
+export const insertSaleSchema = z.object({
+  date: z.coerce.date(),
+  amount: z.string(),
+  productCategory: z.string(),
+  region: z.string(),
+});
+export type InsertSale = z.infer<typeof insertSaleSchema>;
+export type Sale = typeof sales.$inferSelect;
+
+export const insertForecastSchema = z.object({
+  forecastDate: z.coerce.date(),
+  predictedAmount: z.string(),
+  modelName: z.string(),
+});
+export type InsertForecast = z.infer<typeof insertForecastSchema>;
+export type Forecast = typeof forecasts.$inferSelect;

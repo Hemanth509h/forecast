@@ -16,11 +16,16 @@ app = FastAPI()
 SECRET_KEY = os.getenv("SESSION_SECRET", "default-secret-key")
 SESSION_COOKIE_NAME = "trendcast_session_id"
 
-# Setup OpenAI
-client = openai.OpenAI(
-    api_key=os.getenv("AI_INTEGRATIONS_OPENAI_API_KEY"),
-    base_url=os.getenv("AI_INTEGRATIONS_OPENAI_BASE_URL")
-)
+# Setup OpenAI (optional - AI features will be disabled if not configured)
+openai_api_key = os.getenv("AI_INTEGRATIONS_OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY")
+openai_base_url = os.getenv("AI_INTEGRATIONS_OPENAI_BASE_URL")
+
+client = None
+if openai_api_key:
+    client = openai.OpenAI(
+        api_key=openai_api_key,
+        base_url=openai_base_url
+    )
 
 app.add_middleware(
     CORSMiddleware,
@@ -61,6 +66,8 @@ def get_session_id(request: Request, response: Response) -> str:
 
 @app.post("/api/sales/ai-map")
 async def ai_map(req: AIMapRequest):
+    if client is None:
+        raise HTTPException(status_code=503, detail="AI features are not configured. Please set up OpenAI API key.")
     try:
         response = client.chat.completions.create(
             model="gpt-5",
