@@ -1,16 +1,22 @@
-from fastapi import FastAPI, HTTPException, Body, Request
+from fastapi import FastAPI, HTTPException, Body, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 from typing import List, Optional, Dict, Any
-from datetime import datetime
+from datetime import datetime, timedelta
 from server.storage import storage
 import os
 import openai
 import json
 from decimal import Decimal
+from itsdangerous import URLSafeSerializer
 
 app = FastAPI()
+
+# Session setup
+SECRET_KEY = os.getenv("SESSION_SECRET", "default-secret-key")
+serializer = URLSafeSerializer(SECRET_KEY)
+SESSION_COOKIE_NAME = "trendcast_session_id"
 
 # Setup OpenAI
 client = openai.OpenAI(
@@ -43,6 +49,20 @@ class AIMapRequest(BaseModel):
     headers: List[str]
     sampleRows: List[List[str]]
 
+def get_session_id(request: Request, response: Response) -> str:
+    session_id = request.cookies.get(SESSION_COOKIE_NAME)
+    if not session_id:
+        import uuid
+        session_id = str(uuid.uuid4())
+        response.set_cookie(
+            key=SESSION_COOKIE_NAME,
+            value=session_id,
+            max_age=86400,  # 1 day in seconds
+            httponly=True,
+            samesite="lax"
+        )
+    return session_id
+
 @app.post("/api/sales/ai-map")
 async def ai_map(req: AIMapRequest):
     try:
@@ -66,9 +86,9 @@ async def ai_map(req: AIMapRequest):
         raise HTTPException(status_code=500, detail="Failed to map headers with AI")
 
 @app.get("/api/sales")
-async def get_sales():
-    sales = await storage.get_sales()
-    # Return with camelCase for frontend
+async def get_sales(request: Request, response: Response):
+    session_id = get_session_id(request, response)
+    sales = await storage.get_sales(session_id)
     return [
         {
             "id": s.id,
@@ -80,16 +100,16 @@ async def get_sales():
     ]
 
 @app.post("/api/sales")
-async def create_sale(sale: SaleCreate):
+async def create_sale(request: Request, response: Response, sale: SaleCreate):
+    session_id = get_session_id(request, response)
     data = sale.dict(by_alias=True)
-    # Map back to snake_case for storage
     storage_data = {
         "date": data["date"],
         "amount": data["amount"],
         "product_category": data["productCategory"],
         "region": data["region"]
     }
-    new_sale = await storage.create_sale(storage_data)
+    new_sale = await storage.create_sale(session_id, storage_data)
     return {
         "id": new_sale.id,
         "date": new_sale.date,
@@ -99,7 +119,8 @@ async def create_sale(sale: SaleCreate):
     }
 
 @app.post("/api/sales/bulk")
-async def bulk_create_sales(sales: List[SaleCreate]):
+async def bulk_create_sales(request: Request, response: Response, sales: List[SaleCreate]):
+    session_id = get_session_id(request, response)
     storage_list = []
     for s in sales:
         data = s.dict(by_alias=True)
@@ -109,17 +130,19 @@ async def bulk_create_sales(sales: List[SaleCreate]):
             "product_category": data["productCategory"],
             "region": data["region"]
         })
-    count = await storage.create_sales(storage_list)
+    count = await storage.create_sales(session_id, storage_list)
     return {"count": count}
 
 @app.post("/api/sales/clear")
-async def clear_sales():
-    await storage.clear_sales()
+async def clear_sales(request: Request, response: Response):
+    session_id = get_session_id(request, response)
+    await storage.clear_sales(session_id)
     return {"message": "Data cleared successfully"}
 
 @app.get("/api/forecasts")
-async def get_forecasts():
-    forecasts = await storage.get_forecasts()
+async def get_forecasts(request: Request, response: Response):
+    session_id = get_session_id(request, response)
+    forecasts = await storage.get_forecasts(session_id)
     return [
         {
             "id": f.id,
@@ -131,8 +154,9 @@ async def get_forecasts():
     ]
 
 @app.post("/api/forecasts/generate")
-async def generate_forecast(input: ForecastGenerate):
-    sales_data = await storage.get_sales()
+async def generate_forecast(request: Request, response: Response, input: ForecastGenerate):
+    session_id = get_session_id(request, response)
+    sales_data = await storage.get_sales(session_id)
     if len(sales_data) < 2:
         raise HTTPException(status_code=400, detail="Not enough historical data to generate forecast")
     
@@ -186,8 +210,8 @@ async def generate_forecast(input: ForecastGenerate):
                 "model_name": model_name
             })
             
-    await storage.clear_forecasts()
-    created = await storage.create_forecasts(forecasts)
+    await storage.clear_forecasts(session_id)
+    created = await storage.create_forecasts(session_id, forecasts)
     return [
         {
             "id": f.id,
@@ -198,7 +222,6 @@ async def generate_forecast(input: ForecastGenerate):
         } for f in created
     ]
 
-# Mount static files correctly
 dist_path = os.path.join(os.getcwd(), "dist", "public")
 if os.path.exists(dist_path):
     app.mount("/assets", StaticFiles(directory=os.path.join(dist_path, "assets")), name="assets")
