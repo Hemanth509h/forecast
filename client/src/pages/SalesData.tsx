@@ -47,13 +47,21 @@ export default function SalesData() {
         const values = line.split(",").map(v => v.trim());
         const entry: any = {};
         headers.forEach((header, index) => {
-          if (header === "date") entry.date = new Date(values[index]).toISOString();
-          else if (header === "amount") entry.amount = Number(values[index]);
-          else if (header === "category") entry.productCategory = values[index];
+          if (header === "date") {
+            const dateStr = values[index];
+            const date = new Date(dateStr);
+            if (!isNaN(date.getTime())) {
+              entry.date = date.toISOString();
+            } else {
+              console.error("Invalid date value:", dateStr);
+            }
+          }
+          else if (header === "amount") entry.amount = String(values[index]);
+          else if (header === "category" || header === "productcategory") entry.productCategory = values[index];
           else if (header === "region") entry.region = values[index];
         });
         return entry;
-      });
+      }).filter(entry => entry.date && entry.amount && entry.productCategory && entry.region);
 
       bulkCreate.mutate(salesToImport, {
         onSuccess: (res) => {
@@ -161,7 +169,7 @@ function CreateSaleDialog({ open, onOpenChange }: { open: boolean, onOpenChange:
     resolver: zodResolver(formSchema),
     defaultValues: {
       date: new Date(),
-      amount: 0,
+      amount: "0",
       productCategory: "",
       region: ""
     }
