@@ -1,6 +1,4 @@
-import { db } from "./db";
-import { sales, forecasts, type Sale, type InsertSale, type Forecast, type InsertForecast } from "@shared/schema";
-import { desc } from "drizzle-orm";
+import { type Sale, type InsertSale, type Forecast, type InsertForecast } from "@shared/schema";
 
 export interface IStorage {
   getSales(): Promise<Sale[]>;
@@ -12,39 +10,62 @@ export interface IStorage {
   createForecasts(forecastsList: InsertForecast[]): Promise<Forecast[]>;
 }
 
-export class DatabaseStorage implements IStorage {
+export class MemStorage implements IStorage {
+  private sales: Sale[] = [];
+  private forecasts: Forecast[] = [];
+  private currentSaleId = 1;
+  private currentForecastId = 1;
+
   async getSales(): Promise<Sale[]> {
-    return await db.select().from(sales).orderBy(desc(sales.date));
+    return [...this.sales].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   }
 
   async createSale(insertSale: InsertSale): Promise<Sale> {
-    const [newSale] = await db.insert(sales).values(insertSale).returning();
+    const newSale: Sale = { ...insertSale, id: this.currentSaleId++ };
+    this.sales.push(newSale);
     return newSale;
   }
 
   async createSales(insertSalesList: InsertSale[]): Promise<number> {
-    if (insertSalesList.length === 0) return 0;
-    const result = await db.insert(sales).values(insertSalesList).returning();
-    return result.length;
+    // Clear existing data for "temporary" behavior
+    this.sales = [];
+    this.forecasts = [];
+    
+    const newSales = insertSalesList.map(s => ({
+      ...s,
+      id: this.currentSaleId++
+    }));
+    this.sales.push(...newSales);
+    return newSales.length;
   }
 
   async getForecasts(): Promise<Forecast[]> {
-    return await db.select().from(forecasts).orderBy(desc(forecasts.forecastDate));
+    return [...this.forecasts].sort((a, b) => new Date(b.forecastDate).getTime() - new Date(a.forecastDate).getTime());
   }
 
   async createForecast(insertForecast: InsertForecast): Promise<Forecast> {
-    const [newForecast] = await db.insert(forecasts).values(insertForecast).returning();
+    const newForecast: Forecast = { 
+      ...insertForecast, 
+      id: this.currentForecastId++,
+      createdAt: new Date()
+    };
+    this.forecasts.push(newForecast);
     return newForecast;
   }
 
   async clearForecasts(): Promise<void> {
-    await db.delete(forecasts);
+    this.forecasts = [];
   }
 
   async createForecasts(forecastsList: InsertForecast[]): Promise<Forecast[]> {
-    if (forecastsList.length === 0) return [];
-    return await db.insert(forecasts).values(forecastsList).returning();
+    const newForecasts = forecastsList.map(f => ({
+      ...f,
+      id: this.currentForecastId++,
+      createdAt: new Date()
+    }));
+    this.forecasts.push(...newForecasts);
+    return newForecasts;
   }
 }
 
-export const storage = new DatabaseStorage();
+export const storage = new MemStorage();
