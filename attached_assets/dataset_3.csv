@@ -1,1501 +1,1501 @@
-date,amount,productCategory,region
-2024-09-10,238.75,Toys,Australia
-2024-05-14,225.50,Electronics,Asia
-2024-05-07,138.05,Electronics,Europe
-2024-10-05,224.51,Home & Garden,Asia
-2024-05-10,392.49,Clothing,Asia
-2024-07-14,688.71,Sports,Asia
-2024-06-21,580.90,Clothing,North America
-2024-08-13,484.56,Electronics,North America
-2024-07-28,333.24,Clothing,Asia
-2024-09-18,656.39,Clothing,South America
-2024-04-10,945.29,Toys,Australia
-2024-09-21,796.18,Clothing,Europe
-2024-03-15,451.68,Clothing,Europe
-2024-10-01,678.06,Clothing,Asia
-2024-06-20,446.14,Toys,Australia
-2024-04-02,789.70,Sports,Asia
-2024-05-24,461.23,Sports,North America
-2024-04-08,444.25,Toys,North America
-2024-05-16,346.33,Toys,South America
-2024-11-25,439.46,Home & Garden,Australia
-2024-08-17,746.04,Electronics,Australia
-2024-02-08,171.93,Electronics,Asia
-2024-11-12,123.54,Electronics,South America
-2024-09-10,740.22,Sports,North America
-2024-10-03,674.46,Sports,South America
-2024-11-17,843.16,Sports,North America
-2024-11-05,223.97,Clothing,South America
-2024-08-18,297.89,Clothing,Europe
-2024-12-25,988.62,Electronics,Asia
-2024-05-01,851.06,Sports,Europe
-2024-09-13,576.99,Electronics,Australia
-2024-05-12,976.44,Toys,Australia
-2024-03-29,134.26,Home & Garden,North America
-2024-01-13,364.44,Home & Garden,Asia
-2024-06-11,869.69,Electronics,Asia
-2024-05-28,23.46,Home & Garden,Europe
-2024-03-02,388.12,Home & Garden,Asia
-2024-05-14,588.31,Sports,Europe
-2024-11-02,643.06,Home & Garden,Australia
-2024-12-17,805.96,Electronics,South America
-2024-02-11,215.14,Home & Garden,Asia
-2024-09-13,843.10,Electronics,Asia
-2024-10-11,555.28,Clothing,Asia
-2024-04-26,378.92,Home & Garden,North America
-2024-04-05,299.68,Electronics,Europe
-2024-02-14,865.12,Electronics,North America
-2024-06-18,207.03,Toys,Asia
-2024-06-04,894.76,Clothing,Asia
-2024-11-22,184.46,Electronics,North America
-2024-04-25,233.10,Clothing,South America
-2024-04-12,870.78,Sports,Asia
-2024-11-26,780.50,Home & Garden,North America
-2024-12-02,794.91,Toys,Australia
-2024-01-25,827.73,Sports,Australia
-2024-10-02,868.09,Sports,Europe
-2024-06-15,440.89,Sports,Europe
-2024-11-25,93.11,Home & Garden,Asia
-2024-05-04,718.12,Clothing,Europe
-2024-09-23,111.71,Sports,North America
-2024-10-08,856.58,Clothing,Europe
-2024-03-26,398.09,Clothing,South America
-2024-11-19,57.75,Electronics,Asia
-2024-07-09,87.45,Electronics,North America
-2024-12-19,808.35,Clothing,Europe
-2024-02-15,894.60,Clothing,Australia
-2024-11-19,758.64,Electronics,Europe
-2024-07-20,242.80,Sports,Europe
-2024-07-28,342.05,Toys,North America
-2024-01-14,819.60,Electronics,North America
-2024-03-05,540.68,Toys,South America
-2024-10-28,360.51,Electronics,North America
-2024-07-06,732.19,Sports,South America
-2024-11-17,318.82,Sports,Europe
-2024-12-16,299.05,Electronics,Europe
-2024-07-11,952.26,Home & Garden,Europe
-2024-09-11,888.36,Sports,Asia
-2024-02-02,773.26,Sports,Australia
-2024-07-29,339.15,Sports,North America
-2024-03-30,757.93,Clothing,South America
-2024-09-20,548.31,Home & Garden,South America
-2024-10-25,781.98,Sports,Asia
-2024-06-29,244.21,Sports,Australia
-2024-01-25,963.94,Clothing,Asia
-2024-09-23,934.12,Electronics,Australia
-2024-05-29,485.65,Toys,North America
-2024-02-03,243.17,Clothing,Europe
-2024-08-26,501.72,Home & Garden,Europe
-2024-04-04,408.23,Home & Garden,Asia
-2024-11-29,562.07,Electronics,Europe
-2024-09-25,535.60,Sports,South America
-2024-11-14,700.37,Clothing,Australia
-2024-04-28,584.02,Sports,South America
-2024-02-08,988.34,Toys,South America
-2024-06-29,666.15,Clothing,North America
-2024-06-24,689.68,Sports,North America
-2024-08-12,630.04,Home & Garden,South America
-2024-01-19,690.81,Electronics,Australia
-2024-05-12,687.65,Clothing,North America
-2024-05-14,442.59,Sports,Europe
-2024-08-31,594.29,Clothing,Australia
-2024-09-10,344.46,Home & Garden,North America
-2024-06-16,995.45,Electronics,Australia
-2024-11-01,925.56,Electronics,Asia
-2024-07-18,885.31,Electronics,Asia
-2024-02-09,196.35,Electronics,South America
-2024-07-17,871.68,Toys,Europe
-2024-01-19,278.21,Electronics,Australia
-2024-04-05,390.35,Electronics,South America
-2024-08-18,374.02,Toys,Australia
-2024-09-11,418.31,Electronics,Australia
-2024-04-18,402.08,Home & Garden,Australia
-2024-03-01,695.42,Home & Garden,North America
-2024-02-14,981.59,Electronics,North America
-2024-04-11,293.66,Sports,South America
-2024-08-13,548.13,Home & Garden,North America
-2024-11-22,607.63,Electronics,South America
-2024-08-10,472.70,Toys,Europe
-2024-07-26,424.19,Sports,Australia
-2024-11-06,836.67,Clothing,Europe
-2024-10-10,678.15,Home & Garden,Asia
-2024-07-12,319.56,Clothing,North America
-2024-02-20,365.53,Electronics,Europe
-2024-07-26,916.96,Sports,North America
-2024-04-12,880.39,Sports,Asia
-2024-07-08,967.38,Toys,Europe
-2024-10-01,133.21,Clothing,South America
-2024-08-30,149.09,Home & Garden,North America
-2024-04-02,942.75,Clothing,Asia
-2024-09-28,766.01,Electronics,North America
-2024-07-12,781.47,Clothing,Australia
-2024-05-07,594.43,Home & Garden,Europe
-2024-12-10,268.44,Clothing,Europe
-2024-08-16,900.01,Home & Garden,South America
-2024-12-09,446.69,Toys,Europe
-2024-12-10,931.58,Toys,North America
-2024-03-11,925.37,Home & Garden,North America
-2024-09-11,129.40,Home & Garden,South America
-2024-08-27,22.57,Toys,North America
-2024-06-17,204.88,Home & Garden,South America
-2024-09-08,361.73,Clothing,Europe
-2024-11-02,669.98,Electronics,Asia
-2024-01-25,831.46,Sports,Asia
-2024-03-15,512.05,Home & Garden,Australia
-2024-05-04,953.84,Electronics,Asia
-2024-10-14,402.37,Toys,North America
-2024-03-10,18.39,Toys,North America
-2024-01-21,987.21,Electronics,Australia
-2024-06-18,372.37,Home & Garden,Europe
-2024-06-20,791.98,Sports,North America
-2024-02-02,347.41,Sports,Europe
-2024-10-22,927.37,Home & Garden,Australia
-2024-06-17,780.01,Electronics,South America
-2024-10-30,269.64,Clothing,South America
-2024-11-06,59.65,Toys,South America
-2024-03-12,853.66,Home & Garden,Asia
-2024-09-01,445.38,Home & Garden,Asia
-2024-04-13,486.41,Sports,Asia
-2024-10-02,394.33,Clothing,Asia
-2024-07-07,201.26,Toys,South America
-2024-09-28,372.56,Clothing,South America
-2024-01-22,741.06,Home & Garden,Asia
-2024-01-08,659.29,Electronics,Europe
-2024-04-23,640.03,Sports,Asia
-2024-11-11,361.89,Electronics,Europe
-2024-07-30,585.24,Sports,Europe
-2024-02-20,806.96,Electronics,South America
-2024-05-21,173.37,Toys,Europe
-2024-12-22,769.85,Home & Garden,North America
-2024-10-08,716.96,Toys,North America
-2024-07-20,620.95,Toys,Asia
-2024-07-10,505.36,Toys,North America
-2024-12-14,717.67,Sports,Asia
-2024-12-17,657.07,Sports,Asia
-2024-08-12,594.70,Toys,South America
-2024-06-03,791.99,Sports,South America
-2024-04-03,974.42,Electronics,Europe
-2024-08-25,550.88,Sports,Europe
-2024-12-16,726.83,Clothing,Australia
-2024-04-07,13.80,Clothing,Europe
-2024-01-27,489.34,Toys,South America
-2024-09-29,844.39,Sports,North America
-2024-04-29,559.76,Toys,Europe
-2024-08-04,127.15,Clothing,Asia
-2024-05-21,734.94,Clothing,North America
-2024-07-17,392.55,Clothing,Australia
-2024-01-05,225.10,Sports,Europe
-2024-05-03,542.66,Toys,South America
-2024-10-21,629.01,Sports,South America
-2024-09-19,372.96,Toys,North America
-2024-01-07,859.28,Electronics,North America
-2024-04-03,104.15,Toys,Europe
-2024-01-16,519.13,Home & Garden,South America
-2024-06-22,599.84,Clothing,North America
-2024-04-07,42.02,Home & Garden,Australia
-2024-12-03,417.88,Home & Garden,South America
-2024-11-19,800.38,Clothing,Asia
-2024-05-24,812.33,Home & Garden,North America
-2024-07-05,304.10,Electronics,Europe
-2024-05-03,493.73,Sports,Europe
-2024-03-06,310.41,Toys,South America
-2024-05-04,587.32,Clothing,South America
-2024-10-27,983.06,Toys,Australia
-2024-11-25,395.15,Sports,South America
-2024-03-19,28.47,Clothing,North America
-2024-03-31,376.18,Home & Garden,Europe
-2024-05-06,522.67,Toys,Australia
-2024-07-27,571.32,Sports,Europe
-2024-03-19,321.09,Home & Garden,Asia
-2024-10-01,155.64,Home & Garden,Australia
-2024-04-28,811.28,Electronics,Europe
-2024-02-12,630.09,Electronics,North America
-2024-11-22,423.60,Clothing,Australia
-2024-05-03,590.57,Electronics,Europe
-2024-05-22,23.08,Toys,Australia
-2024-03-18,971.82,Sports,South America
-2024-09-22,342.80,Sports,North America
-2024-09-18,124.42,Clothing,South America
-2024-05-25,431.58,Clothing,Australia
-2024-03-11,729.14,Electronics,Asia
-2024-03-23,205.47,Electronics,Europe
-2024-10-11,105.29,Electronics,South America
-2024-12-03,21.54,Home & Garden,North America
-2024-02-12,94.56,Sports,South America
-2024-04-29,751.17,Toys,Australia
-2024-02-22,651.05,Sports,South America
-2024-01-27,714.05,Home & Garden,Australia
-2024-08-05,880.79,Sports,Europe
-2024-05-24,33.56,Sports,Australia
-2024-09-10,970.91,Electronics,Europe
-2024-05-11,541.77,Home & Garden,Europe
-2024-01-23,434.67,Electronics,Asia
-2024-10-04,725.18,Clothing,South America
-2024-09-28,633.82,Clothing,Australia
-2024-11-17,39.63,Toys,Asia
-2024-10-22,934.32,Sports,Asia
-2024-12-26,528.17,Clothing,Europe
-2024-12-12,279.04,Home & Garden,South America
-2024-04-03,313.49,Clothing,Australia
-2024-03-27,682.11,Sports,Asia
-2024-05-14,504.32,Home & Garden,Europe
-2024-03-19,541.49,Toys,South America
-2024-01-06,290.67,Electronics,South America
-2024-11-03,820.38,Toys,North America
-2024-08-25,797.42,Sports,Australia
-2024-02-26,155.97,Toys,Europe
-2024-08-18,104.39,Electronics,Asia
-2024-11-16,707.52,Home & Garden,South America
-2024-03-13,140.62,Clothing,South America
-2024-06-12,197.38,Home & Garden,South America
-2024-04-30,268.77,Home & Garden,South America
-2024-08-17,345.10,Home & Garden,South America
-2024-04-03,440.88,Sports,Australia
-2024-03-26,768.49,Clothing,Australia
-2024-01-28,199.87,Sports,South America
-2024-10-29,721.60,Home & Garden,North America
-2024-08-27,923.18,Clothing,Australia
-2024-11-20,280.73,Sports,South America
-2024-01-01,886.82,Toys,Asia
-2024-10-12,216.60,Home & Garden,Asia
-2024-09-07,627.83,Clothing,North America
-2024-09-03,782.85,Sports,Asia
-2024-11-17,659.62,Sports,Asia
-2024-06-05,145.07,Toys,Europe
-2024-03-29,609.90,Sports,North America
-2024-08-30,615.99,Home & Garden,Asia
-2024-04-24,879.22,Toys,Australia
-2024-12-08,746.91,Electronics,Asia
-2024-10-09,79.08,Home & Garden,North America
-2024-02-10,802.09,Toys,South America
-2024-01-18,903.66,Home & Garden,South America
-2024-04-03,917.45,Home & Garden,Europe
-2024-07-12,48.04,Toys,South America
-2024-02-25,489.24,Sports,North America
-2024-05-18,334.56,Home & Garden,Australia
-2024-07-07,517.57,Electronics,Europe
-2024-01-20,562.41,Home & Garden,Europe
-2024-07-10,867.51,Toys,North America
-2024-06-14,458.44,Clothing,South America
-2024-06-22,571.20,Toys,Asia
-2024-11-02,585.98,Sports,North America
-2024-03-29,947.16,Electronics,Asia
-2024-11-10,871.81,Toys,Australia
-2024-09-13,535.75,Electronics,Asia
-2024-11-06,316.26,Clothing,North America
-2024-11-11,777.81,Clothing,Asia
-2024-02-12,59.93,Clothing,North America
-2024-09-12,904.03,Sports,North America
-2024-01-28,982.60,Electronics,Europe
-2024-09-13,235.74,Clothing,South America
-2024-07-10,495.27,Clothing,Asia
-2024-05-20,83.12,Electronics,North America
-2024-08-20,596.30,Electronics,Asia
-2024-08-15,46.16,Clothing,Australia
-2024-01-31,950.39,Clothing,Asia
-2024-07-08,209.45,Home & Garden,South America
-2024-02-13,960.50,Clothing,Australia
-2024-09-21,169.56,Toys,North America
-2024-04-19,532.70,Toys,Asia
-2024-10-08,706.28,Clothing,Asia
-2024-02-20,474.62,Electronics,North America
-2024-04-18,929.66,Toys,South America
-2024-05-23,597.95,Toys,South America
-2024-09-25,164.04,Clothing,North America
-2024-07-07,214.68,Home & Garden,South America
-2024-04-22,634.19,Clothing,Asia
-2024-01-13,993.92,Toys,Asia
-2024-07-09,983.46,Sports,Asia
-2024-06-25,309.72,Electronics,Asia
-2024-10-23,352.27,Electronics,North America
-2024-12-25,332.39,Toys,Australia
-2024-01-11,989.31,Home & Garden,Australia
-2024-12-10,839.32,Toys,South America
-2024-08-25,276.29,Electronics,Australia
-2024-06-07,388.94,Sports,North America
-2024-09-26,59.21,Electronics,Asia
-2024-10-01,104.40,Clothing,North America
-2024-08-16,957.88,Home & Garden,South America
-2024-12-21,853.23,Toys,Australia
-2024-06-30,875.42,Electronics,North America
-2024-02-02,591.56,Toys,Europe
-2024-05-22,212.25,Home & Garden,North America
-2024-06-25,304.05,Sports,South America
-2024-04-03,291.78,Electronics,North America
-2024-09-17,361.82,Clothing,South America
-2024-04-14,192.11,Clothing,Asia
-2024-06-05,266.08,Clothing,North America
-2024-08-27,357.48,Sports,Europe
-2024-04-22,404.00,Home & Garden,Australia
-2024-01-27,78.19,Electronics,Europe
-2024-11-30,746.30,Home & Garden,South America
-2024-04-06,771.64,Electronics,Europe
-2024-12-02,742.60,Toys,North America
-2024-01-18,913.93,Home & Garden,North America
-2024-03-19,745.00,Clothing,Australia
-2024-07-14,471.59,Electronics,Australia
-2024-04-08,233.43,Toys,Asia
-2024-05-30,666.03,Home & Garden,Asia
-2024-11-28,817.71,Electronics,North America
-2024-06-03,49.00,Clothing,Europe
-2024-06-22,516.48,Clothing,Europe
-2024-04-02,310.23,Home & Garden,South America
-2024-09-11,453.23,Electronics,South America
-2024-04-20,389.81,Electronics,North America
-2024-12-02,588.40,Sports,Europe
-2024-12-14,533.72,Toys,Asia
-2024-12-27,773.10,Sports,South America
-2024-12-21,787.76,Clothing,Europe
-2024-07-21,341.53,Clothing,Europe
-2024-12-07,405.36,Home & Garden,Australia
-2024-07-26,783.74,Clothing,Asia
-2024-02-17,744.64,Toys,Asia
-2024-12-14,841.65,Electronics,Australia
-2024-12-04,175.16,Toys,South America
-2024-06-12,720.60,Home & Garden,South America
-2024-10-14,471.94,Sports,South America
-2024-02-27,795.61,Clothing,North America
-2024-11-04,620.06,Electronics,Australia
-2024-09-20,937.51,Electronics,South America
-2024-04-05,723.11,Sports,Asia
-2024-12-09,534.40,Clothing,Asia
-2024-02-22,465.79,Toys,South America
-2024-10-01,591.86,Home & Garden,Australia
-2024-07-05,22.78,Electronics,South America
-2024-03-19,633.08,Sports,South America
-2024-05-04,950.71,Sports,Australia
-2024-07-15,793.04,Toys,Europe
-2024-11-15,565.95,Sports,South America
-2024-05-21,153.05,Sports,South America
-2024-11-29,586.88,Toys,Asia
-2024-06-23,713.55,Toys,South America
-2024-05-27,35.66,Clothing,Australia
-2024-01-03,988.16,Toys,Australia
-2024-07-29,834.80,Electronics,Australia
-2024-11-19,664.00,Sports,South America
-2024-11-16,629.74,Sports,Asia
-2024-03-02,88.06,Sports,South America
-2024-01-29,303.49,Toys,Australia
-2024-05-11,832.59,Sports,Australia
-2024-01-27,991.18,Home & Garden,South America
-2024-09-22,504.36,Sports,Asia
-2024-11-12,37.70,Electronics,Europe
-2024-05-19,424.61,Toys,Australia
-2024-11-27,31.78,Sports,Europe
-2024-09-18,788.20,Electronics,Australia
-2024-07-14,110.41,Electronics,Europe
-2024-06-02,728.97,Clothing,South America
-2024-07-01,357.25,Sports,Australia
-2024-12-30,148.99,Toys,Asia
-2024-10-08,730.43,Home & Garden,South America
-2024-04-03,201.27,Home & Garden,South America
-2024-05-29,195.91,Toys,Asia
-2024-12-26,26.97,Clothing,Asia
-2024-08-06,975.79,Toys,Asia
-2024-01-16,406.17,Toys,North America
-2024-05-26,860.91,Sports,Europe
-2024-07-27,562.31,Clothing,Australia
-2024-07-14,269.28,Electronics,Asia
-2024-05-14,398.37,Sports,South America
-2024-06-17,460.89,Home & Garden,Australia
-2024-06-21,730.26,Home & Garden,Australia
-2024-03-04,444.77,Electronics,North America
-2024-02-04,736.13,Clothing,North America
-2024-03-08,698.85,Electronics,Europe
-2024-12-02,843.24,Clothing,South America
-2024-05-30,868.77,Clothing,Asia
-2024-07-14,858.78,Clothing,Asia
-2024-08-31,137.56,Electronics,Europe
-2024-07-06,510.59,Sports,Europe
-2024-05-21,72.39,Clothing,Australia
-2024-09-12,504.26,Home & Garden,South America
-2024-07-10,489.14,Home & Garden,South America
-2024-10-29,219.32,Clothing,South America
-2024-12-03,509.46,Electronics,Australia
-2024-11-14,899.61,Home & Garden,Asia
-2024-02-08,248.01,Electronics,South America
-2024-11-07,390.20,Clothing,Europe
-2024-11-01,961.94,Home & Garden,Europe
-2024-02-13,79.39,Sports,North America
-2024-01-04,21.19,Electronics,North America
-2024-03-12,597.04,Sports,Europe
-2024-08-13,681.40,Electronics,Australia
-2024-10-29,509.78,Clothing,Australia
-2024-10-20,427.58,Toys,North America
-2024-03-07,317.78,Clothing,North America
-2024-11-28,664.93,Toys,North America
-2024-05-02,713.81,Sports,North America
-2024-09-19,510.59,Clothing,North America
-2024-03-15,319.84,Electronics,Asia
-2024-08-05,945.99,Electronics,South America
-2024-12-01,105.38,Toys,South America
-2024-11-18,503.08,Sports,South America
-2024-12-14,201.59,Clothing,North America
-2024-01-24,435.12,Toys,Australia
-2024-10-04,510.36,Home & Garden,Europe
-2024-06-10,975.64,Clothing,Australia
-2024-05-12,13.71,Clothing,Asia
-2024-09-25,77.63,Home & Garden,South America
-2024-05-08,284.50,Clothing,North America
-2024-03-12,241.09,Home & Garden,Asia
-2024-09-08,357.37,Sports,Australia
-2024-11-21,71.10,Sports,Asia
-2024-06-14,716.05,Home & Garden,South America
-2024-08-28,790.01,Home & Garden,Europe
-2024-09-22,880.81,Sports,Asia
-2024-02-02,832.48,Electronics,Australia
-2024-05-27,669.71,Toys,North America
-2024-07-25,953.97,Toys,South America
-2024-11-12,813.12,Toys,North America
-2024-02-04,683.70,Electronics,Asia
-2024-06-29,398.60,Clothing,Australia
-2024-10-27,137.79,Toys,North America
-2024-10-16,758.15,Sports,South America
-2024-10-15,517.86,Electronics,Asia
-2024-08-13,83.55,Toys,South America
-2024-12-12,316.18,Home & Garden,South America
-2024-10-15,260.72,Home & Garden,South America
-2024-07-28,998.01,Clothing,Europe
-2024-10-19,317.45,Clothing,North America
-2024-02-28,38.09,Sports,Europe
-2024-03-03,989.02,Clothing,Asia
-2024-08-31,949.49,Sports,South America
-2024-02-27,78.15,Electronics,Australia
-2024-03-27,253.01,Home & Garden,Australia
-2024-04-25,640.86,Toys,Australia
-2024-01-29,981.91,Clothing,Europe
-2024-09-14,24.73,Sports,Europe
-2024-02-02,723.03,Toys,Asia
-2024-12-14,963.72,Sports,South America
-2024-12-09,567.86,Home & Garden,Australia
-2024-11-22,479.51,Home & Garden,Australia
-2024-08-04,449.21,Clothing,Asia
-2024-04-17,744.70,Clothing,Europe
-2024-07-10,484.56,Home & Garden,South America
-2024-04-26,171.14,Clothing,Australia
-2024-02-28,500.87,Electronics,Australia
-2024-04-29,209.28,Sports,Asia
-2024-12-10,821.63,Sports,North America
-2024-02-21,271.87,Home & Garden,Europe
-2024-04-22,150.50,Clothing,South America
-2024-09-21,425.78,Sports,Europe
-2024-05-29,532.23,Toys,Europe
-2024-10-20,957.27,Electronics,Australia
-2024-10-24,795.20,Toys,North America
-2024-12-19,586.18,Electronics,Asia
-2024-01-06,286.36,Toys,Australia
-2024-07-20,720.90,Sports,North America
-2024-06-14,143.76,Home & Garden,Australia
-2024-09-16,511.40,Clothing,Australia
-2024-06-10,258.83,Toys,Australia
-2024-01-16,804.08,Home & Garden,Europe
-2024-01-05,258.01,Clothing,Australia
-2024-08-18,834.06,Toys,North America
-2024-03-26,376.89,Home & Garden,Australia
-2024-10-02,549.56,Sports,Asia
-2024-10-04,603.94,Clothing,North America
-2024-05-11,422.04,Electronics,Europe
-2024-01-29,336.99,Home & Garden,North America
-2024-07-11,546.32,Sports,North America
-2024-07-09,308.13,Home & Garden,Europe
-2024-02-12,169.43,Sports,Asia
-2024-10-10,191.15,Electronics,Australia
-2024-04-20,318.32,Clothing,Europe
-2024-06-06,440.67,Clothing,Europe
-2024-10-09,126.58,Electronics,Asia
-2024-09-23,766.92,Sports,Europe
-2024-08-22,870.68,Clothing,North America
-2024-01-10,431.81,Toys,South America
-2024-01-19,22.68,Toys,Asia
-2024-10-16,839.41,Sports,Asia
-2024-02-25,274.34,Home & Garden,Asia
-2024-09-01,233.45,Electronics,Asia
-2024-09-26,69.83,Sports,Asia
-2024-10-21,993.64,Toys,Asia
-2024-07-02,851.17,Sports,Asia
-2024-02-29,815.62,Home & Garden,North America
-2024-11-19,966.27,Clothing,North America
-2024-11-21,384.86,Electronics,South America
-2024-11-20,688.60,Home & Garden,Asia
-2024-12-05,662.01,Home & Garden,Australia
-2024-01-20,66.12,Home & Garden,Asia
-2024-05-02,86.66,Home & Garden,Asia
-2024-12-29,203.44,Sports,Asia
-2024-11-06,39.55,Toys,North America
-2024-08-07,12.13,Sports,North America
-2024-01-19,602.82,Electronics,North America
-2024-10-11,678.43,Toys,North America
-2024-08-02,415.23,Sports,Europe
-2024-11-29,654.09,Clothing,Europe
-2024-03-08,334.27,Sports,Europe
-2024-05-23,931.19,Home & Garden,Europe
-2024-10-09,303.70,Electronics,Australia
-2024-07-18,641.39,Electronics,Asia
-2024-03-17,746.15,Home & Garden,Europe
-2024-05-18,390.16,Clothing,Europe
-2024-01-13,777.38,Home & Garden,Europe
-2024-12-01,897.55,Toys,South America
-2024-06-14,968.09,Clothing,South America
-2024-08-09,963.94,Electronics,Asia
-2024-11-18,977.02,Sports,Australia
-2024-01-15,685.22,Electronics,Asia
-2024-03-27,950.66,Home & Garden,Australia
-2024-06-16,961.53,Clothing,South America
-2024-03-28,262.13,Sports,Australia
-2024-12-02,365.64,Home & Garden,North America
-2024-09-18,948.66,Home & Garden,North America
-2024-09-18,795.29,Toys,Europe
-2024-10-02,742.36,Toys,Australia
-2024-11-16,325.17,Toys,North America
-2024-06-02,748.68,Clothing,Australia
-2024-04-21,492.26,Home & Garden,Europe
-2024-07-09,902.94,Electronics,Asia
-2024-11-20,470.98,Toys,Europe
-2024-02-01,916.93,Home & Garden,Asia
-2024-10-11,30.45,Home & Garden,Australia
-2024-03-25,937.36,Sports,North America
-2024-12-12,829.63,Clothing,Europe
-2024-11-11,977.51,Toys,Australia
-2024-10-19,217.22,Home & Garden,South America
-2024-04-26,733.95,Clothing,Asia
-2024-09-05,980.77,Sports,Europe
-2024-05-01,794.70,Sports,Australia
-2024-02-10,313.77,Sports,Asia
-2024-10-28,990.55,Clothing,South America
-2024-08-11,596.80,Clothing,South America
-2024-02-19,600.42,Electronics,Australia
-2024-01-29,74.42,Sports,North America
-2024-12-01,65.22,Sports,Australia
-2024-01-16,767.72,Electronics,South America
-2024-04-18,807.62,Home & Garden,South America
-2024-02-18,334.58,Sports,South America
-2024-12-23,777.69,Home & Garden,North America
-2024-05-27,110.19,Clothing,North America
-2024-01-23,565.90,Home & Garden,Europe
-2024-09-15,53.46,Clothing,South America
-2024-09-21,905.19,Clothing,Australia
-2024-08-23,245.26,Toys,North America
-2024-04-28,672.69,Electronics,Australia
-2024-11-06,127.54,Electronics,Europe
-2024-04-05,475.73,Home & Garden,Europe
-2024-01-31,146.21,Toys,South America
-2024-01-25,434.10,Electronics,Australia
-2024-10-10,287.14,Electronics,North America
-2024-05-20,93.55,Home & Garden,North America
-2024-04-10,69.88,Clothing,North America
-2024-10-29,513.67,Electronics,Asia
-2024-03-05,220.57,Clothing,South America
-2024-11-15,424.64,Sports,Europe
-2024-06-20,744.35,Toys,North America
-2024-03-31,269.73,Electronics,North America
-2024-04-30,885.74,Toys,North America
-2024-08-09,488.48,Electronics,Europe
-2024-08-16,460.98,Electronics,Asia
-2024-01-28,996.69,Clothing,South America
-2024-08-28,150.69,Sports,Asia
-2024-02-03,112.00,Electronics,North America
-2024-04-20,939.72,Clothing,Asia
-2024-04-21,749.29,Electronics,Europe
-2024-12-05,780.93,Sports,North America
-2024-10-05,695.48,Home & Garden,South America
-2024-04-24,73.67,Home & Garden,Europe
-2024-10-19,297.56,Clothing,North America
-2024-02-07,113.37,Clothing,Asia
-2024-07-01,414.05,Electronics,North America
-2024-10-19,544.83,Sports,Asia
-2024-06-28,229.40,Toys,South America
-2024-12-27,345.15,Sports,South America
-2024-03-17,697.07,Sports,North America
-2024-06-11,489.53,Home & Garden,Europe
-2024-08-16,616.42,Electronics,Australia
-2024-01-29,327.12,Clothing,Europe
-2024-08-02,298.23,Electronics,Australia
-2024-07-21,72.85,Sports,Europe
-2024-06-22,639.15,Toys,North America
-2024-09-03,587.28,Electronics,Europe
-2024-12-29,250.70,Sports,South America
-2024-06-12,582.98,Home & Garden,South America
-2024-09-05,727.42,Clothing,Asia
-2024-02-29,313.78,Toys,Asia
-2024-10-02,666.13,Sports,Asia
-2024-09-06,188.16,Home & Garden,South America
-2024-09-15,362.95,Home & Garden,Europe
-2024-07-20,286.12,Home & Garden,North America
-2024-01-10,453.52,Toys,Europe
-2024-10-10,149.34,Home & Garden,Europe
-2024-01-01,609.55,Sports,Asia
-2024-04-19,865.68,Clothing,North America
-2024-07-10,620.58,Electronics,Europe
-2024-05-14,500.06,Clothing,North America
-2024-08-31,206.87,Clothing,Asia
-2024-09-04,637.59,Home & Garden,South America
-2024-03-11,666.32,Home & Garden,South America
-2024-06-14,425.27,Clothing,Europe
-2024-10-27,966.61,Electronics,Europe
-2024-06-15,985.45,Sports,Australia
-2024-04-12,388.39,Toys,Australia
-2024-03-31,257.45,Sports,North America
-2024-08-30,914.45,Toys,North America
-2024-09-30,475.01,Sports,Australia
-2024-02-20,38.02,Home & Garden,South America
-2024-10-02,889.86,Sports,South America
-2024-03-13,553.97,Sports,Europe
-2024-08-01,769.17,Toys,North America
-2024-03-04,732.14,Home & Garden,North America
-2024-10-12,564.22,Home & Garden,North America
-2024-03-05,587.68,Electronics,North America
-2024-12-10,111.69,Sports,Europe
-2024-11-01,141.91,Toys,Europe
-2024-11-08,642.71,Sports,Australia
-2024-03-31,80.84,Sports,Asia
-2024-09-16,997.48,Toys,South America
-2024-08-14,597.06,Sports,Europe
-2024-02-10,694.80,Electronics,South America
-2024-11-30,687.79,Home & Garden,Australia
-2024-03-23,948.87,Clothing,Australia
-2024-12-28,982.05,Sports,Europe
-2024-03-27,477.57,Sports,Europe
-2024-03-03,64.16,Sports,Europe
-2024-10-18,320.55,Clothing,Australia
-2024-11-05,340.19,Sports,North America
-2024-06-06,160.79,Sports,Europe
-2024-03-11,951.86,Clothing,Australia
-2024-04-26,793.03,Home & Garden,Asia
-2024-06-12,581.64,Sports,South America
-2024-12-09,792.47,Clothing,South America
-2024-04-09,472.07,Electronics,Australia
-2024-12-10,147.19,Home & Garden,North America
-2024-01-25,687.54,Sports,South America
-2024-06-18,847.26,Electronics,North America
-2024-04-27,378.62,Electronics,Australia
-2024-07-18,511.03,Electronics,Europe
-2024-03-12,257.69,Sports,Australia
-2024-12-10,814.40,Toys,North America
-2024-06-03,289.37,Sports,Europe
-2024-07-14,191.33,Toys,Asia
-2024-11-10,560.63,Clothing,Europe
-2024-06-20,520.56,Electronics,South America
-2024-01-28,360.65,Toys,Australia
-2024-07-02,562.60,Electronics,Asia
-2024-11-10,796.26,Home & Garden,North America
-2024-06-14,436.55,Electronics,Asia
-2024-08-21,465.71,Home & Garden,North America
-2024-08-31,239.16,Sports,Asia
-2024-11-25,971.35,Electronics,South America
-2024-08-16,172.75,Home & Garden,Australia
-2024-06-17,431.32,Home & Garden,Europe
-2024-04-13,215.24,Sports,South America
-2024-09-07,967.42,Sports,Asia
-2024-08-12,194.47,Toys,South America
-2024-03-14,206.55,Toys,Asia
-2024-10-28,208.09,Toys,Asia
-2024-10-30,35.43,Electronics,North America
-2024-07-17,887.42,Clothing,South America
-2024-10-10,658.77,Sports,North America
-2024-09-04,912.06,Toys,Europe
-2024-10-26,136.76,Home & Garden,Australia
-2024-02-09,667.61,Sports,Asia
-2024-05-11,501.72,Electronics,Australia
-2024-03-25,848.92,Electronics,North America
-2024-05-19,399.07,Clothing,North America
-2024-01-14,31.35,Toys,South America
-2024-03-14,775.15,Toys,Asia
-2024-05-01,244.79,Home & Garden,Asia
-2024-03-14,193.57,Home & Garden,South America
-2024-04-01,980.08,Electronics,South America
-2024-03-21,654.48,Sports,Australia
-2024-10-24,267.80,Home & Garden,South America
-2024-05-14,443.61,Toys,Europe
-2024-10-16,401.43,Clothing,Australia
-2024-11-20,981.30,Toys,Asia
-2024-04-30,968.71,Sports,North America
-2024-06-14,371.85,Sports,Asia
-2024-05-23,523.72,Clothing,Asia
-2024-10-05,716.32,Electronics,North America
-2024-08-02,140.65,Sports,South America
-2024-11-27,828.57,Clothing,Asia
-2024-06-12,595.54,Clothing,Australia
-2024-06-05,540.49,Sports,Australia
-2024-09-28,809.09,Toys,South America
-2024-11-20,682.77,Sports,Europe
-2024-09-21,58.78,Electronics,North America
-2024-07-28,67.52,Sports,Asia
-2024-04-02,962.92,Sports,North America
-2024-06-26,358.28,Toys,North America
-2024-04-20,542.99,Clothing,South America
-2024-08-01,612.48,Electronics,Europe
-2024-08-27,162.40,Sports,Australia
-2024-07-03,162.40,Sports,Australia
-2024-12-30,497.95,Electronics,North America
-2024-12-01,419.79,Clothing,Asia
-2024-08-11,629.09,Clothing,Europe
-2024-11-17,64.37,Home & Garden,North America
-2024-11-01,423.29,Toys,Australia
-2024-05-31,513.68,Electronics,Australia
-2024-01-19,471.92,Toys,North America
-2024-03-12,618.95,Toys,Australia
-2024-06-29,328.05,Sports,Asia
-2024-08-23,282.36,Sports,North America
-2024-11-02,654.72,Sports,Asia
-2024-07-17,493.87,Clothing,South America
-2024-11-22,578.00,Home & Garden,South America
-2024-07-01,451.79,Home & Garden,North America
-2024-08-03,565.43,Toys,South America
-2024-06-05,300.92,Clothing,Australia
-2024-01-05,890.17,Electronics,Europe
-2024-02-24,902.16,Home & Garden,South America
-2024-07-27,932.55,Toys,Australia
-2024-02-05,638.42,Sports,North America
-2024-12-11,412.14,Electronics,North America
-2024-03-16,470.86,Sports,North America
-2024-06-25,687.37,Toys,Asia
-2024-09-24,325.79,Toys,Asia
-2024-08-25,420.08,Home & Garden,Australia
-2024-07-22,610.76,Home & Garden,South America
-2024-08-29,155.85,Home & Garden,South America
-2024-12-07,372.21,Home & Garden,Australia
-2024-08-06,328.90,Home & Garden,North America
-2024-04-19,468.37,Electronics,Europe
-2024-06-26,508.52,Clothing,Europe
-2024-08-24,904.89,Toys,South America
-2024-08-07,31.04,Clothing,Asia
-2024-09-02,932.72,Electronics,Europe
-2024-05-28,289.62,Toys,Australia
-2024-09-15,851.08,Sports,North America
-2024-04-13,455.03,Home & Garden,South America
-2024-09-19,412.66,Toys,Europe
-2024-12-02,175.02,Toys,Asia
-2024-09-07,814.31,Home & Garden,South America
-2024-01-01,172.38,Home & Garden,Asia
-2024-07-06,248.76,Sports,South America
-2024-06-06,402.53,Toys,North America
-2024-01-28,447.93,Electronics,South America
-2024-12-28,526.72,Home & Garden,South America
-2024-06-17,542.68,Home & Garden,Australia
-2024-06-14,441.57,Home & Garden,North America
-2024-05-07,667.07,Home & Garden,Europe
-2024-02-14,131.78,Toys,South America
-2024-03-19,557.02,Sports,South America
-2024-03-27,76.72,Electronics,South America
-2024-02-22,536.35,Sports,Australia
-2024-01-04,730.56,Electronics,Australia
-2024-05-10,31.23,Clothing,South America
-2024-12-11,820.07,Electronics,Asia
-2024-06-05,147.53,Home & Garden,North America
-2024-12-24,121.42,Electronics,South America
-2024-10-31,611.53,Toys,Asia
-2024-10-06,309.85,Sports,Australia
-2024-07-08,632.86,Electronics,South America
-2024-07-13,423.70,Toys,Europe
-2024-10-13,21.01,Home & Garden,North America
-2024-12-28,880.51,Clothing,South America
-2024-12-16,50.22,Clothing,South America
-2024-11-12,749.73,Electronics,Australia
-2024-09-12,128.60,Clothing,South America
-2024-04-30,821.72,Home & Garden,North America
-2024-12-18,619.01,Sports,Asia
-2024-12-16,501.04,Home & Garden,South America
-2024-01-17,286.50,Home & Garden,Australia
-2024-03-08,296.34,Toys,North America
-2024-07-06,987.89,Electronics,Australia
-2024-05-19,552.69,Clothing,Australia
-2024-07-26,571.57,Home & Garden,Europe
-2024-03-06,573.49,Electronics,North America
-2024-06-30,363.67,Electronics,South America
-2024-12-18,797.72,Clothing,Europe
-2024-07-13,219.43,Home & Garden,Asia
-2024-01-18,596.13,Electronics,Asia
-2024-11-18,553.41,Electronics,North America
-2024-09-02,131.23,Toys,South America
-2024-03-30,212.00,Electronics,Australia
-2024-03-06,677.99,Electronics,Europe
-2024-06-19,779.58,Home & Garden,Europe
-2024-01-31,175.77,Toys,South America
-2024-07-12,704.26,Clothing,Asia
-2024-11-09,38.54,Toys,Australia
-2024-12-01,284.83,Clothing,Asia
-2024-09-07,275.56,Clothing,North America
-2024-10-09,220.53,Electronics,South America
-2024-10-27,415.67,Sports,Australia
-2024-02-08,283.67,Clothing,Asia
-2024-02-23,357.51,Sports,South America
-2024-05-15,329.28,Home & Garden,Europe
-2024-07-20,546.15,Sports,North America
-2024-09-06,370.82,Sports,Australia
-2024-08-17,355.82,Clothing,Asia
-2024-06-03,103.93,Sports,South America
-2024-09-21,926.17,Home & Garden,North America
-2024-05-06,959.49,Toys,Asia
-2024-02-06,478.75,Home & Garden,Asia
-2024-04-15,412.33,Electronics,North America
-2024-07-21,310.77,Home & Garden,Australia
-2024-07-28,460.73,Home & Garden,Australia
-2024-05-16,397.61,Electronics,Australia
-2024-04-09,144.51,Home & Garden,South America
-2024-07-13,84.49,Sports,North America
-2024-07-10,529.36,Sports,North America
-2024-11-21,907.85,Electronics,South America
-2024-01-21,887.01,Clothing,South America
-2024-05-13,710.33,Home & Garden,Europe
-2024-11-30,735.40,Home & Garden,Europe
-2024-04-02,301.84,Toys,Europe
-2024-09-23,783.68,Home & Garden,Asia
-2024-06-17,611.30,Sports,South America
-2024-04-06,111.97,Toys,North America
-2024-09-02,927.48,Electronics,South America
-2024-04-27,747.70,Sports,North America
-2024-03-13,597.50,Sports,Australia
-2024-04-19,203.41,Electronics,South America
-2024-09-05,789.54,Toys,South America
-2024-01-11,889.18,Sports,North America
-2024-09-18,330.15,Clothing,Asia
-2024-12-12,857.72,Clothing,Europe
-2024-01-05,754.20,Clothing,South America
-2024-05-09,108.69,Home & Garden,South America
-2024-10-19,91.58,Electronics,North America
-2024-05-26,776.40,Sports,Asia
-2024-06-12,332.60,Clothing,Asia
-2024-08-29,445.48,Electronics,Europe
-2024-07-31,771.58,Sports,North America
-2024-06-20,73.31,Clothing,North America
-2024-12-03,714.29,Sports,Australia
-2024-11-10,220.39,Clothing,Australia
-2024-02-09,696.75,Clothing,South America
-2024-02-01,565.90,Electronics,South America
-2024-02-13,165.88,Electronics,Asia
-2024-01-24,523.46,Clothing,Europe
-2024-08-14,191.95,Clothing,Australia
-2024-05-19,609.88,Sports,South America
-2024-04-22,871.86,Electronics,Europe
-2024-03-31,656.65,Home & Garden,South America
-2024-10-27,567.97,Sports,Asia
-2024-06-30,616.90,Sports,Australia
-2024-11-30,440.83,Home & Garden,Europe
-2024-12-12,923.87,Home & Garden,Asia
-2024-07-13,609.46,Toys,Europe
-2024-03-11,251.87,Home & Garden,Europe
-2024-05-20,633.29,Sports,Europe
-2024-04-23,881.23,Electronics,South America
-2024-08-21,847.45,Sports,Australia
-2024-01-23,297.58,Toys,Europe
-2024-03-22,932.72,Sports,Australia
-2024-01-10,934.25,Clothing,South America
-2024-04-04,858.10,Electronics,Europe
-2024-08-11,821.22,Sports,South America
-2024-04-28,375.99,Clothing,North America
-2024-11-11,508.73,Electronics,South America
-2024-06-28,962.06,Toys,Europe
-2024-03-27,33.27,Toys,North America
-2024-01-23,96.57,Home & Garden,North America
-2024-09-17,550.39,Toys,Europe
-2024-05-30,759.18,Clothing,North America
-2024-02-05,487.09,Electronics,Europe
-2024-08-15,767.60,Clothing,South America
-2024-11-25,717.55,Clothing,Australia
-2024-05-14,900.11,Clothing,Asia
-2024-07-22,28.26,Home & Garden,Europe
-2024-01-19,443.46,Home & Garden,South America
-2024-02-29,92.43,Clothing,South America
-2024-05-16,127.46,Toys,Australia
-2024-08-16,98.80,Clothing,North America
-2024-07-24,877.46,Toys,North America
-2024-06-14,826.73,Clothing,South America
-2024-06-15,946.10,Toys,Australia
-2024-10-14,136.43,Clothing,Asia
-2024-01-03,571.02,Sports,Australia
-2024-04-09,353.57,Electronics,Europe
-2024-01-02,72.41,Clothing,North America
-2024-06-06,410.31,Clothing,North America
-2024-05-31,945.93,Electronics,South America
-2024-01-20,415.63,Electronics,North America
-2024-01-30,955.01,Toys,Asia
-2024-07-23,208.66,Toys,Australia
-2024-10-09,108.71,Clothing,South America
-2024-04-23,884.92,Clothing,Asia
-2024-04-15,18.48,Electronics,South America
-2024-06-25,178.92,Toys,North America
-2024-01-10,254.90,Toys,Asia
-2024-10-12,670.81,Electronics,Europe
-2024-07-25,267.38,Toys,Australia
-2024-09-07,739.34,Sports,Asia
-2024-10-22,871.25,Sports,Australia
-2024-12-22,377.40,Electronics,Europe
-2024-08-14,470.73,Sports,South America
-2024-03-15,748.70,Electronics,Europe
-2024-09-07,403.81,Sports,South America
-2024-10-31,308.71,Clothing,Asia
-2024-12-18,326.34,Sports,South America
-2024-03-25,394.85,Electronics,North America
-2024-05-25,423.18,Home & Garden,North America
-2024-03-24,910.67,Home & Garden,Australia
-2024-11-06,798.52,Clothing,Australia
-2024-06-20,304.61,Toys,Europe
-2024-12-22,54.68,Toys,Europe
-2024-03-31,754.58,Sports,South America
-2024-07-11,743.31,Electronics,Asia
-2024-04-28,730.89,Electronics,South America
-2024-05-31,85.17,Home & Garden,North America
-2024-04-25,135.86,Toys,Australia
-2024-07-12,388.02,Toys,North America
-2024-10-24,883.96,Sports,South America
-2024-09-10,640.39,Sports,Australia
-2024-04-13,516.00,Home & Garden,Europe
-2024-09-28,258.22,Home & Garden,North America
-2024-10-08,94.80,Sports,Europe
-2024-11-22,792.59,Toys,South America
-2024-07-16,944.27,Toys,Asia
-2024-05-13,222.97,Toys,Australia
-2024-01-04,361.53,Clothing,South America
-2024-07-20,99.98,Clothing,Australia
-2024-12-27,260.33,Toys,Europe
-2024-07-15,522.87,Clothing,Australia
-2024-06-03,172.54,Electronics,North America
-2024-06-07,658.73,Sports,Australia
-2024-05-20,419.93,Electronics,South America
-2024-06-22,475.41,Clothing,South America
-2024-12-12,490.20,Toys,South America
-2024-09-15,995.57,Home & Garden,Australia
-2024-04-29,721.83,Toys,Europe
-2024-07-06,762.88,Electronics,Asia
-2024-10-12,833.94,Electronics,Australia
-2024-04-20,271.42,Sports,Asia
-2024-08-17,545.53,Electronics,South America
-2024-10-08,981.94,Electronics,Asia
-2024-11-20,399.32,Toys,Australia
-2024-07-04,306.61,Electronics,Europe
-2024-02-26,13.42,Clothing,South America
-2024-10-30,788.04,Electronics,Asia
-2024-01-30,903.81,Sports,Europe
-2024-10-01,358.01,Sports,Europe
-2024-08-06,96.80,Toys,South America
-2024-12-22,385.78,Toys,North America
-2024-08-06,686.56,Home & Garden,Asia
-2024-05-26,510.64,Toys,Asia
-2024-11-03,183.04,Home & Garden,Europe
-2024-08-26,685.43,Sports,Asia
-2024-09-07,119.70,Home & Garden,Asia
-2024-01-17,770.43,Toys,Asia
-2024-03-05,491.86,Sports,Asia
-2024-07-31,678.29,Sports,North America
-2024-02-21,725.30,Home & Garden,Australia
-2024-12-28,954.69,Toys,Australia
-2024-11-27,860.60,Electronics,North America
-2024-03-27,211.29,Toys,Europe
-2024-05-22,72.14,Clothing,South America
-2024-03-06,88.49,Sports,North America
-2024-01-01,788.34,Home & Garden,North America
-2024-06-28,129.63,Clothing,Asia
-2024-02-04,302.76,Electronics,Australia
-2024-11-03,560.38,Toys,North America
-2024-12-11,514.95,Toys,North America
-2024-05-03,712.14,Toys,Australia
-2024-04-17,335.80,Electronics,North America
-2024-09-05,526.14,Toys,South America
-2024-02-22,227.54,Sports,Australia
-2024-06-30,48.03,Electronics,South America
-2024-05-08,371.27,Home & Garden,South America
-2024-10-12,806.95,Clothing,Europe
-2024-06-14,44.07,Toys,Europe
-2024-12-01,452.58,Clothing,Asia
-2024-01-03,872.01,Clothing,Australia
-2024-06-02,815.18,Home & Garden,South America
-2024-09-27,427.80,Sports,Asia
-2024-03-21,125.27,Clothing,Europe
-2024-11-03,547.63,Sports,North America
-2024-04-01,165.39,Clothing,Europe
-2024-03-29,520.43,Toys,South America
-2024-09-24,760.96,Sports,Europe
-2024-11-03,209.47,Toys,Australia
-2024-07-20,708.37,Home & Garden,Europe
-2024-07-16,117.37,Clothing,South America
-2024-06-04,634.88,Electronics,South America
-2024-10-25,799.32,Clothing,North America
-2024-07-29,770.61,Electronics,South America
-2024-11-18,470.97,Home & Garden,Australia
-2024-09-18,952.13,Toys,Australia
-2024-06-19,752.50,Sports,Asia
-2024-09-29,680.68,Home & Garden,South America
-2024-05-25,65.24,Toys,Asia
-2024-11-25,962.81,Toys,Asia
-2024-03-31,647.73,Sports,Europe
-2024-06-14,582.53,Home & Garden,South America
-2024-05-29,696.48,Home & Garden,South America
-2024-11-21,242.22,Electronics,Asia
-2024-09-08,77.34,Sports,North America
-2024-04-22,491.14,Toys,South America
-2024-08-04,307.34,Clothing,Europe
-2024-06-23,188.15,Clothing,Australia
-2024-12-17,814.65,Toys,Europe
-2024-01-11,747.42,Clothing,South America
-2024-05-17,25.66,Clothing,South America
-2024-05-07,578.39,Home & Garden,North America
-2024-06-24,609.86,Home & Garden,South America
-2024-08-10,127.27,Sports,Europe
-2024-09-08,689.53,Sports,Asia
-2024-07-25,924.89,Sports,North America
-2024-01-04,407.03,Toys,Australia
-2024-01-16,675.92,Clothing,South America
-2024-06-20,378.40,Electronics,Australia
-2024-02-17,747.77,Sports,Australia
-2024-03-19,856.71,Toys,South America
-2024-02-28,911.23,Home & Garden,Europe
-2024-09-03,286.77,Sports,North America
-2024-06-22,474.74,Sports,Australia
-2024-11-20,32.50,Sports,South America
-2024-12-27,519.38,Toys,Asia
-2024-10-23,526.73,Sports,North America
-2024-12-24,107.05,Electronics,Europe
-2024-05-07,882.48,Sports,South America
-2024-01-05,146.31,Clothing,Europe
-2024-02-10,172.58,Toys,Europe
-2024-09-05,336.35,Clothing,South America
-2024-02-24,322.18,Sports,North America
-2024-02-08,293.16,Home & Garden,Asia
-2024-03-05,567.20,Electronics,South America
-2024-12-19,385.30,Toys,Asia
-2024-04-23,508.94,Electronics,North America
-2024-07-23,477.36,Electronics,Asia
-2024-08-31,592.35,Home & Garden,Australia
-2024-10-31,141.21,Sports,Australia
-2024-11-10,738.68,Clothing,Europe
-2024-11-14,82.14,Sports,Europe
-2024-04-06,633.47,Toys,Australia
-2024-10-27,290.13,Toys,North America
-2024-06-07,550.11,Toys,Australia
-2024-05-12,279.32,Toys,Australia
-2024-08-13,823.58,Electronics,Australia
-2024-03-29,565.07,Clothing,South America
-2024-07-16,273.28,Sports,Australia
-2024-08-07,274.99,Toys,South America
-2024-01-25,498.53,Toys,South America
-2024-09-21,340.43,Home & Garden,Europe
-2024-03-05,143.63,Sports,Europe
-2024-05-14,158.94,Clothing,Asia
-2024-03-25,258.37,Toys,South America
-2024-06-07,161.98,Sports,South America
-2024-05-19,767.16,Electronics,Europe
-2024-09-23,224.46,Toys,Asia
-2024-03-25,477.08,Toys,North America
-2024-07-01,463.32,Home & Garden,Asia
-2024-08-16,827.81,Toys,South America
-2024-03-30,166.31,Sports,North America
-2024-11-28,922.83,Clothing,North America
-2024-12-26,76.41,Home & Garden,Europe
-2024-01-14,578.57,Toys,Australia
-2024-09-06,752.01,Clothing,Europe
-2024-01-28,426.89,Toys,North America
-2024-01-18,969.28,Clothing,Australia
-2024-09-29,910.90,Electronics,North America
-2024-07-23,786.73,Clothing,Europe
-2024-03-01,755.57,Electronics,Europe
-2024-07-08,715.55,Electronics,Australia
-2024-09-09,383.94,Clothing,Europe
-2024-02-06,828.09,Sports,South America
-2024-08-05,485.29,Toys,North America
-2024-10-21,101.83,Home & Garden,North America
-2024-04-23,229.20,Home & Garden,Asia
-2024-10-01,887.11,Toys,South America
-2024-11-30,609.89,Toys,South America
-2024-08-18,320.40,Toys,North America
-2024-12-07,676.55,Clothing,Europe
-2024-06-25,249.85,Electronics,Australia
-2024-06-26,486.63,Clothing,Europe
-2024-01-05,575.92,Clothing,Asia
-2024-09-03,792.07,Electronics,South America
-2024-08-19,50.61,Sports,Asia
-2024-11-14,258.65,Electronics,Asia
-2024-05-09,922.83,Home & Garden,South America
-2024-06-05,63.22,Home & Garden,South America
-2024-02-04,849.74,Electronics,South America
-2024-12-21,663.41,Home & Garden,Asia
-2024-01-23,539.62,Sports,Asia
-2024-11-10,668.86,Sports,South America
-2024-04-12,140.55,Sports,Europe
-2024-11-01,583.28,Home & Garden,Europe
-2024-12-07,387.53,Electronics,South America
-2024-12-17,679.33,Sports,Europe
-2024-06-03,559.02,Sports,Asia
-2024-02-18,339.22,Clothing,Australia
-2024-12-30,769.41,Home & Garden,North America
-2024-06-01,335.68,Electronics,Australia
-2024-01-23,56.72,Toys,Asia
-2024-10-16,27.17,Toys,North America
-2024-01-07,822.93,Home & Garden,South America
-2024-09-11,493.04,Electronics,North America
-2024-02-25,634.52,Electronics,Australia
-2024-11-15,792.27,Electronics,Asia
-2024-12-22,457.42,Sports,South America
-2024-03-01,904.03,Sports,North America
-2024-07-04,652.82,Sports,Asia
-2024-06-20,673.59,Toys,North America
-2024-10-04,588.04,Toys,North America
-2024-02-05,478.02,Home & Garden,North America
-2024-08-10,827.59,Toys,South America
-2024-09-15,972.31,Home & Garden,Europe
-2024-02-16,941.74,Clothing,Asia
-2024-06-06,30.01,Clothing,North America
-2024-06-07,892.35,Electronics,Asia
-2024-10-27,334.27,Home & Garden,Australia
-2024-09-13,705.64,Toys,North America
-2024-08-22,120.92,Toys,Asia
-2024-10-26,318.30,Clothing,North America
-2024-11-05,445.72,Clothing,South America
-2024-01-06,138.97,Electronics,Asia
-2024-07-31,764.33,Clothing,Asia
-2024-01-29,553.47,Clothing,Asia
-2024-06-16,183.10,Home & Garden,Europe
-2024-01-25,620.86,Sports,Europe
-2024-12-19,196.89,Sports,Europe
-2024-12-23,34.92,Toys,Europe
-2024-12-04,985.84,Home & Garden,Europe
-2024-01-18,861.27,Home & Garden,Asia
-2024-12-07,948.55,Sports,South America
-2024-05-27,356.95,Home & Garden,Europe
-2024-03-25,273.45,Electronics,South America
-2024-03-23,154.14,Sports,Australia
-2024-02-16,26.77,Clothing,North America
-2024-10-26,226.54,Home & Garden,North America
-2024-09-20,380.98,Clothing,South America
-2024-11-24,215.47,Sports,North America
-2024-07-13,388.07,Home & Garden,Australia
-2024-01-26,274.89,Toys,Asia
-2024-05-15,338.28,Toys,North America
-2024-05-08,207.70,Toys,Asia
-2024-03-05,120.41,Clothing,Australia
-2024-12-09,798.27,Electronics,South America
-2024-12-24,760.98,Clothing,South America
-2024-11-20,536.08,Electronics,Australia
-2024-06-06,263.42,Sports,North America
-2024-01-23,349.37,Clothing,Australia
-2024-05-26,478.61,Clothing,Asia
-2024-10-17,423.90,Toys,South America
-2024-02-14,133.66,Electronics,Asia
-2024-09-02,413.19,Electronics,Europe
-2024-04-12,220.54,Toys,Australia
-2024-09-17,693.42,Sports,Australia
-2024-01-30,422.18,Electronics,North America
-2024-04-19,920.24,Sports,North America
-2024-11-14,636.37,Sports,Europe
-2024-02-16,976.27,Home & Garden,South America
-2024-10-25,193.30,Home & Garden,Europe
-2024-09-15,720.65,Sports,North America
-2024-05-11,11.07,Toys,Asia
-2024-08-13,732.28,Home & Garden,Asia
-2024-09-26,952.21,Toys,South America
-2024-05-10,327.91,Home & Garden,Asia
-2024-09-07,858.22,Sports,Australia
-2024-03-23,196.05,Clothing,Asia
-2024-10-06,190.88,Electronics,North America
-2024-03-27,925.45,Clothing,North America
-2024-01-15,848.09,Electronics,South America
-2024-11-19,361.53,Toys,Asia
-2024-02-07,516.18,Home & Garden,Australia
-2024-01-14,785.34,Clothing,North America
-2024-03-08,842.12,Sports,Australia
-2024-08-17,28.32,Electronics,Europe
-2024-06-13,206.30,Electronics,South America
-2024-12-17,301.09,Home & Garden,Australia
-2024-07-08,41.50,Toys,Europe
-2024-01-01,231.58,Sports,Asia
-2024-03-03,378.50,Home & Garden,Asia
-2024-03-13,722.37,Home & Garden,North America
-2024-02-11,677.93,Electronics,South America
-2024-06-08,426.72,Toys,Australia
-2024-06-18,560.26,Sports,Australia
-2024-09-14,395.48,Sports,South America
-2024-09-18,296.28,Sports,Europe
-2024-03-23,515.83,Home & Garden,South America
-2024-06-17,170.02,Toys,Australia
-2024-05-10,399.74,Clothing,North America
-2024-11-04,144.05,Sports,North America
-2024-11-19,427.34,Clothing,Europe
-2024-07-04,156.63,Home & Garden,Australia
-2024-03-22,216.59,Electronics,North America
-2024-11-14,380.64,Home & Garden,Asia
-2024-04-01,325.26,Electronics,Europe
-2024-05-02,16.99,Toys,South America
-2024-11-04,972.20,Electronics,North America
-2024-05-16,543.89,Sports,Asia
-2024-09-13,820.39,Home & Garden,Asia
-2024-01-17,673.46,Clothing,Asia
-2024-01-27,182.12,Electronics,Asia
-2024-01-01,809.72,Electronics,Australia
-2024-01-08,445.96,Toys,Australia
-2024-07-12,496.76,Electronics,North America
-2024-12-25,763.49,Clothing,Asia
-2024-04-12,373.98,Sports,North America
-2024-09-09,999.88,Sports,South America
-2024-03-13,860.58,Sports,Europe
-2024-01-26,17.18,Home & Garden,Europe
-2024-06-02,953.33,Sports,South America
-2024-02-09,592.05,Electronics,Asia
-2024-01-03,563.50,Toys,Asia
-2024-03-27,918.57,Electronics,Australia
-2024-11-30,703.90,Home & Garden,South America
-2024-04-09,126.71,Clothing,Europe
-2024-01-02,920.11,Home & Garden,North America
-2024-08-08,724.96,Sports,Australia
-2024-01-22,195.41,Electronics,North America
-2024-06-10,733.20,Home & Garden,North America
-2024-10-04,577.37,Home & Garden,Asia
-2024-12-05,34.73,Sports,North America
-2024-01-15,338.24,Toys,Australia
-2024-01-24,279.16,Clothing,Australia
-2024-10-25,584.89,Sports,Asia
-2024-02-19,70.46,Toys,Asia
-2024-11-04,796.61,Clothing,Australia
-2024-09-12,632.03,Home & Garden,Europe
-2024-12-27,286.18,Electronics,Asia
-2024-02-25,194.34,Electronics,South America
-2024-03-28,577.59,Home & Garden,Asia
-2024-03-23,499.11,Sports,Asia
-2024-10-17,329.44,Electronics,South America
-2024-06-08,426.17,Electronics,Australia
-2024-08-09,298.82,Sports,North America
-2024-12-13,83.44,Electronics,North America
-2024-10-20,931.76,Home & Garden,North America
-2024-12-17,176.99,Toys,Asia
-2024-04-14,31.34,Electronics,Australia
-2024-08-02,149.54,Sports,South America
-2024-12-16,612.42,Clothing,Europe
-2024-03-22,82.71,Sports,Europe
-2024-02-18,73.17,Toys,North America
-2024-11-10,932.92,Home & Garden,Australia
-2024-07-04,804.49,Clothing,Asia
-2024-08-23,920.17,Toys,South America
-2024-03-26,724.00,Electronics,Australia
-2024-09-24,705.66,Toys,Asia
-2024-01-14,442.82,Toys,Asia
-2024-10-24,30.51,Toys,Asia
-2024-11-22,819.03,Home & Garden,Europe
-2024-05-28,701.62,Clothing,Europe
-2024-04-05,407.72,Home & Garden,Europe
-2024-10-07,211.15,Sports,Europe
-2024-10-14,961.07,Electronics,North America
-2024-05-26,547.62,Toys,North America
-2024-06-30,693.52,Toys,South America
-2024-11-04,546.88,Toys,North America
-2024-03-21,735.00,Sports,Asia
-2024-05-10,602.46,Toys,North America
-2024-03-17,485.85,Electronics,Europe
-2024-12-08,623.60,Sports,South America
-2024-07-27,404.02,Electronics,Australia
-2024-04-13,130.03,Home & Garden,Australia
-2024-10-15,559.60,Electronics,Europe
-2024-04-03,462.67,Home & Garden,South America
-2024-10-27,593.49,Toys,Europe
-2024-01-26,356.89,Toys,Australia
-2024-05-17,344.07,Clothing,Europe
-2024-04-08,523.46,Home & Garden,Asia
-2024-02-15,465.59,Clothing,Europe
-2024-03-14,123.13,Home & Garden,South America
-2024-04-23,185.66,Sports,Australia
-2024-04-09,697.67,Toys,Europe
-2024-02-03,667.76,Toys,South America
-2024-11-22,571.02,Home & Garden,Europe
-2024-04-25,103.97,Electronics,Australia
-2024-12-19,307.56,Sports,Europe
-2024-10-10,312.84,Clothing,Europe
-2024-06-20,118.44,Toys,Europe
-2024-03-21,708.94,Sports,Asia
-2024-04-08,361.94,Clothing,Australia
-2024-10-17,853.24,Home & Garden,Asia
-2024-03-10,901.92,Clothing,South America
-2024-09-17,105.76,Toys,Europe
-2024-02-24,943.74,Sports,Europe
-2024-11-15,862.27,Home & Garden,South America
-2024-06-24,248.41,Clothing,South America
-2024-03-08,447.45,Clothing,Asia
-2024-08-06,217.62,Electronics,Asia
-2024-09-06,215.33,Home & Garden,North America
-2024-09-27,611.41,Toys,Europe
-2024-02-04,246.82,Home & Garden,South America
-2024-11-30,301.15,Toys,Asia
-2024-02-28,117.43,Clothing,Europe
-2024-12-29,246.22,Electronics,Australia
-2024-06-20,610.54,Clothing,Australia
-2024-01-15,110.86,Clothing,Asia
-2024-04-29,614.65,Electronics,Europe
-2024-10-04,866.07,Toys,North America
-2024-01-22,10.22,Electronics,North America
-2024-02-14,101.29,Electronics,Europe
-2024-01-09,479.65,Clothing,North America
-2024-12-10,465.83,Toys,Asia
-2024-09-28,427.48,Clothing,South America
-2024-06-13,385.96,Home & Garden,Australia
-2024-11-17,718.16,Home & Garden,North America
-2024-02-27,614.32,Electronics,South America
-2024-02-02,579.82,Electronics,North America
-2024-10-03,745.93,Toys,Asia
-2024-06-03,683.69,Toys,Asia
-2024-02-20,556.51,Sports,South America
-2024-01-26,486.66,Electronics,North America
-2024-01-31,321.72,Clothing,Europe
-2024-07-01,354.40,Clothing,Asia
-2024-04-18,237.86,Clothing,Asia
-2024-02-18,40.51,Clothing,Australia
-2024-03-15,161.02,Sports,South America
-2024-10-17,718.03,Clothing,Asia
-2024-04-05,539.53,Electronics,North America
-2024-08-03,211.28,Electronics,Australia
-2024-09-09,605.63,Electronics,Europe
-2024-06-22,427.64,Home & Garden,Europe
-2024-12-20,822.74,Home & Garden,South America
-2024-04-11,192.12,Home & Garden,Australia
-2024-06-19,726.89,Home & Garden,North America
-2024-04-06,11.24,Home & Garden,South America
-2024-08-05,361.11,Electronics,South America
-2024-07-27,766.77,Toys,Europe
-2024-08-05,68.59,Home & Garden,Asia
-2024-10-03,344.12,Toys,North America
-2024-07-06,991.12,Sports,North America
-2024-02-01,886.64,Electronics,Europe
-2024-08-08,126.91,Toys,South America
-2024-06-07,504.86,Clothing,South America
-2024-04-25,692.02,Clothing,South America
-2024-03-09,385.47,Toys,South America
-2024-11-17,241.90,Toys,North America
-2024-02-25,361.07,Toys,Asia
-2024-07-12,464.26,Electronics,Europe
-2024-04-12,66.14,Sports,Asia
-2024-05-22,397.76,Toys,North America
-2024-02-02,911.32,Clothing,Asia
-2024-12-16,94.69,Toys,South America
-2024-02-28,844.63,Home & Garden,Australia
-2024-12-03,95.46,Toys,Europe
-2024-07-11,618.75,Home & Garden,Asia
-2024-06-06,852.18,Toys,Asia
-2024-06-27,358.52,Clothing,North America
-2024-09-07,715.51,Toys,Europe
-2024-06-21,432.76,Sports,Europe
-2024-10-26,379.29,Clothing,South America
-2024-05-15,17.68,Toys,Europe
-2024-01-20,799.96,Electronics,North America
-2024-08-12,718.49,Clothing,Europe
-2024-02-20,404.16,Electronics,Australia
-2024-12-22,284.00,Clothing,Asia
-2024-05-21,94.93,Electronics,Asia
-2024-10-16,304.75,Toys,South America
-2024-06-05,305.50,Home & Garden,North America
-2024-08-03,761.47,Home & Garden,Asia
-2024-01-25,256.63,Sports,Europe
-2024-11-27,441.98,Sports,South America
-2024-12-28,565.11,Clothing,Australia
-2024-01-14,180.17,Electronics,Europe
-2024-06-27,78.38,Electronics,Asia
-2024-07-31,400.29,Toys,South America
-2024-11-02,909.80,Sports,Australia
-2024-10-08,512.24,Sports,Europe
-2024-07-16,432.41,Electronics,South America
-2024-09-10,167.24,Clothing,Europe
-2024-05-24,465.03,Electronics,Asia
-2024-04-13,853.22,Sports,Australia
-2024-05-18,615.02,Toys,Australia
-2024-06-08,895.25,Clothing,Asia
-2024-03-31,814.01,Sports,South America
-2024-03-02,650.96,Home & Garden,North America
-2024-05-09,718.65,Sports,Australia
-2024-10-13,528.48,Electronics,Asia
-2024-10-30,279.17,Sports,South America
-2024-03-15,268.66,Electronics,Asia
-2024-09-07,767.45,Sports,Australia
-2024-12-29,409.23,Toys,North America
-2024-08-22,878.36,Toys,South America
-2024-11-23,563.50,Toys,North America
-2024-07-09,586.76,Home & Garden,Europe
-2024-12-21,451.38,Toys,Europe
-2024-03-29,647.66,Toys,North America
-2024-09-01,375.03,Electronics,Europe
-2024-11-29,342.85,Sports,Australia
-2024-12-29,756.98,Home & Garden,Asia
-2024-07-07,712.28,Sports,South America
-2024-08-18,963.26,Sports,South America
-2024-07-17,516.62,Clothing,Europe
-2024-08-27,760.21,Electronics,Asia
-2024-09-15,654.28,Toys,South America
-2024-07-07,609.81,Sports,South America
-2024-02-04,303.58,Electronics,North America
-2024-11-10,700.05,Home & Garden,South America
-2024-07-16,187.75,Home & Garden,Asia
-2024-03-10,519.60,Electronics,North America
-2024-01-06,212.44,Home & Garden,Asia
-2024-02-07,736.50,Sports,Asia
-2024-04-19,387.53,Clothing,Australia
-2024-12-09,574.22,Toys,Australia
-2024-01-23,695.48,Sports,Asia
-2024-03-10,121.46,Clothing,Australia
-2024-06-16,809.48,Toys,North America
-2024-08-26,677.92,Clothing,Australia
-2024-04-26,243.87,Home & Garden,South America
-2024-07-19,762.26,Toys,Europe
-2024-10-22,177.18,Electronics,Europe
-2024-11-21,72.55,Sports,Europe
-2024-03-05,303.28,Clothing,Australia
-2024-02-18,27.75,Electronics,North America
-2024-12-28,537.28,Toys,Asia
-2024-01-25,102.96,Sports,South America
-2024-05-13,447.36,Toys,Australia
-2024-12-10,853.85,Home & Garden,Australia
-2024-03-25,143.61,Electronics,South America
-2024-02-05,711.73,Toys,North America
-2024-12-06,845.00,Home & Garden,North America
-2024-10-02,604.72,Toys,Asia
-2024-05-22,667.47,Clothing,North America
-2024-06-04,62.07,Home & Garden,North America
-2024-09-15,331.40,Sports,Europe
-2024-07-08,498.97,Home & Garden,Australia
-2024-06-20,563.86,Home & Garden,Europe
-2024-04-14,447.34,Toys,South America
-2024-10-17,408.45,Sports,Europe
-2024-12-21,342.38,Home & Garden,Europe
-2024-03-30,83.14,Home & Garden,Asia
-2024-05-24,209.49,Toys,South America
-2024-03-05,624.21,Home & Garden,North America
-2024-05-16,927.63,Home & Garden,Asia
-2024-12-25,576.96,Clothing,Europe
-2024-01-28,95.49,Home & Garden,Europe
-2024-02-14,48.66,Home & Garden,South America
-2024-09-03,425.53,Electronics,Europe
-2024-03-03,736.71,Electronics,North America
-2024-08-14,186.79,Toys,South America
-2024-09-25,45.16,Toys,Australia
-2024-10-08,738.87,Sports,North America
-2024-09-07,360.98,Electronics,South America
-2024-05-31,598.11,Home & Garden,North America
-2024-10-28,325.80,Sports,Australia
-2024-04-20,903.68,Sports,Europe
-2024-09-19,408.28,Home & Garden,South America
-2024-10-08,123.87,Electronics,Australia
-2024-06-23,791.48,Clothing,South America
-2024-03-05,744.73,Toys,Europe
-2024-01-20,33.28,Clothing,South America
-2024-05-17,980.29,Sports,Europe
-2024-09-10,446.79,Home & Garden,South America
-2024-02-03,934.53,Sports,Asia
-2024-07-05,286.64,Home & Garden,Australia
-2024-12-13,968.72,Toys,Asia
-2024-11-12,288.96,Home & Garden,Asia
-2024-03-30,624.52,Clothing,Asia
-2024-05-10,747.99,Clothing,South America
-2024-07-23,592.66,Toys,Europe
-2024-05-15,587.74,Toys,Asia
-2024-07-29,377.18,Sports,Europe
-2024-06-15,523.93,Clothing,North America
-2024-02-01,551.79,Sports,Australia
-2024-05-03,309.69,Clothing,Asia
-2024-09-13,986.70,Electronics,South America
-2024-04-12,277.57,Sports,Asia
-2024-11-26,53.80,Sports,Australia
-2024-04-07,259.64,Electronics,South America
-2024-01-21,580.03,Home & Garden,Asia
-2024-12-03,156.03,Home & Garden,Australia
-2024-07-16,259.98,Sports,North America
-2024-10-11,994.08,Toys,Europe
-2024-04-25,698.64,Toys,Australia
-2024-05-18,112.96,Sports,South America
-2024-08-14,228.75,Toys,North America
-2024-07-03,421.77,Electronics,South America
-2024-04-30,846.60,Sports,South America
-2024-09-18,926.24,Toys,Australia
-2024-07-27,295.18,Toys,North America
-2024-10-24,556.03,Electronics,Asia
+date,amount,productCategory,region,company
+2024-02-03,2180.97,Home Goods,Asia,Apex Retail Group
+2024-06-11,146.82,Accessories,Europe,Apex Retail Group
+2024-09-29,3336.73,Apparel,Europe,Apex Retail Group
+2024-02-16,1246.56,Home Goods,Asia,Apex Retail Group
+2024-01-05,8506.44,Apparel,Australia,Apex Retail Group
+2024-02-24,471.68,Accessories,Asia,Apex Retail Group
+2024-03-19,1107.92,Accessories,North America,Apex Retail Group
+2024-06-28,5832.93,Home Goods,Asia,Apex Retail Group
+2024-06-17,3797.50,Electronics,Asia,Apex Retail Group
+2024-11-11,8727.46,Apparel,South America,Apex Retail Group
+2024-04-11,2067.85,Accessories,South America,Apex Retail Group
+2024-06-17,6295.82,Home Goods,Europe,Apex Retail Group
+2024-04-11,1776.15,Apparel,North America,Apex Retail Group
+2024-10-15,117.18,Apparel,South America,Apex Retail Group
+2024-10-14,3287.13,Apparel,Australia,Apex Retail Group
+2024-12-20,2094.09,Home Goods,North America,Apex Retail Group
+2024-10-24,2434.86,Electronics,Europe,Apex Retail Group
+2024-07-27,9848.59,Apparel,Europe,Apex Retail Group
+2024-07-08,2011.77,Accessories,North America,Apex Retail Group
+2024-12-24,8999.75,Accessories,North America,Apex Retail Group
+2024-11-20,7052.24,Electronics,Europe,Apex Retail Group
+2024-03-05,1650.53,Apparel,North America,Apex Retail Group
+2024-03-25,8135.41,Apparel,South America,Apex Retail Group
+2024-10-20,5055.15,Apparel,Asia,Apex Retail Group
+2024-04-26,7265.69,Accessories,North America,Apex Retail Group
+2024-06-21,2244.94,Accessories,North America,Apex Retail Group
+2024-10-29,3485.95,Electronics,North America,Apex Retail Group
+2024-08-16,6340.88,Accessories,Asia,Apex Retail Group
+2024-10-14,4696.20,Accessories,South America,Apex Retail Group
+2024-11-08,9241.24,Home Goods,Europe,Apex Retail Group
+2024-04-05,2990.21,Accessories,Asia,Apex Retail Group
+2024-11-26,3321.45,Apparel,South America,Apex Retail Group
+2024-04-19,9387.81,Apparel,North America,Apex Retail Group
+2024-11-16,9495.14,Apparel,North America,Apex Retail Group
+2024-10-01,3873.20,Home Goods,Australia,Apex Retail Group
+2024-01-19,5995.79,Apparel,South America,Apex Retail Group
+2024-08-28,3412.96,Accessories,South America,Apex Retail Group
+2024-10-27,3230.84,Home Goods,Australia,Apex Retail Group
+2024-10-27,270.46,Electronics,Australia,Apex Retail Group
+2024-09-01,8586.98,Apparel,South America,Apex Retail Group
+2024-07-15,7911.95,Apparel,Australia,Apex Retail Group
+2024-06-21,6921.20,Accessories,South America,Apex Retail Group
+2024-12-21,3663.65,Apparel,South America,Apex Retail Group
+2024-02-13,9326.55,Electronics,Europe,Apex Retail Group
+2024-08-25,4823.08,Home Goods,Europe,Apex Retail Group
+2024-03-04,4485.34,Electronics,Europe,Apex Retail Group
+2024-09-17,1553.68,Home Goods,Europe,Apex Retail Group
+2024-09-03,4163.63,Home Goods,Asia,Apex Retail Group
+2024-12-14,3099.97,Electronics,Asia,Apex Retail Group
+2024-06-22,8079.34,Apparel,Asia,Apex Retail Group
+2024-04-26,4361.84,Electronics,South America,Apex Retail Group
+2024-10-21,5841.90,Accessories,Australia,Apex Retail Group
+2024-07-16,9337.59,Accessories,South America,Apex Retail Group
+2024-02-04,9884.11,Accessories,Europe,Apex Retail Group
+2024-12-15,9161.99,Electronics,Europe,Apex Retail Group
+2024-09-18,5376.78,Apparel,Europe,Apex Retail Group
+2024-09-07,6030.39,Apparel,Australia,Apex Retail Group
+2024-08-10,9406.13,Home Goods,Europe,Apex Retail Group
+2024-09-22,7260.12,Electronics,North America,Apex Retail Group
+2024-07-10,9629.11,Accessories,Australia,Apex Retail Group
+2024-07-01,6825.37,Accessories,South America,Apex Retail Group
+2024-01-28,8456.98,Electronics,Asia,Apex Retail Group
+2024-02-02,2303.49,Accessories,North America,Apex Retail Group
+2024-02-29,9535.08,Home Goods,South America,Apex Retail Group
+2024-09-26,6670.47,Apparel,North America,Apex Retail Group
+2024-10-04,8445.12,Electronics,South America,Apex Retail Group
+2024-03-03,3549.48,Home Goods,South America,Apex Retail Group
+2024-02-24,9940.54,Apparel,Australia,Apex Retail Group
+2024-03-30,3323.54,Home Goods,Australia,Apex Retail Group
+2024-02-26,2364.42,Accessories,Asia,Apex Retail Group
+2024-11-23,5312.34,Electronics,Australia,Apex Retail Group
+2024-03-11,485.28,Home Goods,North America,Apex Retail Group
+2024-11-27,1032.32,Home Goods,Asia,Apex Retail Group
+2024-01-13,2933.00,Home Goods,Australia,Apex Retail Group
+2024-03-29,6199.79,Electronics,Europe,Apex Retail Group
+2024-10-11,5344.60,Apparel,Asia,Apex Retail Group
+2024-12-13,1049.59,Home Goods,Europe,Apex Retail Group
+2024-06-15,8723.59,Electronics,Europe,Apex Retail Group
+2024-09-03,5430.02,Accessories,Australia,Apex Retail Group
+2024-12-27,9275.24,Electronics,Europe,Apex Retail Group
+2024-01-02,6945.99,Home Goods,South America,Apex Retail Group
+2024-05-09,4817.24,Electronics,South America,Apex Retail Group
+2024-04-19,6091.53,Accessories,South America,Apex Retail Group
+2024-05-07,6598.41,Electronics,North America,Apex Retail Group
+2024-06-07,3199.54,Accessories,Asia,Apex Retail Group
+2024-06-16,679.74,Electronics,North America,Apex Retail Group
+2024-10-06,5650.80,Home Goods,North America,Apex Retail Group
+2024-09-02,5843.07,Accessories,Australia,Apex Retail Group
+2024-07-20,9297.99,Electronics,Australia,Apex Retail Group
+2024-04-06,2222.39,Accessories,North America,Apex Retail Group
+2024-02-04,1754.94,Apparel,North America,Apex Retail Group
+2024-02-25,3254.82,Apparel,North America,Apex Retail Group
+2024-10-16,128.08,Electronics,South America,Apex Retail Group
+2024-02-22,3449.40,Accessories,South America,Apex Retail Group
+2024-02-16,897.22,Accessories,Europe,Apex Retail Group
+2024-06-02,7345.95,Electronics,South America,Apex Retail Group
+2024-02-19,5368.32,Apparel,Europe,Apex Retail Group
+2024-07-27,6758.69,Electronics,Asia,Apex Retail Group
+2024-05-14,7147.14,Home Goods,Asia,Apex Retail Group
+2024-02-09,4103.12,Electronics,Asia,Apex Retail Group
+2024-05-17,804.80,Home Goods,Europe,Apex Retail Group
+2024-02-01,6028.65,Electronics,South America,Apex Retail Group
+2024-10-09,7031.17,Accessories,Europe,Apex Retail Group
+2024-05-28,1022.27,Electronics,South America,Apex Retail Group
+2024-09-23,4004.01,Apparel,South America,Apex Retail Group
+2024-08-06,1047.31,Apparel,South America,Apex Retail Group
+2024-09-10,5105.25,Electronics,Australia,Apex Retail Group
+2024-09-24,5977.89,Home Goods,South America,Apex Retail Group
+2024-12-30,9545.43,Home Goods,North America,Apex Retail Group
+2024-09-14,2027.68,Home Goods,South America,Apex Retail Group
+2024-07-28,7384.30,Home Goods,Europe,Apex Retail Group
+2024-02-14,580.16,Apparel,Asia,Apex Retail Group
+2024-04-21,1012.75,Home Goods,North America,Apex Retail Group
+2024-09-30,7093.07,Home Goods,Asia,Apex Retail Group
+2024-10-30,9429.93,Home Goods,Asia,Apex Retail Group
+2024-11-28,4098.48,Home Goods,South America,Apex Retail Group
+2024-02-28,9595.17,Home Goods,North America,Apex Retail Group
+2024-04-28,6563.79,Home Goods,Europe,Apex Retail Group
+2024-12-14,2608.93,Accessories,Australia,Apex Retail Group
+2024-10-18,1866.21,Accessories,North America,Apex Retail Group
+2024-05-17,6151.13,Apparel,Asia,Apex Retail Group
+2024-09-22,6708.10,Home Goods,Asia,Apex Retail Group
+2024-03-04,7698.82,Electronics,Europe,Apex Retail Group
+2024-10-27,9302.50,Apparel,North America,Apex Retail Group
+2024-10-11,9104.67,Electronics,Europe,Apex Retail Group
+2024-12-22,4998.51,Apparel,Australia,Apex Retail Group
+2024-08-28,1172.23,Apparel,South America,Apex Retail Group
+2024-03-17,8152.35,Apparel,Asia,Apex Retail Group
+2024-10-26,9759.36,Accessories,North America,Apex Retail Group
+2024-06-01,3991.76,Accessories,Australia,Apex Retail Group
+2024-01-13,1604.61,Electronics,Europe,Apex Retail Group
+2024-07-17,4463.48,Accessories,North America,Apex Retail Group
+2024-12-26,7653.01,Accessories,South America,Apex Retail Group
+2024-03-20,3452.48,Electronics,Europe,Apex Retail Group
+2024-05-08,2159.96,Accessories,South America,Apex Retail Group
+2024-11-25,4327.90,Apparel,Australia,Apex Retail Group
+2024-11-19,7716.95,Apparel,South America,Apex Retail Group
+2024-10-28,9084.07,Electronics,Asia,Apex Retail Group
+2024-08-18,5815.54,Apparel,Asia,Apex Retail Group
+2024-04-10,663.78,Accessories,Australia,Apex Retail Group
+2024-06-29,7660.49,Apparel,Asia,Apex Retail Group
+2024-12-28,8564.39,Apparel,North America,Apex Retail Group
+2024-07-02,9585.49,Home Goods,South America,Apex Retail Group
+2024-06-30,2229.16,Home Goods,South America,Apex Retail Group
+2024-06-23,8655.65,Apparel,Europe,Apex Retail Group
+2024-11-17,3314.10,Accessories,North America,Apex Retail Group
+2024-08-29,6768.55,Accessories,North America,Apex Retail Group
+2024-04-10,9046.05,Apparel,North America,Apex Retail Group
+2024-07-17,9348.73,Home Goods,Asia,Apex Retail Group
+2024-10-25,8672.06,Apparel,North America,Apex Retail Group
+2024-02-24,579.19,Accessories,North America,Apex Retail Group
+2024-05-27,6576.34,Accessories,Europe,Apex Retail Group
+2024-12-06,2748.48,Electronics,North America,Apex Retail Group
+2024-11-03,8584.70,Electronics,North America,Apex Retail Group
+2024-03-30,9870.43,Electronics,Asia,Apex Retail Group
+2024-12-12,7425.53,Home Goods,North America,Apex Retail Group
+2024-08-25,1845.10,Accessories,Asia,Apex Retail Group
+2024-12-15,6782.27,Home Goods,Europe,Apex Retail Group
+2024-09-16,3014.36,Apparel,Australia,Apex Retail Group
+2024-01-11,4493.62,Apparel,Asia,Apex Retail Group
+2024-08-10,1368.72,Home Goods,Asia,Apex Retail Group
+2024-12-17,5499.76,Apparel,South America,Apex Retail Group
+2024-12-06,6863.79,Apparel,North America,Apex Retail Group
+2024-06-14,5947.89,Home Goods,Asia,Apex Retail Group
+2024-09-10,803.52,Accessories,Australia,Apex Retail Group
+2024-03-22,7605.70,Home Goods,North America,Apex Retail Group
+2024-05-19,6500.74,Accessories,Asia,Apex Retail Group
+2024-08-12,7459.86,Home Goods,South America,Apex Retail Group
+2024-02-01,6389.28,Home Goods,Europe,Apex Retail Group
+2024-06-03,7023.09,Accessories,North America,Apex Retail Group
+2024-01-02,3839.98,Accessories,Australia,Apex Retail Group
+2024-08-30,9642.71,Apparel,South America,Apex Retail Group
+2024-02-28,1117.68,Apparel,South America,Apex Retail Group
+2024-04-28,8215.25,Accessories,North America,Apex Retail Group
+2024-02-10,8027.33,Apparel,Australia,Apex Retail Group
+2024-08-15,6682.06,Home Goods,Asia,Apex Retail Group
+2024-10-16,7320.57,Accessories,Europe,Apex Retail Group
+2024-09-11,9881.15,Home Goods,North America,Apex Retail Group
+2024-04-17,8296.10,Electronics,Asia,Apex Retail Group
+2024-03-27,1997.64,Electronics,Australia,Apex Retail Group
+2024-09-27,4654.89,Home Goods,Australia,Apex Retail Group
+2024-11-28,5948.62,Apparel,Asia,Apex Retail Group
+2024-11-24,8065.67,Accessories,Europe,Apex Retail Group
+2024-07-10,2304.33,Electronics,Australia,Apex Retail Group
+2024-01-03,1686.22,Apparel,North America,Apex Retail Group
+2024-04-17,6845.67,Home Goods,Europe,Apex Retail Group
+2024-10-17,4828.28,Electronics,South America,Apex Retail Group
+2024-02-23,3882.85,Apparel,Australia,Apex Retail Group
+2024-05-07,7950.65,Electronics,South America,Apex Retail Group
+2024-03-01,8435.60,Home Goods,South America,Apex Retail Group
+2024-07-20,5669.78,Apparel,Europe,Apex Retail Group
+2024-09-10,2941.32,Home Goods,Australia,Apex Retail Group
+2024-08-12,9423.56,Accessories,South America,Apex Retail Group
+2024-11-12,6571.07,Accessories,North America,Apex Retail Group
+2024-06-08,6809.60,Apparel,Europe,Apex Retail Group
+2024-09-07,1821.64,Home Goods,Asia,Apex Retail Group
+2024-02-11,3218.39,Apparel,Europe,Apex Retail Group
+2024-12-02,822.38,Accessories,North America,Apex Retail Group
+2024-10-05,7346.79,Electronics,Australia,Apex Retail Group
+2024-04-09,2386.65,Home Goods,South America,Apex Retail Group
+2024-10-13,139.43,Apparel,North America,Apex Retail Group
+2024-06-06,7276.46,Home Goods,North America,Apex Retail Group
+2024-10-05,5425.82,Accessories,Asia,Apex Retail Group
+2024-09-25,8426.95,Home Goods,Australia,Apex Retail Group
+2024-07-14,5054.71,Home Goods,Asia,Apex Retail Group
+2024-07-27,2192.89,Apparel,Europe,Apex Retail Group
+2024-11-01,3543.82,Apparel,South America,Apex Retail Group
+2024-10-14,2218.43,Accessories,South America,Apex Retail Group
+2024-03-06,9959.52,Apparel,Australia,Apex Retail Group
+2024-09-28,776.57,Apparel,Asia,Apex Retail Group
+2024-10-15,2645.18,Electronics,South America,Apex Retail Group
+2024-02-05,2378.30,Apparel,Australia,Apex Retail Group
+2024-06-30,9982.65,Electronics,North America,Apex Retail Group
+2024-06-15,482.77,Apparel,Europe,Apex Retail Group
+2024-05-27,495.05,Apparel,Europe,Apex Retail Group
+2024-03-04,9024.63,Electronics,Asia,Apex Retail Group
+2024-12-01,9695.81,Electronics,North America,Apex Retail Group
+2024-07-06,2027.95,Electronics,Australia,Apex Retail Group
+2024-11-13,4601.08,Accessories,Australia,Apex Retail Group
+2024-03-14,1912.89,Home Goods,Europe,Apex Retail Group
+2024-07-11,5356.12,Accessories,South America,Apex Retail Group
+2024-02-16,3456.66,Apparel,Europe,Apex Retail Group
+2024-09-10,7104.62,Home Goods,Australia,Apex Retail Group
+2024-08-17,4655.13,Electronics,Europe,Apex Retail Group
+2024-09-30,6103.08,Apparel,Australia,Apex Retail Group
+2024-10-21,1555.25,Apparel,Asia,Apex Retail Group
+2024-12-26,2673.59,Electronics,Asia,Apex Retail Group
+2024-04-30,9355.64,Electronics,Europe,Apex Retail Group
+2024-04-03,2043.43,Electronics,South America,Apex Retail Group
+2024-07-22,7186.49,Apparel,Europe,Apex Retail Group
+2024-12-19,9751.18,Accessories,Asia,Apex Retail Group
+2024-04-16,8416.69,Apparel,South America,Apex Retail Group
+2024-05-28,8631.17,Electronics,Europe,Apex Retail Group
+2024-08-14,6845.33,Home Goods,North America,Apex Retail Group
+2024-08-04,1160.11,Home Goods,South America,Apex Retail Group
+2024-08-30,7552.19,Electronics,Europe,Apex Retail Group
+2024-04-21,6709.66,Electronics,South America,Apex Retail Group
+2024-11-04,6962.40,Accessories,South America,Apex Retail Group
+2024-09-18,9614.81,Accessories,Europe,Apex Retail Group
+2024-06-22,234.48,Accessories,South America,Apex Retail Group
+2024-04-24,8240.14,Electronics,North America,Apex Retail Group
+2024-08-01,6419.58,Accessories,South America,Apex Retail Group
+2024-05-03,2113.16,Apparel,Asia,Apex Retail Group
+2024-06-27,2064.89,Accessories,North America,Apex Retail Group
+2024-08-25,9130.22,Electronics,Asia,Apex Retail Group
+2024-09-30,8581.78,Accessories,Australia,Apex Retail Group
+2024-03-20,3134.01,Accessories,Asia,Apex Retail Group
+2024-08-06,2704.48,Home Goods,Asia,Apex Retail Group
+2024-01-11,3353.46,Home Goods,Australia,Apex Retail Group
+2024-12-05,543.34,Apparel,Europe,Apex Retail Group
+2024-06-02,6957.28,Apparel,South America,Apex Retail Group
+2024-10-04,5513.72,Apparel,Europe,Apex Retail Group
+2024-01-17,766.94,Accessories,Australia,Apex Retail Group
+2024-10-08,6978.23,Apparel,Europe,Apex Retail Group
+2024-11-02,6449.59,Accessories,Europe,Apex Retail Group
+2024-03-07,5951.39,Electronics,North America,Apex Retail Group
+2024-11-05,4686.95,Apparel,Europe,Apex Retail Group
+2024-02-18,1332.29,Accessories,Asia,Apex Retail Group
+2024-12-11,5016.83,Electronics,South America,Apex Retail Group
+2024-11-18,2635.95,Accessories,North America,Apex Retail Group
+2024-08-20,6318.49,Accessories,South America,Apex Retail Group
+2024-02-20,6215.14,Home Goods,Australia,Apex Retail Group
+2024-09-27,2524.72,Accessories,Australia,Apex Retail Group
+2024-07-29,4770.89,Home Goods,Asia,Apex Retail Group
+2024-05-24,3459.13,Apparel,Europe,Apex Retail Group
+2024-01-04,4788.37,Home Goods,Asia,Apex Retail Group
+2024-02-10,5364.09,Electronics,Europe,Apex Retail Group
+2024-12-11,3776.46,Home Goods,Europe,Apex Retail Group
+2024-10-06,4614.13,Home Goods,North America,Apex Retail Group
+2024-06-25,1271.41,Apparel,Asia,Apex Retail Group
+2024-06-19,5503.21,Electronics,Australia,Apex Retail Group
+2024-03-22,2546.35,Apparel,Europe,Apex Retail Group
+2024-08-09,7410.63,Accessories,Europe,Apex Retail Group
+2024-08-30,8602.68,Apparel,Europe,Apex Retail Group
+2024-03-09,9897.69,Home Goods,Australia,Apex Retail Group
+2024-11-19,7295.27,Accessories,Europe,Apex Retail Group
+2024-10-31,5695.66,Accessories,Asia,Apex Retail Group
+2024-04-09,4355.43,Home Goods,South America,Apex Retail Group
+2024-05-17,4480.55,Electronics,South America,Apex Retail Group
+2024-09-01,3533.70,Electronics,Australia,Apex Retail Group
+2024-04-20,9255.00,Electronics,Europe,Apex Retail Group
+2024-01-16,9249.03,Accessories,Europe,Apex Retail Group
+2024-02-11,6117.07,Apparel,North America,Apex Retail Group
+2024-09-06,5173.30,Home Goods,Australia,Apex Retail Group
+2024-04-09,9385.65,Apparel,South America,Apex Retail Group
+2024-09-02,5429.26,Home Goods,Europe,Apex Retail Group
+2024-01-06,5468.69,Home Goods,Australia,Apex Retail Group
+2024-12-21,1470.09,Electronics,Asia,Apex Retail Group
+2024-11-30,2148.57,Apparel,Asia,Apex Retail Group
+2024-04-09,3873.94,Electronics,Europe,Apex Retail Group
+2024-09-06,7166.35,Accessories,South America,Apex Retail Group
+2024-11-02,3856.75,Electronics,Australia,Apex Retail Group
+2024-10-21,2429.67,Home Goods,Australia,Apex Retail Group
+2024-03-10,8670.41,Accessories,South America,Apex Retail Group
+2024-03-01,3476.14,Electronics,North America,Apex Retail Group
+2024-03-10,4353.11,Electronics,North America,Apex Retail Group
+2024-07-27,7464.45,Home Goods,South America,Apex Retail Group
+2024-04-14,9638.91,Electronics,North America,Apex Retail Group
+2024-08-05,3004.78,Apparel,Europe,Apex Retail Group
+2024-04-16,7789.10,Accessories,Australia,Apex Retail Group
+2024-05-02,7971.74,Apparel,North America,Apex Retail Group
+2024-08-30,6558.39,Electronics,Europe,Apex Retail Group
+2024-07-31,4776.31,Home Goods,North America,Apex Retail Group
+2024-11-15,5868.89,Electronics,North America,Apex Retail Group
+2024-04-07,8783.79,Home Goods,Australia,Apex Retail Group
+2024-03-24,3718.59,Home Goods,Australia,Apex Retail Group
+2024-10-04,8723.80,Accessories,Asia,Apex Retail Group
+2024-12-28,6202.34,Home Goods,Australia,Apex Retail Group
+2024-01-01,5629.12,Electronics,Europe,Apex Retail Group
+2024-04-29,1642.41,Home Goods,Asia,Apex Retail Group
+2024-08-12,2503.50,Accessories,Europe,Apex Retail Group
+2024-05-07,3903.80,Electronics,South America,Apex Retail Group
+2024-07-01,4874.23,Home Goods,South America,Apex Retail Group
+2024-12-16,1531.48,Accessories,Europe,Apex Retail Group
+2024-04-09,7732.40,Accessories,Asia,Apex Retail Group
+2024-09-04,4175.89,Home Goods,South America,Apex Retail Group
+2024-03-04,4040.34,Apparel,Australia,Apex Retail Group
+2024-01-23,495.11,Accessories,Europe,Apex Retail Group
+2024-04-17,1730.05,Accessories,Asia,Apex Retail Group
+2024-11-26,110.38,Electronics,North America,Apex Retail Group
+2024-05-13,3722.50,Accessories,Asia,Apex Retail Group
+2024-09-16,576.38,Home Goods,Europe,Apex Retail Group
+2024-12-27,1414.54,Home Goods,Asia,Apex Retail Group
+2024-12-10,521.46,Accessories,Australia,Apex Retail Group
+2024-11-21,2032.73,Apparel,North America,Apex Retail Group
+2024-04-18,8337.05,Electronics,South America,Apex Retail Group
+2024-05-03,1546.03,Apparel,Europe,Apex Retail Group
+2024-04-11,6596.14,Electronics,Australia,Apex Retail Group
+2024-12-15,5764.09,Apparel,North America,Apex Retail Group
+2024-06-13,9790.36,Electronics,Europe,Apex Retail Group
+2024-07-08,3989.34,Home Goods,North America,Apex Retail Group
+2024-02-01,3604.05,Accessories,North America,Apex Retail Group
+2024-08-31,5122.46,Electronics,Europe,Apex Retail Group
+2024-04-23,8473.23,Home Goods,Europe,Apex Retail Group
+2024-07-05,8733.92,Home Goods,Europe,Apex Retail Group
+2024-08-04,6112.11,Apparel,Europe,Apex Retail Group
+2024-02-18,7723.96,Electronics,Australia,Apex Retail Group
+2024-12-22,2539.60,Apparel,Asia,Apex Retail Group
+2024-02-13,8601.09,Home Goods,North America,Apex Retail Group
+2024-05-11,4020.59,Apparel,North America,Apex Retail Group
+2024-09-11,1530.23,Home Goods,Europe,Apex Retail Group
+2024-03-14,3821.12,Home Goods,Asia,Apex Retail Group
+2024-08-28,7421.78,Electronics,Australia,Apex Retail Group
+2024-05-18,1073.98,Apparel,North America,Apex Retail Group
+2024-09-20,2671.89,Home Goods,North America,Apex Retail Group
+2024-08-09,4607.68,Accessories,North America,Apex Retail Group
+2024-07-28,8469.35,Electronics,North America,Apex Retail Group
+2024-03-21,5240.12,Accessories,North America,Apex Retail Group
+2024-05-08,9420.70,Electronics,Australia,Apex Retail Group
+2024-02-29,9880.57,Electronics,Europe,Apex Retail Group
+2024-12-18,8805.12,Home Goods,Australia,Apex Retail Group
+2024-06-17,1944.68,Electronics,Europe,Apex Retail Group
+2024-06-25,8560.20,Accessories,Australia,Apex Retail Group
+2024-07-17,4317.56,Home Goods,North America,Apex Retail Group
+2024-12-22,9233.72,Home Goods,Europe,Apex Retail Group
+2024-11-20,4179.32,Home Goods,North America,Apex Retail Group
+2024-09-26,9143.21,Home Goods,Europe,Apex Retail Group
+2024-12-02,1476.53,Home Goods,Europe,Apex Retail Group
+2024-07-21,6266.16,Electronics,Asia,Apex Retail Group
+2024-08-08,8767.00,Home Goods,North America,Apex Retail Group
+2024-10-16,5423.82,Electronics,Europe,Apex Retail Group
+2024-08-05,6615.94,Apparel,Australia,Apex Retail Group
+2024-02-19,6043.04,Apparel,Europe,Apex Retail Group
+2024-04-10,8181.99,Accessories,Asia,Apex Retail Group
+2024-04-25,351.31,Accessories,South America,Apex Retail Group
+2024-12-05,4078.92,Home Goods,Asia,Apex Retail Group
+2024-11-11,8459.92,Home Goods,Australia,Apex Retail Group
+2024-08-12,6261.14,Home Goods,Europe,Apex Retail Group
+2024-06-18,4417.04,Electronics,North America,Apex Retail Group
+2024-07-13,8713.29,Home Goods,North America,Apex Retail Group
+2024-06-02,8870.37,Electronics,North America,Apex Retail Group
+2024-04-04,7723.68,Home Goods,Europe,Apex Retail Group
+2024-08-08,3019.86,Electronics,South America,Apex Retail Group
+2024-05-16,1896.17,Accessories,Europe,Apex Retail Group
+2024-02-14,695.15,Apparel,Australia,Apex Retail Group
+2024-02-13,467.87,Apparel,Australia,Apex Retail Group
+2024-08-10,4671.02,Accessories,South America,Apex Retail Group
+2024-09-25,2351.16,Apparel,Australia,Apex Retail Group
+2024-12-03,5896.92,Apparel,South America,Apex Retail Group
+2024-01-28,6495.02,Apparel,Australia,Apex Retail Group
+2024-08-06,2807.96,Home Goods,North America,Apex Retail Group
+2024-10-26,3005.52,Home Goods,North America,Apex Retail Group
+2024-12-29,7472.52,Electronics,Australia,Apex Retail Group
+2024-07-18,2007.55,Apparel,South America,Apex Retail Group
+2024-09-30,4492.66,Apparel,Europe,Apex Retail Group
+2024-12-16,8254.79,Apparel,Australia,Apex Retail Group
+2024-01-05,7422.30,Home Goods,Asia,Apex Retail Group
+2024-01-15,7984.37,Home Goods,Australia,Apex Retail Group
+2024-07-19,7897.85,Home Goods,Australia,Apex Retail Group
+2024-01-12,4612.33,Electronics,Australia,Apex Retail Group
+2024-10-29,4117.52,Home Goods,Europe,Apex Retail Group
+2024-02-28,7791.46,Electronics,Australia,Apex Retail Group
+2024-09-27,4483.71,Accessories,Australia,Apex Retail Group
+2024-04-06,9067.65,Home Goods,Asia,Apex Retail Group
+2024-06-07,6108.50,Electronics,North America,Apex Retail Group
+2024-07-19,8904.11,Apparel,North America,Apex Retail Group
+2024-05-03,7775.80,Apparel,Australia,Apex Retail Group
+2024-09-28,4684.41,Apparel,Australia,Apex Retail Group
+2024-09-19,1661.05,Accessories,Asia,Apex Retail Group
+2024-04-04,7782.73,Electronics,Europe,Apex Retail Group
+2024-12-04,7821.04,Apparel,North America,Apex Retail Group
+2024-07-09,2802.63,Electronics,South America,Apex Retail Group
+2024-12-28,3144.81,Accessories,Australia,Apex Retail Group
+2024-06-18,6136.10,Accessories,Australia,Apex Retail Group
+2024-05-24,3869.79,Home Goods,Australia,Apex Retail Group
+2024-08-08,1813.16,Electronics,Europe,Apex Retail Group
+2024-07-08,9936.15,Apparel,North America,Apex Retail Group
+2024-07-23,8992.28,Apparel,Asia,Apex Retail Group
+2024-07-09,2235.97,Accessories,North America,Apex Retail Group
+2024-07-11,2783.91,Apparel,South America,Apex Retail Group
+2024-07-04,1528.71,Accessories,North America,Apex Retail Group
+2024-12-04,4023.54,Accessories,Europe,Apex Retail Group
+2024-01-03,7989.06,Apparel,Asia,Apex Retail Group
+2024-09-12,1565.56,Accessories,South America,Apex Retail Group
+2024-10-06,7268.96,Home Goods,Europe,Apex Retail Group
+2024-06-24,7874.18,Electronics,South America,Apex Retail Group
+2024-10-15,6211.15,Apparel,North America,Apex Retail Group
+2024-11-24,6543.03,Home Goods,Australia,Apex Retail Group
+2024-04-02,9354.63,Accessories,Australia,Apex Retail Group
+2024-05-07,7771.03,Electronics,North America,Apex Retail Group
+2024-05-29,2237.42,Accessories,Europe,Apex Retail Group
+2024-07-11,4555.22,Electronics,South America,Apex Retail Group
+2024-11-18,1037.11,Home Goods,South America,Apex Retail Group
+2024-12-13,2015.76,Electronics,Europe,Apex Retail Group
+2024-02-07,4240.70,Electronics,South America,Apex Retail Group
+2024-06-30,3166.43,Home Goods,North America,Apex Retail Group
+2024-11-19,3079.29,Accessories,Europe,Apex Retail Group
+2024-01-05,3164.59,Accessories,South America,Apex Retail Group
+2024-02-23,3902.78,Apparel,Europe,Apex Retail Group
+2024-12-25,343.14,Electronics,Australia,Apex Retail Group
+2024-11-22,6965.25,Home Goods,Asia,Apex Retail Group
+2024-02-08,6857.24,Apparel,Asia,Apex Retail Group
+2024-07-17,8712.58,Home Goods,Australia,Apex Retail Group
+2024-09-02,458.63,Accessories,South America,Apex Retail Group
+2024-11-19,9246.59,Apparel,North America,Apex Retail Group
+2024-09-15,8572.69,Electronics,Australia,Apex Retail Group
+2024-01-18,7900.15,Apparel,Asia,Apex Retail Group
+2024-12-03,6343.75,Home Goods,Australia,Apex Retail Group
+2024-03-15,7737.76,Home Goods,Europe,Apex Retail Group
+2024-12-11,3791.63,Electronics,Asia,Apex Retail Group
+2024-08-11,8728.53,Apparel,Europe,Apex Retail Group
+2024-04-13,8952.19,Accessories,North America,Apex Retail Group
+2024-05-27,4625.76,Apparel,Asia,Apex Retail Group
+2024-11-12,4291.50,Accessories,North America,Apex Retail Group
+2024-05-12,3612.19,Electronics,Asia,Apex Retail Group
+2024-10-06,8581.93,Accessories,South America,Apex Retail Group
+2024-05-24,8182.33,Accessories,Australia,Apex Retail Group
+2024-11-15,8415.46,Apparel,Europe,Apex Retail Group
+2024-12-05,3370.27,Electronics,South America,Apex Retail Group
+2024-09-21,7390.09,Accessories,Asia,Apex Retail Group
+2024-02-09,148.46,Home Goods,South America,Apex Retail Group
+2024-05-30,7999.43,Home Goods,South America,Apex Retail Group
+2024-06-05,8055.03,Home Goods,Europe,Apex Retail Group
+2024-07-08,5201.65,Apparel,Australia,Apex Retail Group
+2024-08-23,4743.67,Home Goods,North America,Apex Retail Group
+2024-02-25,7426.36,Accessories,Europe,Apex Retail Group
+2024-06-07,3442.88,Home Goods,Asia,Apex Retail Group
+2024-02-04,7422.92,Home Goods,Asia,Apex Retail Group
+2024-06-22,7800.68,Home Goods,North America,Apex Retail Group
+2024-01-05,1699.37,Accessories,South America,Apex Retail Group
+2024-05-12,4052.68,Home Goods,South America,Apex Retail Group
+2024-09-23,7598.46,Apparel,Australia,Apex Retail Group
+2024-01-30,6782.55,Home Goods,Asia,Apex Retail Group
+2024-11-27,6420.36,Home Goods,Asia,Apex Retail Group
+2024-05-24,3687.45,Accessories,Australia,Apex Retail Group
+2024-06-16,9707.49,Electronics,North America,Apex Retail Group
+2024-04-20,4523.29,Accessories,Asia,Apex Retail Group
+2024-12-30,9447.05,Apparel,North America,Apex Retail Group
+2024-02-24,8126.18,Home Goods,Asia,Apex Retail Group
+2024-02-27,6481.82,Electronics,North America,Apex Retail Group
+2024-11-09,2258.76,Electronics,Asia,Apex Retail Group
+2024-04-14,8209.66,Electronics,Australia,Apex Retail Group
+2024-05-08,3308.78,Electronics,Australia,Apex Retail Group
+2024-11-15,2119.67,Electronics,Asia,Apex Retail Group
+2024-03-04,2154.76,Electronics,North America,Apex Retail Group
+2024-04-26,3299.97,Home Goods,South America,Apex Retail Group
+2024-01-27,1187.28,Apparel,Australia,Apex Retail Group
+2024-12-28,4211.06,Apparel,North America,Apex Retail Group
+2024-02-22,4236.55,Accessories,Australia,Apex Retail Group
+2024-03-22,8812.50,Apparel,North America,Apex Retail Group
+2024-11-19,5038.12,Apparel,South America,Apex Retail Group
+2024-12-23,2061.32,Apparel,Asia,Apex Retail Group
+2024-12-29,3090.25,Home Goods,South America,Apex Retail Group
+2024-09-03,588.01,Home Goods,North America,Apex Retail Group
+2024-09-10,1770.48,Apparel,South America,Apex Retail Group
+2024-01-18,9635.39,Electronics,South America,Apex Retail Group
+2024-03-24,4934.41,Apparel,North America,Apex Retail Group
+2024-06-10,5686.44,Electronics,Australia,Apex Retail Group
+2024-12-07,7641.77,Apparel,North America,Apex Retail Group
+2024-03-13,1997.70,Accessories,North America,Apex Retail Group
+2024-03-09,272.90,Accessories,Europe,Apex Retail Group
+2024-03-28,8285.13,Home Goods,Australia,Apex Retail Group
+2024-10-18,185.29,Accessories,Australia,Apex Retail Group
+2024-03-02,1929.33,Apparel,Australia,Apex Retail Group
+2024-12-20,4246.40,Accessories,Asia,Apex Retail Group
+2024-03-20,5088.68,Accessories,Australia,Apex Retail Group
+2024-07-14,2777.69,Apparel,Australia,Apex Retail Group
+2024-03-04,220.28,Home Goods,Asia,Apex Retail Group
+2024-09-02,1397.04,Accessories,South America,Apex Retail Group
+2024-10-10,8865.76,Electronics,Europe,Apex Retail Group
+2024-01-11,3695.97,Accessories,Europe,Apex Retail Group
+2024-07-26,5891.40,Electronics,Europe,Apex Retail Group
+2024-03-31,292.61,Accessories,Europe,Apex Retail Group
+2024-07-12,5336.46,Apparel,South America,Apex Retail Group
+2024-06-23,7162.74,Accessories,South America,Apex Retail Group
+2024-03-22,5389.34,Accessories,South America,Apex Retail Group
+2024-04-11,1240.64,Accessories,South America,Apex Retail Group
+2024-01-07,1080.29,Apparel,Australia,Apex Retail Group
+2024-01-04,565.31,Home Goods,South America,Apex Retail Group
+2024-11-19,3434.37,Accessories,Europe,Apex Retail Group
+2024-12-03,521.78,Accessories,Australia,Apex Retail Group
+2024-08-20,854.58,Apparel,Europe,Apex Retail Group
+2024-04-01,2898.64,Electronics,Asia,Apex Retail Group
+2024-10-29,5310.69,Apparel,Asia,Apex Retail Group
+2024-09-23,3917.56,Electronics,Europe,Apex Retail Group
+2024-03-30,7911.87,Electronics,Asia,Apex Retail Group
+2024-12-01,1566.18,Home Goods,Europe,Apex Retail Group
+2024-01-27,7236.02,Apparel,Asia,Apex Retail Group
+2024-05-10,2237.17,Accessories,North America,Apex Retail Group
+2024-08-24,7101.36,Apparel,Europe,Apex Retail Group
+2024-04-29,4081.20,Home Goods,Europe,Apex Retail Group
+2024-03-14,5190.78,Accessories,Europe,Apex Retail Group
+2024-07-02,200.55,Accessories,Asia,Apex Retail Group
+2024-11-12,588.77,Accessories,Asia,Apex Retail Group
+2024-02-01,3617.20,Home Goods,Asia,Apex Retail Group
+2024-06-27,7074.59,Home Goods,South America,Apex Retail Group
+2024-09-23,4369.60,Electronics,Europe,Apex Retail Group
+2024-11-26,1108.93,Accessories,Europe,Apex Retail Group
+2024-03-21,1980.86,Apparel,Asia,Apex Retail Group
+2024-03-18,1971.35,Electronics,Australia,Apex Retail Group
+2024-08-16,6824.46,Home Goods,South America,Apex Retail Group
+2024-04-07,5541.02,Apparel,North America,Apex Retail Group
+2024-01-18,7345.16,Accessories,Australia,Apex Retail Group
+2024-09-08,8128.67,Electronics,South America,Apex Retail Group
+2024-09-17,548.27,Apparel,North America,Apex Retail Group
+2024-01-11,3530.08,Apparel,North America,Apex Retail Group
+2024-05-22,6461.87,Apparel,South America,Apex Retail Group
+2024-04-09,8795.35,Apparel,South America,Apex Retail Group
+2024-08-05,8901.94,Accessories,South America,Apex Retail Group
+2024-06-27,3354.32,Accessories,Australia,Apex Retail Group
+2024-09-14,9171.09,Electronics,Asia,Apex Retail Group
+2024-05-13,5988.85,Home Goods,Asia,Apex Retail Group
+2024-07-19,5264.93,Home Goods,North America,Apex Retail Group
+2024-03-21,5021.01,Electronics,Europe,Apex Retail Group
+2024-09-05,8474.09,Home Goods,South America,Apex Retail Group
+2024-02-02,9839.03,Apparel,Europe,Apex Retail Group
+2024-08-02,4173.87,Accessories,Europe,Apex Retail Group
+2024-06-29,3232.39,Home Goods,Europe,Apex Retail Group
+2024-03-18,6219.33,Accessories,North America,Apex Retail Group
+2024-08-31,5220.88,Accessories,Europe,Apex Retail Group
+2024-12-13,7631.53,Accessories,Europe,Apex Retail Group
+2024-04-21,4195.37,Apparel,Asia,Apex Retail Group
+2024-10-19,2629.56,Apparel,South America,Apex Retail Group
+2024-05-14,5934.60,Home Goods,North America,Apex Retail Group
+2024-07-22,8649.28,Electronics,Australia,Apex Retail Group
+2024-09-24,9974.61,Apparel,South America,Apex Retail Group
+2024-07-31,7348.33,Electronics,Australia,Apex Retail Group
+2024-02-22,441.41,Apparel,Europe,Apex Retail Group
+2024-11-22,1077.15,Apparel,Europe,Apex Retail Group
+2024-09-25,4467.51,Apparel,Asia,Apex Retail Group
+2024-07-28,6797.31,Electronics,Asia,Apex Retail Group
+2024-11-30,4771.89,Apparel,North America,Apex Retail Group
+2024-05-18,1630.49,Apparel,South America,Apex Retail Group
+2024-02-20,9601.44,Apparel,Australia,Apex Retail Group
+2024-12-04,7718.80,Electronics,South America,Apex Retail Group
+2024-04-10,8591.46,Apparel,South America,Apex Retail Group
+2024-02-27,3100.36,Apparel,North America,Apex Retail Group
+2024-11-13,2630.32,Home Goods,Europe,Apex Retail Group
+2024-06-02,1845.87,Apparel,South America,Apex Retail Group
+2024-11-28,3048.55,Accessories,North America,Apex Retail Group
+2024-03-25,7278.63,Home Goods,Asia,Apex Retail Group
+2024-04-18,6955.25,Home Goods,South America,Apex Retail Group
+2024-10-13,6466.41,Home Goods,Europe,Apex Retail Group
+2024-08-22,572.41,Electronics,Asia,Apex Retail Group
+2024-02-26,8265.69,Accessories,Asia,Apex Retail Group
+2024-07-16,6311.68,Accessories,South America,Apex Retail Group
+2024-01-22,1989.31,Electronics,North America,Apex Retail Group
+2024-12-09,315.32,Accessories,Australia,Apex Retail Group
+2024-11-18,8184.97,Apparel,Australia,Apex Retail Group
+2024-08-23,8584.94,Accessories,South America,Apex Retail Group
+2024-10-06,2163.82,Apparel,Australia,Apex Retail Group
+2024-08-02,5294.10,Accessories,North America,Apex Retail Group
+2024-08-25,9292.96,Accessories,South America,Apex Retail Group
+2024-05-07,5947.60,Electronics,Asia,Apex Retail Group
+2024-10-19,5663.44,Accessories,Europe,Apex Retail Group
+2024-08-12,9543.22,Apparel,Asia,Apex Retail Group
+2024-12-09,2469.90,Electronics,Europe,Apex Retail Group
+2024-09-24,2731.69,Electronics,Europe,Apex Retail Group
+2024-08-15,7387.90,Apparel,North America,Apex Retail Group
+2024-11-17,8780.69,Accessories,Europe,Apex Retail Group
+2024-08-09,5839.41,Home Goods,Australia,Apex Retail Group
+2024-04-15,8017.25,Home Goods,Asia,Apex Retail Group
+2024-08-12,6142.70,Accessories,Europe,Apex Retail Group
+2024-03-06,7248.14,Apparel,Asia,Apex Retail Group
+2024-04-19,8063.45,Home Goods,Europe,Apex Retail Group
+2024-10-15,3884.04,Accessories,Australia,Apex Retail Group
+2024-05-07,828.44,Apparel,Australia,Apex Retail Group
+2024-10-30,2081.41,Accessories,North America,Apex Retail Group
+2024-01-04,1049.51,Home Goods,South America,Apex Retail Group
+2024-03-25,1918.77,Electronics,North America,Apex Retail Group
+2024-09-03,818.77,Accessories,Asia,Apex Retail Group
+2024-03-06,6093.30,Apparel,Australia,Apex Retail Group
+2024-06-16,5571.80,Apparel,South America,Apex Retail Group
+2024-08-20,5714.71,Accessories,Europe,Apex Retail Group
+2024-07-07,2113.48,Electronics,Australia,Apex Retail Group
+2024-05-27,8833.97,Accessories,Australia,Apex Retail Group
+2024-01-31,5001.37,Home Goods,Australia,Apex Retail Group
+2024-01-03,6415.40,Electronics,Asia,Apex Retail Group
+2024-09-15,5365.87,Home Goods,Europe,Apex Retail Group
+2024-12-29,4120.94,Accessories,South America,Apex Retail Group
+2024-06-21,2843.72,Accessories,Asia,Apex Retail Group
+2024-03-03,9511.78,Accessories,South America,Apex Retail Group
+2024-04-13,4581.38,Apparel,Australia,Apex Retail Group
+2024-09-15,3429.25,Apparel,North America,Apex Retail Group
+2024-05-20,9042.65,Accessories,Australia,Apex Retail Group
+2024-10-03,457.42,Apparel,South America,Apex Retail Group
+2024-01-18,5227.25,Accessories,North America,Apex Retail Group
+2024-04-19,1346.98,Home Goods,Europe,Apex Retail Group
+2024-06-10,9959.70,Apparel,North America,Apex Retail Group
+2024-11-04,115.77,Accessories,Europe,Apex Retail Group
+2024-05-06,7016.40,Accessories,Australia,Apex Retail Group
+2024-12-15,3856.47,Accessories,North America,Apex Retail Group
+2024-09-16,6234.75,Apparel,North America,Apex Retail Group
+2024-02-19,4286.15,Apparel,Asia,Apex Retail Group
+2024-05-17,716.99,Apparel,Australia,Apex Retail Group
+2024-10-17,9070.44,Home Goods,South America,Apex Retail Group
+2024-06-18,4523.45,Accessories,Europe,Apex Retail Group
+2024-03-18,3855.59,Apparel,North America,Apex Retail Group
+2024-05-08,285.47,Electronics,Asia,Apex Retail Group
+2024-09-12,6075.53,Apparel,South America,Apex Retail Group
+2024-04-02,3437.43,Home Goods,Asia,Apex Retail Group
+2024-09-10,3334.90,Home Goods,South America,Apex Retail Group
+2024-11-30,2191.33,Apparel,Australia,Apex Retail Group
+2024-08-23,2926.10,Accessories,Europe,Apex Retail Group
+2024-04-21,2668.70,Electronics,Australia,Apex Retail Group
+2024-03-03,1202.49,Accessories,South America,Apex Retail Group
+2024-07-20,903.10,Electronics,Europe,Apex Retail Group
+2024-06-23,7983.36,Apparel,Australia,Apex Retail Group
+2024-04-27,7213.88,Electronics,Australia,Apex Retail Group
+2024-08-03,8872.43,Apparel,Europe,Apex Retail Group
+2024-11-08,9786.61,Electronics,South America,Apex Retail Group
+2024-09-07,3530.41,Accessories,Asia,Apex Retail Group
+2024-06-25,5491.94,Electronics,Asia,Apex Retail Group
+2024-01-05,3907.24,Apparel,Asia,Apex Retail Group
+2024-01-02,736.72,Accessories,Asia,Apex Retail Group
+2024-01-09,6832.75,Electronics,Europe,Apex Retail Group
+2024-06-01,1909.48,Accessories,Australia,Apex Retail Group
+2024-04-15,373.22,Home Goods,Australia,Apex Retail Group
+2024-08-12,9836.68,Accessories,North America,Apex Retail Group
+2024-09-12,7528.45,Electronics,South America,Apex Retail Group
+2024-08-22,1920.97,Home Goods,North America,Apex Retail Group
+2024-01-05,5982.74,Apparel,Europe,Apex Retail Group
+2024-03-14,4711.75,Accessories,Australia,Apex Retail Group
+2024-12-19,4161.60,Electronics,Asia,Apex Retail Group
+2024-07-31,8406.38,Apparel,Australia,Apex Retail Group
+2024-05-15,3967.62,Home Goods,Australia,Apex Retail Group
+2024-10-08,9353.69,Accessories,Europe,Apex Retail Group
+2024-07-24,5521.02,Electronics,Asia,Apex Retail Group
+2024-09-20,6101.34,Accessories,Asia,Apex Retail Group
+2024-11-03,191.94,Accessories,Asia,Apex Retail Group
+2024-05-22,5802.42,Apparel,Europe,Apex Retail Group
+2024-03-05,4387.86,Home Goods,North America,Apex Retail Group
+2024-04-02,9065.68,Home Goods,Australia,Apex Retail Group
+2024-09-29,2476.62,Electronics,Europe,Apex Retail Group
+2024-03-29,5907.36,Apparel,Europe,Apex Retail Group
+2024-06-30,6271.56,Home Goods,South America,Apex Retail Group
+2024-09-27,1220.67,Apparel,Asia,Apex Retail Group
+2024-03-14,4710.05,Apparel,South America,Apex Retail Group
+2024-04-07,4791.52,Apparel,South America,Apex Retail Group
+2024-12-21,5120.62,Electronics,South America,Apex Retail Group
+2024-02-11,7010.91,Electronics,Europe,Apex Retail Group
+2024-08-07,9317.28,Apparel,South America,Apex Retail Group
+2024-09-11,8219.01,Electronics,South America,Apex Retail Group
+2024-06-14,7475.44,Apparel,South America,Apex Retail Group
+2024-10-23,5446.03,Home Goods,North America,Apex Retail Group
+2024-05-04,7724.21,Apparel,Europe,Apex Retail Group
+2024-09-12,5452.43,Home Goods,South America,Apex Retail Group
+2024-04-13,3770.92,Accessories,Asia,Apex Retail Group
+2024-11-03,199.53,Electronics,Europe,Apex Retail Group
+2024-01-24,4344.63,Home Goods,Asia,Apex Retail Group
+2024-09-17,2346.64,Electronics,Australia,Apex Retail Group
+2024-02-16,2172.22,Electronics,South America,Apex Retail Group
+2024-10-10,8032.09,Home Goods,North America,Apex Retail Group
+2024-11-20,3399.72,Apparel,Asia,Apex Retail Group
+2024-02-29,6180.55,Home Goods,Europe,Apex Retail Group
+2024-12-26,3394.97,Electronics,Asia,Apex Retail Group
+2024-02-02,5786.40,Accessories,Europe,Apex Retail Group
+2024-01-14,380.56,Apparel,North America,Apex Retail Group
+2024-02-06,8593.42,Apparel,South America,Apex Retail Group
+2024-11-08,1771.54,Electronics,North America,Apex Retail Group
+2024-08-01,4330.88,Accessories,Asia,Apex Retail Group
+2024-09-08,1450.50,Electronics,Asia,Apex Retail Group
+2024-09-14,7304.58,Accessories,Europe,Apex Retail Group
+2024-05-30,4267.49,Electronics,North America,Apex Retail Group
+2024-12-06,1762.79,Electronics,Australia,Apex Retail Group
+2024-03-13,2941.66,Home Goods,Asia,Apex Retail Group
+2024-04-05,8716.49,Electronics,South America,Apex Retail Group
+2024-08-10,6067.34,Home Goods,South America,Apex Retail Group
+2024-01-30,8134.40,Home Goods,Europe,Apex Retail Group
+2024-01-10,1890.91,Accessories,Asia,Apex Retail Group
+2024-10-29,4976.48,Electronics,Europe,Apex Retail Group
+2024-04-05,6152.54,Apparel,South America,Apex Retail Group
+2024-09-05,8052.42,Apparel,North America,Apex Retail Group
+2024-02-07,7878.00,Home Goods,North America,Apex Retail Group
+2024-12-23,9627.99,Accessories,South America,Apex Retail Group
+2024-04-25,6447.61,Apparel,North America,Apex Retail Group
+2024-12-10,5068.13,Accessories,North America,Apex Retail Group
+2024-05-23,6563.58,Electronics,Europe,Apex Retail Group
+2024-01-26,3184.28,Electronics,Asia,Apex Retail Group
+2024-10-24,3339.81,Home Goods,South America,Apex Retail Group
+2024-10-06,6662.04,Electronics,Asia,Apex Retail Group
+2024-08-04,852.92,Home Goods,North America,Apex Retail Group
+2024-02-03,4807.42,Home Goods,Australia,Apex Retail Group
+2024-09-01,7153.01,Apparel,Australia,Apex Retail Group
+2024-09-19,5890.15,Apparel,Europe,Apex Retail Group
+2024-12-25,1251.73,Accessories,Asia,Apex Retail Group
+2024-01-16,2667.52,Electronics,Australia,Apex Retail Group
+2024-08-20,5570.80,Apparel,Australia,Apex Retail Group
+2024-10-24,7764.45,Apparel,Europe,Apex Retail Group
+2024-08-26,6912.42,Accessories,Asia,Apex Retail Group
+2024-01-06,9528.90,Apparel,North America,Apex Retail Group
+2024-12-07,4300.22,Electronics,North America,Apex Retail Group
+2024-08-03,2220.22,Electronics,Asia,Apex Retail Group
+2024-12-12,6813.45,Accessories,Asia,Apex Retail Group
+2024-12-16,792.80,Electronics,Europe,Apex Retail Group
+2024-04-25,343.46,Apparel,North America,Apex Retail Group
+2024-09-19,1056.27,Electronics,Europe,Apex Retail Group
+2024-10-12,892.95,Apparel,Europe,Apex Retail Group
+2024-09-09,1132.03,Accessories,Asia,Apex Retail Group
+2024-01-17,741.44,Electronics,Europe,Apex Retail Group
+2024-06-10,4363.22,Electronics,Europe,Apex Retail Group
+2024-11-19,9034.64,Electronics,Europe,Apex Retail Group
+2024-12-21,7153.42,Apparel,North America,Apex Retail Group
+2024-12-03,1865.97,Home Goods,South America,Apex Retail Group
+2024-11-04,6994.08,Apparel,North America,Apex Retail Group
+2024-11-18,5297.02,Electronics,South America,Apex Retail Group
+2024-08-01,6013.31,Accessories,Asia,Apex Retail Group
+2024-01-14,2033.30,Home Goods,South America,Apex Retail Group
+2024-09-23,202.62,Home Goods,North America,Apex Retail Group
+2024-09-01,3390.35,Accessories,North America,Apex Retail Group
+2024-12-21,1142.97,Apparel,Europe,Apex Retail Group
+2024-11-20,3364.14,Home Goods,Australia,Apex Retail Group
+2024-08-09,363.40,Apparel,Europe,Apex Retail Group
+2024-04-11,4584.35,Electronics,Australia,Apex Retail Group
+2024-05-31,7097.42,Accessories,Australia,Apex Retail Group
+2024-07-25,1585.17,Accessories,Asia,Apex Retail Group
+2024-10-25,7397.83,Accessories,Europe,Apex Retail Group
+2024-02-19,7571.82,Accessories,Australia,Apex Retail Group
+2024-12-16,6246.75,Accessories,Europe,Apex Retail Group
+2024-03-25,9490.31,Accessories,North America,Apex Retail Group
+2024-05-13,952.13,Apparel,Asia,Apex Retail Group
+2024-08-11,8860.59,Home Goods,Australia,Apex Retail Group
+2024-03-04,8388.90,Accessories,Australia,Apex Retail Group
+2024-02-29,3427.14,Accessories,North America,Apex Retail Group
+2024-08-05,8909.19,Apparel,Europe,Apex Retail Group
+2024-03-19,4912.66,Apparel,North America,Apex Retail Group
+2024-07-13,7023.27,Electronics,North America,Apex Retail Group
+2024-06-04,155.56,Accessories,Europe,Apex Retail Group
+2024-07-23,6316.48,Accessories,North America,Apex Retail Group
+2024-04-04,310.65,Home Goods,Asia,Apex Retail Group
+2024-12-12,796.02,Accessories,North America,Apex Retail Group
+2024-03-20,1232.60,Electronics,Asia,Apex Retail Group
+2024-08-26,8848.04,Apparel,Asia,Apex Retail Group
+2024-11-29,7215.04,Electronics,North America,Apex Retail Group
+2024-11-01,9054.13,Home Goods,Asia,Apex Retail Group
+2024-06-04,8655.42,Home Goods,Asia,Apex Retail Group
+2024-02-21,2271.06,Home Goods,South America,Apex Retail Group
+2024-08-27,4236.84,Home Goods,North America,Apex Retail Group
+2024-10-29,8162.10,Home Goods,Australia,Apex Retail Group
+2024-10-27,2097.40,Accessories,Asia,Apex Retail Group
+2024-05-03,9766.68,Apparel,Asia,Apex Retail Group
+2024-09-26,272.75,Accessories,Australia,Apex Retail Group
+2024-02-14,683.14,Home Goods,Australia,Apex Retail Group
+2024-04-18,9354.99,Accessories,Australia,Apex Retail Group
+2024-04-06,7840.96,Home Goods,North America,Apex Retail Group
+2024-02-01,9310.69,Accessories,North America,Apex Retail Group
+2024-04-14,5069.00,Accessories,North America,Apex Retail Group
+2024-04-08,3196.17,Home Goods,Europe,Apex Retail Group
+2024-02-22,6513.95,Accessories,South America,Apex Retail Group
+2024-12-29,8744.27,Apparel,South America,Apex Retail Group
+2024-07-31,3350.34,Apparel,Australia,Apex Retail Group
+2024-06-10,9907.50,Apparel,Australia,Apex Retail Group
+2024-06-05,532.51,Electronics,Asia,Apex Retail Group
+2024-02-24,7326.87,Electronics,North America,Apex Retail Group
+2024-08-17,1280.02,Accessories,Europe,Apex Retail Group
+2024-06-23,7381.84,Electronics,Europe,Apex Retail Group
+2024-09-01,2280.78,Electronics,South America,Apex Retail Group
+2024-12-11,8301.73,Accessories,South America,Apex Retail Group
+2024-05-25,7263.26,Electronics,South America,Apex Retail Group
+2024-12-22,986.60,Home Goods,Europe,Apex Retail Group
+2024-09-20,607.74,Home Goods,North America,Apex Retail Group
+2024-01-20,3038.69,Home Goods,Australia,Apex Retail Group
+2024-11-05,9747.87,Accessories,Australia,Apex Retail Group
+2024-10-02,6774.23,Electronics,Asia,Apex Retail Group
+2024-04-12,1051.45,Accessories,North America,Apex Retail Group
+2024-02-09,6080.79,Accessories,Asia,Apex Retail Group
+2024-09-25,8291.00,Home Goods,South America,Apex Retail Group
+2024-05-01,7946.53,Apparel,North America,Apex Retail Group
+2024-09-23,5975.43,Home Goods,South America,Apex Retail Group
+2024-10-17,8130.70,Apparel,North America,Apex Retail Group
+2024-08-16,407.44,Accessories,Asia,Apex Retail Group
+2024-12-03,913.80,Accessories,Australia,Apex Retail Group
+2024-05-26,201.83,Electronics,South America,Apex Retail Group
+2024-11-11,2610.96,Electronics,Australia,Apex Retail Group
+2024-12-17,704.36,Electronics,Asia,Apex Retail Group
+2024-11-20,3438.45,Accessories,Europe,Apex Retail Group
+2024-12-27,9586.13,Home Goods,Europe,Apex Retail Group
+2024-12-13,1703.96,Accessories,Asia,Apex Retail Group
+2024-07-18,1564.93,Apparel,Asia,Apex Retail Group
+2024-07-07,1583.74,Home Goods,Asia,Apex Retail Group
+2024-08-05,2590.61,Electronics,Asia,Apex Retail Group
+2024-04-11,1227.68,Accessories,North America,Apex Retail Group
+2024-04-14,1737.81,Electronics,Australia,Apex Retail Group
+2024-07-12,2104.21,Accessories,South America,Apex Retail Group
+2024-01-11,2436.17,Home Goods,North America,Apex Retail Group
+2024-05-31,3961.27,Electronics,South America,Apex Retail Group
+2024-10-09,9908.04,Apparel,South America,Apex Retail Group
+2024-06-05,282.05,Accessories,Asia,Apex Retail Group
+2024-02-12,277.68,Accessories,Asia,Apex Retail Group
+2024-08-24,699.86,Apparel,Europe,Apex Retail Group
+2024-08-07,1517.50,Electronics,Europe,Apex Retail Group
+2024-07-21,4768.94,Electronics,North America,Apex Retail Group
+2024-07-19,1510.19,Home Goods,Europe,Apex Retail Group
+2024-02-17,9243.42,Home Goods,Australia,Apex Retail Group
+2024-03-29,7071.93,Electronics,Australia,Apex Retail Group
+2024-08-27,6807.58,Home Goods,Australia,Apex Retail Group
+2024-02-20,1615.99,Electronics,North America,Apex Retail Group
+2024-04-18,5776.30,Electronics,Asia,Apex Retail Group
+2024-05-29,2588.89,Home Goods,North America,Apex Retail Group
+2024-12-24,5618.51,Accessories,South America,Apex Retail Group
+2024-04-29,6608.60,Accessories,Europe,Apex Retail Group
+2024-01-20,516.86,Accessories,Asia,Apex Retail Group
+2024-08-12,4164.59,Home Goods,South America,Apex Retail Group
+2024-04-21,7882.17,Home Goods,Australia,Apex Retail Group
+2024-01-19,4101.18,Apparel,North America,Apex Retail Group
+2024-05-21,6422.27,Accessories,Europe,Apex Retail Group
+2024-10-09,7383.49,Apparel,Australia,Apex Retail Group
+2024-11-23,2585.75,Home Goods,Asia,Apex Retail Group
+2024-07-12,4001.32,Electronics,Europe,Apex Retail Group
+2024-09-01,9481.96,Apparel,Asia,Apex Retail Group
+2024-07-13,7002.86,Home Goods,Asia,Apex Retail Group
+2024-07-26,1941.94,Apparel,Asia,Apex Retail Group
+2024-01-24,6907.48,Accessories,Europe,Apex Retail Group
+2024-06-25,4740.56,Home Goods,Asia,Apex Retail Group
+2024-01-06,9645.34,Apparel,South America,Apex Retail Group
+2024-01-03,2818.92,Apparel,South America,Apex Retail Group
+2024-05-01,2478.77,Electronics,Australia,Apex Retail Group
+2024-09-19,3072.09,Home Goods,North America,Apex Retail Group
+2024-07-03,4058.22,Accessories,South America,Apex Retail Group
+2024-04-08,5349.64,Accessories,South America,Apex Retail Group
+2024-10-14,3265.35,Electronics,Europe,Apex Retail Group
+2024-07-10,9176.88,Electronics,Australia,Apex Retail Group
+2024-03-30,4605.86,Electronics,Asia,Apex Retail Group
+2024-11-08,9036.66,Accessories,South America,Apex Retail Group
+2024-12-14,4317.99,Electronics,Australia,Apex Retail Group
+2024-01-01,7655.93,Electronics,South America,Apex Retail Group
+2024-11-16,9327.92,Accessories,North America,Apex Retail Group
+2024-06-12,1608.33,Accessories,North America,Apex Retail Group
+2024-11-03,4711.85,Apparel,Asia,Apex Retail Group
+2024-08-15,861.20,Apparel,South America,Apex Retail Group
+2024-11-18,3862.56,Electronics,North America,Apex Retail Group
+2024-07-01,7700.87,Accessories,North America,Apex Retail Group
+2024-02-16,2610.23,Apparel,South America,Apex Retail Group
+2024-07-24,1515.01,Accessories,Australia,Apex Retail Group
+2024-01-31,8077.00,Electronics,South America,Apex Retail Group
+2024-11-14,3554.10,Apparel,North America,Apex Retail Group
+2024-06-12,3833.94,Home Goods,Australia,Apex Retail Group
+2024-03-29,3065.02,Accessories,Australia,Apex Retail Group
+2024-07-07,9199.68,Electronics,South America,Apex Retail Group
+2024-04-30,2126.81,Electronics,Asia,Apex Retail Group
+2024-06-19,6047.10,Accessories,South America,Apex Retail Group
+2024-11-05,7989.18,Apparel,Australia,Apex Retail Group
+2024-02-17,581.00,Accessories,Asia,Apex Retail Group
+2024-07-07,6666.04,Electronics,South America,Apex Retail Group
+2024-12-27,7687.38,Home Goods,South America,Apex Retail Group
+2024-08-09,9631.56,Electronics,Europe,Apex Retail Group
+2024-06-17,663.87,Accessories,Europe,Apex Retail Group
+2024-05-16,5981.52,Electronics,North America,Apex Retail Group
+2024-01-24,833.23,Electronics,Europe,Apex Retail Group
+2024-09-25,5300.35,Apparel,South America,Apex Retail Group
+2024-09-05,1824.05,Home Goods,North America,Apex Retail Group
+2024-01-29,7895.04,Accessories,Europe,Apex Retail Group
+2024-02-21,3043.67,Apparel,Australia,Apex Retail Group
+2024-08-08,4809.27,Accessories,South America,Apex Retail Group
+2024-03-13,8665.90,Electronics,Australia,Apex Retail Group
+2024-06-12,2238.57,Accessories,Asia,Apex Retail Group
+2024-07-17,8630.78,Accessories,North America,Apex Retail Group
+2024-05-31,3059.26,Apparel,Asia,Apex Retail Group
+2024-08-26,816.13,Accessories,North America,Apex Retail Group
+2024-02-03,6081.10,Accessories,Europe,Apex Retail Group
+2024-08-27,8915.00,Electronics,Asia,Apex Retail Group
+2024-12-11,507.83,Accessories,Asia,Apex Retail Group
+2024-08-10,4723.52,Electronics,North America,Apex Retail Group
+2024-03-23,2489.74,Accessories,South America,Apex Retail Group
+2024-02-16,884.62,Home Goods,Asia,Apex Retail Group
+2024-12-09,161.19,Home Goods,Australia,Apex Retail Group
+2024-07-17,2334.67,Accessories,Asia,Apex Retail Group
+2024-09-23,8661.76,Home Goods,Australia,Apex Retail Group
+2024-06-13,1818.18,Home Goods,Europe,Apex Retail Group
+2024-11-23,7006.76,Home Goods,Asia,Apex Retail Group
+2024-11-14,8158.39,Accessories,North America,Apex Retail Group
+2024-09-10,1985.71,Accessories,Europe,Apex Retail Group
+2024-11-03,6767.85,Apparel,South America,Apex Retail Group
+2024-06-30,655.57,Home Goods,Asia,Apex Retail Group
+2024-06-30,8180.20,Apparel,Europe,Apex Retail Group
+2024-09-23,9398.27,Home Goods,Australia,Apex Retail Group
+2024-04-18,2365.34,Electronics,Australia,Apex Retail Group
+2024-06-28,3823.86,Accessories,South America,Apex Retail Group
+2024-03-11,4045.37,Electronics,Asia,Apex Retail Group
+2024-12-13,4780.39,Apparel,North America,Apex Retail Group
+2024-04-25,4747.10,Apparel,South America,Apex Retail Group
+2024-09-27,5733.98,Electronics,Europe,Apex Retail Group
+2024-03-22,9805.48,Accessories,Australia,Apex Retail Group
+2024-08-09,7485.49,Apparel,North America,Apex Retail Group
+2024-06-04,7524.69,Apparel,Europe,Apex Retail Group
+2024-09-30,8562.13,Accessories,North America,Apex Retail Group
+2024-07-27,2848.51,Accessories,Europe,Apex Retail Group
+2024-10-19,1191.69,Home Goods,South America,Apex Retail Group
+2024-11-29,9316.40,Home Goods,South America,Apex Retail Group
+2024-06-18,6320.41,Accessories,Asia,Apex Retail Group
+2024-01-31,631.79,Home Goods,Asia,Apex Retail Group
+2024-09-01,1833.60,Home Goods,South America,Apex Retail Group
+2024-07-18,8950.87,Apparel,South America,Apex Retail Group
+2024-10-12,6593.24,Electronics,Europe,Apex Retail Group
+2024-04-05,4122.64,Accessories,South America,Apex Retail Group
+2024-11-09,669.12,Electronics,Australia,Apex Retail Group
+2024-07-18,1411.50,Apparel,Asia,Apex Retail Group
+2024-04-23,8714.74,Home Goods,South America,Apex Retail Group
+2024-02-13,9220.71,Electronics,Europe,Apex Retail Group
+2024-08-23,2225.78,Home Goods,Australia,Apex Retail Group
+2024-11-01,5364.74,Accessories,North America,Apex Retail Group
+2024-09-20,7855.85,Apparel,Australia,Apex Retail Group
+2024-07-14,9619.14,Apparel,North America,Apex Retail Group
+2024-10-28,4544.60,Electronics,Asia,Apex Retail Group
+2024-09-24,898.00,Home Goods,Australia,Apex Retail Group
+2024-11-28,4048.92,Accessories,South America,Apex Retail Group
+2024-04-20,9122.10,Apparel,North America,Apex Retail Group
+2024-04-10,6120.17,Apparel,Australia,Apex Retail Group
+2024-11-02,9761.91,Electronics,North America,Apex Retail Group
+2024-04-27,4687.67,Apparel,South America,Apex Retail Group
+2024-07-13,2772.73,Electronics,South America,Apex Retail Group
+2024-06-20,5171.63,Electronics,Australia,Apex Retail Group
+2024-10-12,5110.63,Electronics,South America,Apex Retail Group
+2024-01-18,182.00,Apparel,Europe,Apex Retail Group
+2024-09-17,4581.66,Accessories,Australia,Apex Retail Group
+2024-08-19,8940.14,Electronics,Asia,Apex Retail Group
+2024-04-12,2729.75,Apparel,South America,Apex Retail Group
+2024-09-19,3022.68,Accessories,Asia,Apex Retail Group
+2024-10-19,6455.63,Home Goods,Australia,Apex Retail Group
+2024-08-12,6274.15,Electronics,Europe,Apex Retail Group
+2024-03-18,2666.23,Accessories,Europe,Apex Retail Group
+2024-10-31,4230.67,Accessories,South America,Apex Retail Group
+2024-03-29,7800.50,Apparel,South America,Apex Retail Group
+2024-03-22,6339.43,Electronics,Asia,Apex Retail Group
+2024-07-03,3467.00,Home Goods,Australia,Apex Retail Group
+2024-07-11,4270.05,Accessories,Australia,Apex Retail Group
+2024-07-28,9729.54,Home Goods,South America,Apex Retail Group
+2024-06-07,3846.66,Electronics,Asia,Apex Retail Group
+2024-02-22,6181.19,Apparel,Europe,Apex Retail Group
+2024-07-01,6778.47,Apparel,Europe,Apex Retail Group
+2024-06-20,5084.99,Apparel,North America,Apex Retail Group
+2024-10-27,6776.16,Home Goods,Europe,Apex Retail Group
+2024-10-20,7964.37,Electronics,Europe,Apex Retail Group
+2024-10-03,9986.73,Accessories,Europe,Apex Retail Group
+2024-08-14,4391.89,Home Goods,North America,Apex Retail Group
+2024-11-02,1432.91,Apparel,South America,Apex Retail Group
+2024-06-21,9094.24,Home Goods,Asia,Apex Retail Group
+2024-06-09,4758.72,Home Goods,Australia,Apex Retail Group
+2024-05-07,8890.73,Accessories,Europe,Apex Retail Group
+2024-04-09,6609.86,Electronics,Australia,Apex Retail Group
+2024-02-11,6562.76,Apparel,Australia,Apex Retail Group
+2024-03-22,922.40,Apparel,North America,Apex Retail Group
+2024-03-06,687.08,Accessories,Australia,Apex Retail Group
+2024-12-05,5328.08,Accessories,Australia,Apex Retail Group
+2024-12-09,4495.19,Electronics,Australia,Apex Retail Group
+2024-08-05,3069.72,Apparel,Europe,Apex Retail Group
+2024-07-11,6239.52,Home Goods,North America,Apex Retail Group
+2024-09-13,1387.55,Accessories,North America,Apex Retail Group
+2024-06-03,456.92,Apparel,Australia,Apex Retail Group
+2024-10-28,7483.76,Electronics,Europe,Apex Retail Group
+2024-10-18,6689.90,Apparel,Australia,Apex Retail Group
+2024-03-04,9290.89,Home Goods,South America,Apex Retail Group
+2024-05-13,9607.96,Home Goods,North America,Apex Retail Group
+2024-08-18,9675.21,Electronics,Europe,Apex Retail Group
+2024-03-24,3228.16,Accessories,Europe,Apex Retail Group
+2024-12-01,6138.20,Electronics,Europe,Apex Retail Group
+2024-07-30,7208.32,Accessories,South America,Apex Retail Group
+2024-03-01,8181.83,Accessories,Europe,Apex Retail Group
+2024-01-20,279.79,Accessories,Asia,Apex Retail Group
+2024-03-19,2647.04,Apparel,Australia,Apex Retail Group
+2024-01-18,4505.55,Accessories,Asia,Apex Retail Group
+2024-06-28,3305.55,Electronics,South America,Apex Retail Group
+2024-05-29,5487.68,Apparel,South America,Apex Retail Group
+2024-07-28,3127.56,Apparel,North America,Apex Retail Group
+2024-03-13,3130.13,Apparel,Europe,Apex Retail Group
+2024-04-21,8362.50,Accessories,Europe,Apex Retail Group
+2024-10-23,5607.15,Apparel,South America,Apex Retail Group
+2024-07-16,6128.22,Apparel,Asia,Apex Retail Group
+2024-03-01,778.39,Electronics,Europe,Apex Retail Group
+2024-10-11,5100.64,Apparel,South America,Apex Retail Group
+2024-01-09,6133.63,Apparel,Asia,Apex Retail Group
+2024-10-20,5271.52,Apparel,North America,Apex Retail Group
+2024-06-17,6693.56,Accessories,Australia,Apex Retail Group
+2024-03-03,5694.32,Electronics,Australia,Apex Retail Group
+2024-05-01,5257.89,Home Goods,South America,Apex Retail Group
+2024-06-24,6270.87,Apparel,Asia,Apex Retail Group
+2024-03-29,4619.32,Accessories,Australia,Apex Retail Group
+2024-05-09,4914.55,Electronics,Asia,Apex Retail Group
+2024-03-31,6590.95,Home Goods,South America,Apex Retail Group
+2024-01-17,544.54,Accessories,Australia,Apex Retail Group
+2024-01-23,3143.19,Accessories,Australia,Apex Retail Group
+2024-10-05,9225.37,Apparel,Europe,Apex Retail Group
+2024-01-23,5934.64,Apparel,South America,Apex Retail Group
+2024-03-13,3603.62,Electronics,North America,Apex Retail Group
+2024-01-09,2211.92,Electronics,Europe,Apex Retail Group
+2024-09-30,4366.61,Home Goods,Australia,Apex Retail Group
+2024-04-11,6936.85,Home Goods,Europe,Apex Retail Group
+2024-02-03,1814.63,Apparel,South America,Apex Retail Group
+2024-11-06,5933.98,Accessories,Australia,Apex Retail Group
+2024-11-13,5616.05,Electronics,Asia,Apex Retail Group
+2024-09-07,4917.28,Apparel,North America,Apex Retail Group
+2024-06-23,592.40,Apparel,Asia,Apex Retail Group
+2024-08-09,7445.07,Apparel,Europe,Apex Retail Group
+2024-05-08,8298.50,Home Goods,Europe,Apex Retail Group
+2024-05-12,6116.77,Accessories,Europe,Apex Retail Group
+2024-01-01,794.80,Electronics,Europe,Apex Retail Group
+2024-12-09,9476.61,Electronics,Europe,Apex Retail Group
+2024-09-26,883.40,Apparel,Asia,Apex Retail Group
+2024-10-16,7888.79,Home Goods,South America,Apex Retail Group
+2024-10-10,6503.25,Home Goods,Asia,Apex Retail Group
+2024-10-22,9706.68,Home Goods,South America,Apex Retail Group
+2024-01-07,6485.80,Apparel,North America,Apex Retail Group
+2024-07-11,1466.04,Home Goods,Europe,Apex Retail Group
+2024-08-20,4678.80,Accessories,Europe,Apex Retail Group
+2024-11-30,4139.09,Home Goods,South America,Apex Retail Group
+2024-02-28,7830.57,Accessories,Australia,Apex Retail Group
+2024-12-08,7582.80,Electronics,North America,Apex Retail Group
+2024-11-05,7243.05,Home Goods,Europe,Apex Retail Group
+2024-05-16,1839.63,Accessories,North America,Apex Retail Group
+2024-03-05,7710.11,Electronics,Australia,Apex Retail Group
+2024-01-20,4844.11,Electronics,South America,Apex Retail Group
+2024-05-07,2811.61,Accessories,Asia,Apex Retail Group
+2024-12-22,1539.63,Home Goods,North America,Apex Retail Group
+2024-12-20,9518.62,Accessories,Europe,Apex Retail Group
+2024-07-31,2285.53,Home Goods,Australia,Apex Retail Group
+2024-05-25,3301.80,Home Goods,Europe,Apex Retail Group
+2024-01-19,122.14,Accessories,Australia,Apex Retail Group
+2024-07-12,1876.06,Accessories,Europe,Apex Retail Group
+2024-06-01,316.62,Electronics,South America,Apex Retail Group
+2024-01-01,5737.80,Electronics,Europe,Apex Retail Group
+2024-10-29,2688.89,Accessories,Australia,Apex Retail Group
+2024-10-07,6898.44,Apparel,Asia,Apex Retail Group
+2024-11-03,2292.61,Apparel,Australia,Apex Retail Group
+2024-11-30,1959.28,Electronics,Europe,Apex Retail Group
+2024-08-18,7287.66,Apparel,North America,Apex Retail Group
+2024-08-05,6209.30,Home Goods,North America,Apex Retail Group
+2024-02-10,3528.78,Accessories,North America,Apex Retail Group
+2024-04-04,3471.93,Home Goods,South America,Apex Retail Group
+2024-05-14,9162.50,Home Goods,Asia,Apex Retail Group
+2024-01-29,1157.98,Apparel,South America,Apex Retail Group
+2024-05-04,1801.04,Apparel,Europe,Apex Retail Group
+2024-03-13,8385.77,Home Goods,Australia,Apex Retail Group
+2024-12-25,8999.06,Electronics,Europe,Apex Retail Group
+2024-08-09,8212.59,Home Goods,North America,Apex Retail Group
+2024-01-10,378.92,Accessories,South America,Apex Retail Group
+2024-02-09,2112.71,Home Goods,Europe,Apex Retail Group
+2024-12-24,5794.86,Accessories,South America,Apex Retail Group
+2024-08-30,9579.69,Apparel,Europe,Apex Retail Group
+2024-03-29,2912.64,Home Goods,South America,Apex Retail Group
+2024-12-26,6774.03,Electronics,North America,Apex Retail Group
+2024-06-16,186.40,Electronics,South America,Apex Retail Group
+2024-02-15,9834.28,Electronics,Asia,Apex Retail Group
+2024-05-28,5640.90,Home Goods,South America,Apex Retail Group
+2024-12-16,182.57,Home Goods,North America,Apex Retail Group
+2024-12-12,470.05,Apparel,South America,Apex Retail Group
+2024-12-29,3255.83,Accessories,Australia,Apex Retail Group
+2024-09-30,4037.04,Electronics,Asia,Apex Retail Group
+2024-01-06,3008.30,Apparel,Asia,Apex Retail Group
+2024-01-07,8980.29,Accessories,Asia,Apex Retail Group
+2024-03-15,7784.36,Electronics,Australia,Apex Retail Group
+2024-03-28,1464.35,Electronics,Asia,Apex Retail Group
+2024-05-11,5602.06,Accessories,North America,Apex Retail Group
+2024-07-22,7697.06,Electronics,South America,Apex Retail Group
+2024-01-06,9935.23,Electronics,Asia,Apex Retail Group
+2024-06-30,6739.06,Apparel,Asia,Apex Retail Group
+2024-11-30,8020.68,Apparel,Europe,Apex Retail Group
+2024-12-12,4516.19,Apparel,South America,Apex Retail Group
+2024-12-24,2691.67,Home Goods,North America,Apex Retail Group
+2024-06-01,6770.71,Home Goods,North America,Apex Retail Group
+2024-01-25,3464.57,Electronics,Europe,Apex Retail Group
+2024-02-27,7126.14,Electronics,Asia,Apex Retail Group
+2024-08-10,5368.18,Accessories,North America,Apex Retail Group
+2024-06-10,3711.20,Electronics,North America,Apex Retail Group
+2024-08-16,6778.57,Accessories,South America,Apex Retail Group
+2024-12-19,593.91,Apparel,Europe,Apex Retail Group
+2024-09-22,7077.21,Accessories,Asia,Apex Retail Group
+2024-06-16,7642.80,Accessories,Asia,Apex Retail Group
+2024-07-05,792.75,Apparel,North America,Apex Retail Group
+2024-07-31,7154.27,Accessories,Asia,Apex Retail Group
+2024-02-07,4697.44,Electronics,Asia,Apex Retail Group
+2024-12-11,738.80,Electronics,South America,Apex Retail Group
+2024-03-25,408.71,Accessories,North America,Apex Retail Group
+2024-06-25,2655.20,Home Goods,Asia,Apex Retail Group
+2024-01-30,3707.42,Apparel,Europe,Apex Retail Group
+2024-09-24,3561.42,Accessories,Asia,Apex Retail Group
+2024-12-11,9411.93,Home Goods,Asia,Apex Retail Group
+2024-05-08,3687.93,Accessories,Europe,Apex Retail Group
+2024-12-07,8616.08,Home Goods,South America,Apex Retail Group
+2024-12-22,5914.40,Home Goods,North America,Apex Retail Group
+2024-01-15,8965.26,Accessories,Australia,Apex Retail Group
+2024-09-03,4623.62,Electronics,North America,Apex Retail Group
+2024-02-07,2851.60,Accessories,Europe,Apex Retail Group
+2024-08-06,3430.00,Electronics,Australia,Apex Retail Group
+2024-10-01,7221.81,Electronics,South America,Apex Retail Group
+2024-01-02,9793.67,Accessories,Asia,Apex Retail Group
+2024-03-08,7031.18,Apparel,South America,Apex Retail Group
+2024-05-17,6759.59,Home Goods,North America,Apex Retail Group
+2024-10-05,1740.73,Accessories,Europe,Apex Retail Group
+2024-11-06,9990.67,Apparel,Asia,Apex Retail Group
+2024-11-29,6445.32,Apparel,Australia,Apex Retail Group
+2024-08-13,3235.67,Apparel,Asia,Apex Retail Group
+2024-11-16,6870.42,Apparel,South America,Apex Retail Group
+2024-01-02,7308.29,Accessories,South America,Apex Retail Group
+2024-10-26,8439.42,Home Goods,South America,Apex Retail Group
+2024-02-12,5703.03,Home Goods,Australia,Apex Retail Group
+2024-01-26,4775.12,Apparel,Asia,Apex Retail Group
+2024-09-25,808.22,Home Goods,Australia,Apex Retail Group
+2024-12-23,5866.80,Electronics,Asia,Apex Retail Group
+2024-10-08,836.82,Apparel,Asia,Apex Retail Group
+2024-10-22,6142.50,Apparel,North America,Apex Retail Group
+2024-09-04,8062.53,Apparel,Asia,Apex Retail Group
+2024-06-26,7036.22,Electronics,South America,Apex Retail Group
+2024-06-02,5731.65,Home Goods,Australia,Apex Retail Group
+2024-10-18,8420.10,Accessories,Asia,Apex Retail Group
+2024-08-12,1831.08,Accessories,Australia,Apex Retail Group
+2024-07-09,1350.64,Apparel,Australia,Apex Retail Group
+2024-11-26,6802.91,Electronics,South America,Apex Retail Group
+2024-02-17,3636.15,Electronics,Australia,Apex Retail Group
+2024-08-03,770.83,Accessories,North America,Apex Retail Group
+2024-06-06,5600.14,Electronics,South America,Apex Retail Group
+2024-07-07,1915.66,Home Goods,South America,Apex Retail Group
+2024-10-09,121.97,Apparel,Australia,Apex Retail Group
+2024-02-11,3829.02,Home Goods,North America,Apex Retail Group
+2024-11-22,5407.65,Accessories,Europe,Apex Retail Group
+2024-05-29,9850.28,Home Goods,North America,Apex Retail Group
+2024-09-11,4445.35,Apparel,North America,Apex Retail Group
+2024-08-23,8484.04,Electronics,North America,Apex Retail Group
+2024-10-14,2672.25,Electronics,North America,Apex Retail Group
+2024-02-11,7634.91,Home Goods,North America,Apex Retail Group
+2024-01-13,2068.27,Accessories,Australia,Apex Retail Group
+2024-06-24,8827.67,Accessories,South America,Apex Retail Group
+2024-08-13,7712.09,Apparel,Asia,Apex Retail Group
+2024-02-02,6188.66,Apparel,South America,Apex Retail Group
+2024-03-01,7199.69,Accessories,North America,Apex Retail Group
+2024-12-29,6491.76,Home Goods,Europe,Apex Retail Group
+2024-02-08,9917.46,Electronics,Europe,Apex Retail Group
+2024-02-15,2947.97,Electronics,North America,Apex Retail Group
+2024-01-18,3162.39,Apparel,Asia,Apex Retail Group
+2024-10-01,4929.17,Accessories,North America,Apex Retail Group
+2024-11-15,2777.60,Apparel,Asia,Apex Retail Group
+2024-07-03,5265.24,Home Goods,Asia,Apex Retail Group
+2024-07-07,8873.69,Accessories,Australia,Apex Retail Group
+2024-12-26,5418.53,Apparel,Asia,Apex Retail Group
+2024-10-11,4825.97,Accessories,South America,Apex Retail Group
+2024-04-25,7115.37,Apparel,Europe,Apex Retail Group
+2024-03-20,4175.47,Apparel,South America,Apex Retail Group
+2024-09-05,5656.32,Home Goods,Asia,Apex Retail Group
+2024-07-23,4323.64,Apparel,Australia,Apex Retail Group
+2024-10-21,8185.18,Home Goods,South America,Apex Retail Group
+2024-11-23,192.37,Accessories,South America,Apex Retail Group
+2024-06-23,7633.01,Apparel,Europe,Apex Retail Group
+2024-12-19,1510.25,Accessories,Europe,Apex Retail Group
+2024-11-19,488.76,Electronics,Asia,Apex Retail Group
+2024-11-24,2032.09,Accessories,South America,Apex Retail Group
+2024-12-04,9948.12,Home Goods,Europe,Apex Retail Group
+2024-02-21,4651.83,Accessories,Europe,Apex Retail Group
+2024-06-18,4377.05,Home Goods,South America,Apex Retail Group
+2024-06-23,7957.16,Apparel,Australia,Apex Retail Group
+2024-04-26,5867.28,Electronics,Europe,Apex Retail Group
+2024-05-23,373.93,Accessories,North America,Apex Retail Group
+2024-02-11,4682.57,Electronics,South America,Apex Retail Group
+2024-10-02,1273.51,Accessories,Asia,Apex Retail Group
+2024-10-17,745.69,Home Goods,North America,Apex Retail Group
+2024-01-13,5269.95,Electronics,South America,Apex Retail Group
+2024-08-13,5629.08,Apparel,South America,Apex Retail Group
+2024-11-13,5989.83,Apparel,Europe,Apex Retail Group
+2024-07-24,6617.14,Electronics,Australia,Apex Retail Group
+2024-06-08,2157.46,Accessories,Europe,Apex Retail Group
+2024-03-08,2111.75,Accessories,Europe,Apex Retail Group
+2024-05-09,6024.92,Apparel,Asia,Apex Retail Group
+2024-12-27,6344.87,Electronics,South America,Apex Retail Group
+2024-08-17,5824.46,Home Goods,North America,Apex Retail Group
+2024-11-23,9906.25,Apparel,South America,Apex Retail Group
+2024-09-02,3183.37,Electronics,Australia,Apex Retail Group
+2024-10-11,6682.18,Electronics,Europe,Apex Retail Group
+2024-12-17,7795.37,Home Goods,South America,Apex Retail Group
+2024-06-08,4773.90,Accessories,Europe,Apex Retail Group
+2024-12-12,6418.08,Apparel,South America,Apex Retail Group
+2024-12-29,9082.33,Electronics,South America,Apex Retail Group
+2024-09-28,1379.54,Accessories,North America,Apex Retail Group
+2024-12-25,2862.80,Accessories,Australia,Apex Retail Group
+2024-01-18,173.37,Electronics,Australia,Apex Retail Group
+2024-06-06,640.90,Accessories,Australia,Apex Retail Group
+2024-04-08,4253.16,Home Goods,South America,Apex Retail Group
+2024-03-01,1465.08,Apparel,South America,Apex Retail Group
+2024-09-20,7904.79,Apparel,Asia,Apex Retail Group
+2024-09-13,1095.10,Accessories,Australia,Apex Retail Group
+2024-10-01,1980.87,Accessories,Australia,Apex Retail Group
+2024-01-05,8411.80,Electronics,Asia,Apex Retail Group
+2024-11-23,384.02,Accessories,North America,Apex Retail Group
+2024-12-03,8858.13,Accessories,Europe,Apex Retail Group
+2024-11-13,1382.35,Home Goods,Australia,Apex Retail Group
+2024-05-02,8584.69,Home Goods,Asia,Apex Retail Group
+2024-12-08,7827.37,Home Goods,North America,Apex Retail Group
+2024-07-04,4711.16,Home Goods,South America,Apex Retail Group
+2024-05-05,5098.37,Accessories,North America,Apex Retail Group
+2024-02-24,3123.78,Electronics,Australia,Apex Retail Group
+2024-07-04,7879.70,Apparel,South America,Apex Retail Group
+2024-10-11,9266.18,Home Goods,South America,Apex Retail Group
+2024-09-01,1795.35,Accessories,South America,Apex Retail Group
+2024-12-12,9604.34,Home Goods,South America,Apex Retail Group
+2024-10-17,1248.19,Apparel,Australia,Apex Retail Group
+2024-08-25,486.16,Home Goods,Asia,Apex Retail Group
+2024-07-29,4458.38,Accessories,South America,Apex Retail Group
+2024-10-18,1416.78,Home Goods,Europe,Apex Retail Group
+2024-09-29,2975.40,Accessories,Asia,Apex Retail Group
+2024-07-23,5032.28,Apparel,North America,Apex Retail Group
+2024-04-26,9338.27,Apparel,Asia,Apex Retail Group
+2024-02-02,340.36,Home Goods,Europe,Apex Retail Group
+2024-06-04,7548.73,Accessories,North America,Apex Retail Group
+2024-05-15,3592.52,Electronics,Asia,Apex Retail Group
+2024-04-17,7517.73,Home Goods,Asia,Apex Retail Group
+2024-04-30,2821.65,Apparel,Asia,Apex Retail Group
+2024-03-18,2959.85,Accessories,Australia,Apex Retail Group
+2024-08-24,6110.71,Apparel,Europe,Apex Retail Group
+2024-01-16,2486.58,Apparel,South America,Apex Retail Group
+2024-01-30,4237.00,Accessories,Europe,Apex Retail Group
+2024-10-26,3993.44,Apparel,Australia,Apex Retail Group
+2024-09-10,3909.90,Electronics,Asia,Apex Retail Group
+2024-06-04,8637.85,Accessories,Europe,Apex Retail Group
+2024-10-01,8538.86,Electronics,South America,Apex Retail Group
+2024-06-25,8773.43,Apparel,Asia,Apex Retail Group
+2024-11-13,1200.99,Home Goods,Europe,Apex Retail Group
+2024-05-30,1953.27,Home Goods,South America,Apex Retail Group
+2024-08-11,2174.16,Home Goods,Asia,Apex Retail Group
+2024-02-03,9128.06,Apparel,Asia,Apex Retail Group
+2024-03-30,9857.27,Accessories,Asia,Apex Retail Group
+2024-05-18,9327.04,Electronics,North America,Apex Retail Group
+2024-12-15,3443.60,Apparel,South America,Apex Retail Group
+2024-02-07,319.95,Apparel,Europe,Apex Retail Group
+2024-10-02,1578.26,Home Goods,Australia,Apex Retail Group
+2024-09-10,7779.36,Apparel,Australia,Apex Retail Group
+2024-04-28,2393.12,Home Goods,Europe,Apex Retail Group
+2024-08-01,8540.08,Apparel,Australia,Apex Retail Group
+2024-07-14,7121.88,Accessories,Australia,Apex Retail Group
+2024-02-18,4998.89,Electronics,South America,Apex Retail Group
+2024-11-25,2137.26,Electronics,Europe,Apex Retail Group
+2024-06-16,7300.00,Electronics,Australia,Apex Retail Group
+2024-10-05,6142.28,Apparel,North America,Apex Retail Group
+2024-05-17,7428.66,Apparel,Australia,Apex Retail Group
+2024-10-16,8851.73,Electronics,Asia,Apex Retail Group
+2024-10-03,4098.32,Accessories,Asia,Apex Retail Group
+2024-09-11,9961.15,Electronics,Europe,Apex Retail Group
+2024-12-11,2225.35,Electronics,Europe,Apex Retail Group
+2024-04-10,725.50,Home Goods,Asia,Apex Retail Group
+2024-10-02,3291.97,Apparel,Europe,Apex Retail Group
+2024-02-12,1132.76,Apparel,South America,Apex Retail Group
+2024-10-27,4322.95,Home Goods,South America,Apex Retail Group
+2024-04-28,7470.83,Home Goods,Europe,Apex Retail Group
+2024-12-18,8500.92,Apparel,Asia,Apex Retail Group
+2024-04-19,8740.56,Home Goods,Australia,Apex Retail Group
+2024-01-30,2306.21,Home Goods,North America,Apex Retail Group
+2024-01-11,1628.10,Electronics,Australia,Apex Retail Group
+2024-07-14,3797.33,Accessories,Australia,Apex Retail Group
+2024-11-03,7553.01,Home Goods,Australia,Apex Retail Group
+2024-03-23,3729.09,Electronics,South America,Apex Retail Group
+2024-11-30,6621.81,Electronics,Europe,Apex Retail Group
+2024-01-13,7309.43,Apparel,Australia,Apex Retail Group
+2024-10-24,2633.88,Electronics,Australia,Apex Retail Group
+2024-05-17,3116.73,Apparel,Asia,Apex Retail Group
+2024-10-23,9548.71,Accessories,South America,Apex Retail Group
+2024-03-04,2680.94,Accessories,Europe,Apex Retail Group
+2024-06-22,5056.64,Accessories,Australia,Apex Retail Group
+2024-03-03,2691.35,Apparel,South America,Apex Retail Group
+2024-06-22,6643.51,Electronics,Europe,Apex Retail Group
+2024-05-05,9779.33,Home Goods,Australia,Apex Retail Group
+2024-12-01,223.56,Home Goods,Europe,Apex Retail Group
+2024-02-28,6794.99,Accessories,Asia,Apex Retail Group
+2024-12-19,2724.56,Apparel,North America,Apex Retail Group
+2024-05-02,1792.04,Accessories,South America,Apex Retail Group
+2024-05-03,9692.32,Home Goods,Australia,Apex Retail Group
+2024-11-09,4597.04,Apparel,Australia,Apex Retail Group
+2024-06-18,7685.58,Electronics,Asia,Apex Retail Group
+2024-11-29,7016.20,Home Goods,South America,Apex Retail Group
+2024-05-17,3553.50,Accessories,Australia,Apex Retail Group
+2024-09-25,6610.87,Accessories,Australia,Apex Retail Group
+2024-08-05,4553.78,Apparel,Europe,Apex Retail Group
+2024-01-29,4029.83,Home Goods,Australia,Apex Retail Group
+2024-07-11,9329.35,Home Goods,South America,Apex Retail Group
+2024-07-08,3312.09,Accessories,North America,Apex Retail Group
+2024-04-10,1268.64,Accessories,Asia,Apex Retail Group
+2024-03-02,8576.30,Apparel,North America,Apex Retail Group
+2024-07-13,136.71,Apparel,North America,Apex Retail Group
+2024-01-14,5698.11,Apparel,Australia,Apex Retail Group
+2024-01-21,4282.84,Home Goods,North America,Apex Retail Group
+2024-01-25,9516.63,Electronics,Asia,Apex Retail Group
+2024-01-21,9093.76,Accessories,Europe,Apex Retail Group
+2024-10-16,5675.05,Accessories,Australia,Apex Retail Group
+2024-07-12,2164.72,Apparel,North America,Apex Retail Group
+2024-10-23,1855.50,Accessories,Australia,Apex Retail Group
+2024-09-21,992.53,Apparel,Europe,Apex Retail Group
+2024-11-28,4559.33,Electronics,Australia,Apex Retail Group
+2024-01-07,7342.23,Home Goods,Australia,Apex Retail Group
+2024-08-11,7876.54,Accessories,Asia,Apex Retail Group
+2024-05-30,5852.91,Accessories,South America,Apex Retail Group
+2024-03-04,4518.78,Apparel,Asia,Apex Retail Group
+2024-07-03,2411.83,Home Goods,North America,Apex Retail Group
+2024-07-24,4557.03,Electronics,Australia,Apex Retail Group
+2024-09-08,7279.54,Electronics,Asia,Apex Retail Group
+2024-01-07,1091.36,Home Goods,Australia,Apex Retail Group
+2024-10-14,5977.81,Apparel,North America,Apex Retail Group
+2024-08-12,7482.81,Accessories,Australia,Apex Retail Group
+2024-10-28,4454.56,Home Goods,North America,Apex Retail Group
+2024-12-12,4732.91,Apparel,Asia,Apex Retail Group
+2024-06-14,1136.46,Electronics,Australia,Apex Retail Group
+2024-08-19,8787.56,Apparel,North America,Apex Retail Group
+2024-07-21,1105.94,Accessories,Asia,Apex Retail Group
+2024-01-07,2961.39,Electronics,Asia,Apex Retail Group
+2024-03-23,677.31,Electronics,Europe,Apex Retail Group
+2024-08-06,8285.23,Home Goods,Australia,Apex Retail Group
+2024-03-02,6354.92,Home Goods,Australia,Apex Retail Group
+2024-05-03,6765.83,Accessories,Europe,Apex Retail Group
+2024-02-07,8040.41,Home Goods,Asia,Apex Retail Group
+2024-08-03,2033.84,Electronics,Australia,Apex Retail Group
+2024-02-24,1685.40,Accessories,Asia,Apex Retail Group
+2024-03-22,9442.21,Accessories,North America,Apex Retail Group
+2024-03-31,6415.58,Electronics,South America,Apex Retail Group
+2024-07-15,5851.12,Electronics,Australia,Apex Retail Group
+2024-06-11,3675.27,Home Goods,Asia,Apex Retail Group
+2024-02-29,5056.60,Apparel,South America,Apex Retail Group
+2024-05-05,4978.33,Electronics,Australia,Apex Retail Group
+2024-03-30,7966.59,Electronics,Asia,Apex Retail Group
+2024-06-03,7720.02,Accessories,Asia,Apex Retail Group
+2024-06-02,3685.60,Apparel,South America,Apex Retail Group
+2024-12-26,4492.49,Electronics,Asia,Apex Retail Group
+2024-02-28,5594.45,Home Goods,Europe,Apex Retail Group
+2024-09-21,2599.38,Home Goods,South America,Apex Retail Group
+2024-11-01,1799.22,Electronics,South America,Apex Retail Group
+2024-06-28,9242.06,Home Goods,Asia,Apex Retail Group
+2024-03-22,9799.70,Accessories,South America,Apex Retail Group
+2024-12-08,8026.40,Electronics,South America,Apex Retail Group
+2024-05-12,1405.37,Accessories,South America,Apex Retail Group
+2024-11-02,2220.38,Apparel,North America,Apex Retail Group
+2024-08-15,246.16,Apparel,Australia,Apex Retail Group
+2024-12-09,7846.77,Accessories,Asia,Apex Retail Group
+2024-04-09,1836.71,Apparel,Australia,Apex Retail Group
+2024-10-15,973.73,Electronics,Europe,Apex Retail Group
+2024-11-01,5054.78,Electronics,Europe,Apex Retail Group
+2024-07-29,2545.08,Home Goods,Asia,Apex Retail Group
+2024-09-22,4271.17,Accessories,Asia,Apex Retail Group
+2024-10-02,2121.22,Apparel,Europe,Apex Retail Group
+2024-08-23,7076.40,Apparel,Asia,Apex Retail Group
+2024-12-24,8058.64,Home Goods,Europe,Apex Retail Group
+2024-03-11,3899.76,Home Goods,Asia,Apex Retail Group
+2024-05-09,3414.74,Accessories,Europe,Apex Retail Group
+2024-06-23,6592.24,Home Goods,South America,Apex Retail Group
+2024-11-16,2335.98,Apparel,North America,Apex Retail Group
+2024-03-06,7794.23,Accessories,South America,Apex Retail Group
+2024-11-13,3427.91,Apparel,Europe,Apex Retail Group
+2024-05-10,8159.94,Accessories,Australia,Apex Retail Group
+2024-06-24,2298.96,Accessories,North America,Apex Retail Group
+2024-05-28,3900.78,Home Goods,South America,Apex Retail Group
+2024-09-27,2259.99,Accessories,Australia,Apex Retail Group
+2024-03-24,1199.79,Home Goods,Europe,Apex Retail Group
+2024-10-12,1745.70,Home Goods,Europe,Apex Retail Group
+2024-07-20,8040.43,Electronics,Europe,Apex Retail Group
+2024-03-16,9463.27,Apparel,Australia,Apex Retail Group
+2024-03-14,2986.41,Home Goods,Europe,Apex Retail Group
+2024-10-31,6788.67,Electronics,Australia,Apex Retail Group
+2024-12-26,6981.79,Electronics,North America,Apex Retail Group
+2024-02-22,4697.15,Apparel,South America,Apex Retail Group
+2024-10-14,4379.68,Apparel,South America,Apex Retail Group
+2024-04-17,4023.63,Home Goods,Australia,Apex Retail Group
+2024-11-27,5322.46,Apparel,North America,Apex Retail Group
+2024-04-28,1977.11,Electronics,South America,Apex Retail Group
+2024-03-09,1674.06,Apparel,Asia,Apex Retail Group
+2024-04-25,9297.34,Apparel,North America,Apex Retail Group
+2024-11-15,1983.30,Home Goods,Europe,Apex Retail Group
+2024-01-09,3966.51,Home Goods,Asia,Apex Retail Group
+2024-02-19,5951.23,Apparel,North America,Apex Retail Group
+2024-07-14,5230.39,Apparel,South America,Apex Retail Group
+2024-01-10,2898.60,Home Goods,Europe,Apex Retail Group
+2024-07-18,5518.75,Apparel,Europe,Apex Retail Group
+2024-12-17,915.82,Home Goods,Asia,Apex Retail Group
+2024-07-19,961.74,Accessories,Asia,Apex Retail Group
+2024-02-03,3034.23,Electronics,North America,Apex Retail Group
+2024-09-14,9172.40,Apparel,Australia,Apex Retail Group
+2024-06-19,1441.72,Apparel,South America,Apex Retail Group
+2024-01-01,4654.63,Home Goods,Asia,Apex Retail Group
+2024-07-23,6899.26,Home Goods,North America,Apex Retail Group
+2024-02-11,5561.98,Electronics,Asia,Apex Retail Group
+2024-01-07,9741.40,Accessories,Europe,Apex Retail Group
+2024-06-15,4921.24,Apparel,Asia,Apex Retail Group
+2024-11-24,1527.46,Accessories,Asia,Apex Retail Group
+2024-08-27,644.23,Apparel,Europe,Apex Retail Group
+2024-04-18,2413.88,Apparel,Asia,Apex Retail Group
+2024-11-27,1717.81,Electronics,Australia,Apex Retail Group
+2024-07-08,4526.94,Apparel,Europe,Apex Retail Group
+2024-11-30,7756.34,Apparel,Australia,Apex Retail Group
+2024-12-22,8964.40,Accessories,Europe,Apex Retail Group
+2024-09-30,2162.32,Apparel,Europe,Apex Retail Group
+2024-07-07,1460.55,Apparel,North America,Apex Retail Group
+2024-12-18,5708.18,Electronics,North America,Apex Retail Group
+2024-12-12,8456.93,Home Goods,Australia,Apex Retail Group
+2024-03-01,453.18,Electronics,Australia,Apex Retail Group
+2024-05-06,2690.87,Home Goods,Australia,Apex Retail Group
+2024-08-22,9303.11,Home Goods,Australia,Apex Retail Group
+2024-10-24,863.93,Accessories,Asia,Apex Retail Group
+2024-12-13,751.96,Apparel,Europe,Apex Retail Group
+2024-07-28,5965.02,Apparel,Europe,Apex Retail Group
+2024-11-16,6636.52,Accessories,Europe,Apex Retail Group
+2024-11-12,6441.57,Home Goods,South America,Apex Retail Group
+2024-02-03,1897.10,Accessories,Europe,Apex Retail Group
+2024-09-10,3294.11,Accessories,Europe,Apex Retail Group
+2024-06-28,700.04,Electronics,South America,Apex Retail Group
+2024-11-22,6219.67,Apparel,North America,Apex Retail Group
+2024-11-26,3787.83,Apparel,South America,Apex Retail Group
+2024-08-18,2954.10,Electronics,North America,Apex Retail Group
+2024-08-25,5865.30,Accessories,Europe,Apex Retail Group
+2024-03-07,9544.75,Electronics,North America,Apex Retail Group
+2024-11-08,3614.41,Apparel,South America,Apex Retail Group
+2024-11-21,3480.26,Accessories,Australia,Apex Retail Group
+2024-05-21,7184.51,Apparel,Australia,Apex Retail Group
+2024-10-22,184.23,Accessories,Asia,Apex Retail Group
+2024-12-06,6186.17,Accessories,Europe,Apex Retail Group
+2024-09-26,920.34,Electronics,South America,Apex Retail Group
+2024-10-14,6822.80,Electronics,Australia,Apex Retail Group
+2024-02-02,3198.11,Accessories,Asia,Apex Retail Group
+2024-04-11,958.80,Apparel,South America,Apex Retail Group
+2024-04-08,1024.41,Apparel,North America,Apex Retail Group
+2024-10-21,5972.39,Home Goods,Europe,Apex Retail Group
+2024-01-25,6009.56,Apparel,Asia,Apex Retail Group
+2024-05-10,3769.20,Accessories,Australia,Apex Retail Group
+2024-08-24,2842.45,Electronics,Australia,Apex Retail Group
+2024-04-14,6520.13,Electronics,South America,Apex Retail Group
+2024-09-16,5952.41,Electronics,Australia,Apex Retail Group
+2024-01-11,523.80,Accessories,North America,Apex Retail Group
+2024-09-07,2951.17,Apparel,South America,Apex Retail Group
+2024-04-07,1633.77,Electronics,North America,Apex Retail Group
+2024-08-26,1614.00,Electronics,Australia,Apex Retail Group
+2024-03-13,9863.05,Accessories,Australia,Apex Retail Group
+2024-05-11,8129.33,Electronics,South America,Apex Retail Group
+2024-01-02,8832.45,Home Goods,Europe,Apex Retail Group
+2024-11-16,7772.57,Home Goods,North America,Apex Retail Group
+2024-12-11,2885.30,Electronics,Asia,Apex Retail Group
+2024-06-30,1369.90,Home Goods,Asia,Apex Retail Group
+2024-04-22,1605.04,Apparel,South America,Apex Retail Group
+2024-01-01,6385.49,Apparel,South America,Apex Retail Group
+2024-03-02,9549.04,Home Goods,South America,Apex Retail Group
+2024-05-05,4640.77,Home Goods,North America,Apex Retail Group
+2024-11-28,4078.61,Apparel,Europe,Apex Retail Group
+2024-07-03,2772.22,Apparel,Europe,Apex Retail Group
+2024-12-02,785.82,Electronics,South America,Apex Retail Group
+2024-07-05,1311.41,Home Goods,North America,Apex Retail Group
+2024-10-26,7390.32,Electronics,North America,Apex Retail Group
+2024-04-25,8270.12,Accessories,South America,Apex Retail Group
+2024-02-14,3123.34,Apparel,South America,Apex Retail Group
+2024-08-30,4129.23,Electronics,North America,Apex Retail Group
+2024-10-08,3773.96,Home Goods,Asia,Apex Retail Group
+2024-10-08,3346.64,Home Goods,Australia,Apex Retail Group
+2024-12-15,9994.69,Accessories,South America,Apex Retail Group
+2024-12-12,2042.49,Home Goods,Asia,Apex Retail Group
+2024-10-07,3993.03,Apparel,Asia,Apex Retail Group
+2024-01-17,1863.41,Electronics,South America,Apex Retail Group
+2024-01-02,1446.56,Home Goods,Europe,Apex Retail Group
+2024-03-11,5062.15,Apparel,Europe,Apex Retail Group
+2024-07-29,2316.36,Accessories,Asia,Apex Retail Group
+2024-06-25,6534.72,Electronics,Europe,Apex Retail Group
+2024-12-16,3571.09,Accessories,South America,Apex Retail Group
+2024-06-05,1876.75,Accessories,Europe,Apex Retail Group
+2024-10-20,1644.02,Accessories,North America,Apex Retail Group
+2024-05-04,4357.16,Home Goods,North America,Apex Retail Group
+2024-03-07,6229.56,Electronics,Europe,Apex Retail Group
+2024-06-15,1867.20,Accessories,South America,Apex Retail Group
+2024-01-19,8198.46,Apparel,Asia,Apex Retail Group
+2024-08-10,5735.01,Electronics,Asia,Apex Retail Group
+2024-05-12,3368.07,Electronics,Asia,Apex Retail Group
+2024-05-24,5833.73,Home Goods,Asia,Apex Retail Group
+2024-02-29,8744.24,Apparel,Asia,Apex Retail Group
+2024-07-09,8400.69,Accessories,Asia,Apex Retail Group
+2024-08-14,9120.50,Electronics,Australia,Apex Retail Group
+2024-05-16,1063.55,Electronics,Asia,Apex Retail Group
+2024-02-21,420.30,Accessories,Europe,Apex Retail Group
+2024-11-01,7037.99,Apparel,South America,Apex Retail Group
+2024-10-19,5475.54,Electronics,South America,Apex Retail Group
+2024-05-07,1892.24,Electronics,South America,Apex Retail Group
+2024-11-22,2083.08,Apparel,North America,Apex Retail Group
+2024-11-10,4998.82,Accessories,Europe,Apex Retail Group
+2024-12-12,8166.72,Accessories,Europe,Apex Retail Group
+2024-11-29,9406.86,Electronics,South America,Apex Retail Group
