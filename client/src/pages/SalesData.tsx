@@ -47,33 +47,49 @@ export default function SalesData() {
         const values = line.split(",").map(v => v.trim());
         const entry: any = {};
         headers.forEach((header, index) => {
+          // Robust date handling
           if (header === "date") {
             const dateStr = values[index];
-            // Handle dd-mm-yyyy format
             const parts = dateStr.split(/[-/]/);
             let date: Date;
-            if (parts.length === 3 && parts[0].length <= 2) {
-              // Assume dd-mm-yyyy
-              const day = parseInt(parts[0], 10);
-              const month = parseInt(parts[1], 10) - 1;
-              const year = parseInt(parts[2], 10);
-              date = new Date(year, month, day);
+            if (parts.length === 3) {
+              if (parts[0].length === 4) {
+                // yyyy-mm-dd
+                date = new Date(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, parseInt(parts[2], 10));
+              } else {
+                // dd-mm-yyyy
+                date = new Date(parseInt(parts[2], 10), parseInt(parts[1], 10) - 1, parseInt(parts[0], 10));
+              }
             } else {
               date = new Date(dateStr);
             }
 
             if (!isNaN(date.getTime())) {
               entry.date = date.toISOString();
-            } else {
-              console.error("Invalid date value:", dateStr);
             }
           }
-          else if (header === "amount" || header === "amount ($)") entry.amount = String(values[index]).replace(/[^0-9.]/g, '');
-          else if (header === "category") entry.productCategory = values[index];
-          else if (header === "region") entry.region = values[index];
+          // Robust amount handling (Weekly_Sales, Item_MRP, Amount)
+          else if (["amount", "amount ($)", "weekly_sales", "item_mrp"].includes(header)) {
+            entry.amount = String(values[index]).replace(/[^0-9.]/g, '');
+          }
+          // Robust category handling (Item_Type, Category, Store)
+          else if (["category", "item_type", "store"].includes(header)) {
+            entry.productCategory = values[index];
+          }
+          // Robust region handling (Region, Outlet_Identifier, Store)
+          else if (["region", "outlet_identifier", "store"].includes(header)) {
+            entry.region = values[index];
+          }
         });
-        return entry;
-      }).filter(entry => entry.date && entry.amount && entry.productCategory && entry.region);
+
+        // Fallbacks for missing required fields if some columns were mapped differently
+        if (entry.date && entry.amount) {
+          if (!entry.productCategory) entry.productCategory = "General";
+          if (!entry.region) entry.region = "Default";
+          return entry;
+        }
+        return null;
+      }).filter(Boolean);
 
       bulkCreate.mutate(salesToImport, {
         onSuccess: (res) => {
