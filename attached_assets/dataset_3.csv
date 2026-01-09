@@ -1,1501 +1,1001 @@
 date,amount,productCategory,region,company
-2023-11-06,233881.74,Savings Accounts,West India,State Bank of India
-2024-08-18,273152.96,Savings Accounts,West India,State Bank of India
-2024-09-18,197609.42,Savings Accounts,West India,State Bank of India
-2024-08-05,527704.98,Savings Accounts,Central India,State Bank of India
-2023-08-11,199464.12,Corporate Loans,North India,State Bank of India
-2023-09-08,270457.50,Fixed Deposits,West India,State Bank of India
-2024-11-15,164193.94,Fixed Deposits,Central India,State Bank of India
-2023-10-29,424628.78,Fixed Deposits,West India,State Bank of India
-2024-09-15,179655.92,Corporate Loans,North India,State Bank of India
-2024-11-05,319092.46,Savings Accounts,Central India,State Bank of India
-2023-09-29,230143.23,Investment Banking,South India,State Bank of India
-2023-06-01,285240.55,Fixed Deposits,North India,State Bank of India
-2023-01-28,191833.74,Savings Accounts,South India,State Bank of India
-2023-12-18,452041.78,Corporate Loans,East India,State Bank of India
-2024-06-30,61753.99,Fixed Deposits,Central India,State Bank of India
-2024-01-10,335739.29,Investment Banking,Central India,State Bank of India
-2023-12-26,273853.59,Investment Banking,North India,State Bank of India
-2023-04-23,451866.07,Investment Banking,North India,State Bank of India
-2023-11-04,471847.74,Corporate Loans,South India,State Bank of India
-2023-12-05,108938.69,Corporate Loans,Central India,State Bank of India
-2023-05-01,64500.55,Corporate Loans,West India,State Bank of India
-2024-05-18,136845.76,Corporate Loans,West India,State Bank of India
-2024-06-18,54030.17,Fixed Deposits,East India,State Bank of India
-2023-01-14,440534.86,Savings Accounts,South India,State Bank of India
-2023-05-09,114466.56,Investment Banking,Central India,State Bank of India
-2024-02-15,203156.65,Fixed Deposits,Central India,State Bank of India
-2023-01-13,405235.65,Corporate Loans,West India,State Bank of India
-2023-01-09,418856.85,Corporate Loans,Central India,State Bank of India
-2024-02-23,262430.66,Savings Accounts,Central India,State Bank of India
-2024-06-15,241632.10,Investment Banking,North India,State Bank of India
-2023-10-08,338278.34,Savings Accounts,South India,State Bank of India
-2023-05-27,378842.15,Corporate Loans,North India,State Bank of India
-2024-05-18,496932.16,Fixed Deposits,West India,State Bank of India
-2023-01-11,86493.05,Savings Accounts,South India,State Bank of India
-2023-01-10,261012.80,Investment Banking,South India,State Bank of India
-2023-06-03,60527.28,Fixed Deposits,Central India,State Bank of India
-2023-04-19,418653.92,Investment Banking,East India,State Bank of India
-2023-12-26,208960.68,Corporate Loans,South India,State Bank of India
-2024-04-01,513646.36,Corporate Loans,Central India,State Bank of India
-2024-10-30,454690.56,Savings Accounts,Central India,State Bank of India
-2024-07-10,494053.32,Savings Accounts,Central India,State Bank of India
-2023-08-10,214108.57,Investment Banking,Central India,State Bank of India
-2023-11-07,437074.38,Investment Banking,South India,State Bank of India
-2023-01-07,262829.31,Fixed Deposits,South India,State Bank of India
-2024-11-19,52828.10,Savings Accounts,South India,State Bank of India
-2024-04-02,222706.53,Investment Banking,Central India,State Bank of India
-2023-12-11,311722.75,Investment Banking,West India,State Bank of India
-2024-05-25,66798.86,Corporate Loans,North India,State Bank of India
-2024-01-02,327373.79,Fixed Deposits,East India,State Bank of India
-2023-10-01,465871.92,Savings Accounts,Central India,State Bank of India
-2024-12-19,155194.87,Corporate Loans,Central India,State Bank of India
-2024-08-19,149285.96,Fixed Deposits,Central India,State Bank of India
-2024-09-15,217597.61,Fixed Deposits,South India,State Bank of India
-2024-01-09,223541.28,Investment Banking,Central India,State Bank of India
-2024-12-02,444969.52,Corporate Loans,East India,State Bank of India
-2023-08-05,297876.51,Fixed Deposits,South India,State Bank of India
-2024-09-12,472630.40,Savings Accounts,West India,State Bank of India
-2024-12-13,393224.28,Investment Banking,East India,State Bank of India
-2023-05-31,162068.99,Investment Banking,South India,State Bank of India
-2023-10-17,351619.39,Investment Banking,West India,State Bank of India
-2024-06-23,77312.07,Savings Accounts,North India,State Bank of India
-2024-02-28,267357.93,Corporate Loans,East India,State Bank of India
-2024-02-13,221740.37,Fixed Deposits,West India,State Bank of India
-2024-01-30,255557.96,Investment Banking,Central India,State Bank of India
-2024-08-22,431134.09,Investment Banking,Central India,State Bank of India
-2024-03-29,229122.46,Savings Accounts,East India,State Bank of India
-2024-09-25,118356.61,Corporate Loans,South India,State Bank of India
-2023-10-21,325344.19,Corporate Loans,North India,State Bank of India
-2024-10-15,540384.58,Corporate Loans,East India,State Bank of India
-2023-11-29,289554.43,Savings Accounts,Central India,State Bank of India
-2023-04-20,194635.29,Savings Accounts,West India,State Bank of India
-2024-12-27,73798.66,Investment Banking,South India,State Bank of India
-2023-09-06,167530.26,Fixed Deposits,South India,State Bank of India
-2023-04-09,236298.68,Corporate Loans,North India,State Bank of India
-2023-10-15,432667.34,Fixed Deposits,West India,State Bank of India
-2024-11-15,506699.05,Fixed Deposits,West India,State Bank of India
-2024-11-13,261256.69,Fixed Deposits,North India,State Bank of India
-2023-07-09,120171.85,Investment Banking,West India,State Bank of India
-2024-07-18,229425.14,Fixed Deposits,South India,State Bank of India
-2023-12-10,289265.64,Savings Accounts,North India,State Bank of India
-2024-07-28,239933.46,Fixed Deposits,Central India,State Bank of India
-2024-03-07,158863.73,Fixed Deposits,North India,State Bank of India
-2023-03-20,182474.38,Fixed Deposits,West India,State Bank of India
-2024-02-04,88401.26,Fixed Deposits,North India,State Bank of India
-2023-04-12,136503.28,Corporate Loans,North India,State Bank of India
-2024-08-14,332551.67,Fixed Deposits,East India,State Bank of India
-2024-11-15,174496.71,Corporate Loans,East India,State Bank of India
-2023-04-02,185790.59,Corporate Loans,East India,State Bank of India
-2023-02-22,460512.27,Fixed Deposits,North India,State Bank of India
-2023-03-24,549274.42,Corporate Loans,Central India,State Bank of India
-2024-02-12,281442.34,Savings Accounts,East India,State Bank of India
-2024-08-07,236333.77,Corporate Loans,North India,State Bank of India
-2024-04-10,385270.35,Investment Banking,Central India,State Bank of India
-2023-10-26,239488.41,Corporate Loans,North India,State Bank of India
-2024-08-19,538066.33,Savings Accounts,South India,State Bank of India
-2023-08-29,317531.74,Corporate Loans,West India,State Bank of India
-2024-07-17,316100.04,Investment Banking,South India,State Bank of India
-2023-08-15,455480.13,Corporate Loans,West India,State Bank of India
-2024-11-12,276135.19,Investment Banking,North India,State Bank of India
-2024-07-08,398497.89,Corporate Loans,North India,State Bank of India
-2024-02-04,50897.80,Savings Accounts,East India,State Bank of India
-2023-11-21,473594.88,Savings Accounts,West India,State Bank of India
-2023-04-01,489675.64,Fixed Deposits,North India,State Bank of India
-2024-05-31,221319.54,Investment Banking,North India,State Bank of India
-2024-06-14,547764.34,Investment Banking,North India,State Bank of India
-2023-07-13,346484.10,Savings Accounts,East India,State Bank of India
-2024-03-07,118530.98,Corporate Loans,West India,State Bank of India
-2024-08-12,146229.45,Fixed Deposits,Central India,State Bank of India
-2024-12-15,204848.53,Fixed Deposits,East India,State Bank of India
-2023-06-22,268659.81,Savings Accounts,West India,State Bank of India
-2023-01-12,156849.65,Savings Accounts,South India,State Bank of India
-2023-04-24,534656.72,Investment Banking,Central India,State Bank of India
-2023-09-27,112696.79,Corporate Loans,North India,State Bank of India
-2023-05-28,363052.22,Investment Banking,East India,State Bank of India
-2024-11-10,376928.39,Investment Banking,East India,State Bank of India
-2024-05-23,179457.44,Investment Banking,North India,State Bank of India
-2023-01-11,332276.55,Fixed Deposits,North India,State Bank of India
-2023-09-12,72636.20,Corporate Loans,West India,State Bank of India
-2023-09-24,544624.52,Fixed Deposits,West India,State Bank of India
-2023-08-12,234805.73,Savings Accounts,West India,State Bank of India
-2024-04-18,230616.56,Fixed Deposits,East India,State Bank of India
-2023-10-16,88092.50,Savings Accounts,East India,State Bank of India
-2023-11-14,375601.97,Corporate Loans,West India,State Bank of India
-2024-12-27,330279.50,Fixed Deposits,South India,State Bank of India
-2024-08-18,176536.72,Corporate Loans,Central India,State Bank of India
-2023-02-27,523219.34,Fixed Deposits,Central India,State Bank of India
-2023-11-15,434345.50,Investment Banking,South India,State Bank of India
-2024-01-20,172423.41,Investment Banking,East India,State Bank of India
-2024-06-03,306790.18,Corporate Loans,South India,State Bank of India
-2023-09-04,356164.66,Fixed Deposits,Central India,State Bank of India
-2023-08-12,121799.19,Savings Accounts,Central India,State Bank of India
-2024-07-02,95180.39,Investment Banking,South India,State Bank of India
-2023-03-31,117702.44,Investment Banking,West India,State Bank of India
-2023-06-07,387167.75,Fixed Deposits,Central India,State Bank of India
-2024-08-16,531439.88,Investment Banking,South India,State Bank of India
-2023-05-30,504135.93,Fixed Deposits,East India,State Bank of India
-2023-07-31,132377.31,Corporate Loans,South India,State Bank of India
-2024-06-11,368445.34,Investment Banking,West India,State Bank of India
-2024-09-04,258043.46,Corporate Loans,East India,State Bank of India
-2023-10-24,239663.68,Investment Banking,Central India,State Bank of India
-2023-03-05,123114.03,Investment Banking,Central India,State Bank of India
-2023-08-21,410560.60,Corporate Loans,South India,State Bank of India
-2023-06-12,317105.61,Savings Accounts,South India,State Bank of India
-2023-08-02,475958.44,Corporate Loans,West India,State Bank of India
-2024-12-03,292662.74,Fixed Deposits,West India,State Bank of India
-2023-04-09,189652.36,Corporate Loans,South India,State Bank of India
-2023-06-04,162857.59,Fixed Deposits,Central India,State Bank of India
-2024-12-02,261071.81,Savings Accounts,North India,State Bank of India
-2023-03-02,148690.58,Savings Accounts,Central India,State Bank of India
-2024-12-25,513313.63,Fixed Deposits,West India,State Bank of India
-2024-01-15,85358.09,Investment Banking,East India,State Bank of India
-2024-02-19,125041.90,Fixed Deposits,Central India,State Bank of India
-2024-09-12,168996.81,Fixed Deposits,East India,State Bank of India
-2023-12-09,532501.15,Investment Banking,West India,State Bank of India
-2023-12-19,218058.49,Investment Banking,North India,State Bank of India
-2024-04-24,321099.64,Fixed Deposits,North India,State Bank of India
-2023-07-13,529124.47,Fixed Deposits,North India,State Bank of India
-2023-08-13,53817.16,Savings Accounts,South India,State Bank of India
-2024-09-11,87528.07,Investment Banking,West India,State Bank of India
-2023-07-29,482614.35,Corporate Loans,West India,State Bank of India
-2023-06-05,233842.53,Corporate Loans,Central India,State Bank of India
-2024-06-18,269712.56,Investment Banking,West India,State Bank of India
-2024-12-02,286531.09,Investment Banking,North India,State Bank of India
-2023-07-27,352461.09,Savings Accounts,South India,State Bank of India
-2024-01-07,170619.95,Corporate Loans,Central India,State Bank of India
-2024-06-01,108233.41,Investment Banking,East India,State Bank of India
-2024-07-28,168236.28,Corporate Loans,East India,State Bank of India
-2023-10-04,248247.47,Savings Accounts,East India,State Bank of India
-2023-04-17,367661.02,Fixed Deposits,North India,State Bank of India
-2024-01-03,122188.06,Corporate Loans,Central India,State Bank of India
-2024-11-11,125769.80,Investment Banking,Central India,State Bank of India
-2023-06-14,101451.67,Fixed Deposits,East India,State Bank of India
-2023-12-12,472374.95,Investment Banking,North India,State Bank of India
-2024-01-26,78893.20,Investment Banking,South India,State Bank of India
-2024-08-13,407704.47,Fixed Deposits,Central India,State Bank of India
-2023-09-25,267944.85,Savings Accounts,Central India,State Bank of India
-2023-12-20,172493.07,Savings Accounts,West India,State Bank of India
-2024-09-15,156485.74,Fixed Deposits,South India,State Bank of India
-2023-05-04,225408.86,Fixed Deposits,North India,State Bank of India
-2024-05-02,390470.56,Fixed Deposits,North India,State Bank of India
-2023-03-03,177695.10,Fixed Deposits,Central India,State Bank of India
-2023-06-22,82105.74,Investment Banking,West India,State Bank of India
-2023-12-20,286291.75,Savings Accounts,South India,State Bank of India
-2024-02-29,347414.08,Savings Accounts,Central India,State Bank of India
-2024-06-20,524177.09,Corporate Loans,East India,State Bank of India
-2024-08-28,200887.49,Investment Banking,East India,State Bank of India
-2024-11-16,86526.06,Savings Accounts,East India,State Bank of India
-2024-07-09,177539.81,Corporate Loans,East India,State Bank of India
-2024-11-20,175879.88,Corporate Loans,South India,State Bank of India
-2023-01-04,324739.73,Savings Accounts,North India,State Bank of India
-2023-03-20,213672.70,Corporate Loans,East India,State Bank of India
-2024-01-28,386531.06,Savings Accounts,South India,State Bank of India
-2024-12-05,234007.64,Fixed Deposits,North India,State Bank of India
-2023-07-20,355930.54,Fixed Deposits,North India,State Bank of India
-2024-09-06,268622.36,Fixed Deposits,East India,State Bank of India
-2023-05-30,386277.06,Corporate Loans,East India,State Bank of India
-2023-04-17,54399.68,Corporate Loans,North India,State Bank of India
-2023-01-29,237296.17,Fixed Deposits,East India,State Bank of India
-2023-10-05,296799.74,Savings Accounts,Central India,State Bank of India
-2023-04-29,61828.66,Corporate Loans,North India,State Bank of India
-2024-01-15,329936.58,Savings Accounts,South India,State Bank of India
-2024-10-28,534634.42,Savings Accounts,East India,State Bank of India
-2024-02-26,154420.61,Fixed Deposits,North India,State Bank of India
-2024-05-19,444351.50,Corporate Loans,Central India,State Bank of India
-2023-09-07,478387.14,Fixed Deposits,Central India,State Bank of India
-2024-01-29,402705.41,Savings Accounts,West India,State Bank of India
-2024-09-28,396011.38,Savings Accounts,South India,State Bank of India
-2023-09-03,286334.70,Savings Accounts,Central India,State Bank of India
-2023-08-01,513126.39,Savings Accounts,North India,State Bank of India
-2023-07-09,515125.71,Fixed Deposits,South India,State Bank of India
-2023-06-25,346860.26,Corporate Loans,Central India,State Bank of India
-2023-03-08,540267.23,Investment Banking,Central India,State Bank of India
-2024-06-14,459792.52,Savings Accounts,South India,State Bank of India
-2024-02-14,278090.86,Fixed Deposits,North India,State Bank of India
-2023-11-04,75642.11,Corporate Loans,Central India,State Bank of India
-2023-11-05,397589.14,Fixed Deposits,North India,State Bank of India
-2023-10-13,418800.24,Fixed Deposits,South India,State Bank of India
-2023-09-03,114493.72,Corporate Loans,North India,State Bank of India
-2023-05-08,143380.33,Savings Accounts,West India,State Bank of India
-2023-02-13,239137.81,Corporate Loans,East India,State Bank of India
-2023-12-22,398686.84,Savings Accounts,South India,State Bank of India
-2024-10-11,450633.24,Fixed Deposits,West India,State Bank of India
-2024-01-19,145673.50,Savings Accounts,Central India,State Bank of India
-2023-07-10,476488.31,Corporate Loans,Central India,State Bank of India
-2024-02-26,474328.85,Savings Accounts,South India,State Bank of India
-2023-01-21,443630.80,Corporate Loans,South India,State Bank of India
-2024-07-09,87663.91,Investment Banking,South India,State Bank of India
-2024-12-23,253939.90,Corporate Loans,West India,State Bank of India
-2023-02-07,398805.63,Investment Banking,West India,State Bank of India
-2024-04-03,440746.22,Fixed Deposits,West India,State Bank of India
-2024-01-20,223233.34,Investment Banking,Central India,State Bank of India
-2024-12-10,157379.09,Investment Banking,East India,State Bank of India
-2023-03-25,268801.31,Investment Banking,East India,State Bank of India
-2023-11-22,213212.38,Savings Accounts,North India,State Bank of India
-2023-07-19,299359.91,Savings Accounts,North India,State Bank of India
-2023-08-22,422003.66,Investment Banking,Central India,State Bank of India
-2023-11-22,327033.99,Fixed Deposits,North India,State Bank of India
-2023-07-18,166179.43,Corporate Loans,South India,State Bank of India
-2024-03-26,434881.92,Corporate Loans,West India,State Bank of India
-2023-04-21,141329.26,Fixed Deposits,South India,State Bank of India
-2023-01-13,237644.38,Corporate Loans,East India,State Bank of India
-2023-07-29,252593.97,Fixed Deposits,East India,State Bank of India
-2024-07-09,256440.16,Corporate Loans,North India,State Bank of India
-2023-03-24,169651.86,Investment Banking,West India,State Bank of India
-2023-04-14,100283.76,Savings Accounts,West India,State Bank of India
-2024-03-27,457486.14,Savings Accounts,South India,State Bank of India
-2024-04-13,399013.76,Investment Banking,South India,State Bank of India
-2024-11-26,394567.43,Savings Accounts,East India,State Bank of India
-2024-02-09,335226.70,Fixed Deposits,South India,State Bank of India
-2023-09-18,540608.15,Fixed Deposits,Central India,State Bank of India
-2023-08-19,126026.72,Fixed Deposits,North India,State Bank of India
-2023-12-12,432079.76,Fixed Deposits,Central India,State Bank of India
-2023-02-02,237547.12,Investment Banking,West India,State Bank of India
-2024-04-15,426599.89,Fixed Deposits,North India,State Bank of India
-2023-11-21,220911.32,Fixed Deposits,East India,State Bank of India
-2024-06-28,531815.15,Savings Accounts,West India,State Bank of India
-2024-01-06,288304.27,Corporate Loans,West India,State Bank of India
-2023-06-24,281049.35,Corporate Loans,West India,State Bank of India
-2024-01-19,66307.01,Savings Accounts,South India,State Bank of India
-2024-11-13,174153.17,Corporate Loans,West India,State Bank of India
-2024-12-10,62128.01,Investment Banking,West India,State Bank of India
-2024-10-08,481000.80,Fixed Deposits,East India,State Bank of India
-2024-11-01,546242.79,Fixed Deposits,East India,State Bank of India
-2023-07-23,146901.89,Fixed Deposits,West India,State Bank of India
-2024-10-22,548468.81,Savings Accounts,West India,State Bank of India
-2024-09-28,232165.34,Savings Accounts,Central India,State Bank of India
-2024-01-24,117696.18,Savings Accounts,North India,State Bank of India
-2023-05-12,535540.39,Fixed Deposits,Central India,State Bank of India
-2023-04-06,306578.83,Corporate Loans,North India,State Bank of India
-2023-08-11,98081.12,Savings Accounts,East India,State Bank of India
-2024-10-13,253619.19,Savings Accounts,South India,State Bank of India
-2024-09-07,110168.68,Fixed Deposits,West India,State Bank of India
-2024-05-21,530931.16,Investment Banking,North India,State Bank of India
-2023-05-12,151356.93,Savings Accounts,East India,State Bank of India
-2024-08-30,354757.34,Corporate Loans,West India,State Bank of India
-2024-11-03,210445.64,Savings Accounts,East India,State Bank of India
-2023-07-18,109848.26,Investment Banking,East India,State Bank of India
-2023-09-10,322056.20,Fixed Deposits,Central India,State Bank of India
-2024-12-14,451963.05,Corporate Loans,West India,State Bank of India
-2024-01-28,74278.89,Fixed Deposits,Central India,State Bank of India
-2023-08-14,85827.33,Savings Accounts,North India,State Bank of India
-2024-11-30,446790.21,Investment Banking,East India,State Bank of India
-2024-01-11,140697.63,Investment Banking,South India,State Bank of India
-2024-12-26,462283.57,Corporate Loans,North India,State Bank of India
-2023-12-08,170326.25,Fixed Deposits,East India,State Bank of India
-2023-03-05,67688.18,Corporate Loans,East India,State Bank of India
-2024-12-24,259949.79,Fixed Deposits,West India,State Bank of India
-2023-11-09,318639.83,Corporate Loans,West India,State Bank of India
-2023-07-25,98170.24,Savings Accounts,East India,State Bank of India
-2024-02-08,453483.32,Corporate Loans,South India,State Bank of India
-2023-01-02,227720.25,Fixed Deposits,South India,State Bank of India
-2024-08-02,271963.94,Savings Accounts,West India,State Bank of India
-2023-07-08,179347.78,Investment Banking,East India,State Bank of India
-2023-09-07,348003.24,Savings Accounts,South India,State Bank of India
-2024-11-09,226778.37,Investment Banking,East India,State Bank of India
-2023-07-02,452193.60,Investment Banking,Central India,State Bank of India
-2024-08-27,348250.28,Investment Banking,South India,State Bank of India
-2024-06-26,378099.51,Fixed Deposits,South India,State Bank of India
-2023-06-16,288464.84,Fixed Deposits,South India,State Bank of India
-2023-06-03,292268.35,Investment Banking,Central India,State Bank of India
-2023-06-30,362531.90,Savings Accounts,West India,State Bank of India
-2024-04-24,254377.44,Savings Accounts,North India,State Bank of India
-2024-08-23,300427.74,Savings Accounts,East India,State Bank of India
-2023-12-18,316414.49,Corporate Loans,West India,State Bank of India
-2023-08-09,496996.63,Fixed Deposits,West India,State Bank of India
-2024-02-07,385093.23,Savings Accounts,South India,State Bank of India
-2024-06-14,212429.84,Fixed Deposits,West India,State Bank of India
-2024-07-07,83058.36,Fixed Deposits,North India,State Bank of India
-2023-12-21,403478.43,Fixed Deposits,Central India,State Bank of India
-2023-06-23,483869.36,Corporate Loans,West India,State Bank of India
-2023-11-06,201464.39,Fixed Deposits,North India,State Bank of India
-2023-09-16,103597.83,Fixed Deposits,West India,State Bank of India
-2023-06-02,240038.62,Savings Accounts,East India,State Bank of India
-2024-04-15,186604.04,Fixed Deposits,Central India,State Bank of India
-2023-03-02,290321.07,Savings Accounts,North India,State Bank of India
-2024-06-22,149313.89,Fixed Deposits,Central India,State Bank of India
-2023-09-15,236683.42,Savings Accounts,Central India,State Bank of India
-2023-08-24,319709.60,Savings Accounts,South India,State Bank of India
-2024-08-16,114121.22,Savings Accounts,East India,State Bank of India
-2023-07-30,217698.78,Fixed Deposits,South India,State Bank of India
-2023-02-17,157460.23,Fixed Deposits,South India,State Bank of India
-2024-05-14,493644.94,Corporate Loans,North India,State Bank of India
-2024-03-09,463109.74,Fixed Deposits,North India,State Bank of India
-2024-09-22,231129.07,Corporate Loans,South India,State Bank of India
-2024-12-12,162465.12,Investment Banking,South India,State Bank of India
-2023-01-03,467482.83,Fixed Deposits,North India,State Bank of India
-2023-03-12,119295.60,Investment Banking,East India,State Bank of India
-2024-12-23,183184.84,Fixed Deposits,North India,State Bank of India
-2023-01-25,354110.01,Savings Accounts,North India,State Bank of India
-2024-02-16,137609.98,Fixed Deposits,North India,State Bank of India
-2024-10-09,251319.20,Corporate Loans,West India,State Bank of India
-2023-02-22,439707.59,Corporate Loans,East India,State Bank of India
-2023-09-08,410334.36,Savings Accounts,West India,State Bank of India
-2024-08-14,503464.61,Corporate Loans,North India,State Bank of India
-2024-09-23,460887.97,Savings Accounts,North India,State Bank of India
-2024-03-23,182035.73,Investment Banking,South India,State Bank of India
-2024-01-28,278045.15,Fixed Deposits,South India,State Bank of India
-2024-02-20,164711.99,Corporate Loans,North India,State Bank of India
-2023-12-08,313242.66,Investment Banking,West India,State Bank of India
-2024-03-29,227840.31,Corporate Loans,East India,State Bank of India
-2024-11-22,266212.52,Investment Banking,South India,State Bank of India
-2023-03-05,117120.40,Investment Banking,South India,State Bank of India
-2024-11-02,251266.16,Investment Banking,South India,State Bank of India
-2024-08-13,457184.55,Fixed Deposits,South India,State Bank of India
-2024-01-23,406574.22,Fixed Deposits,East India,State Bank of India
-2023-06-10,349671.42,Corporate Loans,West India,State Bank of India
-2024-01-27,443761.81,Corporate Loans,North India,State Bank of India
-2023-05-01,266942.21,Savings Accounts,South India,State Bank of India
-2024-05-14,299698.25,Fixed Deposits,South India,State Bank of India
-2023-01-02,311957.69,Savings Accounts,Central India,State Bank of India
-2024-05-26,126712.34,Corporate Loans,East India,State Bank of India
-2024-07-17,318418.74,Savings Accounts,North India,State Bank of India
-2024-01-04,218438.60,Fixed Deposits,West India,State Bank of India
-2024-04-09,363176.44,Savings Accounts,South India,State Bank of India
-2023-02-25,273521.48,Investment Banking,Central India,State Bank of India
-2023-07-18,166586.13,Corporate Loans,West India,State Bank of India
-2024-10-16,448401.36,Corporate Loans,West India,State Bank of India
-2024-09-29,378665.42,Investment Banking,South India,State Bank of India
-2024-10-07,526372.92,Savings Accounts,West India,State Bank of India
-2023-09-07,417129.41,Investment Banking,West India,State Bank of India
-2024-05-02,548742.28,Investment Banking,West India,State Bank of India
-2023-05-04,265246.73,Fixed Deposits,East India,State Bank of India
-2023-09-29,359802.04,Investment Banking,Central India,State Bank of India
-2024-05-08,60818.09,Corporate Loans,South India,State Bank of India
-2024-12-10,370667.45,Savings Accounts,North India,State Bank of India
-2023-10-04,503433.66,Corporate Loans,East India,State Bank of India
-2023-06-29,286148.07,Corporate Loans,East India,State Bank of India
-2023-11-26,255090.01,Savings Accounts,South India,State Bank of India
-2023-07-26,67547.85,Corporate Loans,West India,State Bank of India
-2023-09-17,391162.29,Corporate Loans,East India,State Bank of India
-2023-02-14,371237.91,Investment Banking,South India,State Bank of India
-2023-01-26,174402.25,Investment Banking,South India,State Bank of India
-2023-07-12,342743.83,Savings Accounts,East India,State Bank of India
-2024-08-10,466456.56,Fixed Deposits,Central India,State Bank of India
-2024-10-10,433577.29,Savings Accounts,East India,State Bank of India
-2024-05-15,447782.15,Fixed Deposits,East India,State Bank of India
-2024-01-13,442768.51,Savings Accounts,West India,State Bank of India
-2024-10-10,286722.54,Investment Banking,North India,State Bank of India
-2023-01-21,425955.39,Corporate Loans,West India,State Bank of India
-2024-12-30,362653.70,Savings Accounts,North India,State Bank of India
-2023-02-21,151406.05,Savings Accounts,Central India,State Bank of India
-2024-06-16,456845.50,Fixed Deposits,North India,State Bank of India
-2024-03-11,61818.50,Corporate Loans,Central India,State Bank of India
-2024-10-20,106171.48,Investment Banking,South India,State Bank of India
-2024-09-28,407638.55,Investment Banking,South India,State Bank of India
-2024-11-06,75634.40,Corporate Loans,East India,State Bank of India
-2024-07-03,142295.85,Corporate Loans,South India,State Bank of India
-2023-06-24,88735.18,Investment Banking,East India,State Bank of India
-2023-10-05,525465.71,Fixed Deposits,North India,State Bank of India
-2024-09-06,501321.55,Corporate Loans,West India,State Bank of India
-2023-09-24,437410.83,Savings Accounts,South India,State Bank of India
-2024-02-26,251057.95,Corporate Loans,West India,State Bank of India
-2023-02-22,436160.76,Investment Banking,West India,State Bank of India
-2024-06-05,486180.16,Investment Banking,West India,State Bank of India
-2024-03-10,473767.15,Corporate Loans,West India,State Bank of India
-2023-01-23,548009.94,Savings Accounts,West India,State Bank of India
-2023-02-08,82903.06,Corporate Loans,West India,State Bank of India
-2024-08-16,256043.72,Corporate Loans,Central India,State Bank of India
-2023-09-12,194318.99,Savings Accounts,West India,State Bank of India
-2023-08-08,222301.34,Corporate Loans,Central India,State Bank of India
-2023-03-19,177673.55,Investment Banking,East India,State Bank of India
-2023-10-15,459349.75,Investment Banking,North India,State Bank of India
-2023-11-09,139739.05,Investment Banking,East India,State Bank of India
-2024-10-27,528597.67,Fixed Deposits,Central India,State Bank of India
-2024-03-30,279761.08,Fixed Deposits,South India,State Bank of India
-2023-11-15,122395.15,Savings Accounts,East India,State Bank of India
-2024-11-01,337467.61,Fixed Deposits,South India,State Bank of India
-2024-06-02,175853.40,Fixed Deposits,South India,State Bank of India
-2023-04-11,183226.97,Investment Banking,West India,State Bank of India
-2023-04-15,147091.24,Corporate Loans,West India,State Bank of India
-2023-11-14,133616.55,Savings Accounts,North India,State Bank of India
-2024-03-25,383055.80,Corporate Loans,East India,State Bank of India
-2023-08-22,455682.62,Fixed Deposits,East India,State Bank of India
-2023-05-28,448680.95,Investment Banking,Central India,State Bank of India
-2024-06-28,400845.09,Corporate Loans,West India,State Bank of India
-2024-03-23,164366.38,Savings Accounts,North India,State Bank of India
-2023-11-10,343730.97,Fixed Deposits,East India,State Bank of India
-2023-09-15,345740.11,Investment Banking,West India,State Bank of India
-2023-06-19,301504.31,Corporate Loans,South India,State Bank of India
-2023-10-11,409018.30,Corporate Loans,North India,State Bank of India
-2023-11-22,392534.41,Savings Accounts,South India,State Bank of India
-2023-05-27,324034.50,Investment Banking,South India,State Bank of India
-2023-09-16,270994.30,Fixed Deposits,Central India,State Bank of India
-2023-02-24,200723.73,Investment Banking,West India,State Bank of India
-2024-10-18,127850.82,Fixed Deposits,Central India,State Bank of India
-2023-04-03,168594.81,Corporate Loans,South India,State Bank of India
-2023-09-24,537935.54,Savings Accounts,Central India,State Bank of India
-2023-03-20,119384.63,Corporate Loans,East India,State Bank of India
-2024-09-11,217762.87,Savings Accounts,North India,State Bank of India
-2023-03-02,275335.02,Fixed Deposits,West India,State Bank of India
-2023-10-01,131135.50,Investment Banking,South India,State Bank of India
-2023-04-24,133831.39,Savings Accounts,East India,State Bank of India
-2024-05-05,175676.72,Savings Accounts,West India,State Bank of India
-2024-09-02,261291.32,Fixed Deposits,South India,State Bank of India
-2024-02-24,278090.91,Investment Banking,East India,State Bank of India
-2023-10-27,370947.51,Corporate Loans,Central India,State Bank of India
-2023-01-15,280052.20,Fixed Deposits,Central India,State Bank of India
-2024-09-30,442706.15,Fixed Deposits,East India,State Bank of India
-2024-07-16,239780.42,Corporate Loans,West India,State Bank of India
-2024-06-13,169757.37,Savings Accounts,West India,State Bank of India
-2024-11-06,53692.26,Fixed Deposits,North India,State Bank of India
-2024-03-26,434903.74,Fixed Deposits,East India,State Bank of India
-2023-03-26,527196.73,Corporate Loans,Central India,State Bank of India
-2023-06-22,156470.88,Corporate Loans,East India,State Bank of India
-2024-02-03,267454.93,Investment Banking,North India,State Bank of India
-2023-05-26,104666.83,Savings Accounts,South India,State Bank of India
-2023-01-01,468771.18,Corporate Loans,Central India,State Bank of India
-2023-05-23,79878.07,Investment Banking,West India,State Bank of India
-2023-09-14,310993.15,Investment Banking,West India,State Bank of India
-2023-01-10,173641.65,Fixed Deposits,West India,State Bank of India
-2024-06-05,222124.34,Corporate Loans,West India,State Bank of India
-2024-06-08,289014.41,Savings Accounts,East India,State Bank of India
-2023-02-03,377547.48,Investment Banking,North India,State Bank of India
-2023-12-28,431706.10,Savings Accounts,North India,State Bank of India
-2024-07-01,71404.00,Corporate Loans,South India,State Bank of India
-2023-10-05,236557.71,Corporate Loans,West India,State Bank of India
-2023-08-18,284624.54,Corporate Loans,Central India,State Bank of India
-2024-12-12,99165.13,Investment Banking,East India,State Bank of India
-2023-02-05,272774.33,Fixed Deposits,Central India,State Bank of India
-2023-01-05,467002.34,Corporate Loans,Central India,State Bank of India
-2023-01-23,453772.54,Fixed Deposits,North India,State Bank of India
-2023-07-16,302496.12,Corporate Loans,East India,State Bank of India
-2023-01-30,514151.96,Fixed Deposits,South India,State Bank of India
-2023-06-14,174547.79,Corporate Loans,Central India,State Bank of India
-2024-11-23,193329.22,Fixed Deposits,Central India,State Bank of India
-2023-02-20,61688.76,Investment Banking,East India,State Bank of India
-2024-11-16,111263.12,Savings Accounts,East India,State Bank of India
-2023-07-31,160606.73,Corporate Loans,North India,State Bank of India
-2024-05-16,325540.54,Fixed Deposits,South India,State Bank of India
-2024-05-26,345879.15,Investment Banking,Central India,State Bank of India
-2023-02-01,210992.00,Fixed Deposits,North India,State Bank of India
-2024-02-18,431212.32,Investment Banking,North India,State Bank of India
-2024-04-12,449360.28,Corporate Loans,East India,State Bank of India
-2023-01-27,110548.15,Fixed Deposits,West India,State Bank of India
-2023-02-06,440166.31,Corporate Loans,West India,State Bank of India
-2023-08-25,374905.23,Savings Accounts,Central India,State Bank of India
-2024-05-28,280766.84,Savings Accounts,East India,State Bank of India
-2024-07-22,462078.58,Corporate Loans,South India,State Bank of India
-2023-12-08,62501.85,Fixed Deposits,North India,State Bank of India
-2023-11-10,287574.52,Investment Banking,West India,State Bank of India
-2024-02-20,199477.07,Savings Accounts,East India,State Bank of India
-2023-01-26,351868.67,Savings Accounts,East India,State Bank of India
-2023-04-08,330867.77,Fixed Deposits,North India,State Bank of India
-2023-04-18,177425.76,Savings Accounts,North India,State Bank of India
-2024-03-16,470737.00,Fixed Deposits,East India,State Bank of India
-2023-01-20,384398.20,Corporate Loans,East India,State Bank of India
-2023-05-03,394405.54,Fixed Deposits,West India,State Bank of India
-2023-08-26,530078.88,Savings Accounts,East India,State Bank of India
-2023-07-09,344988.02,Investment Banking,East India,State Bank of India
-2023-04-28,465286.63,Investment Banking,North India,State Bank of India
-2024-10-18,455466.62,Corporate Loans,South India,State Bank of India
-2024-05-16,104707.56,Fixed Deposits,North India,State Bank of India
-2024-10-24,263142.67,Investment Banking,West India,State Bank of India
-2023-12-18,319245.76,Corporate Loans,West India,State Bank of India
-2023-11-22,425165.16,Investment Banking,North India,State Bank of India
-2023-12-27,537654.24,Savings Accounts,South India,State Bank of India
-2024-11-27,199569.66,Investment Banking,West India,State Bank of India
-2024-04-23,338936.35,Investment Banking,North India,State Bank of India
-2023-02-28,386393.87,Fixed Deposits,South India,State Bank of India
-2023-01-09,516434.10,Corporate Loans,Central India,State Bank of India
-2023-08-20,136224.71,Investment Banking,West India,State Bank of India
-2024-09-23,87505.27,Corporate Loans,West India,State Bank of India
-2023-09-03,399716.81,Fixed Deposits,South India,State Bank of India
-2023-12-27,290990.95,Fixed Deposits,Central India,State Bank of India
-2023-10-06,489832.29,Savings Accounts,South India,State Bank of India
-2023-11-09,428240.10,Corporate Loans,West India,State Bank of India
-2023-05-19,543686.58,Investment Banking,Central India,State Bank of India
-2023-01-26,319765.75,Fixed Deposits,Central India,State Bank of India
-2023-01-15,276963.97,Savings Accounts,Central India,State Bank of India
-2023-09-08,92749.26,Fixed Deposits,North India,State Bank of India
-2023-06-09,333451.23,Fixed Deposits,South India,State Bank of India
-2023-10-20,371917.75,Corporate Loans,West India,State Bank of India
-2024-03-01,300435.81,Fixed Deposits,North India,State Bank of India
-2023-02-13,290276.00,Savings Accounts,Central India,State Bank of India
-2024-06-02,84163.27,Savings Accounts,South India,State Bank of India
-2023-09-18,461660.66,Savings Accounts,South India,State Bank of India
-2023-01-20,520598.56,Savings Accounts,East India,State Bank of India
-2024-03-05,507009.85,Savings Accounts,North India,State Bank of India
-2023-03-30,163069.25,Investment Banking,West India,State Bank of India
-2024-02-04,290873.88,Savings Accounts,North India,State Bank of India
-2023-01-13,56511.09,Investment Banking,Central India,State Bank of India
-2024-03-18,197852.32,Investment Banking,North India,State Bank of India
-2024-04-30,433913.59,Fixed Deposits,North India,State Bank of India
-2024-03-05,223616.28,Fixed Deposits,West India,State Bank of India
-2023-08-04,142018.83,Fixed Deposits,South India,State Bank of India
-2024-08-27,413381.33,Investment Banking,Central India,State Bank of India
-2024-12-20,445436.33,Savings Accounts,North India,State Bank of India
-2023-04-03,305846.89,Savings Accounts,East India,State Bank of India
-2023-11-26,79582.26,Savings Accounts,East India,State Bank of India
-2024-04-22,116990.73,Investment Banking,South India,State Bank of India
-2023-02-16,269990.21,Fixed Deposits,Central India,State Bank of India
-2024-11-14,271286.80,Savings Accounts,North India,State Bank of India
-2024-08-04,516892.97,Investment Banking,East India,State Bank of India
-2024-03-09,278877.39,Corporate Loans,North India,State Bank of India
-2023-10-22,402088.62,Corporate Loans,South India,State Bank of India
-2023-01-27,80518.43,Investment Banking,West India,State Bank of India
-2024-12-28,136354.77,Fixed Deposits,West India,State Bank of India
-2024-11-08,509608.06,Fixed Deposits,South India,State Bank of India
-2024-08-17,103110.99,Fixed Deposits,Central India,State Bank of India
-2024-05-11,421730.32,Savings Accounts,South India,State Bank of India
-2023-08-23,233380.08,Investment Banking,East India,State Bank of India
-2023-01-04,441443.27,Fixed Deposits,North India,State Bank of India
-2024-05-20,235859.49,Savings Accounts,East India,State Bank of India
-2023-07-17,212360.76,Savings Accounts,South India,State Bank of India
-2023-09-12,303457.29,Fixed Deposits,South India,State Bank of India
-2023-10-10,249552.62,Fixed Deposits,South India,State Bank of India
-2023-02-14,55041.61,Fixed Deposits,West India,State Bank of India
-2024-06-22,355218.69,Corporate Loans,East India,State Bank of India
-2024-02-23,208835.13,Savings Accounts,West India,State Bank of India
-2023-02-08,245227.07,Corporate Loans,South India,State Bank of India
-2024-02-07,233325.35,Fixed Deposits,South India,State Bank of India
-2023-11-07,418565.71,Corporate Loans,Central India,State Bank of India
-2023-12-03,413762.90,Fixed Deposits,West India,State Bank of India
-2024-12-21,156439.19,Savings Accounts,South India,State Bank of India
-2024-06-19,273586.24,Fixed Deposits,North India,State Bank of India
-2023-09-24,51179.35,Savings Accounts,West India,State Bank of India
-2024-04-06,369901.62,Investment Banking,West India,State Bank of India
-2023-04-10,161136.42,Corporate Loans,South India,State Bank of India
-2023-01-20,402763.17,Investment Banking,West India,State Bank of India
-2023-12-09,466938.33,Savings Accounts,North India,State Bank of India
-2023-02-16,405849.49,Corporate Loans,West India,State Bank of India
-2023-01-03,405710.45,Fixed Deposits,Central India,State Bank of India
-2024-02-11,65167.02,Corporate Loans,Central India,State Bank of India
-2023-04-04,316632.88,Savings Accounts,West India,State Bank of India
-2023-12-12,142552.04,Fixed Deposits,East India,State Bank of India
-2024-01-03,119809.90,Savings Accounts,South India,State Bank of India
-2023-08-19,91351.70,Investment Banking,North India,State Bank of India
-2024-09-30,409534.46,Fixed Deposits,South India,State Bank of India
-2024-04-26,65534.73,Corporate Loans,Central India,State Bank of India
-2024-12-03,442410.69,Savings Accounts,West India,State Bank of India
-2024-07-31,413222.23,Corporate Loans,South India,State Bank of India
-2024-10-08,73757.20,Corporate Loans,East India,State Bank of India
-2023-02-15,306398.67,Corporate Loans,Central India,State Bank of India
-2024-12-27,272321.05,Savings Accounts,East India,State Bank of India
-2024-04-22,359634.17,Savings Accounts,South India,State Bank of India
-2023-07-21,494455.62,Fixed Deposits,North India,State Bank of India
-2024-04-07,143632.85,Savings Accounts,South India,State Bank of India
-2024-08-23,351823.26,Investment Banking,Central India,State Bank of India
-2023-07-07,91359.35,Fixed Deposits,South India,State Bank of India
-2024-01-26,156282.47,Investment Banking,West India,State Bank of India
-2023-04-02,435560.40,Corporate Loans,West India,State Bank of India
-2024-10-18,239109.10,Savings Accounts,Central India,State Bank of India
-2023-01-21,508292.49,Investment Banking,North India,State Bank of India
-2023-12-20,138469.52,Corporate Loans,North India,State Bank of India
-2023-08-31,167583.85,Corporate Loans,East India,State Bank of India
-2024-04-03,506347.42,Investment Banking,South India,State Bank of India
-2023-08-03,122706.35,Investment Banking,West India,State Bank of India
-2024-04-24,256767.71,Investment Banking,West India,State Bank of India
-2024-10-15,283520.94,Investment Banking,West India,State Bank of India
-2023-10-18,201965.00,Investment Banking,Central India,State Bank of India
-2024-01-18,303024.57,Fixed Deposits,Central India,State Bank of India
-2024-08-09,156393.29,Corporate Loans,South India,State Bank of India
-2023-04-20,516677.88,Savings Accounts,South India,State Bank of India
-2023-06-18,290240.76,Savings Accounts,South India,State Bank of India
-2024-11-08,400622.48,Investment Banking,East India,State Bank of India
-2024-12-22,435346.21,Investment Banking,West India,State Bank of India
-2024-03-05,92745.48,Investment Banking,East India,State Bank of India
-2024-09-14,146476.04,Corporate Loans,North India,State Bank of India
-2024-09-27,79390.20,Investment Banking,West India,State Bank of India
-2023-09-14,127407.65,Investment Banking,Central India,State Bank of India
-2024-10-29,529311.34,Investment Banking,South India,State Bank of India
-2023-07-14,256759.89,Investment Banking,East India,State Bank of India
-2024-03-01,197034.09,Fixed Deposits,East India,State Bank of India
-2024-01-03,400056.43,Corporate Loans,North India,State Bank of India
-2023-10-24,338691.99,Investment Banking,North India,State Bank of India
-2023-01-06,548650.54,Fixed Deposits,Central India,State Bank of India
-2024-02-15,455880.85,Corporate Loans,South India,State Bank of India
-2023-08-07,159640.19,Investment Banking,Central India,State Bank of India
-2023-08-24,503824.72,Fixed Deposits,South India,State Bank of India
-2024-04-30,428242.33,Savings Accounts,South India,State Bank of India
-2023-06-11,86364.76,Corporate Loans,East India,State Bank of India
-2024-09-30,235411.99,Fixed Deposits,South India,State Bank of India
-2024-02-14,544866.03,Fixed Deposits,South India,State Bank of India
-2023-06-01,203453.00,Fixed Deposits,East India,State Bank of India
-2024-07-21,233396.70,Fixed Deposits,North India,State Bank of India
-2023-09-23,81155.31,Investment Banking,Central India,State Bank of India
-2023-10-07,211475.00,Savings Accounts,West India,State Bank of India
-2024-08-14,228215.93,Corporate Loans,West India,State Bank of India
-2023-06-24,342962.50,Fixed Deposits,South India,State Bank of India
-2023-05-30,342379.13,Savings Accounts,Central India,State Bank of India
-2023-10-18,533582.70,Investment Banking,North India,State Bank of India
-2023-01-16,507593.62,Fixed Deposits,West India,State Bank of India
-2024-01-06,265238.11,Investment Banking,Central India,State Bank of India
-2024-07-05,327481.29,Fixed Deposits,Central India,State Bank of India
-2023-09-24,111842.13,Fixed Deposits,Central India,State Bank of India
-2023-05-03,218866.97,Savings Accounts,Central India,State Bank of India
-2023-11-01,502552.17,Fixed Deposits,South India,State Bank of India
-2023-03-24,497465.40,Savings Accounts,South India,State Bank of India
-2024-09-29,109739.15,Savings Accounts,West India,State Bank of India
-2023-08-10,184257.36,Savings Accounts,West India,State Bank of India
-2024-08-24,240219.23,Investment Banking,Central India,State Bank of India
-2024-12-01,148734.15,Fixed Deposits,West India,State Bank of India
-2024-06-21,487074.22,Savings Accounts,North India,State Bank of India
-2023-04-02,312998.73,Fixed Deposits,East India,State Bank of India
-2023-10-13,478332.49,Investment Banking,South India,State Bank of India
-2023-09-21,165567.59,Fixed Deposits,East India,State Bank of India
-2024-01-27,58736.49,Fixed Deposits,Central India,State Bank of India
-2023-05-04,477396.30,Fixed Deposits,West India,State Bank of India
-2024-04-04,159122.24,Corporate Loans,North India,State Bank of India
-2024-11-16,326709.22,Fixed Deposits,North India,State Bank of India
-2024-10-20,519689.37,Fixed Deposits,East India,State Bank of India
-2023-12-17,498763.85,Corporate Loans,West India,State Bank of India
-2024-08-23,460788.81,Investment Banking,East India,State Bank of India
-2023-10-15,437041.08,Corporate Loans,West India,State Bank of India
-2023-10-16,509608.33,Savings Accounts,West India,State Bank of India
-2023-05-18,100430.09,Corporate Loans,East India,State Bank of India
-2024-07-07,504925.99,Corporate Loans,Central India,State Bank of India
-2023-09-12,255591.32,Savings Accounts,Central India,State Bank of India
-2023-07-12,450454.55,Investment Banking,Central India,State Bank of India
-2023-08-20,278215.39,Investment Banking,North India,State Bank of India
-2023-11-04,521251.17,Corporate Loans,West India,State Bank of India
-2023-02-02,472167.98,Fixed Deposits,Central India,State Bank of India
-2024-12-21,212124.48,Fixed Deposits,South India,State Bank of India
-2024-11-17,162763.46,Corporate Loans,West India,State Bank of India
-2024-10-09,484544.96,Fixed Deposits,South India,State Bank of India
-2023-04-12,102775.35,Fixed Deposits,South India,State Bank of India
-2023-04-11,280433.25,Investment Banking,West India,State Bank of India
-2024-01-03,299001.40,Savings Accounts,Central India,State Bank of India
-2023-06-07,277314.45,Corporate Loans,East India,State Bank of India
-2024-07-05,323042.01,Corporate Loans,South India,State Bank of India
-2024-07-10,418930.11,Corporate Loans,East India,State Bank of India
-2023-05-11,284040.01,Savings Accounts,South India,State Bank of India
-2023-07-21,221850.34,Investment Banking,East India,State Bank of India
-2023-02-06,306357.67,Fixed Deposits,Central India,State Bank of India
-2024-03-21,397339.87,Fixed Deposits,North India,State Bank of India
-2024-11-07,114847.99,Savings Accounts,North India,State Bank of India
-2023-04-07,448202.53,Investment Banking,East India,State Bank of India
-2023-08-06,177575.96,Corporate Loans,South India,State Bank of India
-2024-03-14,120567.90,Fixed Deposits,South India,State Bank of India
-2024-12-27,487186.37,Savings Accounts,North India,State Bank of India
-2024-03-23,250097.55,Savings Accounts,Central India,State Bank of India
-2023-01-06,271278.29,Fixed Deposits,North India,State Bank of India
-2024-06-04,377729.47,Investment Banking,South India,State Bank of India
-2023-01-22,292348.63,Savings Accounts,East India,State Bank of India
-2024-05-02,166072.71,Investment Banking,West India,State Bank of India
-2023-07-19,430961.55,Investment Banking,West India,State Bank of India
-2023-12-13,436092.55,Fixed Deposits,East India,State Bank of India
-2024-03-30,293659.94,Fixed Deposits,Central India,State Bank of India
-2024-02-13,361144.40,Investment Banking,South India,State Bank of India
-2024-02-26,186630.53,Fixed Deposits,North India,State Bank of India
-2024-07-30,395939.66,Savings Accounts,East India,State Bank of India
-2023-07-28,79046.17,Corporate Loans,South India,State Bank of India
-2023-04-10,285802.08,Corporate Loans,West India,State Bank of India
-2023-07-07,338579.25,Fixed Deposits,West India,State Bank of India
-2024-09-06,313721.88,Savings Accounts,Central India,State Bank of India
-2024-09-11,139683.24,Fixed Deposits,South India,State Bank of India
-2024-05-09,278633.10,Corporate Loans,South India,State Bank of India
-2024-01-01,284385.77,Fixed Deposits,South India,State Bank of India
-2024-05-11,455418.35,Corporate Loans,East India,State Bank of India
-2024-04-10,519363.58,Savings Accounts,West India,State Bank of India
-2023-10-03,315976.99,Fixed Deposits,North India,State Bank of India
-2024-07-03,547822.35,Investment Banking,Central India,State Bank of India
-2024-07-15,350806.68,Investment Banking,West India,State Bank of India
-2023-05-23,505417.58,Fixed Deposits,Central India,State Bank of India
-2023-03-10,197697.13,Corporate Loans,Central India,State Bank of India
-2024-12-18,158184.10,Savings Accounts,North India,State Bank of India
-2024-07-14,463833.84,Corporate Loans,East India,State Bank of India
-2024-07-17,174705.23,Investment Banking,Central India,State Bank of India
-2024-02-17,123108.04,Investment Banking,East India,State Bank of India
-2024-09-17,493469.98,Investment Banking,Central India,State Bank of India
-2024-03-25,133609.42,Fixed Deposits,Central India,State Bank of India
-2023-10-16,287337.35,Fixed Deposits,South India,State Bank of India
-2024-04-11,242997.57,Corporate Loans,East India,State Bank of India
-2024-08-17,230278.12,Fixed Deposits,Central India,State Bank of India
-2023-07-31,300698.28,Savings Accounts,South India,State Bank of India
-2024-11-12,251472.52,Corporate Loans,West India,State Bank of India
-2023-06-18,481408.72,Investment Banking,Central India,State Bank of India
-2024-12-16,358537.28,Savings Accounts,West India,State Bank of India
-2024-08-08,152214.18,Savings Accounts,Central India,State Bank of India
-2023-02-11,314548.03,Savings Accounts,East India,State Bank of India
-2024-05-25,256196.53,Investment Banking,North India,State Bank of India
-2024-03-31,223838.31,Fixed Deposits,North India,State Bank of India
-2024-01-31,171121.74,Investment Banking,North India,State Bank of India
-2024-07-23,526308.35,Investment Banking,Central India,State Bank of India
-2024-12-26,222290.46,Corporate Loans,West India,State Bank of India
-2024-08-28,511717.37,Corporate Loans,North India,State Bank of India
-2024-03-20,468664.53,Fixed Deposits,Central India,State Bank of India
-2024-08-07,545013.28,Fixed Deposits,South India,State Bank of India
-2023-08-07,406043.98,Investment Banking,South India,State Bank of India
-2024-07-30,105653.13,Corporate Loans,West India,State Bank of India
-2024-02-24,469554.76,Corporate Loans,Central India,State Bank of India
-2023-06-17,506498.33,Investment Banking,South India,State Bank of India
-2024-07-13,495240.88,Savings Accounts,Central India,State Bank of India
-2024-04-18,456382.06,Fixed Deposits,North India,State Bank of India
-2024-07-27,379850.51,Fixed Deposits,North India,State Bank of India
-2023-03-06,70512.71,Fixed Deposits,Central India,State Bank of India
-2023-04-11,137886.51,Corporate Loans,West India,State Bank of India
-2024-10-29,546067.03,Corporate Loans,West India,State Bank of India
-2023-07-05,182286.57,Fixed Deposits,Central India,State Bank of India
-2024-07-06,227003.59,Investment Banking,Central India,State Bank of India
-2023-12-23,258610.00,Fixed Deposits,East India,State Bank of India
-2023-01-20,57841.14,Fixed Deposits,East India,State Bank of India
-2024-02-17,99114.35,Savings Accounts,West India,State Bank of India
-2023-03-31,465311.82,Fixed Deposits,Central India,State Bank of India
-2024-01-17,313591.05,Fixed Deposits,Central India,State Bank of India
-2024-09-01,195708.82,Investment Banking,West India,State Bank of India
-2023-01-10,186266.94,Fixed Deposits,South India,State Bank of India
-2024-01-25,477305.72,Corporate Loans,West India,State Bank of India
-2024-06-26,529349.31,Corporate Loans,Central India,State Bank of India
-2024-04-05,283212.24,Fixed Deposits,South India,State Bank of India
-2024-07-09,526307.05,Investment Banking,North India,State Bank of India
-2023-01-07,181131.90,Investment Banking,North India,State Bank of India
-2023-03-27,533981.36,Savings Accounts,West India,State Bank of India
-2023-02-12,60675.46,Fixed Deposits,North India,State Bank of India
-2023-07-05,120537.98,Investment Banking,Central India,State Bank of India
-2024-06-07,505053.66,Savings Accounts,South India,State Bank of India
-2023-11-28,244564.78,Savings Accounts,Central India,State Bank of India
-2023-10-21,53875.11,Fixed Deposits,West India,State Bank of India
-2023-12-31,155326.81,Corporate Loans,South India,State Bank of India
-2023-10-05,353521.56,Savings Accounts,West India,State Bank of India
-2024-12-09,519915.97,Savings Accounts,North India,State Bank of India
-2023-12-22,155405.23,Fixed Deposits,East India,State Bank of India
-2024-09-07,296054.42,Savings Accounts,North India,State Bank of India
-2024-02-05,521607.95,Corporate Loans,Central India,State Bank of India
-2023-12-13,361188.59,Savings Accounts,South India,State Bank of India
-2024-06-24,363769.42,Corporate Loans,South India,State Bank of India
-2023-03-17,162768.97,Investment Banking,West India,State Bank of India
-2024-03-07,124948.13,Savings Accounts,East India,State Bank of India
-2024-11-25,171585.44,Corporate Loans,Central India,State Bank of India
-2024-10-07,318209.80,Investment Banking,East India,State Bank of India
-2023-03-14,390192.52,Investment Banking,Central India,State Bank of India
-2024-05-01,536971.36,Fixed Deposits,West India,State Bank of India
-2024-01-20,102876.84,Savings Accounts,North India,State Bank of India
-2023-01-12,106518.57,Corporate Loans,East India,State Bank of India
-2023-03-01,486786.55,Savings Accounts,East India,State Bank of India
-2023-06-30,252757.58,Savings Accounts,South India,State Bank of India
-2024-11-26,419229.38,Investment Banking,East India,State Bank of India
-2024-06-05,389221.74,Fixed Deposits,Central India,State Bank of India
-2023-11-02,509356.46,Corporate Loans,West India,State Bank of India
-2023-12-21,440495.78,Fixed Deposits,West India,State Bank of India
-2023-07-16,198043.26,Savings Accounts,Central India,State Bank of India
-2024-03-27,190616.79,Savings Accounts,North India,State Bank of India
-2023-09-22,395246.07,Fixed Deposits,North India,State Bank of India
-2023-04-07,422874.35,Investment Banking,North India,State Bank of India
-2024-02-27,194075.68,Investment Banking,West India,State Bank of India
-2023-01-17,531128.06,Investment Banking,West India,State Bank of India
-2023-04-20,362804.43,Savings Accounts,South India,State Bank of India
-2023-02-21,86336.98,Savings Accounts,Central India,State Bank of India
-2023-11-02,130222.58,Savings Accounts,West India,State Bank of India
-2024-11-02,464625.92,Savings Accounts,North India,State Bank of India
-2024-09-09,307696.47,Fixed Deposits,East India,State Bank of India
-2023-01-20,523181.93,Savings Accounts,North India,State Bank of India
-2023-02-16,119104.08,Fixed Deposits,North India,State Bank of India
-2023-08-22,138392.52,Corporate Loans,North India,State Bank of India
-2024-02-02,295503.42,Fixed Deposits,East India,State Bank of India
-2024-04-14,232527.15,Savings Accounts,East India,State Bank of India
-2024-05-21,120560.28,Corporate Loans,North India,State Bank of India
-2023-04-09,58616.99,Fixed Deposits,North India,State Bank of India
-2024-12-11,300412.49,Investment Banking,North India,State Bank of India
-2024-06-30,370174.47,Savings Accounts,Central India,State Bank of India
-2024-07-06,280039.91,Fixed Deposits,West India,State Bank of India
-2023-10-05,366434.53,Corporate Loans,Central India,State Bank of India
-2024-10-26,80392.55,Fixed Deposits,West India,State Bank of India
-2024-04-07,308152.96,Savings Accounts,Central India,State Bank of India
-2023-12-14,417766.81,Corporate Loans,East India,State Bank of India
-2023-03-12,451511.23,Investment Banking,East India,State Bank of India
-2023-03-21,192216.14,Savings Accounts,East India,State Bank of India
-2023-10-09,446293.05,Savings Accounts,East India,State Bank of India
-2023-04-20,158071.01,Fixed Deposits,Central India,State Bank of India
-2023-02-27,300956.56,Fixed Deposits,North India,State Bank of India
-2024-10-14,248074.92,Savings Accounts,East India,State Bank of India
-2023-01-04,82882.65,Fixed Deposits,Central India,State Bank of India
-2023-05-30,337404.91,Investment Banking,North India,State Bank of India
-2023-02-11,246961.54,Corporate Loans,Central India,State Bank of India
-2023-02-01,305616.39,Fixed Deposits,Central India,State Bank of India
-2024-02-06,340880.38,Corporate Loans,West India,State Bank of India
-2023-02-25,121688.75,Savings Accounts,East India,State Bank of India
-2024-08-18,469993.14,Corporate Loans,Central India,State Bank of India
-2024-08-10,237251.58,Investment Banking,Central India,State Bank of India
-2024-05-31,264701.54,Investment Banking,East India,State Bank of India
-2024-09-15,445224.47,Investment Banking,South India,State Bank of India
-2024-09-30,427174.59,Corporate Loans,North India,State Bank of India
-2023-04-12,198283.98,Investment Banking,West India,State Bank of India
-2023-10-13,325515.45,Savings Accounts,Central India,State Bank of India
-2023-04-06,128969.77,Corporate Loans,West India,State Bank of India
-2023-07-07,348647.65,Fixed Deposits,Central India,State Bank of India
-2024-06-22,458092.60,Investment Banking,South India,State Bank of India
-2024-09-23,90622.03,Investment Banking,West India,State Bank of India
-2024-06-30,357015.95,Investment Banking,East India,State Bank of India
-2023-07-06,368458.59,Savings Accounts,West India,State Bank of India
-2024-07-25,356367.39,Fixed Deposits,West India,State Bank of India
-2024-01-20,398645.19,Investment Banking,East India,State Bank of India
-2023-10-22,141089.30,Savings Accounts,South India,State Bank of India
-2023-04-17,481049.57,Corporate Loans,West India,State Bank of India
-2024-12-16,126323.21,Fixed Deposits,West India,State Bank of India
-2024-02-21,174177.53,Savings Accounts,North India,State Bank of India
-2023-05-28,247157.70,Corporate Loans,West India,State Bank of India
-2023-08-23,292800.11,Corporate Loans,West India,State Bank of India
-2023-09-19,220730.46,Corporate Loans,South India,State Bank of India
-2023-01-16,522897.22,Savings Accounts,East India,State Bank of India
-2023-09-01,466381.36,Corporate Loans,South India,State Bank of India
-2023-10-29,130824.05,Fixed Deposits,North India,State Bank of India
-2023-10-25,53619.39,Investment Banking,East India,State Bank of India
-2023-02-16,241507.33,Investment Banking,Central India,State Bank of India
-2023-04-05,62110.94,Fixed Deposits,Central India,State Bank of India
-2023-10-29,187462.42,Savings Accounts,North India,State Bank of India
-2024-12-16,417427.13,Savings Accounts,North India,State Bank of India
-2023-01-12,485746.13,Savings Accounts,South India,State Bank of India
-2024-01-20,301255.70,Corporate Loans,South India,State Bank of India
-2024-08-03,243627.10,Fixed Deposits,West India,State Bank of India
-2023-11-09,98137.59,Savings Accounts,North India,State Bank of India
-2024-06-23,131956.30,Corporate Loans,East India,State Bank of India
-2023-12-06,539324.69,Corporate Loans,East India,State Bank of India
-2023-04-12,311688.72,Corporate Loans,South India,State Bank of India
-2024-03-09,241957.33,Corporate Loans,Central India,State Bank of India
-2023-05-08,91294.50,Fixed Deposits,North India,State Bank of India
-2023-08-12,521793.21,Savings Accounts,North India,State Bank of India
-2024-08-30,341247.99,Savings Accounts,North India,State Bank of India
-2024-01-02,255992.40,Savings Accounts,South India,State Bank of India
-2024-02-03,96670.25,Corporate Loans,South India,State Bank of India
-2024-12-03,87969.22,Savings Accounts,Central India,State Bank of India
-2023-03-07,121357.13,Investment Banking,West India,State Bank of India
-2024-11-07,251032.30,Savings Accounts,Central India,State Bank of India
-2023-10-11,398187.16,Corporate Loans,West India,State Bank of India
-2024-05-27,338069.70,Fixed Deposits,Central India,State Bank of India
-2024-09-15,182968.93,Investment Banking,North India,State Bank of India
-2023-10-31,249180.70,Savings Accounts,Central India,State Bank of India
-2023-03-13,458078.98,Savings Accounts,Central India,State Bank of India
-2023-02-15,294263.33,Fixed Deposits,South India,State Bank of India
-2024-12-20,533061.57,Fixed Deposits,West India,State Bank of India
-2023-04-02,420545.40,Savings Accounts,North India,State Bank of India
-2024-06-21,330316.07,Savings Accounts,Central India,State Bank of India
-2023-06-08,303758.40,Fixed Deposits,North India,State Bank of India
-2023-06-21,503716.15,Investment Banking,West India,State Bank of India
-2024-04-19,367425.23,Savings Accounts,Central India,State Bank of India
-2024-07-08,356987.91,Corporate Loans,Central India,State Bank of India
-2024-09-19,335227.63,Savings Accounts,North India,State Bank of India
-2023-12-05,272793.53,Investment Banking,East India,State Bank of India
-2023-10-16,468733.67,Savings Accounts,Central India,State Bank of India
-2023-10-07,337227.58,Savings Accounts,East India,State Bank of India
-2023-08-11,536707.80,Fixed Deposits,West India,State Bank of India
-2024-02-29,202158.64,Corporate Loans,West India,State Bank of India
-2024-07-20,247228.00,Fixed Deposits,South India,State Bank of India
-2023-06-17,294318.19,Corporate Loans,North India,State Bank of India
-2023-10-11,529597.61,Corporate Loans,North India,State Bank of India
-2023-07-06,147161.37,Savings Accounts,East India,State Bank of India
-2024-01-30,107383.18,Savings Accounts,South India,State Bank of India
-2023-11-09,203353.71,Investment Banking,West India,State Bank of India
-2023-06-28,532767.07,Corporate Loans,North India,State Bank of India
-2023-04-25,192524.98,Investment Banking,West India,State Bank of India
-2023-11-14,310504.68,Corporate Loans,East India,State Bank of India
-2024-08-03,421221.31,Investment Banking,West India,State Bank of India
-2023-09-09,55302.82,Fixed Deposits,North India,State Bank of India
-2023-11-01,138613.71,Corporate Loans,North India,State Bank of India
-2023-05-20,549837.75,Corporate Loans,South India,State Bank of India
-2024-11-22,212838.10,Fixed Deposits,Central India,State Bank of India
-2024-04-04,111343.93,Fixed Deposits,West India,State Bank of India
-2023-07-06,157760.78,Savings Accounts,East India,State Bank of India
-2023-06-14,119294.79,Savings Accounts,West India,State Bank of India
-2024-11-08,146396.51,Investment Banking,Central India,State Bank of India
-2024-08-03,380660.74,Investment Banking,Central India,State Bank of India
-2024-11-18,500729.36,Savings Accounts,East India,State Bank of India
-2023-02-16,534838.09,Corporate Loans,East India,State Bank of India
-2024-04-03,112670.41,Investment Banking,North India,State Bank of India
-2023-10-01,280187.36,Corporate Loans,South India,State Bank of India
-2024-05-12,388138.95,Savings Accounts,Central India,State Bank of India
-2023-12-09,242872.69,Investment Banking,Central India,State Bank of India
-2023-11-28,230037.97,Savings Accounts,West India,State Bank of India
-2023-07-30,175744.56,Corporate Loans,Central India,State Bank of India
-2024-01-13,256410.00,Savings Accounts,East India,State Bank of India
-2023-12-25,517044.06,Investment Banking,West India,State Bank of India
-2024-02-22,459921.34,Corporate Loans,West India,State Bank of India
-2023-01-10,405249.85,Investment Banking,South India,State Bank of India
-2023-10-05,185001.61,Investment Banking,South India,State Bank of India
-2024-10-21,179661.34,Savings Accounts,East India,State Bank of India
-2024-01-07,368958.56,Fixed Deposits,West India,State Bank of India
-2024-05-07,251466.41,Corporate Loans,West India,State Bank of India
-2023-10-14,176331.61,Investment Banking,Central India,State Bank of India
-2024-04-22,332683.96,Corporate Loans,East India,State Bank of India
-2024-03-25,181213.83,Fixed Deposits,Central India,State Bank of India
-2024-04-23,138423.10,Investment Banking,West India,State Bank of India
-2023-06-11,532687.08,Corporate Loans,North India,State Bank of India
-2023-12-18,484673.17,Fixed Deposits,Central India,State Bank of India
-2023-10-27,205697.11,Savings Accounts,East India,State Bank of India
-2023-08-31,352805.74,Fixed Deposits,Central India,State Bank of India
-2023-11-19,118418.48,Savings Accounts,North India,State Bank of India
-2024-05-15,428759.28,Savings Accounts,East India,State Bank of India
-2023-03-03,230728.90,Fixed Deposits,South India,State Bank of India
-2024-03-01,491370.08,Savings Accounts,North India,State Bank of India
-2023-11-07,300583.41,Savings Accounts,West India,State Bank of India
-2023-06-09,91525.67,Savings Accounts,Central India,State Bank of India
-2024-12-02,365754.15,Investment Banking,South India,State Bank of India
-2023-11-11,538854.22,Fixed Deposits,Central India,State Bank of India
-2024-12-20,233336.15,Savings Accounts,West India,State Bank of India
-2023-01-28,294522.32,Corporate Loans,North India,State Bank of India
-2023-03-19,175429.90,Savings Accounts,East India,State Bank of India
-2024-03-19,192438.43,Investment Banking,Central India,State Bank of India
-2023-07-20,81985.67,Fixed Deposits,North India,State Bank of India
-2024-12-03,121250.97,Fixed Deposits,South India,State Bank of India
-2024-08-02,64457.38,Investment Banking,Central India,State Bank of India
-2023-08-17,363948.99,Savings Accounts,South India,State Bank of India
-2023-11-05,511308.47,Investment Banking,Central India,State Bank of India
-2023-05-23,216910.50,Fixed Deposits,North India,State Bank of India
-2023-02-19,123287.56,Fixed Deposits,North India,State Bank of India
-2024-03-16,329085.40,Investment Banking,North India,State Bank of India
-2023-12-04,422402.24,Corporate Loans,Central India,State Bank of India
-2023-08-18,545085.50,Investment Banking,East India,State Bank of India
-2024-09-05,479585.72,Corporate Loans,North India,State Bank of India
-2024-09-18,263332.93,Investment Banking,West India,State Bank of India
-2023-12-11,198205.31,Corporate Loans,South India,State Bank of India
-2023-01-16,301096.60,Corporate Loans,West India,State Bank of India
-2023-06-03,354940.43,Investment Banking,South India,State Bank of India
-2024-07-22,63501.97,Investment Banking,South India,State Bank of India
-2023-11-09,445485.04,Savings Accounts,Central India,State Bank of India
-2024-05-16,288026.45,Investment Banking,North India,State Bank of India
-2023-10-23,111838.00,Savings Accounts,North India,State Bank of India
-2024-09-12,175627.56,Corporate Loans,Central India,State Bank of India
-2024-03-30,274400.41,Investment Banking,East India,State Bank of India
-2023-02-05,161723.64,Fixed Deposits,South India,State Bank of India
-2023-09-26,144380.98,Fixed Deposits,East India,State Bank of India
-2023-07-09,436333.94,Fixed Deposits,South India,State Bank of India
-2024-03-17,87832.48,Fixed Deposits,North India,State Bank of India
-2024-02-07,402691.40,Investment Banking,North India,State Bank of India
-2023-02-05,549149.50,Savings Accounts,Central India,State Bank of India
-2023-11-11,259155.14,Savings Accounts,East India,State Bank of India
-2023-02-28,362917.24,Investment Banking,South India,State Bank of India
-2023-10-26,482120.26,Corporate Loans,North India,State Bank of India
-2024-09-29,511259.02,Investment Banking,West India,State Bank of India
-2023-02-16,231108.29,Fixed Deposits,South India,State Bank of India
-2023-04-27,510193.43,Savings Accounts,East India,State Bank of India
-2023-02-20,50026.79,Fixed Deposits,East India,State Bank of India
-2023-05-28,186314.15,Corporate Loans,East India,State Bank of India
-2024-02-15,317760.00,Investment Banking,East India,State Bank of India
-2023-12-23,111505.56,Fixed Deposits,East India,State Bank of India
-2024-03-03,331527.25,Corporate Loans,East India,State Bank of India
-2024-12-16,283226.06,Corporate Loans,Central India,State Bank of India
-2023-10-03,114042.60,Investment Banking,West India,State Bank of India
-2023-11-06,134171.23,Fixed Deposits,West India,State Bank of India
-2023-09-28,543393.03,Investment Banking,West India,State Bank of India
-2024-05-18,436156.84,Corporate Loans,Central India,State Bank of India
-2024-11-01,464871.57,Savings Accounts,East India,State Bank of India
-2023-05-15,153710.97,Fixed Deposits,East India,State Bank of India
-2024-03-11,498136.63,Savings Accounts,East India,State Bank of India
-2023-12-13,230995.44,Savings Accounts,South India,State Bank of India
-2023-03-06,393694.68,Savings Accounts,North India,State Bank of India
-2023-09-09,469628.17,Savings Accounts,North India,State Bank of India
-2023-01-10,461748.10,Corporate Loans,South India,State Bank of India
-2023-12-16,406065.96,Fixed Deposits,West India,State Bank of India
-2024-04-23,106228.82,Fixed Deposits,South India,State Bank of India
-2023-03-16,186090.95,Corporate Loans,North India,State Bank of India
-2023-04-02,227307.27,Investment Banking,Central India,State Bank of India
-2024-09-15,286456.47,Fixed Deposits,South India,State Bank of India
-2023-05-16,505526.57,Corporate Loans,Central India,State Bank of India
-2023-01-10,381355.96,Fixed Deposits,Central India,State Bank of India
-2024-09-12,439731.53,Fixed Deposits,East India,State Bank of India
-2023-12-28,158932.12,Investment Banking,North India,State Bank of India
-2023-03-29,307150.10,Corporate Loans,Central India,State Bank of India
-2023-06-06,474860.49,Investment Banking,South India,State Bank of India
-2024-02-11,518292.43,Corporate Loans,Central India,State Bank of India
-2024-10-14,192411.08,Corporate Loans,East India,State Bank of India
-2023-05-16,239908.76,Fixed Deposits,Central India,State Bank of India
-2024-07-22,265738.13,Investment Banking,East India,State Bank of India
-2023-12-20,294498.23,Corporate Loans,West India,State Bank of India
-2023-03-05,277001.24,Corporate Loans,North India,State Bank of India
-2024-01-08,235096.38,Corporate Loans,East India,State Bank of India
-2024-09-04,260259.96,Savings Accounts,Central India,State Bank of India
-2024-08-24,223525.18,Savings Accounts,North India,State Bank of India
-2023-09-21,325657.29,Investment Banking,East India,State Bank of India
-2023-10-29,281124.49,Savings Accounts,South India,State Bank of India
-2023-02-14,225557.28,Fixed Deposits,North India,State Bank of India
-2024-06-12,530777.03,Investment Banking,East India,State Bank of India
-2024-08-31,469246.59,Investment Banking,West India,State Bank of India
-2024-03-12,515107.19,Savings Accounts,West India,State Bank of India
-2024-09-05,178973.27,Investment Banking,East India,State Bank of India
-2023-05-05,93585.52,Fixed Deposits,North India,State Bank of India
-2023-01-22,82103.01,Savings Accounts,North India,State Bank of India
-2024-07-12,272287.75,Investment Banking,North India,State Bank of India
-2024-01-05,196310.62,Fixed Deposits,East India,State Bank of India
-2023-09-03,339902.94,Corporate Loans,South India,State Bank of India
-2024-03-15,179148.66,Fixed Deposits,South India,State Bank of India
-2024-01-17,541043.16,Fixed Deposits,West India,State Bank of India
-2023-09-04,217709.63,Fixed Deposits,North India,State Bank of India
-2024-04-19,356292.07,Fixed Deposits,East India,State Bank of India
-2024-08-10,217984.84,Investment Banking,North India,State Bank of India
-2023-02-10,287855.58,Corporate Loans,Central India,State Bank of India
-2024-05-22,381638.03,Investment Banking,North India,State Bank of India
-2024-05-15,141247.48,Fixed Deposits,East India,State Bank of India
-2024-12-28,495782.63,Investment Banking,South India,State Bank of India
-2023-06-17,525298.94,Fixed Deposits,Central India,State Bank of India
-2024-08-04,507872.26,Savings Accounts,East India,State Bank of India
-2024-02-19,122875.07,Fixed Deposits,South India,State Bank of India
-2023-08-17,227738.92,Fixed Deposits,West India,State Bank of India
-2024-03-14,262812.32,Investment Banking,North India,State Bank of India
-2023-03-14,389230.16,Investment Banking,Central India,State Bank of India
-2023-12-13,478123.25,Savings Accounts,West India,State Bank of India
-2023-10-02,321511.16,Savings Accounts,Central India,State Bank of India
-2024-08-12,358713.05,Savings Accounts,South India,State Bank of India
-2024-11-05,488672.68,Investment Banking,Central India,State Bank of India
-2023-02-12,339336.59,Savings Accounts,Central India,State Bank of India
-2023-08-20,497891.79,Corporate Loans,North India,State Bank of India
-2024-07-03,525758.33,Savings Accounts,Central India,State Bank of India
-2023-06-19,507189.63,Corporate Loans,West India,State Bank of India
-2023-06-19,351453.76,Investment Banking,Central India,State Bank of India
-2024-12-16,471183.40,Investment Banking,South India,State Bank of India
-2024-05-21,281244.42,Investment Banking,North India,State Bank of India
-2023-10-16,244767.42,Fixed Deposits,North India,State Bank of India
-2023-05-31,128091.76,Savings Accounts,West India,State Bank of India
-2023-04-15,383006.21,Fixed Deposits,West India,State Bank of India
-2024-04-18,490729.68,Fixed Deposits,South India,State Bank of India
-2023-02-18,339259.54,Investment Banking,South India,State Bank of India
-2023-06-08,263272.10,Fixed Deposits,West India,State Bank of India
-2024-11-25,515834.07,Investment Banking,Central India,State Bank of India
-2024-03-07,141983.16,Investment Banking,Central India,State Bank of India
-2023-05-08,447045.33,Corporate Loans,South India,State Bank of India
-2023-07-03,458204.66,Investment Banking,South India,State Bank of India
-2023-07-03,418179.73,Fixed Deposits,West India,State Bank of India
-2023-09-21,478063.71,Fixed Deposits,East India,State Bank of India
-2023-10-09,309658.36,Corporate Loans,North India,State Bank of India
-2024-08-26,160395.99,Savings Accounts,South India,State Bank of India
-2024-06-29,62278.97,Fixed Deposits,North India,State Bank of India
-2023-06-28,105929.67,Corporate Loans,East India,State Bank of India
-2023-06-12,320796.41,Investment Banking,West India,State Bank of India
-2024-01-17,72499.69,Corporate Loans,North India,State Bank of India
-2023-05-15,540560.65,Investment Banking,West India,State Bank of India
-2024-05-10,332577.97,Investment Banking,South India,State Bank of India
-2023-07-27,91322.31,Investment Banking,South India,State Bank of India
-2023-05-18,265395.58,Savings Accounts,East India,State Bank of India
-2023-07-30,104198.20,Corporate Loans,Central India,State Bank of India
-2023-10-03,461205.19,Corporate Loans,Central India,State Bank of India
-2024-02-23,266478.54,Fixed Deposits,South India,State Bank of India
-2024-08-01,208420.03,Fixed Deposits,West India,State Bank of India
-2023-11-18,252334.21,Fixed Deposits,South India,State Bank of India
-2023-08-20,473746.69,Savings Accounts,Central India,State Bank of India
-2024-08-27,378674.83,Investment Banking,South India,State Bank of India
-2024-08-12,140146.16,Investment Banking,North India,State Bank of India
-2023-04-12,494215.65,Corporate Loans,North India,State Bank of India
-2023-01-21,256145.20,Investment Banking,North India,State Bank of India
-2024-12-28,373962.89,Savings Accounts,West India,State Bank of India
-2024-09-13,338197.52,Corporate Loans,East India,State Bank of India
-2023-05-28,273097.97,Fixed Deposits,North India,State Bank of India
-2024-08-23,248244.32,Investment Banking,West India,State Bank of India
-2024-10-24,226801.69,Investment Banking,Central India,State Bank of India
-2023-12-11,442036.16,Investment Banking,Central India,State Bank of India
-2024-03-09,184265.38,Investment Banking,West India,State Bank of India
-2024-05-24,527055.73,Investment Banking,West India,State Bank of India
-2023-01-12,219256.96,Savings Accounts,West India,State Bank of India
-2023-07-08,384397.21,Investment Banking,Central India,State Bank of India
-2023-01-20,415554.53,Investment Banking,North India,State Bank of India
-2023-02-03,327253.42,Savings Accounts,East India,State Bank of India
-2023-11-18,345193.11,Fixed Deposits,West India,State Bank of India
-2023-05-16,311192.14,Savings Accounts,West India,State Bank of India
-2024-05-31,246096.86,Corporate Loans,South India,State Bank of India
-2024-03-30,223324.14,Corporate Loans,West India,State Bank of India
-2023-06-19,252103.35,Fixed Deposits,West India,State Bank of India
-2024-01-02,335472.96,Savings Accounts,Central India,State Bank of India
-2024-07-12,492865.55,Investment Banking,West India,State Bank of India
-2023-08-15,427379.61,Fixed Deposits,East India,State Bank of India
-2023-02-26,106122.09,Investment Banking,West India,State Bank of India
-2024-09-02,492917.68,Savings Accounts,West India,State Bank of India
-2024-11-08,534223.11,Fixed Deposits,North India,State Bank of India
-2024-07-12,491372.76,Corporate Loans,South India,State Bank of India
-2023-03-09,314481.71,Fixed Deposits,Central India,State Bank of India
-2024-01-27,80267.03,Fixed Deposits,Central India,State Bank of India
-2023-12-04,498115.91,Corporate Loans,Central India,State Bank of India
-2023-09-25,266288.79,Fixed Deposits,Central India,State Bank of India
-2023-05-16,392202.45,Investment Banking,East India,State Bank of India
-2023-02-02,296187.21,Fixed Deposits,South India,State Bank of India
-2023-01-21,274133.27,Corporate Loans,Central India,State Bank of India
-2024-06-24,501070.58,Savings Accounts,North India,State Bank of India
-2023-09-24,247961.94,Corporate Loans,East India,State Bank of India
-2023-11-03,255727.96,Fixed Deposits,East India,State Bank of India
-2023-10-04,374489.13,Corporate Loans,West India,State Bank of India
-2023-09-15,333775.54,Savings Accounts,West India,State Bank of India
-2024-11-10,118602.76,Investment Banking,West India,State Bank of India
-2024-02-24,539372.61,Fixed Deposits,South India,State Bank of India
-2023-02-28,412823.71,Investment Banking,East India,State Bank of India
-2023-07-20,116990.79,Investment Banking,West India,State Bank of India
-2023-06-26,407969.18,Investment Banking,North India,State Bank of India
-2023-05-20,411486.71,Savings Accounts,Central India,State Bank of India
-2023-03-07,374230.81,Savings Accounts,West India,State Bank of India
-2024-06-07,474530.68,Savings Accounts,North India,State Bank of India
-2024-10-23,522963.51,Savings Accounts,South India,State Bank of India
-2024-04-07,455415.66,Investment Banking,East India,State Bank of India
-2023-01-02,193230.51,Corporate Loans,South India,State Bank of India
-2023-10-07,342892.79,Savings Accounts,North India,State Bank of India
-2023-04-24,179825.50,Savings Accounts,West India,State Bank of India
-2024-08-04,326141.46,Investment Banking,South India,State Bank of India
-2024-05-02,307600.99,Corporate Loans,East India,State Bank of India
-2023-12-28,549210.06,Corporate Loans,North India,State Bank of India
-2024-04-30,207098.23,Corporate Loans,South India,State Bank of India
-2023-02-14,394278.03,Savings Accounts,Central India,State Bank of India
-2024-01-05,226480.66,Corporate Loans,North India,State Bank of India
-2023-09-12,512255.94,Investment Banking,Central India,State Bank of India
-2023-02-23,398458.97,Corporate Loans,South India,State Bank of India
-2024-02-09,147513.37,Fixed Deposits,East India,State Bank of India
-2023-05-23,101416.77,Fixed Deposits,North India,State Bank of India
-2024-09-16,420415.77,Fixed Deposits,Central India,State Bank of India
-2023-04-17,242919.41,Investment Banking,East India,State Bank of India
-2023-01-13,143471.04,Investment Banking,West India,State Bank of India
-2024-11-29,510884.19,Savings Accounts,North India,State Bank of India
-2023-05-01,105687.68,Savings Accounts,North India,State Bank of India
-2023-02-05,452840.85,Fixed Deposits,South India,State Bank of India
-2024-01-26,254119.13,Fixed Deposits,West India,State Bank of India
-2023-01-19,349047.61,Investment Banking,North India,State Bank of India
-2024-05-18,220397.63,Investment Banking,West India,State Bank of India
-2023-07-13,217760.23,Savings Accounts,West India,State Bank of India
-2023-10-03,125556.10,Savings Accounts,East India,State Bank of India
-2023-11-08,106925.65,Investment Banking,Central India,State Bank of India
-2023-07-10,69584.75,Fixed Deposits,South India,State Bank of India
-2023-11-25,549710.91,Corporate Loans,East India,State Bank of India
-2023-05-21,460530.18,Corporate Loans,West India,State Bank of India
-2024-10-08,50224.55,Investment Banking,West India,State Bank of India
-2023-11-13,446485.29,Savings Accounts,North India,State Bank of India
-2024-07-21,446987.80,Savings Accounts,South India,State Bank of India
-2023-09-05,407638.00,Corporate Loans,East India,State Bank of India
-2024-05-22,354614.58,Investment Banking,Central India,State Bank of India
-2023-10-01,69341.99,Savings Accounts,West India,State Bank of India
-2024-01-02,248568.84,Investment Banking,East India,State Bank of India
-2024-05-26,73553.86,Fixed Deposits,West India,State Bank of India
-2023-11-14,395334.43,Fixed Deposits,South India,State Bank of India
-2024-08-29,206871.79,Fixed Deposits,South India,State Bank of India
-2023-02-27,119061.90,Savings Accounts,Central India,State Bank of India
-2024-08-22,63072.19,Fixed Deposits,West India,State Bank of India
-2023-03-09,270048.66,Corporate Loans,East India,State Bank of India
-2023-01-28,283252.52,Savings Accounts,West India,State Bank of India
-2024-02-04,490558.13,Corporate Loans,South India,State Bank of India
-2024-05-31,215084.47,Corporate Loans,North India,State Bank of India
-2023-09-07,247018.99,Savings Accounts,West India,State Bank of India
-2023-12-15,452977.18,Investment Banking,North India,State Bank of India
-2023-11-20,435484.44,Corporate Loans,Central India,State Bank of India
-2024-01-24,107504.93,Investment Banking,East India,State Bank of India
-2023-05-23,474893.17,Savings Accounts,Central India,State Bank of India
-2024-06-28,417460.01,Corporate Loans,South India,State Bank of India
-2024-04-08,530685.83,Savings Accounts,West India,State Bank of India
-2023-05-31,55808.00,Investment Banking,South India,State Bank of India
-2024-02-14,371601.40,Fixed Deposits,Central India,State Bank of India
-2024-04-18,455747.69,Investment Banking,West India,State Bank of India
-2023-05-07,123079.69,Savings Accounts,North India,State Bank of India
-2024-11-17,139889.05,Fixed Deposits,North India,State Bank of India
-2024-11-16,143840.59,Investment Banking,West India,State Bank of India
-2024-05-28,286461.22,Investment Banking,South India,State Bank of India
-2024-09-27,407409.62,Investment Banking,Central India,State Bank of India
-2023-09-11,307572.07,Fixed Deposits,North India,State Bank of India
-2023-09-07,420425.64,Corporate Loans,East India,State Bank of India
-2023-01-31,430562.59,Savings Accounts,North India,State Bank of India
-2024-03-15,104633.83,Corporate Loans,Central India,State Bank of India
-2023-09-29,326527.07,Corporate Loans,East India,State Bank of India
-2023-10-12,185441.52,Corporate Loans,Central India,State Bank of India
-2023-09-06,488648.24,Corporate Loans,West India,State Bank of India
-2024-10-06,100952.63,Fixed Deposits,Central India,State Bank of India
-2023-10-05,280327.06,Fixed Deposits,East India,State Bank of India
-2024-06-01,207442.06,Investment Banking,South India,State Bank of India
-2024-07-02,427262.49,Fixed Deposits,Central India,State Bank of India
-2024-06-27,246323.35,Savings Accounts,East India,State Bank of India
-2024-12-03,500596.01,Corporate Loans,West India,State Bank of India
-2024-12-17,528070.84,Investment Banking,West India,State Bank of India
-2024-05-31,508245.22,Corporate Loans,North India,State Bank of India
-2023-07-19,453466.09,Savings Accounts,West India,State Bank of India
-2023-11-06,462529.65,Savings Accounts,West India,State Bank of India
-2023-10-16,428801.76,Corporate Loans,North India,State Bank of India
-2023-06-12,258458.26,Fixed Deposits,South India,State Bank of India
-2023-01-25,229562.99,Savings Accounts,South India,State Bank of India
-2024-02-15,535798.97,Investment Banking,Central India,State Bank of India
-2024-09-12,274228.34,Fixed Deposits,West India,State Bank of India
-2023-11-12,426759.30,Fixed Deposits,West India,State Bank of India
-2024-02-03,354191.57,Savings Accounts,North India,State Bank of India
-2023-11-26,507299.10,Fixed Deposits,Central India,State Bank of India
-2024-11-23,279107.05,Fixed Deposits,West India,State Bank of India
-2024-12-03,98151.87,Savings Accounts,South India,State Bank of India
-2024-08-13,237433.71,Savings Accounts,East India,State Bank of India
-2024-07-04,346501.47,Investment Banking,West India,State Bank of India
-2024-10-31,407449.23,Investment Banking,West India,State Bank of India
-2023-05-04,500954.17,Savings Accounts,East India,State Bank of India
-2024-01-20,321091.20,Fixed Deposits,East India,State Bank of India
-2024-06-19,119423.07,Investment Banking,West India,State Bank of India
-2024-07-02,90604.83,Fixed Deposits,East India,State Bank of India
-2023-07-30,85777.74,Investment Banking,East India,State Bank of India
-2023-06-05,375984.83,Savings Accounts,West India,State Bank of India
-2024-07-12,176669.63,Fixed Deposits,West India,State Bank of India
-2023-01-19,476942.83,Investment Banking,West India,State Bank of India
-2024-09-23,320528.89,Fixed Deposits,North India,State Bank of India
-2023-11-03,265417.81,Investment Banking,North India,State Bank of India
-2024-08-01,454843.22,Investment Banking,East India,State Bank of India
-2023-05-28,469121.36,Savings Accounts,North India,State Bank of India
-2023-08-31,140085.42,Fixed Deposits,East India,State Bank of India
-2023-11-08,498510.64,Fixed Deposits,West India,State Bank of India
-2023-07-19,373008.02,Corporate Loans,East India,State Bank of India
-2023-03-22,279575.81,Investment Banking,West India,State Bank of India
-2024-11-23,375269.80,Corporate Loans,Central India,State Bank of India
-2024-12-16,451441.92,Corporate Loans,North India,State Bank of India
-2024-01-02,543925.41,Corporate Loans,West India,State Bank of India
-2024-08-02,406613.50,Corporate Loans,North India,State Bank of India
-2024-03-07,103706.44,Investment Banking,North India,State Bank of India
-2024-09-09,528731.58,Corporate Loans,South India,State Bank of India
-2023-09-13,217198.02,Savings Accounts,Central India,State Bank of India
-2023-09-21,55215.20,Fixed Deposits,Central India,State Bank of India
-2023-12-06,349560.32,Savings Accounts,East India,State Bank of India
-2023-04-06,158080.00,Savings Accounts,Central India,State Bank of India
-2024-09-10,62144.76,Corporate Loans,South India,State Bank of India
-2023-07-23,158022.82,Fixed Deposits,West India,State Bank of India
-2023-11-08,109476.84,Savings Accounts,East India,State Bank of India
-2023-03-24,458213.16,Corporate Loans,Central India,State Bank of India
-2023-06-09,511158.11,Investment Banking,West India,State Bank of India
-2024-10-09,73328.39,Investment Banking,West India,State Bank of India
-2024-12-17,182601.29,Investment Banking,Central India,State Bank of India
-2023-01-25,88354.10,Savings Accounts,South India,State Bank of India
-2024-12-25,439347.34,Corporate Loans,Central India,State Bank of India
-2024-11-09,160006.10,Savings Accounts,Central India,State Bank of India
-2023-12-08,185296.16,Corporate Loans,North India,State Bank of India
-2024-06-22,215564.41,Fixed Deposits,South India,State Bank of India
-2023-03-15,213285.33,Investment Banking,North India,State Bank of India
-2024-09-08,475925.61,Fixed Deposits,East India,State Bank of India
-2023-06-07,465459.36,Investment Banking,Central India,State Bank of India
-2024-11-23,57922.66,Investment Banking,East India,State Bank of India
-2024-06-22,226678.69,Corporate Loans,Central India,State Bank of India
-2024-01-18,342048.93,Fixed Deposits,South India,State Bank of India
-2024-07-22,299888.35,Investment Banking,West India,State Bank of India
-2024-01-16,514858.70,Corporate Loans,West India,State Bank of India
-2023-06-14,443248.75,Corporate Loans,South India,State Bank of India
-2023-07-31,397369.30,Fixed Deposits,North India,State Bank of India
-2023-02-28,101671.93,Fixed Deposits,North India,State Bank of India
-2023-07-24,337881.25,Fixed Deposits,West India,State Bank of India
-2024-04-08,326586.69,Savings Accounts,South India,State Bank of India
-2024-01-02,115370.60,Fixed Deposits,West India,State Bank of India
-2024-02-11,185758.42,Fixed Deposits,Central India,State Bank of India
-2023-12-21,384146.44,Fixed Deposits,South India,State Bank of India
-2024-09-12,466818.02,Fixed Deposits,West India,State Bank of India
-2024-04-05,537889.23,Fixed Deposits,East India,State Bank of India
-2024-02-05,63401.51,Investment Banking,North India,State Bank of India
-2024-01-18,88038.11,Investment Banking,West India,State Bank of India
-2023-04-26,427266.66,Savings Accounts,North India,State Bank of India
-2023-04-16,143310.42,Corporate Loans,West India,State Bank of India
-2024-10-18,497679.80,Savings Accounts,East India,State Bank of India
-2024-01-13,289096.37,Investment Banking,East India,State Bank of India
-2024-08-04,322810.29,Savings Accounts,North India,State Bank of India
-2024-01-08,447416.14,Savings Accounts,West India,State Bank of India
-2023-07-05,529284.71,Corporate Loans,West India,State Bank of India
-2024-11-04,112727.39,Savings Accounts,East India,State Bank of India
-2024-09-21,408231.48,Fixed Deposits,West India,State Bank of India
-2024-01-31,360396.18,Investment Banking,Central India,State Bank of India
-2024-09-01,428940.99,Fixed Deposits,South India,State Bank of India
-2023-11-06,64463.62,Savings Accounts,North India,State Bank of India
-2023-11-05,271763.61,Corporate Loans,West India,State Bank of India
-2023-08-06,176331.91,Corporate Loans,North India,State Bank of India
-2024-03-09,101072.99,Fixed Deposits,North India,State Bank of India
-2024-05-25,477185.20,Savings Accounts,West India,State Bank of India
-2024-09-03,383650.28,Investment Banking,Central India,State Bank of India
-2024-12-04,407039.01,Fixed Deposits,South India,State Bank of India
-2023-10-04,532276.85,Savings Accounts,West India,State Bank of India
-2023-06-16,400334.18,Investment Banking,East India,State Bank of India
-2024-10-03,339409.57,Savings Accounts,East India,State Bank of India
-2023-07-30,238102.98,Savings Accounts,West India,State Bank of India
-2023-03-12,517484.38,Corporate Loans,West India,State Bank of India
-2023-05-27,495571.56,Fixed Deposits,West India,State Bank of India
-2024-02-24,330680.77,Corporate Loans,Central India,State Bank of India
-2023-09-07,330699.33,Savings Accounts,West India,State Bank of India
-2024-06-20,447833.45,Fixed Deposits,North India,State Bank of India
-2023-06-18,287704.60,Investment Banking,Central India,State Bank of India
-2024-11-27,66902.23,Fixed Deposits,North India,State Bank of India
-2023-08-02,247444.69,Corporate Loans,Central India,State Bank of India
-2024-05-02,213965.11,Fixed Deposits,North India,State Bank of India
-2024-07-05,172663.19,Investment Banking,South India,State Bank of India
-2023-12-30,318584.11,Savings Accounts,South India,State Bank of India
-2023-07-07,452996.18,Corporate Loans,Central India,State Bank of India
-2024-09-14,506609.55,Fixed Deposits,North India,State Bank of India
-2023-11-23,521462.22,Fixed Deposits,Central India,State Bank of India
-2023-01-29,527652.32,Corporate Loans,South India,State Bank of India
-2024-03-26,144917.95,Savings Accounts,South India,State Bank of India
-2024-10-03,227144.10,Investment Banking,Central India,State Bank of India
-2024-10-06,126329.65,Corporate Loans,North India,State Bank of India
-2023-04-03,71598.89,Savings Accounts,Central India,State Bank of India
-2023-11-09,385891.73,Corporate Loans,South India,State Bank of India
-2023-11-23,62622.19,Investment Banking,North India,State Bank of India
-2023-04-08,264156.35,Fixed Deposits,North India,State Bank of India
-2023-10-16,316386.12,Investment Banking,East India,State Bank of India
-2023-07-22,458470.16,Savings Accounts,South India,State Bank of India
-2024-11-08,131334.98,Savings Accounts,North India,State Bank of India
-2023-12-13,173826.46,Fixed Deposits,North India,State Bank of India
-2023-11-16,480622.55,Fixed Deposits,South India,State Bank of India
-2023-03-11,493731.53,Fixed Deposits,South India,State Bank of India
-2023-11-20,501916.74,Savings Accounts,Central India,State Bank of India
-2024-06-07,446311.79,Investment Banking,Central India,State Bank of India
-2023-07-30,273494.46,Fixed Deposits,North India,State Bank of India
-2024-03-22,297964.13,Corporate Loans,Central India,State Bank of India
-2024-11-27,351195.41,Corporate Loans,Central India,State Bank of India
-2023-12-13,329034.62,Savings Accounts,Central India,State Bank of India
-2024-10-01,264622.88,Corporate Loans,East India,State Bank of India
-2023-06-28,250656.40,Fixed Deposits,South India,State Bank of India
-2023-07-26,68766.17,Corporate Loans,Central India,State Bank of India
-2024-06-06,523550.84,Corporate Loans,East India,State Bank of India
-2024-04-12,116747.73,Fixed Deposits,Central India,State Bank of India
-2023-05-14,200668.25,Fixed Deposits,South India,State Bank of India
-2024-12-04,237765.05,Savings Accounts,West India,State Bank of India
-2024-08-24,230743.58,Fixed Deposits,West India,State Bank of India
-2024-06-01,484254.28,Corporate Loans,Central India,State Bank of India
-2023-05-27,266802.51,Fixed Deposits,West India,State Bank of India
-2024-02-22,430407.07,Corporate Loans,South India,State Bank of India
-2024-10-30,193603.73,Savings Accounts,South India,State Bank of India
-2023-07-29,431281.31,Investment Banking,North India,State Bank of India
-2023-06-05,437519.41,Investment Banking,Central India,State Bank of India
-2024-09-07,332803.39,Investment Banking,East India,State Bank of India
-2023-11-27,124852.18,Fixed Deposits,West India,State Bank of India
-2023-11-23,221397.66,Fixed Deposits,West India,State Bank of India
-2023-04-16,123255.52,Corporate Loans,Central India,State Bank of India
-2024-01-06,546451.95,Corporate Loans,South India,State Bank of India
-2023-08-05,381211.14,Corporate Loans,West India,State Bank of India
-2023-04-30,227048.25,Fixed Deposits,North India,State Bank of India
-2024-07-18,372075.99,Fixed Deposits,Central India,State Bank of India
-2023-08-29,95304.81,Corporate Loans,East India,State Bank of India
-2024-11-07,246725.14,Corporate Loans,South India,State Bank of India
-2024-12-03,462764.87,Corporate Loans,East India,State Bank of India
-2023-12-08,394343.11,Investment Banking,South India,State Bank of India
-2024-01-13,355943.45,Fixed Deposits,South India,State Bank of India
-2024-08-21,322759.26,Investment Banking,East India,State Bank of India
-2023-08-16,306281.09,Fixed Deposits,South India,State Bank of India
-2023-01-23,391844.98,Savings Accounts,West India,State Bank of India
-2024-09-13,360553.36,Corporate Loans,Central India,State Bank of India
-2023-12-08,231908.89,Savings Accounts,North India,State Bank of India
-2023-08-16,283025.44,Investment Banking,West India,State Bank of India
-2024-07-09,491633.61,Investment Banking,West India,State Bank of India
-2023-07-12,378450.57,Corporate Loans,Central India,State Bank of India
-2024-09-17,424830.29,Investment Banking,East India,State Bank of India
-2023-03-15,240037.42,Corporate Loans,North India,State Bank of India
-2024-10-11,182250.70,Savings Accounts,North India,State Bank of India
-2023-01-27,395002.28,Investment Banking,West India,State Bank of India
-2023-09-27,448681.54,Fixed Deposits,East India,State Bank of India
-2023-01-05,235743.23,Corporate Loans,West India,State Bank of India
-2024-04-30,416048.14,Investment Banking,South India,State Bank of India
-2023-09-29,166495.19,Corporate Loans,North India,State Bank of India
-2023-12-22,333685.49,Savings Accounts,East India,State Bank of India
-2024-03-30,227494.03,Savings Accounts,North India,State Bank of India
-2024-02-07,109867.19,Investment Banking,Central India,State Bank of India
-2023-11-28,204311.59,Fixed Deposits,South India,State Bank of India
-2023-12-03,158311.00,Fixed Deposits,Central India,State Bank of India
-2023-11-01,377616.88,Investment Banking,North India,State Bank of India
-2023-07-15,73466.84,Fixed Deposits,Central India,State Bank of India
-2023-12-25,161123.90,Savings Accounts,Central India,State Bank of India
-2023-09-24,221548.65,Fixed Deposits,West India,State Bank of India
-2024-09-27,201585.32,Savings Accounts,Central India,State Bank of India
-2024-02-29,380060.83,Savings Accounts,West India,State Bank of India
-2024-12-11,436619.74,Corporate Loans,Central India,State Bank of India
-2024-02-02,482743.28,Fixed Deposits,Central India,State Bank of India
-2024-06-14,337312.79,Corporate Loans,South India,State Bank of India
-2024-03-03,100347.85,Fixed Deposits,North India,State Bank of India
-2024-11-21,62849.09,Fixed Deposits,South India,State Bank of India
-2024-05-18,479875.45,Corporate Loans,East India,State Bank of India
-2023-09-17,190337.26,Savings Accounts,Central India,State Bank of India
-2023-01-21,270524.05,Corporate Loans,South India,State Bank of India
-2024-01-22,539290.19,Investment Banking,East India,State Bank of India
-2023-06-04,82527.31,Savings Accounts,North India,State Bank of India
-2024-07-23,255124.30,Investment Banking,North India,State Bank of India
-2024-04-20,460794.70,Corporate Loans,West India,State Bank of India
-2024-07-19,478775.48,Fixed Deposits,West India,State Bank of India
-2024-09-02,522838.13,Savings Accounts,West India,State Bank of India
-2024-11-02,484205.75,Corporate Loans,North India,State Bank of India
-2024-08-02,333503.02,Investment Banking,East India,State Bank of India
-2024-04-20,244999.44,Fixed Deposits,East India,State Bank of India
-2023-04-07,540462.32,Savings Accounts,East India,State Bank of India
-2024-08-28,156612.42,Savings Accounts,Central India,State Bank of India
-2023-08-29,395311.18,Investment Banking,South India,State Bank of India
-2023-07-17,438761.34,Investment Banking,West India,State Bank of India
-2023-08-01,265692.45,Corporate Loans,North India,State Bank of India
-2024-06-23,382095.70,Savings Accounts,East India,State Bank of India
-2024-05-07,396995.92,Investment Banking,West India,State Bank of India
-2024-08-19,237396.48,Savings Accounts,North India,State Bank of India
-2023-04-23,244550.24,Corporate Loans,Central India,State Bank of India
-2023-01-01,312841.00,Savings Accounts,West India,State Bank of India
-2023-10-23,472365.38,Fixed Deposits,South India,State Bank of India
-2023-09-10,498086.85,Savings Accounts,West India,State Bank of India
-2024-07-12,205236.79,Investment Banking,South India,State Bank of India
-2023-04-26,193496.13,Corporate Loans,South India,State Bank of India
-2023-11-05,473958.63,Investment Banking,West India,State Bank of India
-2023-07-16,435309.18,Investment Banking,North India,State Bank of India
-2024-04-02,133744.44,Corporate Loans,East India,State Bank of India
-2023-08-08,195647.13,Fixed Deposits,South India,State Bank of India
-2024-12-11,318675.22,Corporate Loans,Central India,State Bank of India
-2024-06-19,499463.23,Investment Banking,South India,State Bank of India
-2023-04-26,357319.52,Investment Banking,West India,State Bank of India
-2024-05-17,221085.91,Fixed Deposits,West India,State Bank of India
-2024-11-20,169782.95,Investment Banking,North India,State Bank of India
-2023-04-11,79028.13,Fixed Deposits,Central India,State Bank of India
-2024-02-10,272841.74,Fixed Deposits,South India,State Bank of India
-2023-05-12,543348.42,Corporate Loans,West India,State Bank of India
-2024-04-04,501718.62,Fixed Deposits,Central India,State Bank of India
-2024-01-06,211630.58,Savings Accounts,West India,State Bank of India
-2023-10-10,371619.65,Savings Accounts,East India,State Bank of India
-2023-05-21,448505.19,Savings Accounts,West India,State Bank of India
-2024-06-24,423131.97,Corporate Loans,West India,State Bank of India
-2024-10-27,216223.29,Corporate Loans,West India,State Bank of India
-2024-07-29,163222.33,Fixed Deposits,West India,State Bank of India
-2023-02-08,82456.33,Fixed Deposits,East India,State Bank of India
-2023-12-21,411932.20,Fixed Deposits,Central India,State Bank of India
-2024-02-17,225723.15,Fixed Deposits,North India,State Bank of India
-2024-12-28,241282.13,Fixed Deposits,Central India,State Bank of India
-2023-10-09,82446.95,Corporate Loans,East India,State Bank of India
-2024-02-23,90595.23,Fixed Deposits,South India,State Bank of India
-2023-11-22,85900.32,Investment Banking,South India,State Bank of India
-2024-01-21,61847.13,Investment Banking,West India,State Bank of India
-2024-02-04,411470.91,Investment Banking,South India,State Bank of India
-2023-01-21,123442.34,Investment Banking,South India,State Bank of India
-2023-06-12,337695.03,Investment Banking,East India,State Bank of India
-2023-02-12,346411.75,Corporate Loans,Central India,State Bank of India
-2024-09-18,249767.58,Savings Accounts,Central India,State Bank of India
-2023-08-13,87859.48,Fixed Deposits,North India,State Bank of India
-2024-01-14,433323.45,Investment Banking,South India,State Bank of India
-2024-01-14,254993.47,Investment Banking,Central India,State Bank of India
-2024-11-25,482171.70,Fixed Deposits,East India,State Bank of India
-2023-03-10,196781.34,Corporate Loans,West India,State Bank of India
-2023-08-06,243268.81,Fixed Deposits,West India,State Bank of India
-2023-12-16,345551.62,Fixed Deposits,East India,State Bank of India
-2024-03-08,514674.77,Savings Accounts,Central India,State Bank of India
-2023-11-03,161388.43,Corporate Loans,North India,State Bank of India
-2023-02-07,228019.13,Corporate Loans,North India,State Bank of India
-2023-09-15,395340.61,Fixed Deposits,Central India,State Bank of India
-2024-05-27,171885.44,Investment Banking,North India,State Bank of India
-2023-06-10,523526.59,Investment Banking,East India,State Bank of India
-2024-01-05,483621.33,Corporate Loans,West India,State Bank of India
-2024-05-12,261209.68,Corporate Loans,East India,State Bank of India
-2023-11-06,186356.69,Fixed Deposits,East India,State Bank of India
-2023-11-22,163633.94,Savings Accounts,Central India,State Bank of India
-2023-05-21,146404.79,Savings Accounts,South India,State Bank of India
-2023-10-03,237382.37,Savings Accounts,Central India,State Bank of India
-2024-05-31,332024.32,Savings Accounts,South India,State Bank of India
-2023-12-07,428530.67,Savings Accounts,West India,State Bank of India
-2024-09-23,375651.87,Savings Accounts,South India,State Bank of India
-2023-12-20,418487.42,Corporate Loans,Central India,State Bank of India
-2023-08-04,145841.62,Corporate Loans,North India,State Bank of India
-2024-12-21,91235.20,Corporate Loans,Central India,State Bank of India
-2023-01-06,299372.11,Investment Banking,East India,State Bank of India
-2024-05-17,151475.84,Investment Banking,East India,State Bank of India
-2024-12-15,103433.98,Investment Banking,Central India,State Bank of India
-2024-11-24,81992.20,Investment Banking,Central India,State Bank of India
-2023-07-25,218753.97,Savings Accounts,North India,State Bank of India
-2023-02-22,79036.35,Savings Accounts,East India,State Bank of India
-2024-07-07,77493.38,Investment Banking,North India,State Bank of India
-2024-04-13,356082.08,Fixed Deposits,Central India,State Bank of India
-2023-07-31,274344.01,Investment Banking,East India,State Bank of India
-2023-10-12,144332.86,Investment Banking,East India,State Bank of India
-2024-01-14,101730.81,Corporate Loans,East India,State Bank of India
-2024-08-11,428847.80,Corporate Loans,West India,State Bank of India
-2023-05-28,401784.41,Savings Accounts,South India,State Bank of India
-2023-07-15,377997.86,Savings Accounts,Central India,State Bank of India
-2024-02-15,399416.19,Investment Banking,East India,State Bank of India
-2023-02-24,162640.60,Corporate Loans,South India,State Bank of India
-2023-01-16,274697.54,Savings Accounts,South India,State Bank of India
-2024-02-18,183388.07,Savings Accounts,West India,State Bank of India
-2024-12-24,347983.87,Corporate Loans,North India,State Bank of India
-2023-01-25,143287.83,Corporate Loans,Central India,State Bank of India
-2023-01-17,324732.49,Investment Banking,Central India,State Bank of India
-2023-07-24,169940.08,Savings Accounts,West India,State Bank of India
-2023-08-18,175648.00,Investment Banking,South India,State Bank of India
-2024-04-07,427522.85,Fixed Deposits,South India,State Bank of India
-2024-12-12,455127.35,Investment Banking,South India,State Bank of India
-2023-07-11,374337.23,Investment Banking,East India,State Bank of India
-2023-02-28,65125.01,Fixed Deposits,Central India,State Bank of India
-2024-09-16,128411.10,Fixed Deposits,North India,State Bank of India
-2024-06-02,268679.18,Investment Banking,East India,State Bank of India
-2023-05-03,377345.43,Savings Accounts,West India,State Bank of India
-2024-06-15,186216.12,Fixed Deposits,West India,State Bank of India
-2023-01-18,319482.03,Corporate Loans,West India,State Bank of India
-2023-10-12,537236.28,Corporate Loans,South India,State Bank of India
-2023-02-16,427617.45,Savings Accounts,North India,State Bank of India
-2024-10-21,230737.89,Corporate Loans,South India,State Bank of India
-2024-03-04,124817.12,Savings Accounts,East India,State Bank of India
-2023-12-01,183796.77,Fixed Deposits,South India,State Bank of India
-2024-09-26,538235.86,Investment Banking,East India,State Bank of India
-2023-05-31,499989.84,Fixed Deposits,West India,State Bank of India
-2023-01-01,149686.44,Investment Banking,North India,State Bank of India
-2023-06-22,263024.40,Savings Accounts,North India,State Bank of India
-2023-11-14,472178.43,Fixed Deposits,West India,State Bank of India
+2023-04-19,2807.48,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-05-11,1294.38,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-06-01,5340.94,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-11-29,3643.12,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-10-21,1170.66,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-04-26,2958.84,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-04-01,1896.77,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-10-23,5047.26,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-02-13,1695.07,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-07-01,3718.95,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-12-30,3983.32,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-08-10,4590.58,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-10-13,4872.08,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-09-01,3648.25,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-08-05,3462.89,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-03-20,2171.19,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-09-13,4045.22,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-04-24,4119.83,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-10-04,5059.44,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-05-02,3326.61,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-06-26,3129.76,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-12-10,4811.63,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-08-14,3654.02,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-12-26,5136.05,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-09-20,2465.84,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-02-27,516.11,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-03-18,1931.42,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-08-06,3972.18,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-12-03,1418.47,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-08-19,4108.31,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-02-21,988.98,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-09-21,4712.45,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-09-27,4868.26,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-07-04,4610.11,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-01-20,2881.67,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-04-30,2426.18,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-03-24,3354.22,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-06-08,3989.93,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-09-01,3928.17,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-04-25,3328.55,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-10-31,5319.14,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-11-22,1231.06,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-07-21,731.63,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-12-14,1375.85,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-04-01,1726.84,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-08-12,5328.77,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-03-28,2061.79,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-03-01,4792.62,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-05-24,4324.80,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-04-07,917.91,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-04-12,1134.36,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-01-18,4552.92,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-01-29,1609.36,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-01-16,5047.19,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-03-25,803.27,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-05-01,4239.94,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-03-15,1020.18,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-09-30,4016.35,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-05-20,5080.51,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-06-15,2504.27,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-07-22,2604.99,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-01-24,3900.00,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-12-16,4147.36,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-09-09,773.24,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-05-12,2039.10,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-09-30,5202.47,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-07-27,1187.95,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-07-20,1008.06,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-02-09,1536.83,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-04-16,522.23,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-08-08,3192.36,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-05-15,1687.64,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-03-17,1824.11,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-02-24,3357.05,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-09-18,2536.23,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-05-25,1205.11,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-12-17,5157.25,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-06-01,573.58,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-01-19,5200.61,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-09-22,1719.38,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-08-17,2806.59,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-02-10,1967.22,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-05-25,2265.60,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-07-04,3738.12,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-09-18,4180.77,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-12-27,3141.43,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-08-11,1732.86,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-09-26,3866.25,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-04-20,1855.15,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-03-20,2371.93,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-10-30,1868.71,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-01-08,4339.89,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-01-01,1660.45,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-11-06,4709.02,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-10-09,1022.27,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-03-09,5014.62,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-01-23,2962.95,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-07-12,2456.27,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-01-14,5001.62,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-11-04,2512.45,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-11-03,2093.13,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-04-11,1015.13,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-09-04,5087.94,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-02-08,2269.08,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-06-12,4950.89,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-06-30,4576.89,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-09-04,2942.65,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-12-02,3111.44,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-01-25,1106.75,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-06-22,1772.80,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-11-29,3237.11,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-12-30,1962.29,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-05-20,2302.17,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-05-13,4874.33,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-06-15,4868.64,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-11-06,920.04,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-01-01,5449.96,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-03-07,3287.89,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-02-27,2941.00,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-09-06,2244.74,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-10-07,3927.07,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-04-28,5199.84,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-02-15,1439.94,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-10-18,3467.75,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-06-15,2246.30,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-11-15,1062.31,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-03-12,1220.19,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-11-27,4594.30,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-01-20,4333.84,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-05-10,2164.51,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-11-05,2631.06,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-11-30,2373.34,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-12-15,2190.30,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-10-14,586.02,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-07-08,1774.94,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-03-18,1818.85,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-02-24,3792.35,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-05-30,4859.97,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-01-22,1881.69,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-10-11,3002.78,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-05-24,4741.58,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-04-17,2528.34,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-03-19,1533.65,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-01-21,3867.13,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-04-15,551.55,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-09-11,2170.29,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-08-05,4435.30,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-01-30,3374.29,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-12-22,1358.49,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-09-02,3777.26,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-01-31,3261.66,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-07-02,3084.47,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-06-21,1705.10,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-11-30,1705.81,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-10-24,1101.94,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-02-03,4090.28,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-01-12,2254.74,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-03-18,2599.14,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-08-11,1715.27,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-09-27,4972.65,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-12-16,2328.85,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-05-20,1583.92,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-04-27,5121.91,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-04-30,3153.45,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-03-24,5030.37,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-11-29,998.16,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-11-12,2212.52,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-06-30,5252.43,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-08-02,2967.32,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-11-11,2315.85,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-07-08,4948.98,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-06-13,3144.00,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-01-31,4928.99,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-03-25,2425.05,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-11-07,2772.21,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-09-02,4111.10,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-01-28,590.40,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-04-03,4044.86,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-12-30,540.99,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-04-14,3756.31,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-09-17,2836.66,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-10-05,2961.70,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-10-27,5062.06,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-11-30,792.03,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-06-29,956.22,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-06-26,2933.75,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-11-20,3287.50,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-03-08,1074.38,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-12-13,2791.98,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-10-08,938.70,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-10-23,2118.45,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-08-18,2318.37,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-09-26,3587.85,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-12-23,3226.65,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-07-28,3997.65,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-09-03,3579.72,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-07-21,572.55,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-07-08,1956.32,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-01-01,1932.95,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-12-20,3403.54,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-11-03,2868.20,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-06-03,812.88,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-01-31,2601.69,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-08-15,4839.60,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-12-14,3183.80,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-05-31,1738.07,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-03-19,1328.05,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-07-17,4130.59,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-11-02,2316.30,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-01-26,1409.49,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-01-08,3416.56,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-08-01,2170.92,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-08-03,2094.72,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-06-07,1075.76,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-10-04,746.75,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-03-01,4371.99,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-07-13,3184.94,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-05-31,3724.82,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-10-18,1739.10,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-12-27,4713.40,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-02-11,2639.64,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-11-07,927.70,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-01-08,4836.15,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-09-04,661.57,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-10-06,2489.74,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-09-01,805.70,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-04-20,5176.89,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-09-14,4204.39,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-11-26,2619.08,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-08-09,3262.57,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-11-16,1924.96,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-07-21,2921.59,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-02-26,3222.07,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-04-24,969.33,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-01-11,2742.70,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-01-24,856.05,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-04-13,594.03,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-12-10,5413.35,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-03-24,2590.53,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-08-13,4150.91,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-03-11,4840.55,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-02-01,2473.33,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-09-20,1383.72,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-10-02,2358.71,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-08-06,4402.97,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-09-01,924.58,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-08-15,4309.53,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-11-16,3861.39,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-10-09,5437.99,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-04-04,2509.84,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-10-05,2362.77,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-03-10,3400.10,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-12-24,2763.09,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-03-07,4423.85,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-09-09,4846.22,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-10-03,2867.86,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-05-25,3395.97,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-10-04,1773.09,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-06-26,2189.22,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-02-04,4810.30,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-08-30,3031.59,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-01-19,1628.19,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-12-24,1828.62,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-03-22,2390.72,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-03-07,4960.95,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-06-26,1522.55,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-01-20,4135.58,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-02-18,4511.26,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-05-05,3240.02,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-09-16,3829.96,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-09-24,5281.56,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-06-03,5424.69,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-12-30,5477.15,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-05-29,2210.49,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-06-27,3715.78,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-05-25,5289.75,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-08-18,3294.94,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-04-15,4743.00,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-04-02,2522.76,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-09-11,1529.01,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-09-03,3568.25,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-12-09,1348.72,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-09-18,1958.96,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-10-17,3358.64,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-07-27,3489.78,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-02-26,3022.01,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-05-07,3283.62,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-08-04,689.65,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-12-05,1606.62,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-12-23,2440.51,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-09-26,4473.54,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-07-16,1735.35,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-01-19,724.10,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-03-18,4914.37,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-05-04,3899.36,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-01-13,4776.47,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-08-26,3412.93,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-02-04,2733.36,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-12-05,3197.92,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-11-26,2089.13,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-03-11,3539.85,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-09-11,4421.10,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-03-26,3427.19,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-03-31,3288.63,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-12-10,2101.26,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-07-22,4576.34,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-09-15,4097.55,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-12-18,3364.12,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-08-02,5365.03,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-06-01,4932.14,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-01-21,1013.80,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-07-28,2768.82,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-03-11,1373.12,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-01-19,3957.52,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-06-20,667.70,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-08-06,1547.22,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-06-26,3110.05,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-03-02,2726.82,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-08-27,2584.13,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-05-14,4128.22,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-06-04,1587.13,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-06-19,5406.18,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-04-25,1775.91,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-08-16,3150.26,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-11-13,4430.75,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-08-26,2570.73,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-06-18,3221.80,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-04-15,1163.90,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-02-05,1508.66,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-06-07,3712.89,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-07-08,4200.55,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-01-13,2535.16,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-11-01,5378.23,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-11-08,4818.22,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-08-14,4376.98,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-04-14,1231.50,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-09-04,4144.74,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-12-15,2938.37,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-09-26,1545.47,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-07-05,2279.92,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-04-26,1069.02,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-09-16,5014.32,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-05-21,3519.07,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-12-16,3180.29,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-11-07,4273.22,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-05-29,1749.16,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-06-06,3915.13,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-04-15,2600.23,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-12-23,3019.83,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-10-28,2766.95,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-11-19,3551.85,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-03-29,1038.92,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-03-23,4263.53,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-10-07,3313.17,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-08-10,1106.26,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-09-19,1685.89,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-04-05,5007.93,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-05-07,2134.61,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-05-18,5397.09,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-07-24,3524.25,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-09-20,3037.86,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-01-06,2363.56,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-09-03,3633.69,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-02-12,3202.09,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-05-27,3326.81,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-08-02,5247.49,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-09-17,3052.81,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-10-31,1502.84,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-04-29,810.40,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-05-31,2064.34,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-11-17,4748.80,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-09-05,3207.47,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-01-13,1033.42,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-01-02,636.48,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-10-02,3928.82,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-11-08,4424.41,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-02-25,4997.20,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-03-05,3844.51,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-06-10,1512.47,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-06-20,2545.39,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-10-08,3265.67,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-01-03,862.10,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-12-18,2781.10,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-09-20,4798.36,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-04-15,1740.95,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-10-23,2841.00,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-03-20,2129.73,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-02-10,1015.97,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-10-23,5313.30,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-03-07,4097.30,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-05-15,4415.17,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-07-08,2372.44,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-12-06,5105.04,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-06-09,958.61,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-07-11,3663.52,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-10-26,2182.04,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-05-28,1248.91,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-11-10,4398.69,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-10-18,3203.32,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-09-17,5251.75,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-07-29,5074.14,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-11-11,5161.65,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-01-07,5285.02,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-08-13,621.32,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-07-21,3838.16,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-02-22,2934.44,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-07-25,4907.31,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-11-03,3884.62,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-12-01,3760.52,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-08-14,4787.08,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-01-01,732.50,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-05-09,1079.11,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-06-08,3603.48,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-03-27,2269.81,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-02-02,4795.63,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-05-30,2095.94,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-08-01,1384.06,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-11-10,1926.99,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-12-13,816.84,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-09-12,3899.00,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-04-22,5337.54,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-07-27,1987.07,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-01-19,1631.51,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-10-31,3549.38,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-12-31,3754.86,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-05-06,818.63,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-02-27,5431.80,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-02-18,2983.38,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-09-17,2480.66,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-05-13,4251.89,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-11-25,672.45,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-02-12,4263.72,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-10-24,2415.63,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-01-25,2427.78,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-12-09,3260.05,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-05-07,4119.27,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-03-22,505.30,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-06-04,886.59,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-06-13,4526.72,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-10-14,5427.15,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-12-07,3608.41,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-04-16,1282.77,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-07-30,579.93,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-04-30,4535.96,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-08-08,2431.19,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-02-04,2267.32,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-07-23,3060.85,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-02-15,1371.03,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-09-20,3172.02,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-04-16,2026.65,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-12-11,4798.53,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-09-02,5107.05,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-12-09,1659.38,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-07-29,1395.87,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-02-20,1567.08,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-11-05,2745.19,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-10-29,4447.78,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-03-14,2334.10,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-12-04,2373.24,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-02-06,1401.01,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-07-22,5028.96,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-12-19,1667.80,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-05-10,2970.19,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-01-15,643.76,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-09-07,3467.64,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-03-24,867.30,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-02-05,4962.04,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-05-04,3698.12,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-01-14,1965.75,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-02-07,2838.83,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-07-04,1841.73,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-10-30,1371.84,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-10-12,4590.71,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-06-23,2882.43,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-12-04,4044.65,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-04-23,1762.28,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-02-29,3722.40,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-10-07,4864.51,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-07-09,1712.78,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-05-01,3199.77,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-09-26,5330.77,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-05-28,5207.29,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-04-11,2750.96,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-05-22,4021.55,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-07-24,5499.88,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-11-06,887.78,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-09-13,1176.06,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-11-20,3423.44,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-05-30,3220.15,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-07-20,4559.19,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-03-28,4382.67,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-08-23,2371.90,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-02-02,1383.92,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-01-15,2041.47,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-11-12,1018.32,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-05-13,3453.16,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-06-22,1902.25,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-04-01,2518.75,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-04-09,4321.88,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-05-02,5086.28,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-08-14,4746.44,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-01-31,1269.84,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-01-17,4421.22,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-01-24,4153.73,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-02-18,2806.29,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-09-22,979.11,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-01-23,5011.55,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-08-03,4987.97,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-01-21,1213.32,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-04-11,2487.87,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-02-07,4341.16,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-01-17,4218.56,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-04-29,2256.25,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-12-01,2218.30,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-11-17,5307.81,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-07-08,3016.10,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-09-30,1074.54,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-01-21,1883.29,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-06-21,4576.06,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-04-04,4318.73,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-03-28,3011.39,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-12-16,987.82,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-09-04,5080.24,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-03-29,2097.90,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-04-08,2433.17,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-06-09,5247.74,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-04-24,817.71,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-03-15,2245.89,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-06-26,1521.29,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-06-03,3602.30,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-11-15,2659.50,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-08-19,4641.88,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-07-12,4597.81,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-09-24,2641.09,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-09-19,5471.55,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-12-17,2790.15,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-03-15,1565.66,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-12-25,1896.32,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-03-21,4309.16,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-10-24,1269.86,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-06-15,4514.78,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-04-15,1697.49,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-08-14,5472.34,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-04-12,3323.63,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-09-06,689.80,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-10-06,4300.90,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-02-17,4224.00,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-03-11,3738.96,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-12-28,1318.78,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-09-08,3683.91,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-12-04,1442.88,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-10-15,3319.55,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-01-10,4417.18,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-02-15,2137.59,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-03-27,4682.54,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-05-28,3561.38,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-12-17,1617.30,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-11-13,4828.11,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-05-06,3720.13,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-07-12,2763.85,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-10-12,1321.94,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-05-26,3125.83,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-07-23,1021.20,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-08-16,1528.65,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-03-19,5396.04,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-03-30,3047.82,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-04-21,2331.17,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-06-27,3596.76,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-08-12,2842.89,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-11-24,1679.36,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-08-18,641.22,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-06-30,1313.57,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-10-20,3068.74,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-07-31,5202.27,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-09-05,661.09,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-02-17,5085.72,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-07-24,3638.50,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-05-22,2829.67,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-03-21,4241.60,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-04-04,4187.29,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-05-29,2580.33,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-08-24,2337.53,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-04-22,2175.69,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-02-18,535.68,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-10-27,1198.94,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-06-04,1117.70,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-10-20,2172.56,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-06-03,4062.33,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-03-23,5139.07,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-06-30,672.03,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-09-25,5414.53,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-05-09,1915.63,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-09-09,3154.84,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-08-20,2950.67,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-07-10,4032.93,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-12-07,3520.12,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-07-08,3590.38,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-05-04,3333.63,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-08-14,2659.67,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-05-16,5345.15,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-01-11,1754.79,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-06-09,4108.16,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-10-19,572.36,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-02-23,3926.46,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-09-19,2575.60,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-10-19,860.21,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-01-20,1429.99,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-11-09,3591.32,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-08-09,4136.64,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-04-11,873.00,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-03-09,4686.28,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-11-25,4954.81,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-04-27,1996.36,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-11-29,1924.38,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-03-21,2298.98,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-07-04,5299.96,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-04-24,2875.78,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-09-06,3878.78,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-04-11,1229.88,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-08-13,2088.91,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-12-16,2447.71,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-08-04,4167.64,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-12-24,1419.48,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-10-25,3875.43,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-11-18,2216.50,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-01-30,1155.81,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-12-22,767.24,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-08-10,1627.96,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-09-16,622.08,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-05-04,2264.53,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-07-24,4172.95,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-05-12,5072.66,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-01-04,2046.74,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-12-03,785.57,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-03-09,3175.53,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-04-07,568.54,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-09-27,2496.95,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-05-29,4807.99,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-04-11,3409.34,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-08-27,673.21,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-07-02,3049.74,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-06-14,2543.95,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-02-15,944.13,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-09-06,4954.17,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-02-06,598.05,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-01-21,2895.95,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-05-04,2111.60,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-04-06,3015.73,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-09-14,1131.11,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-03-14,5225.80,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-01-24,3088.90,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-11-04,3644.41,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-02-21,2538.38,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-09-06,1612.71,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-09-30,4660.24,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-11-11,785.20,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-03-09,3226.89,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-08-15,1594.64,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-12-21,3427.89,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-03-27,3452.78,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-10-12,4395.86,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-11-08,719.84,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-10-08,4654.97,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-03-28,3501.07,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-09-05,3558.11,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-04-18,2583.11,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-10-17,524.02,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-08-09,1649.23,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-05-27,1990.63,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-06-23,1062.15,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-05-27,3213.74,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-08-21,638.06,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-07-20,4827.27,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-06-18,3624.40,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-06-20,2806.82,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-05-06,5133.65,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-03-05,3149.59,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-04-13,1394.58,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-11-08,2324.76,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-02-22,1899.21,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-10-29,4816.17,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-10-07,636.07,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-04-14,3074.00,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-07-13,3293.08,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-09-19,4094.25,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-10-19,4007.00,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-09-16,661.78,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-04-25,2254.78,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-01-13,3082.10,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-10-04,3639.33,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-10-27,951.86,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-11-15,3921.22,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-02-13,1320.18,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-12-14,3983.80,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-06-02,4687.63,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-12-06,689.21,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-09-12,4840.90,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-12-10,3444.51,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-07-23,3711.73,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-09-20,3972.42,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-03-23,4203.64,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-02-14,4831.08,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-05-22,2239.16,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-10-10,1809.90,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-07-24,4978.14,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-03-04,3705.65,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-08-06,5207.69,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-07-24,5029.01,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-06-11,724.87,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-07-23,4644.07,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-12-22,4592.32,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-01-24,952.39,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-12-15,929.14,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-09-14,2348.67,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-09-11,835.96,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-04-10,4209.83,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-12-25,4706.83,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-04-12,5125.86,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-09-09,2029.05,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-09-24,1804.30,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-02-16,3553.96,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-06-04,3970.47,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-01-30,3437.06,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-11-20,2644.60,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-10-22,2930.19,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-06-13,3688.10,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-09-03,2388.94,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-04-12,3790.13,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-07-02,3796.52,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-06-27,4221.49,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-09-29,5471.28,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-07-16,4382.66,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-08-18,4809.36,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-06-30,4441.55,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-09-25,1838.23,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-10-05,1997.91,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-06-30,5266.64,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-12-16,4553.78,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-06-21,800.14,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-01-05,830.60,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-02-28,532.49,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-01-12,2644.02,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-03-19,4920.86,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-01-22,1136.34,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-06-29,5429.46,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-12-06,555.25,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-04-05,734.12,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-08-24,1152.68,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-10-11,1616.61,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-11-28,549.84,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-11-24,1044.26,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-09-15,4827.50,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-10-19,2955.59,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-09-15,1877.62,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-06-30,1840.78,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-09-20,914.78,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-11-16,4232.56,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-02-14,4989.25,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-07-10,1111.49,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-08-09,3887.32,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-05-18,3846.81,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-11-11,3213.42,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-02-22,4348.35,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-01-27,5316.54,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-08-12,4800.74,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-01-02,2403.99,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-03-07,2656.17,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-04-09,1565.79,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-03-27,2498.08,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-04-25,4288.10,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-12-30,1136.61,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-02-10,2639.03,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-10-29,2395.03,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-06-17,3512.34,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-06-15,4297.87,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-07-07,5060.24,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-10-23,3454.88,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-04-13,1452.33,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-11-29,3814.89,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-10-30,4446.06,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-04-25,2033.36,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-06-06,4770.55,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-09-18,4739.91,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-07-19,1900.39,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-06-09,3361.92,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-02-20,4518.25,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-09-14,5026.70,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-05-15,1795.06,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-05-23,4753.60,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-12-09,1402.75,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-08-28,4348.88,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-11-07,2432.36,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-04-04,5168.39,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-10-04,4856.77,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-04-29,1126.78,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-12-14,1397.28,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-03-02,2466.47,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-12-24,998.11,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-12-07,3295.37,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-10-05,4439.07,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-08-12,2493.05,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-10-01,2682.76,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2024-06-11,3892.51,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-12-29,5116.60,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-02-08,5385.36,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-07-19,3102.54,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-10-18,837.48,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-10-28,4305.21,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-03-27,4927.81,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-11-22,3814.66,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-11-16,3179.07,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-11-18,5372.66,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-04-14,3890.90,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-10-07,3271.48,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-11-09,1735.74,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-04-15,643.53,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-06-10,3709.80,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-09-22,1863.14,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-09-19,2328.51,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-11-15,1231.68,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-07-05,2438.55,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-11-05,3136.18,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-06-05,634.16,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-05-25,4246.63,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-09-01,4616.34,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-01-04,4060.15,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-03-31,4253.98,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-08-19,709.30,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-11-01,1625.80,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-11-14,830.36,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-05-13,2988.31,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-06-09,1525.30,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-01-26,4096.82,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-03-11,4127.01,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-02-02,3529.43,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-03-30,1646.50,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-03-18,4359.40,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-09-05,4865.12,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-08-25,3139.39,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-11-22,3024.72,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-09-30,1676.25,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-07-09,3392.09,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-12-10,934.39,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-05-23,3869.97,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-06-12,4011.92,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-08-05,2682.67,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-09-10,4725.19,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-08-09,3287.51,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-08-01,1435.82,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-03-11,2688.14,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-02-15,3881.00,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-01-04,2988.30,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-11-03,725.41,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-03-17,1634.64,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-07-14,3478.81,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-08-30,4973.92,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-01-25,5393.07,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-06-06,1338.05,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-08-06,1602.52,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-08-21,5453.45,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-10-04,2807.94,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-01-02,1874.08,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-05-23,2981.50,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-09-03,5245.10,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-10-27,1142.67,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-08-04,3170.77,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-09-16,4742.84,Cotton Fabric,Temple Road,Lakshmi Silk Weavers
+2023-02-23,3485.94,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-01-23,1661.45,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-02-14,2176.75,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-01-24,5023.43,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-10-14,2098.74,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-09-30,5376.16,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-11-04,2933.34,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-05-07,2527.23,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-02-23,3310.25,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-08-27,1186.62,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-05-07,5178.59,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-08-27,5303.23,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-06-22,947.68,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-08-01,2962.48,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-06-29,2261.06,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-06-03,4537.34,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-07-30,4046.66,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-08-13,4530.24,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-03-07,841.00,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-05-04,5256.34,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-01-27,4760.38,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-07-04,1412.68,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-07-03,2350.24,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-07-27,2697.92,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-10-29,5158.10,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-11-06,4821.30,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-07-19,568.96,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-04-15,4814.71,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-12-30,2749.01,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-01-10,4572.90,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-04-13,4651.32,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2023-09-17,2129.93,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2023-01-29,3419.51,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-07-17,3318.70,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-11-28,1152.84,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-05-10,3878.24,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-02-06,1523.97,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-08-20,1384.22,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-07-05,1686.39,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-01-19,679.49,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-06-07,2117.67,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-08-26,1788.03,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-04-14,1295.17,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-07-25,5205.93,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-12-23,4110.57,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-03-25,4556.60,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-10-14,2834.33,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-03-30,1670.60,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-03-27,1432.56,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-07-12,1733.02,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2023-04-21,1171.25,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2023-06-04,1302.04,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-04-25,4662.56,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-05-06,2618.73,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-07-13,706.08,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-12-30,696.85,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-05-02,3795.39,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-03-22,3973.15,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-07-12,2307.98,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-02-05,672.48,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-05-04,1555.78,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-03-01,2591.35,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-09-20,4109.66,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-07-01,993.51,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-08-27,2456.81,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-01-12,3391.98,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-05-30,4628.07,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2024-12-08,5163.49,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-07-23,3820.25,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-07-26,1984.08,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-03-13,611.84,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-06-20,4713.96,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-06-16,3710.16,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-01-21,2672.13,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-06-12,3885.63,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-11-09,2386.32,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-04-12,5063.06,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-02-20,3039.52,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-09-15,4219.30,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-01-17,885.39,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2023-03-03,4351.76,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-06-06,4921.47,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2024-01-15,1176.76,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-03-31,4250.90,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-10-30,3719.29,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2024-06-05,3540.75,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2024-01-02,1458.78,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-09-07,3282.23,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2023-06-15,4144.48,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2024-10-16,4305.40,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-05-14,4380.34,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-10-01,3965.51,Cotton Fabric,Railway Colony,Lakshmi Silk Weavers
+2023-12-22,3225.77,Cotton Fabric,Bazaar Street,Lakshmi Silk Weavers
+2023-06-05,3920.11,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-04-28,4827.58,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-02-15,2163.66,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2023-05-12,2203.31,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-03-08,5297.02,Handloom Towels,Railway Colony,Lakshmi Silk Weavers
+2024-07-10,5174.04,Handloom Towels,Old City,Lakshmi Silk Weavers
+2023-07-29,5367.26,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-08-08,1564.53,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-02-08,3830.93,Embroidery Thread,Bazaar Street,Lakshmi Silk Weavers
+2024-01-05,2266.10,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-11-22,4140.43,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2024-03-12,830.37,Embroidery Thread,Railway Colony,Lakshmi Silk Weavers
+2024-03-25,4390.11,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-07-27,711.49,Cotton Fabric,Mandapam Area,Lakshmi Silk Weavers
+2023-03-29,1358.06,Cotton Fabric,Old City,Lakshmi Silk Weavers
+2024-02-27,1516.81,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-06-26,581.20,Handloom Towels,Bazaar Street,Lakshmi Silk Weavers
+2024-07-22,628.69,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-09-20,1657.70,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-04-08,2799.75,Handloom Towels,Mandapam Area,Lakshmi Silk Weavers
+2024-03-07,5425.35,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2023-03-21,3368.58,Handloom Towels,Old City,Lakshmi Silk Weavers
+2024-10-05,3164.12,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2024-07-31,4000.73,Silk Sarees,Mandapam Area,Lakshmi Silk Weavers
+2023-06-09,3593.73,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2024-09-08,1636.75,Silk Sarees,Old City,Lakshmi Silk Weavers
+2024-08-09,1110.08,Embroidery Thread,Old City,Lakshmi Silk Weavers
+2023-11-03,2539.41,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-09-29,5081.64,Silk Sarees,Railway Colony,Lakshmi Silk Weavers
+2023-04-27,3450.79,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-01-06,1065.04,Handloom Towels,Temple Road,Lakshmi Silk Weavers
+2023-07-31,950.23,Silk Sarees,Bazaar Street,Lakshmi Silk Weavers
+2024-12-14,1367.06,Silk Sarees,Old City,Lakshmi Silk Weavers
+2023-04-02,3077.41,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-06-30,5287.75,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2023-01-31,3301.20,Embroidery Thread,Mandapam Area,Lakshmi Silk Weavers
+2024-04-16,2777.00,Embroidery Thread,Temple Road,Lakshmi Silk Weavers
+2023-09-26,5104.40,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-04-26,2677.90,Silk Sarees,Temple Road,Lakshmi Silk Weavers
+2024-06-23,4811.19,Embroidery Thread,Temple Road,Lakshmi Silk Weavers

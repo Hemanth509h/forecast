@@ -1,1501 +1,1001 @@
 date,amount,productCategory,region,company
-2024-03-06,308292.43,Commercial Vehicles,Central India,Tata Motors
-2023-08-09,520051.72,Spare Parts,Central India,Tata Motors
-2023-11-02,347998.85,Service Centers,East India,Tata Motors
-2024-08-20,258633.07,Spare Parts,South India,Tata Motors
-2023-07-23,136667.44,Passenger Vehicles,South India,Tata Motors
-2023-01-04,392359.24,Service Centers,East India,Tata Motors
-2024-06-30,197321.55,Spare Parts,North India,Tata Motors
-2024-01-21,430098.42,Service Centers,South India,Tata Motors
-2023-01-26,400511.25,Service Centers,Central India,Tata Motors
-2024-06-07,298218.19,Service Centers,North India,Tata Motors
-2024-08-28,520885.93,Passenger Vehicles,Central India,Tata Motors
-2023-08-26,183548.85,Commercial Vehicles,East India,Tata Motors
-2023-08-17,375199.52,Passenger Vehicles,East India,Tata Motors
-2024-10-18,477739.10,Service Centers,East India,Tata Motors
-2023-03-19,83946.96,Service Centers,East India,Tata Motors
-2024-03-18,530711.76,Spare Parts,West India,Tata Motors
-2024-12-27,437331.94,Commercial Vehicles,West India,Tata Motors
-2023-12-05,521666.11,Service Centers,Central India,Tata Motors
-2023-10-14,533279.13,Passenger Vehicles,South India,Tata Motors
-2024-11-10,84459.87,Commercial Vehicles,East India,Tata Motors
-2023-09-17,492319.33,Service Centers,West India,Tata Motors
-2023-11-17,190999.50,Passenger Vehicles,East India,Tata Motors
-2024-12-16,471345.99,Spare Parts,North India,Tata Motors
-2024-11-05,426208.96,Spare Parts,Central India,Tata Motors
-2023-11-22,287442.97,Passenger Vehicles,South India,Tata Motors
-2024-01-02,317004.51,Service Centers,South India,Tata Motors
-2024-04-26,179426.16,Passenger Vehicles,North India,Tata Motors
-2023-06-06,373362.26,Service Centers,North India,Tata Motors
-2024-03-09,177218.18,Service Centers,West India,Tata Motors
-2024-05-05,337205.91,Commercial Vehicles,West India,Tata Motors
-2024-06-09,425487.97,Service Centers,South India,Tata Motors
-2024-12-15,208427.89,Spare Parts,Central India,Tata Motors
-2024-07-27,510919.05,Commercial Vehicles,West India,Tata Motors
-2023-06-07,490447.51,Service Centers,Central India,Tata Motors
-2023-11-06,475828.53,Service Centers,West India,Tata Motors
-2023-10-08,265264.24,Spare Parts,West India,Tata Motors
-2024-06-28,229485.94,Passenger Vehicles,South India,Tata Motors
-2023-06-02,361809.78,Commercial Vehicles,Central India,Tata Motors
-2023-10-09,236764.89,Spare Parts,South India,Tata Motors
-2023-01-19,246620.18,Commercial Vehicles,Central India,Tata Motors
-2024-05-25,316258.36,Service Centers,Central India,Tata Motors
-2024-11-08,188217.59,Service Centers,West India,Tata Motors
-2024-03-24,438966.08,Commercial Vehicles,West India,Tata Motors
-2024-08-07,407438.55,Service Centers,West India,Tata Motors
-2024-03-06,412281.38,Spare Parts,East India,Tata Motors
-2024-04-11,182460.56,Commercial Vehicles,North India,Tata Motors
-2024-09-16,52273.73,Service Centers,West India,Tata Motors
-2024-04-08,105306.08,Passenger Vehicles,East India,Tata Motors
-2023-09-25,117218.13,Commercial Vehicles,East India,Tata Motors
-2023-07-14,106195.87,Commercial Vehicles,South India,Tata Motors
-2024-05-24,435652.67,Spare Parts,West India,Tata Motors
-2023-11-14,223147.20,Passenger Vehicles,East India,Tata Motors
-2023-01-30,523092.88,Passenger Vehicles,South India,Tata Motors
-2023-04-20,541190.82,Service Centers,East India,Tata Motors
-2023-10-27,447514.83,Passenger Vehicles,West India,Tata Motors
-2023-10-31,384647.92,Service Centers,North India,Tata Motors
-2024-12-06,142575.73,Commercial Vehicles,West India,Tata Motors
-2024-04-20,484704.89,Service Centers,South India,Tata Motors
-2023-01-01,274167.23,Service Centers,East India,Tata Motors
-2024-06-08,140633.70,Passenger Vehicles,Central India,Tata Motors
-2023-02-25,530014.21,Spare Parts,West India,Tata Motors
-2023-08-09,255679.33,Service Centers,East India,Tata Motors
-2024-05-01,366203.03,Service Centers,Central India,Tata Motors
-2024-01-14,88243.62,Service Centers,West India,Tata Motors
-2023-05-29,494962.06,Spare Parts,North India,Tata Motors
-2024-10-22,447883.18,Spare Parts,South India,Tata Motors
-2023-08-09,245707.41,Spare Parts,Central India,Tata Motors
-2024-02-10,429614.32,Spare Parts,West India,Tata Motors
-2024-09-24,106798.40,Passenger Vehicles,East India,Tata Motors
-2023-04-06,400756.89,Passenger Vehicles,East India,Tata Motors
-2023-08-20,421401.64,Spare Parts,East India,Tata Motors
-2023-06-12,62286.71,Commercial Vehicles,South India,Tata Motors
-2024-02-03,507642.69,Service Centers,South India,Tata Motors
-2023-06-19,424439.88,Commercial Vehicles,East India,Tata Motors
-2023-11-04,316341.12,Spare Parts,North India,Tata Motors
-2024-01-31,328931.14,Passenger Vehicles,Central India,Tata Motors
-2024-09-02,529778.82,Commercial Vehicles,Central India,Tata Motors
-2024-01-29,183015.11,Commercial Vehicles,East India,Tata Motors
-2023-09-21,483258.06,Commercial Vehicles,East India,Tata Motors
-2024-02-03,94840.39,Spare Parts,East India,Tata Motors
-2024-03-27,293271.97,Spare Parts,East India,Tata Motors
-2023-09-27,324474.24,Spare Parts,West India,Tata Motors
-2023-02-16,472231.20,Commercial Vehicles,West India,Tata Motors
-2024-10-02,132135.46,Service Centers,South India,Tata Motors
-2023-01-29,320640.96,Service Centers,East India,Tata Motors
-2023-03-05,504229.80,Commercial Vehicles,West India,Tata Motors
-2024-07-09,414657.62,Commercial Vehicles,East India,Tata Motors
-2024-03-08,241251.97,Spare Parts,South India,Tata Motors
-2023-12-31,528835.56,Service Centers,East India,Tata Motors
-2024-04-17,128473.09,Commercial Vehicles,East India,Tata Motors
-2023-11-30,438860.99,Passenger Vehicles,South India,Tata Motors
-2023-07-03,101092.09,Commercial Vehicles,East India,Tata Motors
-2024-11-20,160145.88,Commercial Vehicles,South India,Tata Motors
-2023-02-12,275389.55,Commercial Vehicles,West India,Tata Motors
-2023-08-02,514652.12,Passenger Vehicles,Central India,Tata Motors
-2023-11-02,180443.26,Service Centers,South India,Tata Motors
-2023-02-21,288172.27,Spare Parts,East India,Tata Motors
-2024-08-17,196245.06,Service Centers,West India,Tata Motors
-2023-02-19,82474.68,Commercial Vehicles,East India,Tata Motors
-2024-11-14,513547.80,Spare Parts,East India,Tata Motors
-2024-09-10,79114.92,Service Centers,East India,Tata Motors
-2023-11-22,527326.63,Service Centers,West India,Tata Motors
-2024-01-11,255099.12,Commercial Vehicles,North India,Tata Motors
-2023-04-16,394402.11,Passenger Vehicles,Central India,Tata Motors
-2023-07-02,491364.29,Commercial Vehicles,West India,Tata Motors
-2023-06-23,475200.01,Passenger Vehicles,Central India,Tata Motors
-2023-12-29,180402.14,Commercial Vehicles,South India,Tata Motors
-2023-03-27,358899.03,Commercial Vehicles,East India,Tata Motors
-2023-07-16,153396.66,Spare Parts,North India,Tata Motors
-2024-06-15,448665.63,Service Centers,Central India,Tata Motors
-2023-01-15,480298.94,Spare Parts,North India,Tata Motors
-2024-07-05,217134.85,Passenger Vehicles,East India,Tata Motors
-2023-11-25,446747.51,Commercial Vehicles,West India,Tata Motors
-2023-05-20,495781.25,Spare Parts,Central India,Tata Motors
-2024-06-12,390215.80,Spare Parts,East India,Tata Motors
-2023-09-15,168970.04,Passenger Vehicles,South India,Tata Motors
-2024-12-13,495630.21,Commercial Vehicles,East India,Tata Motors
-2023-07-14,549083.71,Service Centers,East India,Tata Motors
-2024-12-09,191979.64,Commercial Vehicles,South India,Tata Motors
-2023-02-12,340263.75,Service Centers,South India,Tata Motors
-2024-03-25,458517.42,Commercial Vehicles,North India,Tata Motors
-2024-07-30,160697.86,Commercial Vehicles,Central India,Tata Motors
-2023-09-05,58310.18,Passenger Vehicles,Central India,Tata Motors
-2024-01-27,391892.11,Service Centers,West India,Tata Motors
-2024-09-29,433189.00,Commercial Vehicles,South India,Tata Motors
-2024-05-25,476649.52,Service Centers,North India,Tata Motors
-2024-05-19,322993.27,Service Centers,North India,Tata Motors
-2023-02-19,279252.07,Spare Parts,Central India,Tata Motors
-2023-06-04,283129.91,Commercial Vehicles,South India,Tata Motors
-2024-02-25,470568.00,Passenger Vehicles,East India,Tata Motors
-2024-03-14,246616.38,Passenger Vehicles,Central India,Tata Motors
-2024-05-18,366862.39,Spare Parts,South India,Tata Motors
-2024-05-13,255839.96,Service Centers,East India,Tata Motors
-2024-10-08,464079.41,Passenger Vehicles,East India,Tata Motors
-2024-08-19,140301.00,Commercial Vehicles,North India,Tata Motors
-2024-01-19,468363.90,Service Centers,West India,Tata Motors
-2023-03-13,423406.91,Spare Parts,North India,Tata Motors
-2024-03-13,119871.94,Passenger Vehicles,South India,Tata Motors
-2024-06-20,137544.66,Spare Parts,South India,Tata Motors
-2024-08-25,107321.29,Commercial Vehicles,North India,Tata Motors
-2024-07-07,261361.09,Spare Parts,Central India,Tata Motors
-2024-08-26,327386.88,Service Centers,West India,Tata Motors
-2023-05-27,139042.66,Spare Parts,South India,Tata Motors
-2023-08-21,200761.51,Commercial Vehicles,North India,Tata Motors
-2023-02-19,288872.68,Passenger Vehicles,West India,Tata Motors
-2023-02-08,164646.11,Spare Parts,South India,Tata Motors
-2024-09-09,529491.14,Commercial Vehicles,East India,Tata Motors
-2024-11-26,366493.38,Service Centers,East India,Tata Motors
-2024-08-27,468369.68,Passenger Vehicles,Central India,Tata Motors
-2023-11-08,379627.35,Commercial Vehicles,East India,Tata Motors
-2024-02-18,347117.26,Commercial Vehicles,North India,Tata Motors
-2023-03-12,546124.19,Service Centers,East India,Tata Motors
-2024-06-20,517058.77,Spare Parts,East India,Tata Motors
-2023-11-14,285462.99,Service Centers,South India,Tata Motors
-2024-11-23,152346.51,Commercial Vehicles,East India,Tata Motors
-2024-06-26,358857.34,Passenger Vehicles,West India,Tata Motors
-2024-11-23,538056.82,Service Centers,West India,Tata Motors
-2023-12-04,211464.44,Service Centers,North India,Tata Motors
-2024-02-12,532885.69,Service Centers,East India,Tata Motors
-2023-04-25,251652.36,Commercial Vehicles,West India,Tata Motors
-2023-08-24,119551.97,Service Centers,West India,Tata Motors
-2024-04-12,304460.51,Commercial Vehicles,Central India,Tata Motors
-2023-04-05,89771.60,Commercial Vehicles,North India,Tata Motors
-2024-12-30,468628.04,Commercial Vehicles,South India,Tata Motors
-2023-12-11,312985.09,Passenger Vehicles,Central India,Tata Motors
-2024-09-20,264632.89,Spare Parts,West India,Tata Motors
-2023-09-16,543367.87,Spare Parts,East India,Tata Motors
-2023-05-27,63325.31,Commercial Vehicles,East India,Tata Motors
-2024-12-11,540206.34,Spare Parts,South India,Tata Motors
-2024-11-06,342993.68,Service Centers,West India,Tata Motors
-2023-10-02,497664.15,Commercial Vehicles,West India,Tata Motors
-2023-02-21,136125.77,Service Centers,West India,Tata Motors
-2024-02-01,459358.06,Passenger Vehicles,South India,Tata Motors
-2023-12-02,101474.94,Passenger Vehicles,West India,Tata Motors
-2023-03-24,380362.05,Passenger Vehicles,South India,Tata Motors
-2024-08-27,475956.32,Passenger Vehicles,Central India,Tata Motors
-2023-02-14,423940.43,Spare Parts,Central India,Tata Motors
-2023-11-02,131106.28,Service Centers,West India,Tata Motors
-2023-04-13,340269.62,Commercial Vehicles,West India,Tata Motors
-2024-04-30,52794.39,Passenger Vehicles,East India,Tata Motors
-2024-03-11,124814.45,Commercial Vehicles,Central India,Tata Motors
-2023-09-25,244220.18,Spare Parts,Central India,Tata Motors
-2023-09-09,183336.90,Passenger Vehicles,East India,Tata Motors
-2023-09-11,267505.77,Service Centers,Central India,Tata Motors
-2024-02-05,87013.50,Service Centers,East India,Tata Motors
-2023-10-08,478715.72,Service Centers,East India,Tata Motors
-2023-09-19,361246.35,Spare Parts,Central India,Tata Motors
-2023-09-09,522159.16,Service Centers,West India,Tata Motors
-2023-02-16,148848.55,Spare Parts,North India,Tata Motors
-2023-11-14,210703.19,Commercial Vehicles,West India,Tata Motors
-2024-08-16,261764.34,Commercial Vehicles,North India,Tata Motors
-2024-06-25,259269.94,Commercial Vehicles,North India,Tata Motors
-2023-02-15,62046.49,Passenger Vehicles,East India,Tata Motors
-2023-12-10,366560.90,Commercial Vehicles,Central India,Tata Motors
-2024-04-10,391545.04,Passenger Vehicles,Central India,Tata Motors
-2024-06-21,383515.64,Service Centers,South India,Tata Motors
-2023-05-30,441138.48,Passenger Vehicles,North India,Tata Motors
-2023-01-20,264100.32,Commercial Vehicles,North India,Tata Motors
-2024-01-15,154300.36,Passenger Vehicles,East India,Tata Motors
-2023-07-28,333487.36,Commercial Vehicles,South India,Tata Motors
-2024-01-12,64248.66,Spare Parts,West India,Tata Motors
-2024-11-07,422176.38,Spare Parts,North India,Tata Motors
-2024-04-23,356597.72,Service Centers,Central India,Tata Motors
-2024-04-28,477618.13,Service Centers,East India,Tata Motors
-2024-12-03,491344.77,Commercial Vehicles,South India,Tata Motors
-2024-06-19,350470.84,Commercial Vehicles,West India,Tata Motors
-2023-04-24,296026.25,Spare Parts,East India,Tata Motors
-2024-03-13,360879.55,Commercial Vehicles,Central India,Tata Motors
-2024-08-11,354405.94,Service Centers,North India,Tata Motors
-2023-07-19,496164.65,Passenger Vehicles,South India,Tata Motors
-2024-03-14,90384.88,Service Centers,Central India,Tata Motors
-2024-03-29,362560.67,Passenger Vehicles,East India,Tata Motors
-2024-09-14,517764.57,Service Centers,South India,Tata Motors
-2024-01-09,386435.22,Commercial Vehicles,North India,Tata Motors
-2023-05-23,119697.20,Commercial Vehicles,South India,Tata Motors
-2023-09-12,106658.89,Passenger Vehicles,North India,Tata Motors
-2023-01-26,260202.83,Service Centers,East India,Tata Motors
-2024-10-14,220210.76,Commercial Vehicles,North India,Tata Motors
-2024-03-07,145226.50,Spare Parts,North India,Tata Motors
-2024-01-29,288713.80,Commercial Vehicles,East India,Tata Motors
-2024-10-09,304523.39,Passenger Vehicles,North India,Tata Motors
-2023-10-21,259528.81,Service Centers,South India,Tata Motors
-2024-02-01,269594.58,Commercial Vehicles,East India,Tata Motors
-2024-01-24,367539.83,Commercial Vehicles,East India,Tata Motors
-2023-05-23,100551.31,Commercial Vehicles,South India,Tata Motors
-2024-05-05,117339.94,Commercial Vehicles,West India,Tata Motors
-2024-04-20,137287.32,Spare Parts,East India,Tata Motors
-2023-04-27,420955.23,Service Centers,North India,Tata Motors
-2024-05-06,439359.02,Passenger Vehicles,Central India,Tata Motors
-2024-04-11,70499.79,Spare Parts,Central India,Tata Motors
-2023-09-10,74929.98,Commercial Vehicles,South India,Tata Motors
-2024-11-05,217408.88,Passenger Vehicles,Central India,Tata Motors
-2023-11-05,507261.70,Commercial Vehicles,South India,Tata Motors
-2023-04-30,234703.43,Service Centers,South India,Tata Motors
-2023-07-23,509262.90,Passenger Vehicles,East India,Tata Motors
-2024-03-14,60838.27,Spare Parts,West India,Tata Motors
-2023-04-06,508784.64,Spare Parts,South India,Tata Motors
-2024-08-25,198379.97,Spare Parts,North India,Tata Motors
-2024-12-20,198356.65,Passenger Vehicles,South India,Tata Motors
-2024-05-10,477705.18,Passenger Vehicles,South India,Tata Motors
-2024-01-11,334900.18,Service Centers,Central India,Tata Motors
-2023-11-01,151196.27,Service Centers,West India,Tata Motors
-2023-07-19,479051.46,Commercial Vehicles,South India,Tata Motors
-2024-09-04,525468.84,Spare Parts,South India,Tata Motors
-2023-12-08,196080.40,Passenger Vehicles,East India,Tata Motors
-2024-04-17,417829.89,Commercial Vehicles,West India,Tata Motors
-2024-04-05,124574.30,Spare Parts,West India,Tata Motors
-2024-09-25,264558.66,Passenger Vehicles,East India,Tata Motors
-2023-09-14,498309.08,Spare Parts,South India,Tata Motors
-2024-12-05,479051.31,Service Centers,East India,Tata Motors
-2024-03-06,236541.89,Passenger Vehicles,Central India,Tata Motors
-2023-06-07,322869.79,Spare Parts,North India,Tata Motors
-2024-11-23,301888.29,Commercial Vehicles,South India,Tata Motors
-2024-09-13,305593.43,Spare Parts,North India,Tata Motors
-2024-04-15,435336.43,Spare Parts,Central India,Tata Motors
-2023-07-07,265846.88,Passenger Vehicles,North India,Tata Motors
-2024-04-25,225362.83,Passenger Vehicles,East India,Tata Motors
-2023-09-03,235166.39,Service Centers,South India,Tata Motors
-2023-07-24,425783.79,Passenger Vehicles,Central India,Tata Motors
-2024-11-09,205259.27,Commercial Vehicles,North India,Tata Motors
-2024-10-27,350770.00,Commercial Vehicles,Central India,Tata Motors
-2023-07-29,541843.48,Service Centers,West India,Tata Motors
-2024-02-04,416303.65,Spare Parts,North India,Tata Motors
-2024-11-25,304965.27,Spare Parts,West India,Tata Motors
-2023-12-10,323154.46,Passenger Vehicles,West India,Tata Motors
-2024-11-05,447352.01,Spare Parts,West India,Tata Motors
-2024-12-01,484554.26,Service Centers,Central India,Tata Motors
-2024-02-11,224133.90,Commercial Vehicles,South India,Tata Motors
-2023-12-22,528995.91,Commercial Vehicles,East India,Tata Motors
-2023-12-25,145502.31,Commercial Vehicles,North India,Tata Motors
-2024-06-17,401809.15,Service Centers,West India,Tata Motors
-2024-01-15,234387.47,Passenger Vehicles,West India,Tata Motors
-2023-01-08,352820.68,Commercial Vehicles,North India,Tata Motors
-2024-04-03,534434.63,Service Centers,North India,Tata Motors
-2024-10-31,181901.00,Passenger Vehicles,North India,Tata Motors
-2024-06-22,390820.39,Commercial Vehicles,East India,Tata Motors
-2024-01-09,508783.09,Passenger Vehicles,North India,Tata Motors
-2024-10-20,273599.94,Passenger Vehicles,West India,Tata Motors
-2024-07-23,342643.42,Passenger Vehicles,West India,Tata Motors
-2023-03-20,507876.04,Service Centers,West India,Tata Motors
-2024-08-07,275817.03,Service Centers,North India,Tata Motors
-2024-07-24,117380.07,Service Centers,Central India,Tata Motors
-2023-10-08,68137.37,Spare Parts,West India,Tata Motors
-2023-07-15,432179.27,Spare Parts,North India,Tata Motors
-2024-03-01,458362.00,Commercial Vehicles,North India,Tata Motors
-2023-03-13,358550.27,Service Centers,East India,Tata Motors
-2023-11-06,419972.09,Service Centers,North India,Tata Motors
-2023-05-01,496837.71,Commercial Vehicles,Central India,Tata Motors
-2024-02-02,362127.58,Commercial Vehicles,West India,Tata Motors
-2023-01-22,228452.61,Commercial Vehicles,West India,Tata Motors
-2023-11-07,252628.89,Commercial Vehicles,West India,Tata Motors
-2024-05-28,365972.19,Spare Parts,Central India,Tata Motors
-2024-05-22,83848.25,Spare Parts,Central India,Tata Motors
-2024-07-08,317192.76,Spare Parts,South India,Tata Motors
-2024-06-04,102200.91,Spare Parts,South India,Tata Motors
-2023-05-22,480329.37,Spare Parts,East India,Tata Motors
-2023-08-15,210889.84,Commercial Vehicles,North India,Tata Motors
-2024-02-23,227780.32,Spare Parts,South India,Tata Motors
-2023-07-17,415334.85,Passenger Vehicles,South India,Tata Motors
-2023-02-22,252998.48,Passenger Vehicles,South India,Tata Motors
-2024-05-21,176046.10,Spare Parts,East India,Tata Motors
-2023-07-12,458973.63,Spare Parts,West India,Tata Motors
-2023-05-25,502114.91,Spare Parts,South India,Tata Motors
-2023-06-27,85435.56,Commercial Vehicles,East India,Tata Motors
-2023-02-26,132471.07,Spare Parts,East India,Tata Motors
-2024-03-13,81321.11,Service Centers,North India,Tata Motors
-2024-10-12,53187.41,Commercial Vehicles,West India,Tata Motors
-2024-07-20,493860.63,Service Centers,East India,Tata Motors
-2023-01-05,310034.15,Service Centers,Central India,Tata Motors
-2024-02-14,489176.19,Spare Parts,Central India,Tata Motors
-2024-03-19,461748.09,Spare Parts,West India,Tata Motors
-2024-07-27,408863.34,Commercial Vehicles,West India,Tata Motors
-2023-09-19,51022.99,Spare Parts,East India,Tata Motors
-2023-09-11,350834.99,Commercial Vehicles,West India,Tata Motors
-2023-11-13,210295.46,Service Centers,South India,Tata Motors
-2023-06-22,365019.65,Spare Parts,North India,Tata Motors
-2024-12-25,294640.38,Commercial Vehicles,East India,Tata Motors
-2024-01-08,348257.33,Spare Parts,North India,Tata Motors
-2023-12-26,84593.90,Commercial Vehicles,South India,Tata Motors
-2023-03-25,86336.97,Passenger Vehicles,Central India,Tata Motors
-2024-03-25,177445.36,Spare Parts,North India,Tata Motors
-2024-09-14,478513.77,Passenger Vehicles,South India,Tata Motors
-2023-07-21,52367.38,Commercial Vehicles,North India,Tata Motors
-2024-05-05,97101.59,Spare Parts,East India,Tata Motors
-2024-09-28,172374.93,Passenger Vehicles,Central India,Tata Motors
-2023-01-06,396462.62,Service Centers,West India,Tata Motors
-2024-08-11,137527.52,Commercial Vehicles,South India,Tata Motors
-2024-03-12,250992.15,Commercial Vehicles,South India,Tata Motors
-2023-01-21,114812.93,Service Centers,West India,Tata Motors
-2023-09-03,415963.30,Spare Parts,South India,Tata Motors
-2023-12-22,513335.02,Commercial Vehicles,East India,Tata Motors
-2024-11-14,542732.73,Spare Parts,West India,Tata Motors
-2023-03-08,188195.33,Spare Parts,North India,Tata Motors
-2023-04-16,381888.59,Spare Parts,North India,Tata Motors
-2023-08-29,254161.60,Spare Parts,Central India,Tata Motors
-2024-04-29,328782.36,Service Centers,Central India,Tata Motors
-2023-01-25,359415.46,Passenger Vehicles,North India,Tata Motors
-2023-06-07,457256.60,Passenger Vehicles,North India,Tata Motors
-2024-08-05,345864.78,Service Centers,East India,Tata Motors
-2023-02-11,464639.27,Passenger Vehicles,South India,Tata Motors
-2024-07-19,325705.58,Passenger Vehicles,Central India,Tata Motors
-2023-03-05,128001.43,Service Centers,East India,Tata Motors
-2023-01-07,97313.30,Passenger Vehicles,North India,Tata Motors
-2023-08-02,162150.21,Commercial Vehicles,North India,Tata Motors
-2024-09-24,232550.53,Spare Parts,West India,Tata Motors
-2023-02-13,470916.14,Service Centers,West India,Tata Motors
-2023-11-06,351030.35,Passenger Vehicles,South India,Tata Motors
-2023-06-20,300110.08,Service Centers,North India,Tata Motors
-2024-10-27,386590.97,Service Centers,West India,Tata Motors
-2023-08-20,151967.55,Commercial Vehicles,West India,Tata Motors
-2023-02-18,79427.81,Passenger Vehicles,West India,Tata Motors
-2024-01-19,121950.08,Passenger Vehicles,East India,Tata Motors
-2024-06-29,142884.46,Spare Parts,Central India,Tata Motors
-2024-09-20,160317.77,Service Centers,East India,Tata Motors
-2024-12-22,510470.16,Passenger Vehicles,South India,Tata Motors
-2023-09-10,196982.93,Passenger Vehicles,North India,Tata Motors
-2023-06-05,365011.60,Service Centers,West India,Tata Motors
-2023-12-06,330724.85,Passenger Vehicles,Central India,Tata Motors
-2023-02-17,196776.00,Passenger Vehicles,South India,Tata Motors
-2023-08-08,453860.62,Passenger Vehicles,Central India,Tata Motors
-2024-10-01,283804.91,Spare Parts,North India,Tata Motors
-2023-07-19,237250.79,Service Centers,North India,Tata Motors
-2024-06-06,309329.38,Passenger Vehicles,Central India,Tata Motors
-2024-12-11,452697.61,Passenger Vehicles,Central India,Tata Motors
-2023-08-17,457618.72,Commercial Vehicles,East India,Tata Motors
-2023-04-22,189758.40,Service Centers,North India,Tata Motors
-2024-02-06,534368.28,Service Centers,North India,Tata Motors
-2023-07-19,227682.40,Commercial Vehicles,East India,Tata Motors
-2023-05-14,130358.10,Spare Parts,West India,Tata Motors
-2023-03-28,260036.33,Service Centers,East India,Tata Motors
-2023-05-23,144784.23,Commercial Vehicles,North India,Tata Motors
-2024-01-28,441151.98,Service Centers,North India,Tata Motors
-2023-07-22,420628.89,Service Centers,East India,Tata Motors
-2024-08-03,532527.10,Commercial Vehicles,North India,Tata Motors
-2024-06-21,450813.18,Service Centers,Central India,Tata Motors
-2024-07-24,415371.62,Spare Parts,Central India,Tata Motors
-2023-10-15,470695.75,Spare Parts,East India,Tata Motors
-2024-02-14,104972.65,Passenger Vehicles,West India,Tata Motors
-2024-05-15,452340.70,Commercial Vehicles,East India,Tata Motors
-2024-10-28,506350.83,Service Centers,South India,Tata Motors
-2023-12-27,415610.96,Spare Parts,Central India,Tata Motors
-2024-09-10,165352.46,Passenger Vehicles,South India,Tata Motors
-2023-12-20,51248.73,Passenger Vehicles,North India,Tata Motors
-2024-09-14,403911.36,Commercial Vehicles,North India,Tata Motors
-2024-05-26,139268.32,Spare Parts,West India,Tata Motors
-2023-08-28,132806.69,Passenger Vehicles,Central India,Tata Motors
-2024-07-19,86737.68,Passenger Vehicles,North India,Tata Motors
-2023-01-30,486738.78,Commercial Vehicles,East India,Tata Motors
-2024-03-16,418761.79,Service Centers,North India,Tata Motors
-2023-08-14,201924.08,Commercial Vehicles,West India,Tata Motors
-2024-08-04,282786.80,Spare Parts,West India,Tata Motors
-2023-12-05,255149.64,Service Centers,North India,Tata Motors
-2023-08-22,448000.04,Passenger Vehicles,North India,Tata Motors
-2024-12-08,533969.03,Passenger Vehicles,West India,Tata Motors
-2024-01-24,498324.72,Spare Parts,West India,Tata Motors
-2024-06-19,351310.75,Passenger Vehicles,West India,Tata Motors
-2023-10-14,453422.36,Commercial Vehicles,West India,Tata Motors
-2023-06-12,77690.56,Service Centers,North India,Tata Motors
-2023-01-14,338387.04,Passenger Vehicles,Central India,Tata Motors
-2024-10-05,175491.22,Commercial Vehicles,North India,Tata Motors
-2024-06-29,214751.55,Service Centers,South India,Tata Motors
-2024-10-06,270793.40,Spare Parts,East India,Tata Motors
-2024-09-06,265310.56,Commercial Vehicles,East India,Tata Motors
-2024-05-09,539125.12,Spare Parts,North India,Tata Motors
-2023-12-01,430262.47,Service Centers,East India,Tata Motors
-2024-04-27,458883.34,Service Centers,West India,Tata Motors
-2024-09-05,175099.08,Commercial Vehicles,North India,Tata Motors
-2024-09-08,58462.55,Spare Parts,South India,Tata Motors
-2024-12-14,374808.90,Service Centers,East India,Tata Motors
-2024-05-05,483443.72,Passenger Vehicles,South India,Tata Motors
-2024-11-27,374802.46,Commercial Vehicles,West India,Tata Motors
-2023-06-05,104169.03,Passenger Vehicles,South India,Tata Motors
-2024-10-29,255986.25,Passenger Vehicles,South India,Tata Motors
-2023-10-09,279473.31,Commercial Vehicles,South India,Tata Motors
-2024-01-23,389089.54,Commercial Vehicles,North India,Tata Motors
-2024-04-26,269241.68,Commercial Vehicles,South India,Tata Motors
-2024-10-09,232519.91,Spare Parts,South India,Tata Motors
-2023-04-06,338036.28,Commercial Vehicles,South India,Tata Motors
-2024-12-05,304391.79,Spare Parts,West India,Tata Motors
-2024-05-23,278509.75,Commercial Vehicles,North India,Tata Motors
-2024-05-02,400821.98,Commercial Vehicles,Central India,Tata Motors
-2023-01-17,308813.76,Service Centers,Central India,Tata Motors
-2023-03-15,383802.30,Commercial Vehicles,East India,Tata Motors
-2023-01-30,110183.85,Commercial Vehicles,Central India,Tata Motors
-2023-10-15,392554.64,Commercial Vehicles,Central India,Tata Motors
-2024-11-07,110212.50,Commercial Vehicles,North India,Tata Motors
-2023-06-14,221197.98,Commercial Vehicles,Central India,Tata Motors
-2023-07-06,253199.91,Service Centers,West India,Tata Motors
-2024-01-08,301302.10,Passenger Vehicles,West India,Tata Motors
-2024-04-03,191748.56,Passenger Vehicles,West India,Tata Motors
-2023-11-09,83085.99,Commercial Vehicles,West India,Tata Motors
-2023-12-02,213411.59,Passenger Vehicles,West India,Tata Motors
-2023-01-31,110193.55,Commercial Vehicles,North India,Tata Motors
-2023-04-21,92035.89,Service Centers,North India,Tata Motors
-2023-02-21,311474.34,Passenger Vehicles,Central India,Tata Motors
-2024-06-05,418444.56,Spare Parts,East India,Tata Motors
-2024-12-04,518096.40,Commercial Vehicles,South India,Tata Motors
-2024-06-05,476041.92,Passenger Vehicles,West India,Tata Motors
-2023-09-16,433364.98,Service Centers,Central India,Tata Motors
-2023-01-19,437517.52,Service Centers,East India,Tata Motors
-2023-02-01,466684.29,Service Centers,West India,Tata Motors
-2023-10-04,73896.21,Passenger Vehicles,East India,Tata Motors
-2023-06-24,359720.15,Passenger Vehicles,East India,Tata Motors
-2023-12-08,287574.19,Passenger Vehicles,North India,Tata Motors
-2023-06-27,234503.46,Commercial Vehicles,Central India,Tata Motors
-2023-12-20,435500.21,Passenger Vehicles,South India,Tata Motors
-2023-01-24,430159.60,Service Centers,South India,Tata Motors
-2023-06-13,355490.79,Commercial Vehicles,West India,Tata Motors
-2023-04-18,129176.25,Spare Parts,North India,Tata Motors
-2024-06-11,65040.14,Commercial Vehicles,East India,Tata Motors
-2023-07-29,293573.39,Passenger Vehicles,East India,Tata Motors
-2024-06-14,164503.98,Spare Parts,Central India,Tata Motors
-2023-10-12,350876.09,Commercial Vehicles,West India,Tata Motors
-2024-11-21,269319.42,Spare Parts,Central India,Tata Motors
-2024-07-05,161299.22,Service Centers,North India,Tata Motors
-2023-05-02,429567.43,Spare Parts,West India,Tata Motors
-2024-12-19,166820.48,Passenger Vehicles,Central India,Tata Motors
-2024-12-29,160025.71,Service Centers,South India,Tata Motors
-2024-10-18,509306.55,Commercial Vehicles,North India,Tata Motors
-2024-01-21,450219.23,Commercial Vehicles,Central India,Tata Motors
-2024-08-14,413702.75,Passenger Vehicles,South India,Tata Motors
-2023-05-21,466747.49,Service Centers,West India,Tata Motors
-2024-06-15,385014.32,Commercial Vehicles,Central India,Tata Motors
-2024-07-22,90586.72,Commercial Vehicles,South India,Tata Motors
-2024-10-30,513684.01,Passenger Vehicles,West India,Tata Motors
-2024-04-16,223201.04,Commercial Vehicles,East India,Tata Motors
-2024-02-19,215856.58,Spare Parts,North India,Tata Motors
-2023-12-01,182591.85,Service Centers,North India,Tata Motors
-2024-02-24,274136.04,Spare Parts,North India,Tata Motors
-2024-02-07,340460.17,Commercial Vehicles,East India,Tata Motors
-2023-09-06,358760.51,Spare Parts,North India,Tata Motors
-2024-06-14,155744.16,Spare Parts,West India,Tata Motors
-2023-09-15,67976.82,Service Centers,Central India,Tata Motors
-2024-02-09,271685.84,Service Centers,East India,Tata Motors
-2024-10-05,86103.57,Spare Parts,South India,Tata Motors
-2023-04-01,298241.85,Service Centers,West India,Tata Motors
-2024-08-30,286458.92,Passenger Vehicles,West India,Tata Motors
-2024-06-18,168078.00,Passenger Vehicles,West India,Tata Motors
-2024-09-06,78992.60,Service Centers,East India,Tata Motors
-2023-11-16,132727.27,Commercial Vehicles,North India,Tata Motors
-2023-09-14,390363.86,Commercial Vehicles,Central India,Tata Motors
-2023-08-31,278032.65,Passenger Vehicles,East India,Tata Motors
-2023-08-10,300919.30,Spare Parts,South India,Tata Motors
-2023-07-04,521072.91,Commercial Vehicles,West India,Tata Motors
-2024-11-06,204985.15,Passenger Vehicles,East India,Tata Motors
-2023-08-24,60066.70,Spare Parts,East India,Tata Motors
-2023-03-20,84112.00,Commercial Vehicles,East India,Tata Motors
-2024-07-17,228364.51,Passenger Vehicles,North India,Tata Motors
-2024-03-14,548897.22,Commercial Vehicles,North India,Tata Motors
-2023-01-02,276600.26,Service Centers,South India,Tata Motors
-2024-05-26,214230.09,Spare Parts,East India,Tata Motors
-2024-08-11,269015.25,Spare Parts,West India,Tata Motors
-2024-10-06,379491.85,Service Centers,Central India,Tata Motors
-2024-02-16,381952.92,Spare Parts,Central India,Tata Motors
-2024-06-07,318793.57,Passenger Vehicles,Central India,Tata Motors
-2023-10-23,490436.98,Commercial Vehicles,West India,Tata Motors
-2023-02-08,249511.57,Passenger Vehicles,Central India,Tata Motors
-2024-05-28,190480.94,Commercial Vehicles,Central India,Tata Motors
-2024-10-04,83371.75,Passenger Vehicles,West India,Tata Motors
-2023-02-17,189988.72,Spare Parts,North India,Tata Motors
-2024-12-08,455285.73,Service Centers,North India,Tata Motors
-2023-12-04,137150.41,Service Centers,East India,Tata Motors
-2024-07-02,133470.50,Commercial Vehicles,Central India,Tata Motors
-2023-12-11,219945.82,Commercial Vehicles,North India,Tata Motors
-2023-09-20,493469.69,Service Centers,North India,Tata Motors
-2024-03-08,356792.74,Spare Parts,East India,Tata Motors
-2024-12-20,144999.65,Commercial Vehicles,West India,Tata Motors
-2024-06-08,500776.33,Service Centers,West India,Tata Motors
-2023-07-09,178653.27,Spare Parts,Central India,Tata Motors
-2024-09-26,231847.53,Spare Parts,North India,Tata Motors
-2023-05-22,475876.49,Passenger Vehicles,East India,Tata Motors
-2024-09-27,437688.07,Spare Parts,Central India,Tata Motors
-2024-11-12,464471.74,Service Centers,East India,Tata Motors
-2023-05-28,278335.57,Spare Parts,North India,Tata Motors
-2023-11-14,476687.40,Commercial Vehicles,North India,Tata Motors
-2024-02-04,248116.36,Passenger Vehicles,North India,Tata Motors
-2024-06-15,257650.83,Passenger Vehicles,South India,Tata Motors
-2023-10-06,65876.07,Service Centers,Central India,Tata Motors
-2023-04-17,242411.46,Passenger Vehicles,East India,Tata Motors
-2024-09-18,429368.99,Commercial Vehicles,South India,Tata Motors
-2024-08-02,367027.99,Commercial Vehicles,West India,Tata Motors
-2024-03-12,109440.15,Commercial Vehicles,East India,Tata Motors
-2024-08-12,418748.43,Spare Parts,Central India,Tata Motors
-2024-02-12,383159.98,Passenger Vehicles,East India,Tata Motors
-2023-04-27,420057.23,Service Centers,East India,Tata Motors
-2023-11-05,77288.55,Passenger Vehicles,Central India,Tata Motors
-2023-07-25,233727.43,Commercial Vehicles,South India,Tata Motors
-2023-03-17,468210.27,Service Centers,Central India,Tata Motors
-2024-01-15,451212.32,Passenger Vehicles,South India,Tata Motors
-2023-10-05,207400.39,Passenger Vehicles,East India,Tata Motors
-2023-04-21,155255.69,Spare Parts,East India,Tata Motors
-2024-07-09,262210.64,Passenger Vehicles,North India,Tata Motors
-2024-01-01,282474.08,Commercial Vehicles,West India,Tata Motors
-2024-03-22,499382.00,Service Centers,East India,Tata Motors
-2024-12-03,477880.45,Commercial Vehicles,West India,Tata Motors
-2023-11-29,224957.37,Spare Parts,East India,Tata Motors
-2024-02-23,358761.45,Passenger Vehicles,East India,Tata Motors
-2023-07-20,245599.76,Service Centers,West India,Tata Motors
-2024-11-18,323648.55,Passenger Vehicles,Central India,Tata Motors
-2024-07-11,108832.47,Commercial Vehicles,Central India,Tata Motors
-2023-05-30,447147.36,Passenger Vehicles,South India,Tata Motors
-2024-04-27,536728.13,Service Centers,East India,Tata Motors
-2024-08-11,481233.02,Service Centers,East India,Tata Motors
-2023-08-20,545061.09,Spare Parts,West India,Tata Motors
-2023-08-07,328058.10,Commercial Vehicles,North India,Tata Motors
-2023-09-19,472928.67,Commercial Vehicles,Central India,Tata Motors
-2024-03-28,283510.33,Passenger Vehicles,West India,Tata Motors
-2023-05-09,185672.39,Service Centers,West India,Tata Motors
-2024-04-01,273574.52,Passenger Vehicles,West India,Tata Motors
-2024-10-09,215051.46,Passenger Vehicles,South India,Tata Motors
-2023-06-08,353124.31,Commercial Vehicles,East India,Tata Motors
-2023-05-26,286676.38,Spare Parts,West India,Tata Motors
-2023-06-19,246338.69,Commercial Vehicles,East India,Tata Motors
-2024-12-18,138815.49,Spare Parts,West India,Tata Motors
-2023-08-08,453956.30,Spare Parts,East India,Tata Motors
-2023-12-15,394082.61,Commercial Vehicles,South India,Tata Motors
-2024-06-27,358040.33,Passenger Vehicles,South India,Tata Motors
-2023-12-01,100321.77,Commercial Vehicles,West India,Tata Motors
-2023-01-11,206079.23,Service Centers,East India,Tata Motors
-2024-05-05,88138.94,Spare Parts,Central India,Tata Motors
-2023-04-17,167108.27,Spare Parts,East India,Tata Motors
-2024-11-20,473616.39,Commercial Vehicles,Central India,Tata Motors
-2023-03-26,75122.39,Passenger Vehicles,East India,Tata Motors
-2023-06-09,510267.58,Commercial Vehicles,South India,Tata Motors
-2024-02-19,301758.41,Service Centers,West India,Tata Motors
-2024-07-06,178081.22,Spare Parts,Central India,Tata Motors
-2023-09-09,298718.20,Commercial Vehicles,South India,Tata Motors
-2023-03-04,475207.12,Spare Parts,South India,Tata Motors
-2023-07-10,108598.16,Passenger Vehicles,South India,Tata Motors
-2023-02-19,155164.25,Spare Parts,Central India,Tata Motors
-2023-01-19,206851.93,Spare Parts,North India,Tata Motors
-2024-07-07,346895.83,Service Centers,South India,Tata Motors
-2024-07-29,135033.05,Service Centers,West India,Tata Motors
-2023-02-07,335337.34,Service Centers,West India,Tata Motors
-2023-02-20,158028.68,Passenger Vehicles,South India,Tata Motors
-2024-01-07,536050.86,Passenger Vehicles,East India,Tata Motors
-2024-11-17,480237.03,Commercial Vehicles,West India,Tata Motors
-2023-01-06,73444.22,Passenger Vehicles,East India,Tata Motors
-2023-05-24,444428.47,Passenger Vehicles,South India,Tata Motors
-2024-12-30,125819.73,Passenger Vehicles,North India,Tata Motors
-2023-08-22,355510.34,Passenger Vehicles,South India,Tata Motors
-2024-07-29,194199.96,Spare Parts,South India,Tata Motors
-2024-03-29,542492.70,Commercial Vehicles,South India,Tata Motors
-2023-08-27,51050.86,Service Centers,West India,Tata Motors
-2023-01-09,160107.54,Commercial Vehicles,Central India,Tata Motors
-2023-09-23,410193.79,Service Centers,North India,Tata Motors
-2024-01-11,451043.25,Service Centers,North India,Tata Motors
-2024-08-26,491233.89,Passenger Vehicles,East India,Tata Motors
-2023-03-22,71887.93,Spare Parts,West India,Tata Motors
-2024-10-10,209720.48,Commercial Vehicles,South India,Tata Motors
-2023-10-23,375064.36,Spare Parts,South India,Tata Motors
-2023-03-11,172253.45,Spare Parts,West India,Tata Motors
-2024-01-21,426443.65,Commercial Vehicles,Central India,Tata Motors
-2024-02-11,57398.63,Passenger Vehicles,West India,Tata Motors
-2023-05-03,129931.83,Commercial Vehicles,North India,Tata Motors
-2023-01-17,290503.93,Passenger Vehicles,West India,Tata Motors
-2023-02-01,50679.60,Commercial Vehicles,Central India,Tata Motors
-2024-10-10,180708.24,Commercial Vehicles,North India,Tata Motors
-2024-03-10,68377.28,Service Centers,East India,Tata Motors
-2024-07-02,449348.05,Commercial Vehicles,East India,Tata Motors
-2024-12-02,189364.94,Spare Parts,South India,Tata Motors
-2023-01-10,369103.66,Commercial Vehicles,North India,Tata Motors
-2024-04-26,268621.67,Passenger Vehicles,East India,Tata Motors
-2023-04-13,529361.34,Service Centers,Central India,Tata Motors
-2024-12-20,96587.90,Spare Parts,East India,Tata Motors
-2024-10-10,271406.88,Spare Parts,South India,Tata Motors
-2023-10-20,496868.47,Passenger Vehicles,Central India,Tata Motors
-2023-06-29,280517.66,Commercial Vehicles,West India,Tata Motors
-2023-05-19,434435.48,Service Centers,South India,Tata Motors
-2023-02-18,328387.77,Passenger Vehicles,Central India,Tata Motors
-2024-07-16,202218.72,Service Centers,South India,Tata Motors
-2023-02-20,508627.81,Service Centers,West India,Tata Motors
-2023-06-26,314219.19,Passenger Vehicles,West India,Tata Motors
-2024-03-14,196985.43,Commercial Vehicles,West India,Tata Motors
-2024-06-23,145312.84,Service Centers,East India,Tata Motors
-2024-11-11,480360.71,Spare Parts,West India,Tata Motors
-2023-11-22,234354.06,Spare Parts,Central India,Tata Motors
-2023-11-10,534132.97,Spare Parts,East India,Tata Motors
-2023-05-24,480997.81,Commercial Vehicles,Central India,Tata Motors
-2023-08-03,234815.76,Commercial Vehicles,West India,Tata Motors
-2024-02-09,301963.54,Commercial Vehicles,West India,Tata Motors
-2024-10-28,547910.90,Passenger Vehicles,East India,Tata Motors
-2023-06-22,220298.51,Service Centers,East India,Tata Motors
-2023-01-07,112835.42,Commercial Vehicles,North India,Tata Motors
-2024-08-11,308948.08,Spare Parts,East India,Tata Motors
-2024-04-20,248942.80,Passenger Vehicles,West India,Tata Motors
-2024-05-11,467812.87,Commercial Vehicles,East India,Tata Motors
-2024-02-02,402214.24,Spare Parts,South India,Tata Motors
-2024-12-06,216354.30,Passenger Vehicles,South India,Tata Motors
-2023-04-29,90244.40,Service Centers,South India,Tata Motors
-2023-01-14,473551.25,Spare Parts,North India,Tata Motors
-2024-09-05,241900.05,Service Centers,West India,Tata Motors
-2024-04-18,334622.95,Passenger Vehicles,Central India,Tata Motors
-2023-09-13,479213.97,Commercial Vehicles,East India,Tata Motors
-2023-04-10,155042.48,Passenger Vehicles,South India,Tata Motors
-2024-08-14,288728.37,Service Centers,North India,Tata Motors
-2023-01-20,329602.26,Commercial Vehicles,South India,Tata Motors
-2024-08-13,415211.44,Passenger Vehicles,West India,Tata Motors
-2024-12-29,262174.85,Commercial Vehicles,South India,Tata Motors
-2024-05-13,463049.59,Commercial Vehicles,Central India,Tata Motors
-2023-06-05,489990.11,Service Centers,West India,Tata Motors
-2024-02-21,520746.45,Service Centers,South India,Tata Motors
-2024-03-24,181833.82,Service Centers,South India,Tata Motors
-2023-08-20,238791.54,Service Centers,East India,Tata Motors
-2024-07-09,352831.30,Service Centers,East India,Tata Motors
-2024-10-01,76189.59,Passenger Vehicles,Central India,Tata Motors
-2023-07-30,182379.64,Service Centers,North India,Tata Motors
-2024-04-05,54864.43,Commercial Vehicles,Central India,Tata Motors
-2023-08-10,225962.85,Service Centers,East India,Tata Motors
-2023-05-26,241649.43,Passenger Vehicles,Central India,Tata Motors
-2023-12-16,165898.11,Service Centers,North India,Tata Motors
-2023-06-16,206765.00,Commercial Vehicles,West India,Tata Motors
-2023-01-08,281762.70,Passenger Vehicles,North India,Tata Motors
-2024-07-19,183463.72,Spare Parts,Central India,Tata Motors
-2023-03-10,327953.24,Commercial Vehicles,East India,Tata Motors
-2024-04-29,544624.25,Service Centers,West India,Tata Motors
-2023-02-19,450627.26,Spare Parts,East India,Tata Motors
-2024-08-05,385266.88,Passenger Vehicles,South India,Tata Motors
-2024-09-07,162110.83,Service Centers,East India,Tata Motors
-2023-06-26,289693.71,Passenger Vehicles,East India,Tata Motors
-2024-07-22,308825.73,Passenger Vehicles,South India,Tata Motors
-2024-04-27,513606.06,Service Centers,West India,Tata Motors
-2024-10-23,221891.99,Passenger Vehicles,South India,Tata Motors
-2023-05-12,300247.18,Spare Parts,Central India,Tata Motors
-2024-11-13,180496.94,Commercial Vehicles,North India,Tata Motors
-2023-05-27,473605.79,Service Centers,West India,Tata Motors
-2023-09-06,498515.26,Passenger Vehicles,Central India,Tata Motors
-2024-09-14,467455.61,Commercial Vehicles,Central India,Tata Motors
-2024-03-15,521564.40,Commercial Vehicles,East India,Tata Motors
-2024-12-16,166458.91,Commercial Vehicles,West India,Tata Motors
-2024-04-08,421851.43,Service Centers,West India,Tata Motors
-2024-05-14,100208.36,Service Centers,Central India,Tata Motors
-2024-11-21,407062.86,Spare Parts,West India,Tata Motors
-2024-06-25,130067.53,Passenger Vehicles,South India,Tata Motors
-2024-11-18,502396.47,Passenger Vehicles,South India,Tata Motors
-2023-03-14,354308.10,Commercial Vehicles,West India,Tata Motors
-2023-02-23,451366.55,Commercial Vehicles,South India,Tata Motors
-2024-03-29,233905.46,Service Centers,East India,Tata Motors
-2023-04-18,436284.74,Passenger Vehicles,South India,Tata Motors
-2023-04-22,460057.58,Spare Parts,South India,Tata Motors
-2023-04-11,369174.99,Commercial Vehicles,Central India,Tata Motors
-2024-04-24,56039.88,Passenger Vehicles,West India,Tata Motors
-2024-07-04,204126.00,Commercial Vehicles,West India,Tata Motors
-2023-12-25,460386.80,Commercial Vehicles,North India,Tata Motors
-2024-06-17,280908.68,Service Centers,South India,Tata Motors
-2023-11-14,203450.52,Commercial Vehicles,South India,Tata Motors
-2023-06-30,180061.64,Service Centers,Central India,Tata Motors
-2024-02-26,527893.99,Passenger Vehicles,Central India,Tata Motors
-2024-05-27,327928.97,Spare Parts,South India,Tata Motors
-2024-09-21,438128.59,Spare Parts,South India,Tata Motors
-2023-02-22,170704.92,Passenger Vehicles,South India,Tata Motors
-2023-02-06,101913.88,Spare Parts,North India,Tata Motors
-2024-09-20,290953.18,Commercial Vehicles,West India,Tata Motors
-2023-03-19,411590.99,Commercial Vehicles,South India,Tata Motors
-2023-02-06,387033.26,Spare Parts,East India,Tata Motors
-2024-08-05,285389.60,Passenger Vehicles,North India,Tata Motors
-2024-02-22,175322.51,Service Centers,West India,Tata Motors
-2023-06-18,81443.03,Commercial Vehicles,Central India,Tata Motors
-2023-01-16,162201.56,Spare Parts,West India,Tata Motors
-2023-01-27,259922.54,Service Centers,South India,Tata Motors
-2023-06-24,328451.26,Spare Parts,South India,Tata Motors
-2023-05-28,502518.02,Passenger Vehicles,South India,Tata Motors
-2023-01-07,305001.24,Spare Parts,West India,Tata Motors
-2023-02-04,276236.09,Spare Parts,Central India,Tata Motors
-2024-07-25,299317.65,Spare Parts,North India,Tata Motors
-2023-02-18,83939.90,Spare Parts,East India,Tata Motors
-2024-06-05,503761.17,Spare Parts,North India,Tata Motors
-2024-12-02,437151.79,Service Centers,Central India,Tata Motors
-2024-06-13,510226.82,Commercial Vehicles,East India,Tata Motors
-2024-10-23,231784.32,Spare Parts,Central India,Tata Motors
-2023-09-08,536886.65,Service Centers,East India,Tata Motors
-2023-12-16,479066.97,Service Centers,West India,Tata Motors
-2024-11-03,340020.09,Spare Parts,West India,Tata Motors
-2023-07-14,89610.21,Service Centers,North India,Tata Motors
-2023-04-08,247697.24,Spare Parts,Central India,Tata Motors
-2024-01-26,90526.95,Spare Parts,West India,Tata Motors
-2023-02-24,100904.37,Passenger Vehicles,East India,Tata Motors
-2023-09-16,251458.08,Spare Parts,North India,Tata Motors
-2023-03-14,526218.33,Passenger Vehicles,East India,Tata Motors
-2024-12-19,275943.50,Service Centers,South India,Tata Motors
-2024-11-18,368645.84,Passenger Vehicles,South India,Tata Motors
-2024-03-15,241482.94,Commercial Vehicles,West India,Tata Motors
-2023-07-25,469425.86,Passenger Vehicles,West India,Tata Motors
-2024-02-19,491736.69,Passenger Vehicles,South India,Tata Motors
-2024-09-11,380258.86,Passenger Vehicles,North India,Tata Motors
-2024-12-23,349514.73,Spare Parts,South India,Tata Motors
-2023-04-23,415408.41,Passenger Vehicles,North India,Tata Motors
-2023-11-04,387168.39,Service Centers,East India,Tata Motors
-2023-08-28,426220.71,Passenger Vehicles,West India,Tata Motors
-2024-05-05,363980.08,Passenger Vehicles,North India,Tata Motors
-2024-03-26,328599.26,Spare Parts,West India,Tata Motors
-2023-06-01,102440.70,Passenger Vehicles,West India,Tata Motors
-2023-01-08,369295.83,Service Centers,East India,Tata Motors
-2024-02-06,402328.28,Spare Parts,Central India,Tata Motors
-2024-01-21,258182.10,Service Centers,Central India,Tata Motors
-2023-05-12,389703.70,Commercial Vehicles,East India,Tata Motors
-2023-10-28,370921.59,Commercial Vehicles,West India,Tata Motors
-2023-06-20,106372.43,Service Centers,West India,Tata Motors
-2024-12-13,291172.98,Commercial Vehicles,Central India,Tata Motors
-2023-09-14,167382.92,Passenger Vehicles,Central India,Tata Motors
-2024-01-13,301873.91,Spare Parts,West India,Tata Motors
-2024-08-05,490251.50,Commercial Vehicles,North India,Tata Motors
-2023-03-07,241754.96,Passenger Vehicles,South India,Tata Motors
-2023-03-22,522189.70,Spare Parts,Central India,Tata Motors
-2023-04-08,275878.03,Service Centers,East India,Tata Motors
-2024-02-13,191748.65,Commercial Vehicles,West India,Tata Motors
-2023-07-24,493075.54,Commercial Vehicles,Central India,Tata Motors
-2023-02-20,192267.27,Commercial Vehicles,North India,Tata Motors
-2024-08-02,256033.56,Passenger Vehicles,East India,Tata Motors
-2024-10-26,89528.88,Service Centers,West India,Tata Motors
-2023-08-03,379192.00,Spare Parts,South India,Tata Motors
-2023-10-26,462529.02,Passenger Vehicles,East India,Tata Motors
-2023-01-22,534128.67,Spare Parts,Central India,Tata Motors
-2024-01-25,392563.14,Commercial Vehicles,South India,Tata Motors
-2023-12-30,110286.28,Commercial Vehicles,North India,Tata Motors
-2023-07-31,251064.18,Commercial Vehicles,East India,Tata Motors
-2023-06-03,276029.29,Commercial Vehicles,South India,Tata Motors
-2023-05-10,194826.67,Passenger Vehicles,South India,Tata Motors
-2024-07-13,291987.52,Spare Parts,Central India,Tata Motors
-2024-01-02,286738.39,Spare Parts,West India,Tata Motors
-2023-07-03,218304.00,Service Centers,North India,Tata Motors
-2023-12-30,521672.99,Commercial Vehicles,East India,Tata Motors
-2023-07-03,308693.59,Passenger Vehicles,West India,Tata Motors
-2024-12-10,413343.71,Passenger Vehicles,East India,Tata Motors
-2024-07-26,535740.15,Service Centers,West India,Tata Motors
-2024-08-18,286815.72,Commercial Vehicles,Central India,Tata Motors
-2024-03-27,223007.86,Commercial Vehicles,East India,Tata Motors
-2023-06-13,495891.87,Spare Parts,North India,Tata Motors
-2024-10-31,434199.27,Passenger Vehicles,South India,Tata Motors
-2023-10-15,465671.16,Service Centers,West India,Tata Motors
-2023-08-13,411520.25,Spare Parts,West India,Tata Motors
-2024-12-05,134633.50,Spare Parts,North India,Tata Motors
-2024-06-16,235071.58,Passenger Vehicles,Central India,Tata Motors
-2024-03-26,338207.35,Commercial Vehicles,East India,Tata Motors
-2024-12-11,406384.69,Passenger Vehicles,South India,Tata Motors
-2023-08-18,367374.03,Spare Parts,East India,Tata Motors
-2024-11-22,436211.80,Passenger Vehicles,South India,Tata Motors
-2024-02-13,319679.62,Commercial Vehicles,South India,Tata Motors
-2023-03-08,269809.79,Service Centers,North India,Tata Motors
-2023-12-16,69535.63,Passenger Vehicles,South India,Tata Motors
-2023-08-06,409513.87,Passenger Vehicles,South India,Tata Motors
-2023-11-05,250028.50,Commercial Vehicles,West India,Tata Motors
-2023-04-02,146648.43,Commercial Vehicles,West India,Tata Motors
-2024-10-27,450180.56,Commercial Vehicles,West India,Tata Motors
-2023-08-16,464132.07,Commercial Vehicles,West India,Tata Motors
-2024-03-16,221000.90,Commercial Vehicles,West India,Tata Motors
-2023-04-24,75859.40,Spare Parts,North India,Tata Motors
-2023-05-09,509789.03,Commercial Vehicles,East India,Tata Motors
-2023-04-20,450645.41,Passenger Vehicles,West India,Tata Motors
-2023-02-24,471211.18,Commercial Vehicles,West India,Tata Motors
-2023-11-30,107023.22,Commercial Vehicles,West India,Tata Motors
-2023-02-11,181586.66,Service Centers,Central India,Tata Motors
-2024-09-08,279742.07,Passenger Vehicles,North India,Tata Motors
-2023-05-27,127771.01,Spare Parts,East India,Tata Motors
-2023-02-01,490627.78,Service Centers,Central India,Tata Motors
-2023-08-03,137144.66,Spare Parts,West India,Tata Motors
-2024-05-29,191667.68,Spare Parts,North India,Tata Motors
-2024-03-24,443923.42,Commercial Vehicles,Central India,Tata Motors
-2024-12-30,88356.67,Service Centers,South India,Tata Motors
-2023-06-21,366501.12,Commercial Vehicles,North India,Tata Motors
-2023-03-08,508989.72,Passenger Vehicles,North India,Tata Motors
-2024-05-07,248833.16,Spare Parts,North India,Tata Motors
-2023-03-29,308772.35,Spare Parts,North India,Tata Motors
-2023-11-24,445209.95,Commercial Vehicles,North India,Tata Motors
-2024-11-28,264860.71,Commercial Vehicles,North India,Tata Motors
-2024-04-26,247395.73,Commercial Vehicles,Central India,Tata Motors
-2023-03-13,473620.05,Passenger Vehicles,Central India,Tata Motors
-2023-02-02,178479.46,Commercial Vehicles,East India,Tata Motors
-2024-01-20,430587.27,Service Centers,North India,Tata Motors
-2024-10-10,128954.51,Service Centers,West India,Tata Motors
-2024-07-23,331145.51,Spare Parts,Central India,Tata Motors
-2023-12-14,172178.12,Passenger Vehicles,West India,Tata Motors
-2024-12-13,512079.93,Commercial Vehicles,East India,Tata Motors
-2023-01-16,544008.39,Passenger Vehicles,North India,Tata Motors
-2023-10-10,62736.63,Service Centers,East India,Tata Motors
-2024-05-22,447136.69,Commercial Vehicles,West India,Tata Motors
-2023-03-31,175235.19,Commercial Vehicles,North India,Tata Motors
-2023-03-15,413120.47,Spare Parts,South India,Tata Motors
-2024-01-07,180761.78,Service Centers,West India,Tata Motors
-2024-01-03,73229.79,Commercial Vehicles,West India,Tata Motors
-2023-04-12,105915.16,Passenger Vehicles,East India,Tata Motors
-2024-03-15,201068.79,Commercial Vehicles,South India,Tata Motors
-2023-05-28,189591.77,Commercial Vehicles,South India,Tata Motors
-2023-06-19,493032.07,Commercial Vehicles,South India,Tata Motors
-2023-04-08,92214.84,Passenger Vehicles,Central India,Tata Motors
-2024-03-20,50677.07,Commercial Vehicles,East India,Tata Motors
-2024-05-10,132323.79,Commercial Vehicles,Central India,Tata Motors
-2023-03-05,293676.76,Passenger Vehicles,East India,Tata Motors
-2023-03-07,273330.91,Service Centers,South India,Tata Motors
-2023-04-06,212173.52,Service Centers,South India,Tata Motors
-2023-10-15,302543.19,Spare Parts,West India,Tata Motors
-2024-09-02,267422.57,Passenger Vehicles,East India,Tata Motors
-2023-01-22,197955.62,Service Centers,West India,Tata Motors
-2024-01-05,547435.32,Spare Parts,East India,Tata Motors
-2023-03-25,542606.92,Commercial Vehicles,East India,Tata Motors
-2023-06-11,430340.24,Commercial Vehicles,West India,Tata Motors
-2023-01-04,411534.51,Passenger Vehicles,South India,Tata Motors
-2024-04-05,365664.31,Commercial Vehicles,South India,Tata Motors
-2024-10-31,498184.21,Spare Parts,North India,Tata Motors
-2024-04-18,85065.87,Spare Parts,Central India,Tata Motors
-2024-08-29,356518.71,Commercial Vehicles,North India,Tata Motors
-2024-06-19,542835.72,Service Centers,North India,Tata Motors
-2024-02-05,413362.68,Spare Parts,East India,Tata Motors
-2023-12-15,180327.68,Spare Parts,West India,Tata Motors
-2024-12-09,435733.60,Passenger Vehicles,North India,Tata Motors
-2023-08-06,301049.68,Spare Parts,East India,Tata Motors
-2023-11-22,344125.04,Passenger Vehicles,West India,Tata Motors
-2023-10-28,337111.42,Spare Parts,West India,Tata Motors
-2023-07-01,294980.51,Spare Parts,South India,Tata Motors
-2023-03-06,195625.90,Spare Parts,Central India,Tata Motors
-2024-12-27,130431.29,Service Centers,North India,Tata Motors
-2023-04-08,467189.59,Spare Parts,North India,Tata Motors
-2023-08-31,355211.24,Service Centers,Central India,Tata Motors
-2024-06-10,498408.46,Service Centers,West India,Tata Motors
-2024-06-25,321166.14,Passenger Vehicles,South India,Tata Motors
-2023-09-06,373667.15,Service Centers,West India,Tata Motors
-2023-08-02,87248.55,Spare Parts,Central India,Tata Motors
-2023-03-04,199775.79,Passenger Vehicles,North India,Tata Motors
-2023-04-14,547308.85,Service Centers,Central India,Tata Motors
-2024-01-17,504658.90,Commercial Vehicles,South India,Tata Motors
-2023-08-03,159264.74,Service Centers,North India,Tata Motors
-2023-11-29,441681.83,Service Centers,North India,Tata Motors
-2024-09-01,486423.31,Commercial Vehicles,South India,Tata Motors
-2024-11-23,312024.05,Passenger Vehicles,North India,Tata Motors
-2024-07-24,367584.67,Commercial Vehicles,North India,Tata Motors
-2023-12-16,377586.88,Commercial Vehicles,West India,Tata Motors
-2023-01-01,146169.21,Service Centers,East India,Tata Motors
-2023-07-31,237084.10,Commercial Vehicles,East India,Tata Motors
-2023-06-19,358658.25,Passenger Vehicles,North India,Tata Motors
-2023-04-23,222034.11,Passenger Vehicles,North India,Tata Motors
-2023-10-21,350433.33,Service Centers,Central India,Tata Motors
-2024-09-13,337435.15,Service Centers,West India,Tata Motors
-2023-05-12,472039.29,Passenger Vehicles,South India,Tata Motors
-2024-04-07,325616.01,Service Centers,West India,Tata Motors
-2023-04-01,549649.89,Spare Parts,South India,Tata Motors
-2024-06-26,450890.66,Spare Parts,Central India,Tata Motors
-2024-04-24,371931.53,Commercial Vehicles,West India,Tata Motors
-2023-09-19,470229.51,Service Centers,West India,Tata Motors
-2024-09-24,399110.95,Commercial Vehicles,North India,Tata Motors
-2024-01-11,245832.77,Passenger Vehicles,West India,Tata Motors
-2024-04-04,412334.88,Service Centers,Central India,Tata Motors
-2024-01-31,150457.69,Passenger Vehicles,South India,Tata Motors
-2023-01-01,349913.99,Commercial Vehicles,West India,Tata Motors
-2023-08-29,282644.29,Service Centers,Central India,Tata Motors
-2023-09-07,422778.90,Passenger Vehicles,South India,Tata Motors
-2023-10-16,395227.22,Spare Parts,Central India,Tata Motors
-2024-12-05,470023.62,Service Centers,East India,Tata Motors
-2024-11-30,377112.31,Service Centers,East India,Tata Motors
-2024-05-28,545674.96,Commercial Vehicles,North India,Tata Motors
-2024-02-01,109712.57,Spare Parts,North India,Tata Motors
-2024-07-03,52414.52,Spare Parts,Central India,Tata Motors
-2024-12-13,313427.66,Passenger Vehicles,West India,Tata Motors
-2024-06-12,530062.99,Spare Parts,East India,Tata Motors
-2024-09-10,171240.53,Passenger Vehicles,East India,Tata Motors
-2024-07-29,282252.83,Passenger Vehicles,South India,Tata Motors
-2023-07-06,321451.00,Service Centers,Central India,Tata Motors
-2024-12-18,100210.83,Service Centers,North India,Tata Motors
-2023-12-09,302547.92,Spare Parts,South India,Tata Motors
-2023-11-28,221193.68,Spare Parts,East India,Tata Motors
-2024-02-20,532521.47,Passenger Vehicles,West India,Tata Motors
-2023-02-19,518369.03,Service Centers,East India,Tata Motors
-2023-12-27,342559.48,Commercial Vehicles,West India,Tata Motors
-2024-12-16,128449.08,Commercial Vehicles,North India,Tata Motors
-2023-01-30,89822.00,Spare Parts,Central India,Tata Motors
-2023-11-07,476305.85,Passenger Vehicles,West India,Tata Motors
-2024-09-20,519503.09,Passenger Vehicles,North India,Tata Motors
-2024-12-02,98574.61,Passenger Vehicles,South India,Tata Motors
-2023-12-06,447621.92,Passenger Vehicles,Central India,Tata Motors
-2023-07-27,185646.88,Service Centers,South India,Tata Motors
-2023-12-31,168446.00,Commercial Vehicles,East India,Tata Motors
-2024-02-27,294549.36,Passenger Vehicles,South India,Tata Motors
-2024-02-08,128104.56,Service Centers,East India,Tata Motors
-2023-06-02,52547.00,Spare Parts,North India,Tata Motors
-2024-02-03,127139.06,Commercial Vehicles,Central India,Tata Motors
-2024-10-18,352943.39,Service Centers,North India,Tata Motors
-2024-12-24,535345.43,Spare Parts,East India,Tata Motors
-2024-09-21,263874.51,Service Centers,East India,Tata Motors
-2024-12-07,501037.43,Passenger Vehicles,North India,Tata Motors
-2024-01-19,177779.60,Spare Parts,Central India,Tata Motors
-2024-09-15,368011.26,Service Centers,South India,Tata Motors
-2023-09-08,191572.85,Commercial Vehicles,West India,Tata Motors
-2023-07-24,407808.02,Passenger Vehicles,Central India,Tata Motors
-2023-09-04,486625.50,Spare Parts,North India,Tata Motors
-2024-08-14,140521.98,Passenger Vehicles,West India,Tata Motors
-2024-03-10,203692.68,Spare Parts,East India,Tata Motors
-2023-06-19,53885.67,Passenger Vehicles,North India,Tata Motors
-2023-05-11,393033.41,Commercial Vehicles,Central India,Tata Motors
-2023-08-02,133340.03,Commercial Vehicles,North India,Tata Motors
-2023-08-17,385576.35,Service Centers,South India,Tata Motors
-2023-10-06,94488.03,Passenger Vehicles,North India,Tata Motors
-2023-09-11,371466.27,Spare Parts,Central India,Tata Motors
-2023-01-30,525410.17,Spare Parts,South India,Tata Motors
-2023-10-26,240184.44,Passenger Vehicles,Central India,Tata Motors
-2023-03-07,87131.01,Commercial Vehicles,West India,Tata Motors
-2023-03-29,102428.41,Service Centers,Central India,Tata Motors
-2023-10-03,308574.25,Service Centers,Central India,Tata Motors
-2023-09-17,259472.05,Passenger Vehicles,West India,Tata Motors
-2023-12-23,127005.62,Spare Parts,West India,Tata Motors
-2023-07-06,530866.14,Service Centers,Central India,Tata Motors
-2024-02-20,449089.74,Spare Parts,South India,Tata Motors
-2023-01-30,98938.11,Commercial Vehicles,Central India,Tata Motors
-2023-09-18,236030.74,Commercial Vehicles,North India,Tata Motors
-2023-08-27,331051.27,Passenger Vehicles,Central India,Tata Motors
-2024-05-11,66555.04,Passenger Vehicles,West India,Tata Motors
-2023-03-26,390608.75,Passenger Vehicles,South India,Tata Motors
-2024-12-17,170614.26,Spare Parts,West India,Tata Motors
-2024-06-05,115567.39,Commercial Vehicles,East India,Tata Motors
-2023-08-31,423983.95,Spare Parts,South India,Tata Motors
-2024-02-20,453451.50,Passenger Vehicles,Central India,Tata Motors
-2023-11-29,222613.92,Service Centers,East India,Tata Motors
-2023-03-09,56301.97,Passenger Vehicles,North India,Tata Motors
-2023-12-10,304082.62,Spare Parts,Central India,Tata Motors
-2023-10-05,472497.30,Spare Parts,North India,Tata Motors
-2023-10-21,402878.09,Spare Parts,Central India,Tata Motors
-2023-10-23,525909.97,Service Centers,Central India,Tata Motors
-2023-12-22,153353.72,Passenger Vehicles,East India,Tata Motors
-2023-07-17,220543.22,Commercial Vehicles,West India,Tata Motors
-2023-09-24,353013.17,Spare Parts,North India,Tata Motors
-2024-01-13,434274.03,Commercial Vehicles,North India,Tata Motors
-2023-01-19,293894.06,Commercial Vehicles,North India,Tata Motors
-2024-08-27,239151.50,Service Centers,West India,Tata Motors
-2023-08-17,218494.98,Spare Parts,South India,Tata Motors
-2024-12-24,549976.77,Service Centers,Central India,Tata Motors
-2024-05-26,510957.21,Spare Parts,West India,Tata Motors
-2024-09-09,509959.55,Service Centers,East India,Tata Motors
-2024-12-04,58919.09,Spare Parts,West India,Tata Motors
-2024-08-25,285257.69,Spare Parts,Central India,Tata Motors
-2024-01-13,433171.42,Spare Parts,East India,Tata Motors
-2023-12-07,66196.13,Spare Parts,South India,Tata Motors
-2024-10-06,120766.48,Commercial Vehicles,South India,Tata Motors
-2024-02-18,263291.68,Spare Parts,North India,Tata Motors
-2024-04-09,331006.46,Commercial Vehicles,North India,Tata Motors
-2024-03-15,413426.87,Spare Parts,South India,Tata Motors
-2023-05-09,63714.62,Commercial Vehicles,East India,Tata Motors
-2024-08-26,501598.86,Service Centers,Central India,Tata Motors
-2024-03-15,76334.61,Service Centers,North India,Tata Motors
-2023-04-25,453874.58,Commercial Vehicles,North India,Tata Motors
-2024-12-26,233333.14,Commercial Vehicles,East India,Tata Motors
-2023-08-11,331848.53,Passenger Vehicles,North India,Tata Motors
-2023-04-07,183294.72,Commercial Vehicles,South India,Tata Motors
-2023-06-04,280511.08,Passenger Vehicles,North India,Tata Motors
-2024-09-05,511770.13,Spare Parts,South India,Tata Motors
-2023-07-01,372400.13,Service Centers,North India,Tata Motors
-2024-08-15,286128.19,Commercial Vehicles,South India,Tata Motors
-2023-04-29,302047.54,Service Centers,East India,Tata Motors
-2024-09-13,532676.01,Passenger Vehicles,South India,Tata Motors
-2024-10-24,514244.26,Spare Parts,West India,Tata Motors
-2023-03-30,79769.46,Service Centers,West India,Tata Motors
-2023-11-26,290231.97,Passenger Vehicles,East India,Tata Motors
-2023-07-25,265994.73,Service Centers,Central India,Tata Motors
-2023-09-29,369907.20,Commercial Vehicles,Central India,Tata Motors
-2024-11-17,391250.94,Commercial Vehicles,North India,Tata Motors
-2023-09-19,251767.92,Spare Parts,North India,Tata Motors
-2024-10-19,196108.18,Passenger Vehicles,Central India,Tata Motors
-2024-09-21,63878.66,Service Centers,West India,Tata Motors
-2024-12-28,171366.64,Passenger Vehicles,Central India,Tata Motors
-2024-11-27,419098.82,Service Centers,West India,Tata Motors
-2023-02-11,354580.81,Service Centers,North India,Tata Motors
-2024-07-23,171682.34,Commercial Vehicles,East India,Tata Motors
-2023-01-23,112883.16,Commercial Vehicles,North India,Tata Motors
-2023-05-14,399810.39,Passenger Vehicles,South India,Tata Motors
-2023-08-14,439784.98,Spare Parts,West India,Tata Motors
-2023-10-19,320828.74,Passenger Vehicles,North India,Tata Motors
-2023-06-27,137058.49,Passenger Vehicles,South India,Tata Motors
-2024-02-12,343337.18,Passenger Vehicles,West India,Tata Motors
-2024-11-21,378562.56,Commercial Vehicles,West India,Tata Motors
-2024-09-06,375988.52,Service Centers,West India,Tata Motors
-2024-08-11,355412.82,Spare Parts,Central India,Tata Motors
-2024-04-10,88073.42,Passenger Vehicles,East India,Tata Motors
-2024-04-08,331840.96,Spare Parts,East India,Tata Motors
-2023-07-13,500107.23,Service Centers,East India,Tata Motors
-2024-05-21,195380.95,Passenger Vehicles,Central India,Tata Motors
-2024-09-16,469661.27,Service Centers,North India,Tata Motors
-2024-09-18,527183.29,Passenger Vehicles,East India,Tata Motors
-2023-07-18,349190.62,Spare Parts,South India,Tata Motors
-2023-10-13,402743.24,Commercial Vehicles,Central India,Tata Motors
-2024-11-23,233407.20,Passenger Vehicles,North India,Tata Motors
-2023-02-02,293884.29,Passenger Vehicles,North India,Tata Motors
-2023-07-28,114836.35,Commercial Vehicles,Central India,Tata Motors
-2023-03-09,454217.79,Commercial Vehicles,Central India,Tata Motors
-2024-10-21,203620.56,Commercial Vehicles,South India,Tata Motors
-2024-12-10,444003.53,Passenger Vehicles,Central India,Tata Motors
-2024-10-16,325851.88,Commercial Vehicles,South India,Tata Motors
-2023-11-03,224275.25,Service Centers,Central India,Tata Motors
-2023-03-13,400654.59,Passenger Vehicles,South India,Tata Motors
-2024-05-29,154436.03,Service Centers,East India,Tata Motors
-2023-05-05,123886.01,Passenger Vehicles,Central India,Tata Motors
-2023-05-07,302900.09,Service Centers,East India,Tata Motors
-2024-10-05,310958.68,Service Centers,West India,Tata Motors
-2023-09-29,536786.54,Passenger Vehicles,East India,Tata Motors
-2023-01-03,122172.09,Passenger Vehicles,East India,Tata Motors
-2024-02-08,96847.04,Service Centers,West India,Tata Motors
-2023-01-01,101077.10,Spare Parts,East India,Tata Motors
-2023-02-03,317647.20,Passenger Vehicles,West India,Tata Motors
-2023-03-17,380269.96,Commercial Vehicles,South India,Tata Motors
-2023-07-20,318683.31,Commercial Vehicles,West India,Tata Motors
-2023-11-24,159173.18,Commercial Vehicles,Central India,Tata Motors
-2024-04-13,85846.67,Commercial Vehicles,East India,Tata Motors
-2024-04-19,159911.38,Spare Parts,Central India,Tata Motors
-2023-10-22,260497.32,Service Centers,South India,Tata Motors
-2023-12-01,81127.50,Spare Parts,North India,Tata Motors
-2023-09-12,192988.51,Spare Parts,East India,Tata Motors
-2023-08-06,474882.70,Commercial Vehicles,Central India,Tata Motors
-2024-09-30,187792.68,Service Centers,West India,Tata Motors
-2024-06-22,161820.59,Service Centers,Central India,Tata Motors
-2023-06-14,208880.51,Commercial Vehicles,East India,Tata Motors
-2023-09-23,281045.80,Service Centers,North India,Tata Motors
-2023-02-22,185513.68,Spare Parts,North India,Tata Motors
-2023-12-07,350764.74,Service Centers,East India,Tata Motors
-2024-08-28,159958.38,Passenger Vehicles,North India,Tata Motors
-2023-03-05,407848.15,Passenger Vehicles,West India,Tata Motors
-2023-04-06,94781.07,Spare Parts,North India,Tata Motors
-2024-04-04,296384.62,Spare Parts,Central India,Tata Motors
-2024-04-21,351123.13,Passenger Vehicles,East India,Tata Motors
-2024-11-14,336904.57,Commercial Vehicles,West India,Tata Motors
-2023-10-11,275751.61,Passenger Vehicles,South India,Tata Motors
-2024-01-30,176507.56,Passenger Vehicles,North India,Tata Motors
-2023-02-10,301631.29,Spare Parts,North India,Tata Motors
-2024-09-14,507943.69,Spare Parts,South India,Tata Motors
-2023-09-11,117504.23,Passenger Vehicles,West India,Tata Motors
-2024-08-17,482464.81,Passenger Vehicles,West India,Tata Motors
-2023-08-02,275828.80,Service Centers,East India,Tata Motors
-2023-01-24,248124.36,Service Centers,West India,Tata Motors
-2023-10-30,536115.23,Spare Parts,South India,Tata Motors
-2023-12-08,539062.47,Passenger Vehicles,Central India,Tata Motors
-2023-10-05,96291.87,Service Centers,North India,Tata Motors
-2023-03-28,515400.68,Commercial Vehicles,East India,Tata Motors
-2024-05-12,108268.24,Commercial Vehicles,Central India,Tata Motors
-2023-08-26,537160.58,Spare Parts,East India,Tata Motors
-2023-04-30,235762.23,Passenger Vehicles,Central India,Tata Motors
-2023-02-21,396738.90,Passenger Vehicles,East India,Tata Motors
-2023-06-13,414799.50,Commercial Vehicles,West India,Tata Motors
-2023-06-10,396805.12,Passenger Vehicles,North India,Tata Motors
-2023-10-24,454429.36,Passenger Vehicles,Central India,Tata Motors
-2024-05-16,260067.04,Commercial Vehicles,North India,Tata Motors
-2024-09-23,515238.16,Spare Parts,Central India,Tata Motors
-2023-04-23,518260.48,Commercial Vehicles,East India,Tata Motors
-2024-07-08,501448.10,Passenger Vehicles,West India,Tata Motors
-2023-12-19,209484.86,Commercial Vehicles,North India,Tata Motors
-2024-08-01,283678.02,Service Centers,West India,Tata Motors
-2024-04-03,238939.24,Commercial Vehicles,South India,Tata Motors
-2023-08-31,247960.88,Passenger Vehicles,North India,Tata Motors
-2024-02-28,170260.63,Service Centers,West India,Tata Motors
-2023-07-25,100554.21,Passenger Vehicles,East India,Tata Motors
-2023-06-21,402197.29,Passenger Vehicles,East India,Tata Motors
-2024-08-10,376457.38,Passenger Vehicles,East India,Tata Motors
-2024-09-25,253525.44,Spare Parts,East India,Tata Motors
-2024-12-11,180080.24,Passenger Vehicles,East India,Tata Motors
-2023-09-24,388228.08,Service Centers,West India,Tata Motors
-2023-03-27,55845.88,Passenger Vehicles,South India,Tata Motors
-2024-05-07,227156.91,Service Centers,East India,Tata Motors
-2024-04-23,85947.93,Service Centers,West India,Tata Motors
-2024-04-27,205112.40,Passenger Vehicles,West India,Tata Motors
-2024-07-23,507180.54,Spare Parts,East India,Tata Motors
-2024-03-19,409851.94,Passenger Vehicles,North India,Tata Motors
-2024-09-29,207049.75,Commercial Vehicles,North India,Tata Motors
-2023-02-06,288838.64,Spare Parts,East India,Tata Motors
-2024-06-30,301409.90,Spare Parts,North India,Tata Motors
-2024-05-29,511479.02,Service Centers,North India,Tata Motors
-2024-12-01,131629.86,Passenger Vehicles,East India,Tata Motors
-2023-02-15,365778.96,Passenger Vehicles,North India,Tata Motors
-2024-03-15,60177.88,Service Centers,West India,Tata Motors
-2023-10-21,204957.50,Spare Parts,East India,Tata Motors
-2023-08-24,133685.58,Spare Parts,Central India,Tata Motors
-2023-04-04,436491.07,Commercial Vehicles,West India,Tata Motors
-2023-03-09,100688.31,Spare Parts,East India,Tata Motors
-2024-10-06,375405.79,Spare Parts,West India,Tata Motors
-2023-01-21,472313.66,Passenger Vehicles,East India,Tata Motors
-2023-07-18,547331.69,Commercial Vehicles,East India,Tata Motors
-2023-06-18,380028.78,Spare Parts,West India,Tata Motors
-2024-07-15,452207.12,Service Centers,North India,Tata Motors
-2024-06-22,89428.86,Commercial Vehicles,Central India,Tata Motors
-2024-03-10,106261.03,Spare Parts,North India,Tata Motors
-2023-07-26,431825.66,Commercial Vehicles,West India,Tata Motors
-2024-05-10,379203.65,Spare Parts,South India,Tata Motors
-2024-07-10,221252.84,Passenger Vehicles,East India,Tata Motors
-2024-02-19,284484.64,Spare Parts,Central India,Tata Motors
-2023-03-02,201490.79,Passenger Vehicles,East India,Tata Motors
-2023-04-27,225359.20,Passenger Vehicles,Central India,Tata Motors
-2024-02-11,433456.81,Service Centers,East India,Tata Motors
-2023-10-04,406899.21,Service Centers,Central India,Tata Motors
-2023-02-26,471480.78,Service Centers,South India,Tata Motors
-2023-02-20,138574.85,Spare Parts,West India,Tata Motors
-2023-07-31,412022.77,Commercial Vehicles,West India,Tata Motors
-2023-06-13,518529.53,Passenger Vehicles,Central India,Tata Motors
-2024-04-24,124998.63,Commercial Vehicles,West India,Tata Motors
-2024-03-10,66547.28,Passenger Vehicles,North India,Tata Motors
-2024-07-17,63163.38,Commercial Vehicles,Central India,Tata Motors
-2024-11-11,190683.31,Passenger Vehicles,Central India,Tata Motors
-2023-03-13,378339.84,Passenger Vehicles,Central India,Tata Motors
-2024-11-28,443196.70,Passenger Vehicles,North India,Tata Motors
-2023-03-28,283447.16,Service Centers,South India,Tata Motors
-2024-03-02,504860.41,Commercial Vehicles,Central India,Tata Motors
-2023-05-25,74099.04,Spare Parts,North India,Tata Motors
-2023-08-04,406478.45,Spare Parts,West India,Tata Motors
-2024-01-01,66090.23,Commercial Vehicles,Central India,Tata Motors
-2024-09-05,175768.70,Service Centers,North India,Tata Motors
-2024-06-21,232897.21,Service Centers,North India,Tata Motors
-2024-12-05,161719.84,Commercial Vehicles,South India,Tata Motors
-2024-12-13,425217.28,Passenger Vehicles,South India,Tata Motors
-2024-10-02,490827.86,Spare Parts,Central India,Tata Motors
-2024-10-20,276897.38,Service Centers,West India,Tata Motors
-2024-04-06,437734.76,Service Centers,East India,Tata Motors
-2023-12-08,450904.28,Commercial Vehicles,East India,Tata Motors
-2024-05-16,292129.96,Passenger Vehicles,South India,Tata Motors
-2023-03-17,470732.48,Spare Parts,East India,Tata Motors
-2024-03-08,292613.64,Service Centers,South India,Tata Motors
-2024-11-11,384742.55,Passenger Vehicles,East India,Tata Motors
-2023-08-19,540297.84,Passenger Vehicles,East India,Tata Motors
-2024-04-04,255546.04,Commercial Vehicles,West India,Tata Motors
-2024-05-20,151348.41,Passenger Vehicles,East India,Tata Motors
-2023-06-22,391324.03,Passenger Vehicles,Central India,Tata Motors
-2023-01-11,82191.19,Service Centers,West India,Tata Motors
-2023-05-03,360735.01,Passenger Vehicles,East India,Tata Motors
-2023-07-23,513989.49,Passenger Vehicles,East India,Tata Motors
-2024-05-20,333312.48,Commercial Vehicles,South India,Tata Motors
-2024-04-10,474941.97,Passenger Vehicles,North India,Tata Motors
-2023-02-14,478173.00,Service Centers,North India,Tata Motors
-2023-09-16,327255.29,Commercial Vehicles,North India,Tata Motors
-2024-05-07,71951.94,Commercial Vehicles,North India,Tata Motors
-2024-05-27,497009.76,Passenger Vehicles,South India,Tata Motors
-2023-12-07,134169.51,Commercial Vehicles,North India,Tata Motors
-2023-01-27,263901.61,Service Centers,Central India,Tata Motors
-2024-06-12,111144.91,Commercial Vehicles,North India,Tata Motors
-2024-07-11,229214.69,Commercial Vehicles,West India,Tata Motors
-2023-12-08,274759.26,Commercial Vehicles,South India,Tata Motors
-2024-05-14,419485.57,Service Centers,Central India,Tata Motors
-2024-03-06,374574.58,Passenger Vehicles,North India,Tata Motors
-2024-10-20,520449.89,Passenger Vehicles,Central India,Tata Motors
-2024-11-20,526395.60,Passenger Vehicles,South India,Tata Motors
-2023-12-25,510277.25,Spare Parts,South India,Tata Motors
-2024-10-21,311570.47,Commercial Vehicles,West India,Tata Motors
-2023-07-03,91663.70,Service Centers,East India,Tata Motors
-2023-10-14,117329.69,Commercial Vehicles,East India,Tata Motors
-2023-02-26,179391.60,Service Centers,North India,Tata Motors
-2023-04-23,375982.48,Service Centers,Central India,Tata Motors
-2024-08-24,409322.22,Spare Parts,North India,Tata Motors
-2024-12-20,543218.79,Commercial Vehicles,South India,Tata Motors
-2024-09-17,189233.88,Service Centers,North India,Tata Motors
-2023-11-06,331825.72,Passenger Vehicles,East India,Tata Motors
-2023-02-15,347296.47,Passenger Vehicles,East India,Tata Motors
-2024-07-06,531680.85,Spare Parts,North India,Tata Motors
-2023-12-30,141691.75,Passenger Vehicles,West India,Tata Motors
-2023-04-07,330506.79,Spare Parts,West India,Tata Motors
-2023-04-04,280624.35,Spare Parts,South India,Tata Motors
-2024-05-13,375198.01,Spare Parts,North India,Tata Motors
-2024-07-04,170131.31,Commercial Vehicles,Central India,Tata Motors
-2024-01-20,68382.39,Commercial Vehicles,North India,Tata Motors
-2024-09-27,211526.23,Commercial Vehicles,West India,Tata Motors
-2023-02-23,141177.85,Spare Parts,North India,Tata Motors
-2024-02-26,239076.66,Service Centers,South India,Tata Motors
-2023-03-25,210986.33,Commercial Vehicles,North India,Tata Motors
-2024-02-14,284876.03,Passenger Vehicles,North India,Tata Motors
-2023-07-06,125766.89,Spare Parts,North India,Tata Motors
-2023-11-06,361881.23,Spare Parts,East India,Tata Motors
-2023-02-04,62055.55,Spare Parts,East India,Tata Motors
-2024-02-02,60577.09,Service Centers,East India,Tata Motors
-2024-01-04,380045.00,Service Centers,East India,Tata Motors
-2024-10-29,430065.78,Spare Parts,South India,Tata Motors
-2024-07-12,232823.53,Commercial Vehicles,East India,Tata Motors
-2023-04-24,164501.11,Service Centers,North India,Tata Motors
-2023-03-28,207126.57,Commercial Vehicles,South India,Tata Motors
-2024-09-02,305238.38,Service Centers,North India,Tata Motors
-2023-12-13,242412.02,Commercial Vehicles,West India,Tata Motors
-2024-06-08,398447.00,Passenger Vehicles,East India,Tata Motors
-2024-05-27,518181.98,Commercial Vehicles,North India,Tata Motors
-2024-08-04,254100.83,Commercial Vehicles,North India,Tata Motors
-2023-07-25,179197.66,Spare Parts,East India,Tata Motors
-2024-10-27,428307.78,Service Centers,West India,Tata Motors
-2023-08-09,491425.28,Commercial Vehicles,South India,Tata Motors
-2023-06-09,301888.98,Passenger Vehicles,Central India,Tata Motors
-2023-07-24,519121.72,Passenger Vehicles,West India,Tata Motors
-2024-01-15,91387.80,Spare Parts,North India,Tata Motors
-2023-08-01,513625.95,Spare Parts,Central India,Tata Motors
-2024-04-24,549627.04,Spare Parts,Central India,Tata Motors
-2023-12-26,224177.69,Service Centers,North India,Tata Motors
-2024-11-08,52128.19,Commercial Vehicles,South India,Tata Motors
-2024-03-22,332699.19,Commercial Vehicles,East India,Tata Motors
-2024-09-26,72050.96,Service Centers,West India,Tata Motors
-2024-05-12,193895.35,Service Centers,Central India,Tata Motors
-2024-06-27,72638.88,Passenger Vehicles,North India,Tata Motors
-2023-10-28,236982.35,Spare Parts,South India,Tata Motors
-2024-07-11,275046.79,Service Centers,West India,Tata Motors
-2023-01-14,397732.81,Service Centers,West India,Tata Motors
-2023-10-22,173615.09,Passenger Vehicles,West India,Tata Motors
-2024-03-09,283032.18,Spare Parts,East India,Tata Motors
-2024-01-11,414646.27,Service Centers,North India,Tata Motors
-2024-09-20,94454.56,Spare Parts,West India,Tata Motors
-2024-02-03,412682.76,Commercial Vehicles,East India,Tata Motors
-2023-07-05,534222.42,Spare Parts,Central India,Tata Motors
-2023-08-19,338282.22,Service Centers,North India,Tata Motors
-2023-04-17,229891.72,Service Centers,Central India,Tata Motors
-2024-07-22,312832.67,Service Centers,East India,Tata Motors
-2024-03-16,116814.53,Passenger Vehicles,South India,Tata Motors
-2024-01-18,520856.32,Commercial Vehicles,Central India,Tata Motors
-2024-01-10,347471.27,Commercial Vehicles,West India,Tata Motors
-2024-03-26,458561.50,Spare Parts,Central India,Tata Motors
-2024-05-05,129823.33,Spare Parts,West India,Tata Motors
-2024-09-07,392736.89,Spare Parts,East India,Tata Motors
-2023-06-30,345033.63,Service Centers,Central India,Tata Motors
-2024-12-04,538003.54,Spare Parts,East India,Tata Motors
-2024-04-29,326047.21,Service Centers,North India,Tata Motors
-2023-06-14,528862.23,Service Centers,Central India,Tata Motors
-2024-11-08,384654.55,Service Centers,East India,Tata Motors
-2024-12-27,64734.72,Service Centers,South India,Tata Motors
-2023-07-22,239774.36,Spare Parts,North India,Tata Motors
-2024-09-12,386177.84,Passenger Vehicles,Central India,Tata Motors
-2024-11-04,448831.72,Spare Parts,Central India,Tata Motors
-2023-02-09,247054.89,Service Centers,West India,Tata Motors
-2023-10-02,382473.42,Passenger Vehicles,East India,Tata Motors
-2023-09-08,432474.72,Passenger Vehicles,North India,Tata Motors
-2024-07-21,294801.20,Service Centers,Central India,Tata Motors
-2024-11-05,463778.47,Commercial Vehicles,Central India,Tata Motors
-2023-08-12,312471.92,Commercial Vehicles,West India,Tata Motors
-2023-10-08,391666.07,Commercial Vehicles,East India,Tata Motors
-2023-11-19,479355.51,Commercial Vehicles,West India,Tata Motors
-2023-01-10,211589.66,Commercial Vehicles,South India,Tata Motors
-2023-01-23,406752.79,Service Centers,East India,Tata Motors
-2024-02-04,239307.61,Service Centers,North India,Tata Motors
-2024-08-28,512598.09,Commercial Vehicles,East India,Tata Motors
-2024-09-15,375363.70,Commercial Vehicles,North India,Tata Motors
-2023-09-27,517976.73,Service Centers,North India,Tata Motors
-2023-03-09,335429.34,Service Centers,Central India,Tata Motors
-2024-07-05,237885.42,Passenger Vehicles,Central India,Tata Motors
-2024-10-26,509065.60,Spare Parts,West India,Tata Motors
-2023-07-27,544375.54,Spare Parts,West India,Tata Motors
-2023-05-18,549378.82,Spare Parts,Central India,Tata Motors
-2024-05-21,119344.48,Spare Parts,North India,Tata Motors
-2023-09-08,272071.54,Commercial Vehicles,North India,Tata Motors
-2024-11-21,165232.05,Commercial Vehicles,Central India,Tata Motors
-2023-09-22,236677.51,Commercial Vehicles,North India,Tata Motors
-2023-08-08,169217.96,Service Centers,Central India,Tata Motors
-2023-05-09,198851.48,Spare Parts,Central India,Tata Motors
-2023-04-11,155959.28,Passenger Vehicles,North India,Tata Motors
-2023-03-01,248918.54,Passenger Vehicles,North India,Tata Motors
-2023-03-28,245805.52,Service Centers,North India,Tata Motors
-2023-02-01,285657.95,Spare Parts,South India,Tata Motors
-2024-03-09,84160.90,Passenger Vehicles,South India,Tata Motors
-2023-02-16,65653.21,Passenger Vehicles,South India,Tata Motors
-2023-08-13,354847.27,Passenger Vehicles,North India,Tata Motors
-2024-05-30,222244.65,Passenger Vehicles,North India,Tata Motors
-2023-01-20,470673.18,Spare Parts,North India,Tata Motors
-2023-10-19,370639.78,Spare Parts,Central India,Tata Motors
-2023-12-24,540363.26,Commercial Vehicles,Central India,Tata Motors
-2024-12-16,340849.06,Service Centers,Central India,Tata Motors
-2023-03-26,143393.61,Commercial Vehicles,South India,Tata Motors
-2024-02-28,193916.72,Passenger Vehicles,North India,Tata Motors
-2024-12-15,252691.30,Service Centers,North India,Tata Motors
-2024-05-24,147114.24,Spare Parts,West India,Tata Motors
-2023-04-12,410276.94,Spare Parts,West India,Tata Motors
-2023-10-04,431251.70,Commercial Vehicles,North India,Tata Motors
-2023-11-01,297519.08,Service Centers,South India,Tata Motors
-2024-01-20,219440.37,Spare Parts,South India,Tata Motors
-2024-10-31,523090.73,Passenger Vehicles,East India,Tata Motors
-2023-12-28,497551.24,Commercial Vehicles,South India,Tata Motors
-2024-02-05,173611.09,Passenger Vehicles,West India,Tata Motors
-2023-10-28,437629.10,Spare Parts,Central India,Tata Motors
-2024-08-07,158924.64,Spare Parts,West India,Tata Motors
-2023-02-06,307738.78,Commercial Vehicles,South India,Tata Motors
-2024-04-28,230061.56,Service Centers,Central India,Tata Motors
-2024-05-04,467786.27,Spare Parts,East India,Tata Motors
-2023-08-18,329037.85,Service Centers,West India,Tata Motors
-2023-03-22,523656.43,Commercial Vehicles,South India,Tata Motors
-2024-09-08,84362.47,Spare Parts,West India,Tata Motors
-2023-11-29,517450.16,Service Centers,North India,Tata Motors
-2023-01-01,307205.52,Spare Parts,North India,Tata Motors
-2023-06-04,411914.67,Spare Parts,North India,Tata Motors
-2023-06-25,164171.33,Spare Parts,West India,Tata Motors
-2024-02-11,406441.97,Commercial Vehicles,North India,Tata Motors
-2024-03-20,66397.16,Service Centers,North India,Tata Motors
-2024-08-02,88104.64,Passenger Vehicles,Central India,Tata Motors
-2023-08-22,93371.06,Passenger Vehicles,South India,Tata Motors
-2024-08-28,77264.54,Service Centers,West India,Tata Motors
-2023-04-20,226232.21,Passenger Vehicles,South India,Tata Motors
-2024-07-17,140072.74,Service Centers,Central India,Tata Motors
-2023-09-17,282278.75,Commercial Vehicles,Central India,Tata Motors
-2023-03-29,92277.75,Commercial Vehicles,East India,Tata Motors
-2024-05-22,300445.98,Service Centers,South India,Tata Motors
-2023-10-02,221032.81,Spare Parts,Central India,Tata Motors
-2023-09-01,543026.29,Passenger Vehicles,West India,Tata Motors
-2024-08-18,195613.56,Spare Parts,West India,Tata Motors
-2023-09-17,387260.98,Passenger Vehicles,East India,Tata Motors
-2024-02-16,534972.66,Passenger Vehicles,South India,Tata Motors
-2024-11-10,509330.87,Service Centers,East India,Tata Motors
-2024-04-20,260134.05,Spare Parts,North India,Tata Motors
-2023-03-28,346237.98,Spare Parts,North India,Tata Motors
-2024-08-24,188619.81,Service Centers,South India,Tata Motors
-2024-07-04,273523.68,Passenger Vehicles,West India,Tata Motors
-2023-01-13,298313.55,Spare Parts,North India,Tata Motors
-2024-06-28,300735.17,Service Centers,West India,Tata Motors
-2024-09-13,204841.14,Passenger Vehicles,Central India,Tata Motors
-2024-08-22,262010.34,Spare Parts,East India,Tata Motors
-2024-03-11,410695.23,Service Centers,East India,Tata Motors
-2024-01-21,85253.94,Service Centers,West India,Tata Motors
-2024-10-20,225607.87,Spare Parts,East India,Tata Motors
-2023-08-06,543260.13,Service Centers,West India,Tata Motors
-2024-03-10,127269.50,Passenger Vehicles,East India,Tata Motors
-2023-07-29,280487.51,Passenger Vehicles,East India,Tata Motors
-2023-03-14,50192.73,Spare Parts,West India,Tata Motors
-2024-10-05,110494.15,Service Centers,East India,Tata Motors
-2024-03-16,397456.66,Commercial Vehicles,West India,Tata Motors
-2023-07-18,479063.82,Passenger Vehicles,East India,Tata Motors
-2024-10-24,488456.63,Spare Parts,South India,Tata Motors
-2023-05-27,185921.37,Service Centers,Central India,Tata Motors
-2023-06-23,496883.56,Passenger Vehicles,West India,Tata Motors
-2024-08-20,517959.68,Spare Parts,North India,Tata Motors
-2023-10-28,313550.94,Passenger Vehicles,East India,Tata Motors
-2023-10-14,95620.93,Service Centers,Central India,Tata Motors
-2023-09-29,56638.68,Spare Parts,North India,Tata Motors
-2024-10-22,188813.12,Commercial Vehicles,North India,Tata Motors
-2023-12-06,151065.48,Spare Parts,Central India,Tata Motors
-2023-04-26,301087.33,Service Centers,West India,Tata Motors
-2024-08-19,224106.19,Commercial Vehicles,Central India,Tata Motors
-2023-07-11,140244.63,Service Centers,South India,Tata Motors
-2023-05-02,223752.67,Commercial Vehicles,Central India,Tata Motors
-2024-08-15,60080.76,Spare Parts,North India,Tata Motors
-2024-03-28,233709.01,Spare Parts,East India,Tata Motors
-2023-03-12,500477.69,Service Centers,East India,Tata Motors
-2024-06-30,374473.05,Commercial Vehicles,North India,Tata Motors
-2024-11-18,461033.57,Passenger Vehicles,East India,Tata Motors
-2024-01-17,243884.26,Commercial Vehicles,East India,Tata Motors
-2024-05-18,472824.03,Spare Parts,North India,Tata Motors
-2024-07-07,97612.12,Passenger Vehicles,North India,Tata Motors
-2024-01-25,449261.74,Spare Parts,South India,Tata Motors
-2023-12-26,127795.09,Service Centers,East India,Tata Motors
-2023-12-27,109308.23,Service Centers,West India,Tata Motors
-2023-09-28,315045.36,Passenger Vehicles,Central India,Tata Motors
-2024-11-24,510275.64,Spare Parts,North India,Tata Motors
-2024-03-31,362402.97,Passenger Vehicles,West India,Tata Motors
-2024-11-04,294694.49,Service Centers,Central India,Tata Motors
-2024-02-23,258013.90,Spare Parts,South India,Tata Motors
-2023-05-14,399330.24,Spare Parts,East India,Tata Motors
-2024-10-10,523294.95,Service Centers,East India,Tata Motors
-2023-12-10,443995.77,Service Centers,Central India,Tata Motors
-2023-10-08,370487.28,Service Centers,North India,Tata Motors
-2024-05-21,156081.34,Service Centers,Central India,Tata Motors
-2023-11-01,324178.86,Commercial Vehicles,South India,Tata Motors
-2024-08-31,305395.83,Commercial Vehicles,East India,Tata Motors
-2023-08-21,294068.04,Spare Parts,South India,Tata Motors
-2024-09-30,409686.45,Spare Parts,South India,Tata Motors
-2023-09-28,303683.38,Passenger Vehicles,West India,Tata Motors
-2024-01-23,50804.14,Service Centers,South India,Tata Motors
-2023-02-01,481277.02,Spare Parts,South India,Tata Motors
-2024-12-05,172660.04,Spare Parts,West India,Tata Motors
-2023-12-03,530856.61,Spare Parts,South India,Tata Motors
-2024-06-03,171233.75,Spare Parts,East India,Tata Motors
-2023-12-16,207546.92,Spare Parts,South India,Tata Motors
-2024-05-14,118940.10,Spare Parts,Central India,Tata Motors
-2023-01-07,513985.75,Commercial Vehicles,Central India,Tata Motors
-2023-01-24,179321.13,Spare Parts,South India,Tata Motors
-2024-02-21,469735.88,Commercial Vehicles,South India,Tata Motors
-2024-11-24,239393.14,Passenger Vehicles,Central India,Tata Motors
-2024-07-13,299222.33,Commercial Vehicles,East India,Tata Motors
-2023-07-06,466815.22,Passenger Vehicles,West India,Tata Motors
-2023-02-14,493680.31,Service Centers,South India,Tata Motors
-2024-11-04,347224.95,Service Centers,East India,Tata Motors
-2023-07-03,471213.50,Service Centers,North India,Tata Motors
-2024-11-09,400885.77,Commercial Vehicles,Central India,Tata Motors
-2023-02-25,187903.61,Passenger Vehicles,South India,Tata Motors
-2023-10-28,440620.23,Service Centers,Central India,Tata Motors
-2024-07-23,524634.93,Spare Parts,Central India,Tata Motors
-2023-07-09,425171.45,Passenger Vehicles,East India,Tata Motors
-2024-05-04,293340.59,Commercial Vehicles,East India,Tata Motors
-2023-06-05,440009.32,Spare Parts,West India,Tata Motors
-2024-04-11,122567.42,Service Centers,West India,Tata Motors
-2024-11-29,383130.41,Passenger Vehicles,East India,Tata Motors
-2024-09-21,437036.05,Service Centers,South India,Tata Motors
-2024-07-13,411510.16,Service Centers,North India,Tata Motors
-2024-11-22,472660.24,Spare Parts,North India,Tata Motors
-2023-02-19,134012.05,Service Centers,East India,Tata Motors
-2023-12-07,493506.06,Passenger Vehicles,East India,Tata Motors
-2023-10-15,425469.76,Passenger Vehicles,South India,Tata Motors
-2023-03-21,313460.98,Service Centers,North India,Tata Motors
-2024-12-08,541146.09,Service Centers,South India,Tata Motors
-2024-12-30,399503.61,Service Centers,Central India,Tata Motors
-2024-06-05,406185.55,Passenger Vehicles,North India,Tata Motors
-2024-05-27,447877.77,Service Centers,West India,Tata Motors
-2023-07-15,519966.50,Spare Parts,East India,Tata Motors
-2023-11-18,269171.37,Passenger Vehicles,South India,Tata Motors
-2023-09-09,72278.99,Service Centers,South India,Tata Motors
-2023-12-31,116893.07,Passenger Vehicles,North India,Tata Motors
-2023-04-07,110279.20,Service Centers,Central India,Tata Motors
-2024-04-18,264470.34,Passenger Vehicles,North India,Tata Motors
-2023-11-28,290751.28,Commercial Vehicles,South India,Tata Motors
-2024-11-09,300843.09,Commercial Vehicles,North India,Tata Motors
-2024-10-15,373791.77,Service Centers,East India,Tata Motors
-2024-09-18,82689.43,Passenger Vehicles,West India,Tata Motors
-2024-01-11,100586.54,Spare Parts,East India,Tata Motors
-2023-04-28,128321.43,Commercial Vehicles,South India,Tata Motors
-2024-09-08,296235.84,Passenger Vehicles,South India,Tata Motors
-2024-05-18,212406.07,Service Centers,East India,Tata Motors
-2023-03-22,195070.21,Service Centers,West India,Tata Motors
-2023-03-30,443834.08,Commercial Vehicles,South India,Tata Motors
-2023-11-08,281903.74,Commercial Vehicles,North India,Tata Motors
-2024-07-09,253824.08,Service Centers,West India,Tata Motors
-2023-01-22,434550.42,Spare Parts,West India,Tata Motors
-2023-04-28,391604.72,Service Centers,South India,Tata Motors
-2023-10-21,86663.91,Spare Parts,Central India,Tata Motors
-2023-12-07,232351.76,Spare Parts,West India,Tata Motors
-2023-01-24,422201.21,Service Centers,South India,Tata Motors
-2023-05-06,460876.25,Service Centers,North India,Tata Motors
-2023-06-23,492410.10,Passenger Vehicles,Central India,Tata Motors
-2023-03-06,251011.03,Service Centers,South India,Tata Motors
-2023-06-07,468521.14,Commercial Vehicles,North India,Tata Motors
-2024-06-17,233606.91,Spare Parts,Central India,Tata Motors
-2023-05-27,511038.89,Passenger Vehicles,West India,Tata Motors
-2024-03-11,422199.21,Commercial Vehicles,East India,Tata Motors
-2023-11-29,189360.65,Commercial Vehicles,Central India,Tata Motors
-2024-12-02,319849.63,Passenger Vehicles,North India,Tata Motors
-2023-08-10,362692.33,Passenger Vehicles,North India,Tata Motors
-2024-12-24,434076.00,Passenger Vehicles,West India,Tata Motors
-2024-01-30,394048.18,Spare Parts,South India,Tata Motors
-2024-08-11,538378.11,Spare Parts,North India,Tata Motors
-2024-11-04,449711.32,Passenger Vehicles,West India,Tata Motors
-2024-05-25,215393.62,Commercial Vehicles,West India,Tata Motors
-2023-06-14,324616.42,Spare Parts,West India,Tata Motors
-2024-12-02,60455.93,Commercial Vehicles,West India,Tata Motors
-2024-03-11,123618.74,Service Centers,East India,Tata Motors
-2023-08-02,102930.07,Spare Parts,North India,Tata Motors
-2023-12-27,137579.40,Passenger Vehicles,South India,Tata Motors
-2024-12-30,547617.62,Service Centers,East India,Tata Motors
-2024-05-30,547917.54,Spare Parts,West India,Tata Motors
-2024-12-17,150458.95,Spare Parts,Central India,Tata Motors
-2023-08-01,495067.66,Spare Parts,South India,Tata Motors
-2023-03-29,396636.47,Commercial Vehicles,Central India,Tata Motors
-2023-03-26,133105.49,Commercial Vehicles,West India,Tata Motors
-2024-11-26,268938.90,Spare Parts,North India,Tata Motors
-2023-07-26,212687.79,Spare Parts,North India,Tata Motors
-2023-01-29,470882.99,Commercial Vehicles,East India,Tata Motors
-2023-09-03,102596.88,Spare Parts,East India,Tata Motors
-2023-05-06,84870.43,Service Centers,East India,Tata Motors
-2024-01-30,454840.52,Spare Parts,South India,Tata Motors
-2023-02-28,536979.33,Spare Parts,Central India,Tata Motors
-2023-04-23,486689.02,Passenger Vehicles,West India,Tata Motors
-2024-03-06,277671.58,Passenger Vehicles,South India,Tata Motors
-2023-01-04,200896.73,Commercial Vehicles,Central India,Tata Motors
-2024-11-11,254629.21,Commercial Vehicles,North India,Tata Motors
-2024-07-31,311861.64,Spare Parts,East India,Tata Motors
-2024-11-21,201922.69,Passenger Vehicles,South India,Tata Motors
-2024-11-10,97741.51,Service Centers,North India,Tata Motors
-2023-09-15,346740.76,Passenger Vehicles,South India,Tata Motors
-2024-06-28,90363.55,Commercial Vehicles,South India,Tata Motors
-2023-05-29,50153.74,Service Centers,East India,Tata Motors
-2024-01-18,109906.36,Passenger Vehicles,East India,Tata Motors
-2023-11-04,508504.44,Spare Parts,East India,Tata Motors
-2023-04-09,445763.00,Spare Parts,Central India,Tata Motors
-2023-09-21,206519.77,Passenger Vehicles,Central India,Tata Motors
-2024-02-25,189807.89,Commercial Vehicles,West India,Tata Motors
-2024-10-28,424073.80,Passenger Vehicles,South India,Tata Motors
-2023-11-13,474032.39,Passenger Vehicles,Central India,Tata Motors
-2023-10-04,502813.41,Service Centers,Central India,Tata Motors
-2024-02-01,385953.52,Passenger Vehicles,East India,Tata Motors
-2024-10-16,132320.11,Service Centers,East India,Tata Motors
-2024-05-16,530593.25,Spare Parts,South India,Tata Motors
-2023-03-26,305468.29,Spare Parts,West India,Tata Motors
-2024-01-16,374387.53,Commercial Vehicles,West India,Tata Motors
-2024-12-28,50289.46,Service Centers,North India,Tata Motors
-2024-08-14,285530.36,Service Centers,East India,Tata Motors
-2023-05-03,316305.38,Commercial Vehicles,North India,Tata Motors
-2024-04-20,120980.88,Passenger Vehicles,North India,Tata Motors
+2024-01-15,3262.37,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-03-08,1062.60,Spices,Old City,Shastri & Sons Kirana
+2023-07-23,2838.59,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-09-21,1496.70,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-05-17,1426.08,Spices,Old City,Shastri & Sons Kirana
+2023-07-15,5071.85,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-01-26,5052.72,Spices,Old City,Shastri & Sons Kirana
+2023-05-26,5066.83,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-06-08,1509.04,Spices,Old City,Shastri & Sons Kirana
+2024-01-23,1736.15,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-07-20,802.27,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-10-18,777.84,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-10-12,1990.65,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-04-04,4275.57,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-04-25,2893.81,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-04-28,2858.55,Spices,Temple Road,Shastri & Sons Kirana
+2024-11-04,3678.78,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-07-08,3394.98,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-10-15,648.55,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-10-08,3573.62,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-07-28,1136.90,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-01-31,4479.54,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-01-02,5186.44,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-07-19,5293.34,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-07-28,4058.55,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-02-24,5136.68,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-06-10,2120.39,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-11-30,1717.77,Spices,Temple Road,Shastri & Sons Kirana
+2023-06-11,2881.85,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-02-27,5000.48,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-12-25,4455.71,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-06-28,4440.22,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-05-22,3462.25,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-02-24,4345.84,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-05-25,3249.13,Spices,Railway Colony,Shastri & Sons Kirana
+2023-10-28,3736.64,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-04-26,1006.06,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-01-03,1363.32,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-12-22,955.47,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-05-04,4713.79,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-09-05,3957.41,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-08-19,4200.56,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-05-23,5472.16,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-04-19,5015.99,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-04-16,3924.99,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-01-14,3506.88,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-11-09,4065.26,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-03-13,3482.92,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-07-01,3912.05,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-09-02,1327.06,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-01-20,784.37,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-01-30,4118.64,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-04-24,3375.07,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-10-30,2366.43,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-09-18,4578.18,Spices,Temple Road,Shastri & Sons Kirana
+2024-04-10,2389.01,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-11-19,1544.23,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-03-18,2303.53,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-11-25,4056.82,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-05-13,979.71,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-11-04,4191.94,Spices,Temple Road,Shastri & Sons Kirana
+2023-06-26,990.77,Spices,Temple Road,Shastri & Sons Kirana
+2024-10-04,4227.97,Spices,Old City,Shastri & Sons Kirana
+2024-04-24,787.60,Spices,Railway Colony,Shastri & Sons Kirana
+2024-01-29,1866.45,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-06-12,5172.29,Spices,Old City,Shastri & Sons Kirana
+2023-04-18,3350.27,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-06-07,2087.27,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-03-07,4707.28,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-10-17,4846.19,Spices,Old City,Shastri & Sons Kirana
+2023-12-07,1444.90,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-03-20,1283.95,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-08-01,570.18,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-12-11,4148.40,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-03-03,2390.48,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-12-17,2566.46,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-11-08,4238.12,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-10-15,3568.92,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-04-17,1227.14,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-08-19,1972.47,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-01-23,646.59,Spices,Temple Road,Shastri & Sons Kirana
+2024-08-05,3990.92,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-09-17,672.43,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-06-04,5326.74,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-11-11,2414.48,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-06-27,4973.15,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-10-21,586.58,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-02-23,1784.24,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-02-21,5298.35,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-01-12,2914.32,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-05-29,692.93,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-10-30,591.13,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-03-14,4786.11,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-01-25,5055.33,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-05-31,5061.25,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-08-16,3018.21,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-02-13,2975.13,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-01-11,4548.93,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-03-25,3180.29,Spices,Railway Colony,Shastri & Sons Kirana
+2023-03-05,5188.70,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-01-29,4548.57,Spices,Temple Road,Shastri & Sons Kirana
+2024-05-16,3770.32,Spices,Railway Colony,Shastri & Sons Kirana
+2023-08-24,2549.73,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-09-01,767.02,Spices,Old City,Shastri & Sons Kirana
+2023-05-28,3328.05,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-04-20,4373.72,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-07-11,1748.99,Spices,Railway Colony,Shastri & Sons Kirana
+2024-05-02,2713.97,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-11-30,1223.55,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-04-08,1274.67,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-01-05,3264.85,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-08-02,2408.37,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-05-27,1180.48,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-07-18,3447.19,Spices,Old City,Shastri & Sons Kirana
+2024-03-02,4233.11,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-04-04,1884.76,Spices,Temple Road,Shastri & Sons Kirana
+2023-11-15,4304.88,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-03-26,1947.82,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-02-07,4050.64,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-05-27,4655.31,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-05-13,1055.28,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-12-28,948.68,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-09-23,5289.80,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-11-22,991.79,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-05-15,518.64,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-10-10,4040.88,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-09-05,906.84,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-08-08,5423.06,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-10-26,1272.62,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-06-18,3738.40,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-01-09,1737.00,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-09-09,1126.59,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-01-27,3489.97,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-12-01,2667.17,Spices,Railway Colony,Shastri & Sons Kirana
+2023-12-21,4506.98,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-03-24,2137.15,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-10-03,3486.02,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-12-09,1161.37,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-11-05,2493.94,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-09-23,821.24,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-06-16,3169.00,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-07-26,1002.00,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-10-25,4791.80,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-12-22,2606.93,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-01-06,2058.33,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-09-04,4480.89,Spices,Temple Road,Shastri & Sons Kirana
+2024-02-03,2677.90,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-01-13,2625.73,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-01-06,4282.71,Spices,Temple Road,Shastri & Sons Kirana
+2023-04-04,2077.75,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-08-25,607.77,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-05-06,798.73,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-02-03,3515.21,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-08-27,2126.39,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-04-04,4731.45,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-01-21,4616.40,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-03-06,3428.61,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-07-31,1958.88,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-12-27,3913.49,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-07-22,3187.88,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-07-14,945.20,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-01-04,2218.12,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-12-02,3273.79,Spices,Railway Colony,Shastri & Sons Kirana
+2023-12-05,2983.22,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-01-20,2343.25,Spices,Railway Colony,Shastri & Sons Kirana
+2023-11-24,3293.33,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-10-11,2045.50,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-04-18,2395.92,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-07-29,4412.05,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-06-20,1738.26,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-01-07,992.16,Spices,Old City,Shastri & Sons Kirana
+2024-06-23,4415.78,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-01-05,4572.12,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-06-23,2715.69,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-11-05,3448.60,Spices,Railway Colony,Shastri & Sons Kirana
+2024-05-25,3097.79,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-11-14,678.37,Spices,Temple Road,Shastri & Sons Kirana
+2023-12-03,2616.19,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-01-13,3634.61,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-08-16,3737.12,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-08-21,3383.14,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-08-10,4655.43,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-04-09,2081.38,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-11-24,1906.30,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-06-22,3069.72,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-09-20,683.23,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-10-31,2515.02,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-04-09,2543.29,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-08-22,3196.84,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-03-03,3418.72,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-01-19,693.74,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-07-02,1615.06,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-04-21,2341.36,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-02-14,4639.14,Spices,Temple Road,Shastri & Sons Kirana
+2024-07-22,2048.89,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-08-20,4396.17,Spices,Temple Road,Shastri & Sons Kirana
+2023-09-11,2900.45,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-12-29,2389.39,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-01-04,4938.40,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-03-20,4816.42,Spices,Railway Colony,Shastri & Sons Kirana
+2023-09-06,4781.42,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-02-25,2701.42,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-06-27,4477.75,Spices,Railway Colony,Shastri & Sons Kirana
+2023-05-09,4413.06,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-11-26,3225.95,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-07-22,4133.96,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-07-05,2729.85,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-01-17,730.23,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-03-05,4109.50,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-03-12,1348.34,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-11-15,2496.94,Spices,Railway Colony,Shastri & Sons Kirana
+2023-01-20,5446.22,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-06-27,1173.54,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-11-19,4199.58,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-03-23,4357.04,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-08-29,4133.86,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-02-10,991.40,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-09-24,1107.49,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-01-04,2916.36,Spices,Temple Road,Shastri & Sons Kirana
+2024-01-14,1568.60,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-11-13,918.51,Spices,Temple Road,Shastri & Sons Kirana
+2023-11-08,4498.28,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-12-03,3803.95,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-03-04,5139.89,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-03-05,909.79,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-01-30,4427.69,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-12-03,2121.62,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-09-19,3358.05,Spices,Old City,Shastri & Sons Kirana
+2024-04-01,723.39,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-08-05,1295.73,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-07-05,2511.87,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-07-14,1870.90,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-05-31,4892.09,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-03-18,950.16,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-12-31,2837.30,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-10-30,3339.51,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-08-19,4622.97,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-05-12,4888.33,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-11-09,1475.25,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-07-24,2970.13,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-01-19,4220.36,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-10-09,3502.85,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-09-15,2075.92,Spices,Railway Colony,Shastri & Sons Kirana
+2024-02-22,4924.61,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-02-10,2541.65,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-02-27,1690.78,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-07-24,3238.46,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-11-19,4261.26,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-12-05,2340.70,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-01-31,4143.08,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-04-11,3910.32,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-11-24,5136.44,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-06-10,5156.82,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-05-30,1215.74,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-07-19,4456.65,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-01-04,5109.56,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-04-25,4378.06,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-05-16,4094.68,Spices,Railway Colony,Shastri & Sons Kirana
+2023-07-02,4489.32,Spices,Railway Colony,Shastri & Sons Kirana
+2024-06-19,5166.56,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-09-13,1494.96,Spices,Old City,Shastri & Sons Kirana
+2023-03-09,4753.69,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-10-27,3071.30,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-10-18,4175.54,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-02-11,2535.73,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-03-11,1410.00,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-06-19,4510.18,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-03-30,1794.90,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-07-28,4792.58,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-09-04,2359.64,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-01-19,1724.41,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-05-20,1946.14,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-05-03,2337.33,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-12-07,690.03,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-04-06,3971.81,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-11-01,2981.59,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-01-23,3088.28,Spices,Railway Colony,Shastri & Sons Kirana
+2023-06-15,3723.77,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-03-22,1633.37,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-10-29,2861.70,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-11-23,2861.76,Spices,Old City,Shastri & Sons Kirana
+2023-07-02,1484.69,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-03-09,1409.75,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-09-14,3300.25,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-02-12,4434.68,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-03-26,3041.07,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-07-01,1386.84,Spices,Old City,Shastri & Sons Kirana
+2023-10-22,3762.17,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-11-28,3817.51,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-07-13,3341.34,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-04-18,3485.81,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-06-14,2072.88,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-02-13,2183.04,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-04-06,3182.46,Spices,Railway Colony,Shastri & Sons Kirana
+2024-05-20,3046.69,Spices,Railway Colony,Shastri & Sons Kirana
+2023-04-21,3581.08,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-11-01,3033.11,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-01-18,4221.72,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-03-18,4987.42,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-08-25,5302.15,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-02-17,1059.93,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-02-24,1152.68,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-01-19,1313.43,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-10-01,2092.10,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-04-08,3107.69,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-10-22,4140.31,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-06-27,1761.25,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-05-09,3815.89,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-01-12,4190.97,Spices,Old City,Shastri & Sons Kirana
+2024-04-30,1268.19,Spices,Railway Colony,Shastri & Sons Kirana
+2023-04-27,3754.74,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-03-01,4737.32,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-02-13,511.62,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-09-14,1418.02,Spices,Old City,Shastri & Sons Kirana
+2024-12-04,4570.51,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-07-11,3704.30,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-06-22,5394.61,Spices,Temple Road,Shastri & Sons Kirana
+2023-02-15,5276.87,Spices,Old City,Shastri & Sons Kirana
+2023-11-01,2201.70,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-06-08,3938.05,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-03-24,4086.55,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-05-23,2382.05,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-07-31,4490.38,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-05-31,2186.71,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-05-30,3796.52,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-10-15,620.82,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-11-22,1390.21,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-09-18,1575.26,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-07-16,1281.00,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-01-09,1969.71,Spices,Old City,Shastri & Sons Kirana
+2023-10-16,3565.50,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-11-17,2351.45,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-01-23,577.72,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-02-12,2458.20,Spices,Railway Colony,Shastri & Sons Kirana
+2023-08-31,3805.92,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-04-14,1892.65,Spices,Old City,Shastri & Sons Kirana
+2023-09-02,2409.06,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-05-26,1743.14,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-03-19,1330.81,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-08-29,4501.94,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-09-28,5233.85,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-09-13,3142.87,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-05-26,3410.13,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-10-01,1869.17,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-09-09,2587.73,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-01-20,4332.78,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-07-09,4083.72,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-03-18,2061.58,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-12-21,1112.25,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-11-16,1526.99,Spices,Old City,Shastri & Sons Kirana
+2024-10-09,851.31,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-09-13,1890.04,Spices,Old City,Shastri & Sons Kirana
+2024-12-13,4596.43,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-09-29,3770.42,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-09-03,2744.54,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-09-22,4208.51,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-04-18,3705.64,Spices,Temple Road,Shastri & Sons Kirana
+2024-06-18,2757.77,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-02-05,2483.05,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-12-08,2571.86,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-12-22,2054.54,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-03-28,4880.45,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-04-28,2160.52,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-05-17,1553.80,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-04-19,3362.81,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-03-11,568.75,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-05-07,5366.19,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-03-18,2623.04,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-07-25,927.64,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-10-14,1962.79,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-12-16,1295.95,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-04-09,1165.31,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-09-26,5444.16,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-12-17,4790.91,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-05-13,4599.10,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-05-18,2903.09,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-01-04,1677.98,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-08-14,5438.97,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-04-02,3670.43,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-10-24,3864.24,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-04-17,5186.84,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-08-13,3221.58,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-07-27,4650.93,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-05-25,2160.76,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-06-14,4398.50,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-07-11,2391.59,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-02-26,3657.65,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-04-25,1076.62,Spices,Temple Road,Shastri & Sons Kirana
+2023-07-17,3544.76,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-04-15,3209.45,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-04-21,1641.99,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-09-07,1555.02,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-05-24,4518.41,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-05-13,3248.30,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-07-03,3984.13,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-12-13,1838.65,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-04-21,1478.83,Spices,Railway Colony,Shastri & Sons Kirana
+2023-12-06,4950.39,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-02-25,2474.99,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-01-30,5397.19,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-02-19,1035.74,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-11-01,3946.41,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-10-21,2758.28,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-03-08,4616.05,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-12-04,5485.99,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-09-11,4353.92,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-06-14,3853.84,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-11-08,1962.53,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-12-30,1204.60,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-10-22,3070.75,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-07-23,3573.14,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-10-01,3320.32,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-01-03,684.32,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-10-04,1890.29,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-04-17,4486.16,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-04-17,4655.17,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-08-17,4453.54,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-11-12,2139.92,Spices,Old City,Shastri & Sons Kirana
+2024-02-23,3645.58,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-02-06,2026.82,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-03-08,2424.59,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-01-17,4932.16,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-11-27,5418.27,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-08-26,4645.95,Spices,Old City,Shastri & Sons Kirana
+2024-02-11,5495.53,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-06-08,2993.88,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-07-28,683.55,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-06-15,849.15,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-04-08,3183.61,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-11-22,4597.81,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-07-17,2544.14,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-10-11,1710.43,Spices,Temple Road,Shastri & Sons Kirana
+2024-09-11,966.29,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-11-25,3214.33,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-11-27,857.63,Spices,Railway Colony,Shastri & Sons Kirana
+2024-05-26,4851.43,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-01-22,5491.90,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-06-27,1395.05,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-04-08,3936.37,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-01-12,1312.68,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-12-26,4098.97,Spices,Old City,Shastri & Sons Kirana
+2023-12-19,1125.81,Spices,Temple Road,Shastri & Sons Kirana
+2024-02-13,3995.67,Spices,Old City,Shastri & Sons Kirana
+2023-10-13,4606.46,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-01-11,3277.56,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-08-28,2636.31,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-08-31,4978.49,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-10-05,5434.53,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-10-17,2247.00,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-01-01,2269.13,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-12-30,2986.75,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-10-08,3034.18,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-10-31,4755.41,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-09-13,2903.38,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-12-10,3072.95,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-11-04,5344.81,Spices,Railway Colony,Shastri & Sons Kirana
+2023-03-31,2257.69,Spices,Old City,Shastri & Sons Kirana
+2023-10-04,1655.44,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-10-07,4390.81,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-04-04,4728.28,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-04-27,2834.35,Spices,Temple Road,Shastri & Sons Kirana
+2024-02-02,1723.39,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-09-03,2460.31,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-03-10,551.81,Spices,Railway Colony,Shastri & Sons Kirana
+2023-10-20,3293.92,Spices,Old City,Shastri & Sons Kirana
+2023-01-26,854.43,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-06-20,3105.10,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-07-17,1676.45,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-08-17,1346.42,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-08-18,1333.64,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-08-18,2228.26,Spices,Temple Road,Shastri & Sons Kirana
+2023-03-28,775.96,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-07-21,1484.92,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-02-17,1302.24,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-06-29,2060.66,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-11-19,4005.77,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-11-10,4263.79,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-04-14,5073.04,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-04-18,4005.33,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-10-20,4297.45,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-04-13,1991.05,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-04-12,2049.88,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-04-02,3538.86,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-04-09,5247.91,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-12-27,3046.48,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-11-06,1724.54,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-02-01,3597.14,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-03-27,1391.41,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-06-14,3685.02,Spices,Railway Colony,Shastri & Sons Kirana
+2023-01-10,2354.25,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-11-02,4749.12,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-07-27,2683.49,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-07-04,3311.67,Spices,Temple Road,Shastri & Sons Kirana
+2024-07-13,1466.71,Spices,Temple Road,Shastri & Sons Kirana
+2023-09-04,3487.99,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-09-26,1202.21,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-12-23,2506.06,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-07-03,4417.56,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-09-04,5260.81,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-05-31,4011.17,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-02-06,3433.15,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-01-30,3348.11,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-11-15,5047.71,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-12-26,3340.84,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-08-31,3284.72,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-05-23,1598.74,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-10-25,4381.74,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-11-04,3882.44,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-09-09,1243.32,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-09-29,5333.78,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-01-25,5391.51,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-04-16,3294.84,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-04-04,3719.57,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-03-09,943.12,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-01-16,3122.95,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-11-29,3768.60,Spices,Railway Colony,Shastri & Sons Kirana
+2024-01-11,906.36,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-03-22,945.47,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-09-30,5030.00,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-11-11,1878.26,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-04-04,1461.30,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-09-18,622.31,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-06-14,3842.09,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-08-02,4644.81,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-05-05,3181.43,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-08-03,2658.43,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-03-31,2791.74,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-06-25,2769.44,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-12-17,3697.70,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-01-06,1973.56,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-02-15,4252.86,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-09-17,4331.59,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-11-21,4691.11,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-02-01,5391.07,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-11-24,3601.17,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-04-28,585.32,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-03-13,3406.58,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-03-15,683.63,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-10-14,2440.71,Spices,Old City,Shastri & Sons Kirana
+2023-02-14,4674.10,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-10-21,2149.10,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-04-30,1713.46,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-07-15,1255.93,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-05-11,2551.12,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-02-28,3310.32,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-10-14,3784.60,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-05-12,2545.47,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-11-17,4706.81,Spices,Temple Road,Shastri & Sons Kirana
+2023-12-28,1497.51,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-07-12,2595.19,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-11-26,847.23,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-05-09,873.57,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-12-05,4546.17,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-11-29,1876.23,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-10-12,1715.03,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-04-18,3569.14,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-11-07,5357.91,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-02-21,5394.54,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-06-06,4939.13,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-07-07,2844.40,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-10-23,2781.39,Spices,Railway Colony,Shastri & Sons Kirana
+2023-03-18,689.80,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-11-18,1213.29,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-09-05,4314.89,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-01-21,2245.08,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-04-25,659.34,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-10-02,4221.46,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-03-22,1943.55,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-03-15,761.52,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-10-12,4285.42,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-01-20,503.28,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-09-17,1275.01,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-03-23,2212.14,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-08-23,3885.36,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-03-07,1904.82,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-10-03,2382.19,Spices,Temple Road,Shastri & Sons Kirana
+2024-01-24,1927.23,Spices,Old City,Shastri & Sons Kirana
+2024-12-08,3040.53,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-01-27,1079.34,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-09-24,4045.58,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-04-24,4367.90,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-05-14,991.21,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-07-14,5166.19,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-08-29,1488.91,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-12-21,4039.60,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-10-04,5065.95,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-07-05,2702.05,Spices,Temple Road,Shastri & Sons Kirana
+2024-10-17,2781.34,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-05-08,3704.02,Spices,Railway Colony,Shastri & Sons Kirana
+2023-09-09,634.18,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-02-05,1969.45,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-03-06,1377.00,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-12-10,5162.44,Spices,Old City,Shastri & Sons Kirana
+2023-05-11,3753.42,Spices,Temple Road,Shastri & Sons Kirana
+2024-08-15,1022.30,Spices,Railway Colony,Shastri & Sons Kirana
+2024-12-22,3041.72,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-06-18,2666.02,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-10-26,4811.61,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-08-27,2663.92,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-06-13,3229.71,Spices,Temple Road,Shastri & Sons Kirana
+2024-06-15,3170.45,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-12-01,1645.86,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-02-15,3783.69,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-01-09,3866.96,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-09-13,3656.32,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-01-26,2361.96,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-08-14,3174.01,Spices,Temple Road,Shastri & Sons Kirana
+2023-01-21,539.37,Spices,Railway Colony,Shastri & Sons Kirana
+2024-06-20,3137.84,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-09-14,4292.82,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-04-29,2894.76,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-07-03,4312.44,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-08-17,5355.97,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-03-14,4805.77,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-09-01,2492.34,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-02-29,2379.54,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-12-05,4910.65,Spices,Railway Colony,Shastri & Sons Kirana
+2023-01-18,1440.69,Spices,Old City,Shastri & Sons Kirana
+2023-06-27,3111.78,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-10-23,4419.10,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-11-14,5498.24,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-04-26,1968.67,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-03-31,4091.07,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-04-01,5223.82,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-07-18,4685.71,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-06-23,857.75,Spices,Old City,Shastri & Sons Kirana
+2024-02-19,2169.23,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-05-27,4035.61,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-02-25,1047.30,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-06-25,2767.96,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-06-07,2263.98,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-02-20,3321.91,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-04-10,5281.27,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-07-07,3274.92,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-07-30,2462.63,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-11-06,1911.96,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-03-04,4558.45,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-09-26,1043.16,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-12-30,5482.24,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-08-01,2064.30,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-11-20,5486.11,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-07-23,2739.47,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-11-07,5276.59,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-11-23,2218.88,Spices,Temple Road,Shastri & Sons Kirana
+2023-04-16,4215.91,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-05-03,4139.34,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-02-29,600.26,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-08-18,650.74,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-03-18,3477.30,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-01-15,501.30,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-07-30,3903.18,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-10-20,5040.68,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-04-30,3392.58,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-06-02,2402.82,Spices,Railway Colony,Shastri & Sons Kirana
+2023-01-29,4475.98,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-09-03,3890.71,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-01-03,4583.14,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-07-16,3386.75,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-09-11,4113.63,Spices,Railway Colony,Shastri & Sons Kirana
+2023-09-14,2411.15,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-04-27,4238.57,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-12-04,3390.13,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-02-04,5028.20,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-07-03,1430.82,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-06-19,1500.93,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-06-26,4332.70,Spices,Railway Colony,Shastri & Sons Kirana
+2023-01-11,2481.30,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-06-10,522.70,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-09-21,516.89,Spices,Old City,Shastri & Sons Kirana
+2024-06-17,1600.30,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-11-18,2448.03,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-08-28,3054.80,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-04-21,4053.18,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-10-30,2585.95,Spices,Railway Colony,Shastri & Sons Kirana
+2024-02-17,5245.70,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-04-16,1879.58,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-02-21,2568.16,Spices,Temple Road,Shastri & Sons Kirana
+2023-06-04,4396.46,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-04-21,3230.11,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-09-24,2669.57,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-04-01,2870.53,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-08-17,4807.47,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-01-16,1771.77,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-06-07,3227.44,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-06-04,4055.96,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-07-23,3130.08,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-09-16,4535.83,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-07-18,4474.17,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-06-07,3557.35,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-10-28,1191.01,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-06-06,1117.08,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-05-06,758.40,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-02-14,4430.59,Spices,Railway Colony,Shastri & Sons Kirana
+2023-10-27,2170.21,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-12-09,1369.96,Spices,Temple Road,Shastri & Sons Kirana
+2023-07-13,3600.26,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-12-25,2467.04,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-04-12,1815.17,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-06-13,2037.05,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-02-21,2831.39,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-01-26,1697.47,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-06-30,3330.59,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-06-29,1079.40,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-10-01,4073.54,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-11-05,2387.16,Spices,Railway Colony,Shastri & Sons Kirana
+2024-06-26,4742.08,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-10-03,3135.65,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-12-08,2570.44,Spices,Old City,Shastri & Sons Kirana
+2023-04-20,2111.26,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-02-11,2143.30,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-05-14,3257.97,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-01-10,3170.54,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-05-17,2352.32,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-02-05,4363.90,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-03-31,3089.77,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-04-05,506.86,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-05-18,1628.49,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-05-31,2124.99,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-07-20,4094.65,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-08-09,5480.79,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-11-09,866.40,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-11-01,2280.69,Spices,Temple Road,Shastri & Sons Kirana
+2024-10-21,3036.43,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-07-22,2123.01,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-02-04,1904.38,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-09-07,2020.33,Spices,Old City,Shastri & Sons Kirana
+2023-03-28,2195.78,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-02-11,4753.10,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-12-29,5239.82,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-10-21,3039.33,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-08-27,4522.79,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-07-01,1004.91,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-12-16,1535.37,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-02-13,1624.02,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-06-12,4481.22,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-02-12,1210.71,Spices,Old City,Shastri & Sons Kirana
+2024-01-31,3681.58,Spices,Railway Colony,Shastri & Sons Kirana
+2023-04-07,2484.62,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-06-27,4623.22,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-10-16,1673.09,Spices,Railway Colony,Shastri & Sons Kirana
+2024-02-10,1969.41,Spices,Old City,Shastri & Sons Kirana
+2023-12-09,4663.70,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-06-27,3596.38,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-09-13,3994.35,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-02-18,820.59,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-02-19,2454.42,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-05-10,2135.91,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-04-08,5392.67,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-10-02,2655.18,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-05-27,2696.74,Spices,Temple Road,Shastri & Sons Kirana
+2024-12-21,2796.73,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-06-26,1747.49,Spices,Old City,Shastri & Sons Kirana
+2024-03-21,4492.86,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-04-10,2250.11,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-01-22,4485.18,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-05-10,1367.26,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-06-23,3491.51,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-06-13,4578.29,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-07-27,2627.69,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-09-19,5315.70,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-10-30,2818.17,Spices,Old City,Shastri & Sons Kirana
+2023-06-01,1485.96,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-04-17,1380.75,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-10-23,5112.30,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-05-22,2302.32,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-11-03,4027.02,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-02-14,5484.08,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-07-17,2917.78,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-07-30,2579.71,Spices,Railway Colony,Shastri & Sons Kirana
+2023-04-25,3297.19,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-12-28,727.89,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-06-09,4244.79,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-06-23,2925.88,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-06-18,4509.16,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-08-08,1570.39,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-07-18,3067.18,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-07-16,5394.16,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-08-18,1998.60,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-01-10,2701.34,Spices,Old City,Shastri & Sons Kirana
+2024-08-20,1794.00,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-12-14,1198.43,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-05-27,2813.09,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-02-21,5279.93,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-07-26,3171.46,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-10-02,692.84,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-07-16,4923.26,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-11-29,1728.67,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-04-08,2531.37,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-07-12,3516.23,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-12-02,3151.74,Spices,Temple Road,Shastri & Sons Kirana
+2023-08-08,5073.00,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-12-28,1353.20,Spices,Old City,Shastri & Sons Kirana
+2024-06-17,1707.76,Spices,Temple Road,Shastri & Sons Kirana
+2023-12-05,1836.47,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-10-25,2218.65,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-12-22,3309.17,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-05-10,2374.18,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-06-02,5249.30,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-01-26,3832.34,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-09-01,3595.41,Spices,Temple Road,Shastri & Sons Kirana
+2024-02-28,1162.60,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-03-05,542.06,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-12-07,1978.13,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-02-22,3826.24,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-04-23,4610.98,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-12-13,4731.64,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-10-15,1822.02,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-11-05,3224.85,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-07-06,2549.03,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-12-01,1541.70,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-05-04,2284.84,Spices,Temple Road,Shastri & Sons Kirana
+2024-03-23,2646.98,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-08-14,4998.39,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-05-08,4653.99,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-10-20,5445.32,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-05-05,4479.64,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-12-14,4520.96,Spices,Railway Colony,Shastri & Sons Kirana
+2024-06-30,2374.70,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-07-07,3081.55,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-01-19,5393.72,Spices,Old City,Shastri & Sons Kirana
+2024-06-18,4681.30,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-05-14,1543.97,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-06-12,2815.42,Spices,Old City,Shastri & Sons Kirana
+2023-09-11,4159.69,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-06-21,1346.28,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-02-01,834.83,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-07-13,1194.94,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-05-08,2186.46,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-02-12,4423.73,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-09-13,3453.99,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-07-25,2686.52,Spices,Railway Colony,Shastri & Sons Kirana
+2023-10-21,1199.15,Spices,Railway Colony,Shastri & Sons Kirana
+2024-12-02,2748.18,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-05-21,2663.39,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-07-17,2104.03,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-08-15,1074.19,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-07-24,1590.18,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-10-22,2716.63,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-03-27,2414.41,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-08-19,3364.66,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-07-27,730.53,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-11-05,5157.09,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-11-21,737.97,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-01-19,1890.29,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-06-11,2344.11,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-11-12,3727.02,Spices,Old City,Shastri & Sons Kirana
+2023-10-23,1129.59,Spices,Old City,Shastri & Sons Kirana
+2023-12-18,2152.88,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-10-21,1342.68,Spices,Old City,Shastri & Sons Kirana
+2024-02-29,4246.39,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-12-16,3815.24,Spices,Old City,Shastri & Sons Kirana
+2023-10-12,2729.20,Spices,Old City,Shastri & Sons Kirana
+2024-01-04,4558.54,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-05-03,4108.27,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-12-01,810.34,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-02-28,3480.84,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-05-24,3664.60,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-02-23,1841.38,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-01-11,1183.02,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-11-11,5006.11,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-12-27,657.98,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-07-11,1938.20,Spices,Railway Colony,Shastri & Sons Kirana
+2024-12-02,2628.45,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-07-05,3633.33,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-07-18,2038.31,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-04-04,3246.28,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-11-23,2676.99,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-06-24,4641.44,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-08-12,2327.68,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-12-05,4817.78,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-09-18,705.51,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-02-06,4972.71,Spices,Railway Colony,Shastri & Sons Kirana
+2023-02-28,2289.41,Spices,Temple Road,Shastri & Sons Kirana
+2024-12-28,1629.12,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-06-28,4643.22,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-07-12,3654.64,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-12-13,5001.31,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-09-10,911.04,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-08-02,2519.29,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-11-30,2608.59,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-01-03,3067.25,Spices,Temple Road,Shastri & Sons Kirana
+2024-08-16,834.08,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-11-05,1574.21,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-08-29,3985.25,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-04-22,5264.49,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-05-08,1271.37,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2024-08-13,1698.06,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2024-04-10,2614.43,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-02-24,1231.29,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-10-25,4637.21,Spices,Old City,Shastri & Sons Kirana
+2023-11-09,788.40,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-02-07,4760.44,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-10-17,1282.40,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2024-01-01,3256.82,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-03-07,2767.38,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2023-04-29,2179.55,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-04-15,1727.20,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-01-19,1021.31,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-04-11,1949.66,Spices,Temple Road,Shastri & Sons Kirana
+2023-02-03,2026.45,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-01-25,2162.85,Spices,Old City,Shastri & Sons Kirana
+2023-12-19,3003.52,Pulses & Grains,Railway Colony,Shastri & Sons Kirana
+2023-01-01,2609.69,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2024-10-19,1978.69,Spices,Temple Road,Shastri & Sons Kirana
+2024-03-13,3280.20,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-02-02,500.07,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-08-31,1031.40,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-01-13,535.86,Spices,Railway Colony,Shastri & Sons Kirana
+2024-09-10,2940.65,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-05-27,4911.42,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-07-01,3266.60,Sugar & Salt,Railway Colony,Shastri & Sons Kirana
+2023-07-17,3202.41,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-08-13,1254.93,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-01-15,684.05,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-12-07,770.55,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-10-12,2340.01,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-11-14,523.43,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-09-29,4479.58,Spices,Old City,Shastri & Sons Kirana
+2023-03-18,2949.18,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-01-18,5382.63,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-07-10,4392.59,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-10-02,2897.00,Cooking Oil,Old City,Shastri & Sons Kirana
+2024-05-20,519.18,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-02-17,564.51,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-11-04,1594.44,Spices,Temple Road,Shastri & Sons Kirana
+2023-10-01,3120.35,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-12-05,1627.46,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-05-05,1809.78,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-05-01,4785.70,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-06-17,4217.79,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2024-11-24,4733.23,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-02-05,1401.04,Spices,Temple Road,Shastri & Sons Kirana
+2024-09-04,3988.99,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-05-24,4213.37,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-08-21,2218.14,Spices,Old City,Shastri & Sons Kirana
+2024-01-13,2500.62,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-03-23,697.01,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-05-28,1460.45,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-05-21,736.11,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-04-07,1949.06,Spices,Temple Road,Shastri & Sons Kirana
+2023-09-07,1532.97,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-06-05,1724.79,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-12-28,3746.76,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-11-23,3094.92,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-12-13,781.74,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-10-21,3546.26,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-12-19,5111.22,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-06-10,2135.22,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-03-16,2142.07,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-09-07,767.59,Spices,Temple Road,Shastri & Sons Kirana
+2024-07-15,2488.12,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-11-18,1339.90,Spices,Bazaar Street,Shastri & Sons Kirana
+2024-05-09,4910.37,Spices,Railway Colony,Shastri & Sons Kirana
+2024-09-12,942.23,Spices,Railway Colony,Shastri & Sons Kirana
+2023-06-26,1600.79,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-07-16,648.26,Spices,Railway Colony,Shastri & Sons Kirana
+2023-08-29,4719.08,Spices,Mandapam Area,Shastri & Sons Kirana
+2024-11-19,3391.94,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2023-06-15,5127.37,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-07-20,1871.87,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-01-31,4876.71,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-10-22,1566.68,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-02-24,3417.67,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2024-03-03,4100.64,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-12-23,1355.48,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-10-01,2674.11,Cooking Oil,Bazaar Street,Shastri & Sons Kirana
+2023-07-27,5116.05,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-09-01,4470.73,Spices,Mandapam Area,Shastri & Sons Kirana
+2023-04-25,2170.47,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-08-27,3411.95,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-10-20,509.68,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-02-15,4459.79,Sugar & Salt,Mandapam Area,Shastri & Sons Kirana
+2023-02-19,5263.09,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-06-07,580.79,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2024-06-26,3672.19,Pulses & Grains,Old City,Shastri & Sons Kirana
+2024-03-20,4798.76,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2023-12-11,2371.46,Spices,Temple Road,Shastri & Sons Kirana
+2024-09-04,1857.66,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-10-02,5238.27,Cooking Oil,Mandapam Area,Shastri & Sons Kirana
+2023-01-18,2029.05,Spices,Railway Colony,Shastri & Sons Kirana
+2024-08-29,2858.31,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-03-07,4593.03,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-05-07,1282.12,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-08-01,2039.51,Pulses & Grains,Mandapam Area,Shastri & Sons Kirana
+2023-01-04,906.64,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-12-05,3223.65,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-10-01,1153.39,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2023-04-19,1050.93,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2023-02-10,3485.31,Pulses & Grains,Temple Road,Shastri & Sons Kirana
+2024-02-18,2380.29,Sugar & Salt,Old City,Shastri & Sons Kirana
+2024-11-14,4248.87,Sugar & Salt,Temple Road,Shastri & Sons Kirana
+2024-03-18,1698.14,Cooking Oil,Temple Road,Shastri & Sons Kirana
+2023-06-18,1421.43,Spices,Bazaar Street,Shastri & Sons Kirana
+2023-01-10,5182.81,Sugar & Salt,Bazaar Street,Shastri & Sons Kirana
+2024-07-16,1509.16,Pulses & Grains,Bazaar Street,Shastri & Sons Kirana
+2024-03-27,3267.85,Sugar & Salt,Old City,Shastri & Sons Kirana
+2023-11-12,4231.99,Pulses & Grains,Old City,Shastri & Sons Kirana
+2023-09-27,604.73,Cooking Oil,Old City,Shastri & Sons Kirana
+2023-02-04,4110.69,Cooking Oil,Railway Colony,Shastri & Sons Kirana
+2024-01-09,864.66,Spices,Old City,Shastri & Sons Kirana

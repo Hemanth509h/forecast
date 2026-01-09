@@ -1,1501 +1,1001 @@
 date,amount,productCategory,region,company
-2023-05-12,222262.10,Petrochemicals,North India,Reliance Industries
-2024-09-15,265749.24,Petrochemicals,Central India,Reliance Industries
-2024-04-04,257825.19,Petrochemicals,South India,Reliance Industries
-2024-05-10,144841.22,Textiles,West India,Reliance Industries
-2023-06-18,251720.64,Textiles,East India,Reliance Industries
-2024-12-29,78207.34,Petrochemicals,East India,Reliance Industries
-2023-03-18,493663.39,Retail Outlets,Central India,Reliance Industries
-2024-01-14,441371.11,Retail Outlets,North India,Reliance Industries
-2024-11-18,315248.44,Digital Services,West India,Reliance Industries
-2024-02-10,532070.56,Retail Outlets,West India,Reliance Industries
-2024-08-11,78337.15,Digital Services,Central India,Reliance Industries
-2023-06-26,471449.91,Retail Outlets,Central India,Reliance Industries
-2024-05-25,212506.17,Petrochemicals,South India,Reliance Industries
-2024-04-27,388113.56,Digital Services,North India,Reliance Industries
-2023-01-06,322864.80,Digital Services,Central India,Reliance Industries
-2023-12-02,339526.53,Petrochemicals,South India,Reliance Industries
-2024-03-09,422639.62,Petrochemicals,Central India,Reliance Industries
-2024-02-10,335017.31,Digital Services,West India,Reliance Industries
-2023-02-16,511599.79,Petrochemicals,South India,Reliance Industries
-2023-12-14,443920.15,Petrochemicals,West India,Reliance Industries
-2023-01-16,487611.88,Textiles,South India,Reliance Industries
-2024-12-08,383192.19,Retail Outlets,South India,Reliance Industries
-2024-06-04,545773.70,Petrochemicals,Central India,Reliance Industries
-2024-11-30,549764.55,Retail Outlets,Central India,Reliance Industries
-2023-11-16,74740.32,Petrochemicals,North India,Reliance Industries
-2023-10-24,540244.60,Digital Services,East India,Reliance Industries
-2023-09-26,267118.76,Retail Outlets,North India,Reliance Industries
-2024-08-23,527296.90,Retail Outlets,Central India,Reliance Industries
-2023-09-02,384270.01,Petrochemicals,West India,Reliance Industries
-2023-10-31,476961.43,Digital Services,South India,Reliance Industries
-2024-02-06,357289.21,Textiles,West India,Reliance Industries
-2023-10-03,412829.36,Digital Services,West India,Reliance Industries
-2024-07-11,459775.42,Retail Outlets,West India,Reliance Industries
-2024-03-20,534392.34,Petrochemicals,North India,Reliance Industries
-2023-04-25,109520.13,Digital Services,South India,Reliance Industries
-2023-03-17,108768.47,Textiles,Central India,Reliance Industries
-2024-08-08,294315.03,Retail Outlets,West India,Reliance Industries
-2024-03-30,328741.46,Textiles,South India,Reliance Industries
-2024-10-30,194535.42,Petrochemicals,West India,Reliance Industries
-2023-03-08,410386.61,Digital Services,North India,Reliance Industries
-2023-09-26,522073.00,Petrochemicals,North India,Reliance Industries
-2024-01-05,286024.55,Petrochemicals,Central India,Reliance Industries
-2024-12-12,153906.58,Textiles,West India,Reliance Industries
-2023-05-09,417293.19,Petrochemicals,West India,Reliance Industries
-2024-04-21,245685.63,Petrochemicals,West India,Reliance Industries
-2023-05-27,298718.73,Digital Services,West India,Reliance Industries
-2024-06-10,505052.71,Petrochemicals,East India,Reliance Industries
-2023-10-01,491546.55,Petrochemicals,North India,Reliance Industries
-2023-08-01,89312.75,Petrochemicals,East India,Reliance Industries
-2023-12-20,146593.33,Petrochemicals,North India,Reliance Industries
-2023-06-09,311425.18,Digital Services,East India,Reliance Industries
-2024-12-15,90537.75,Digital Services,North India,Reliance Industries
-2023-09-28,167057.92,Retail Outlets,North India,Reliance Industries
-2023-05-11,217979.15,Textiles,South India,Reliance Industries
-2023-03-12,416707.62,Petrochemicals,East India,Reliance Industries
-2023-03-07,85921.79,Petrochemicals,Central India,Reliance Industries
-2024-03-09,120155.23,Petrochemicals,North India,Reliance Industries
-2023-05-06,486207.47,Retail Outlets,North India,Reliance Industries
-2023-03-05,69411.86,Textiles,West India,Reliance Industries
-2023-10-29,489539.63,Digital Services,East India,Reliance Industries
-2023-01-13,151126.93,Retail Outlets,East India,Reliance Industries
-2024-12-07,440521.72,Retail Outlets,West India,Reliance Industries
-2024-03-30,243549.65,Petrochemicals,West India,Reliance Industries
-2024-02-25,192144.82,Textiles,West India,Reliance Industries
-2024-07-08,313883.34,Digital Services,South India,Reliance Industries
-2023-09-13,320474.85,Petrochemicals,West India,Reliance Industries
-2024-03-02,145813.46,Petrochemicals,East India,Reliance Industries
-2023-11-19,490439.16,Textiles,West India,Reliance Industries
-2024-11-15,332862.10,Petrochemicals,West India,Reliance Industries
-2024-12-14,285879.43,Petrochemicals,West India,Reliance Industries
-2023-12-22,508725.81,Retail Outlets,South India,Reliance Industries
-2023-09-04,334086.98,Digital Services,South India,Reliance Industries
-2024-02-28,538514.43,Petrochemicals,Central India,Reliance Industries
-2024-10-08,436044.79,Retail Outlets,South India,Reliance Industries
-2024-10-16,260946.91,Petrochemicals,South India,Reliance Industries
-2023-07-16,462481.95,Digital Services,Central India,Reliance Industries
-2023-07-18,483840.18,Digital Services,East India,Reliance Industries
-2023-09-29,361152.92,Petrochemicals,Central India,Reliance Industries
-2023-03-15,382439.03,Retail Outlets,West India,Reliance Industries
-2024-09-07,168333.65,Petrochemicals,Central India,Reliance Industries
-2023-12-18,518450.69,Petrochemicals,North India,Reliance Industries
-2023-09-08,174639.83,Digital Services,North India,Reliance Industries
-2024-06-27,154278.78,Retail Outlets,Central India,Reliance Industries
-2024-05-15,219898.93,Retail Outlets,East India,Reliance Industries
-2023-02-20,425190.65,Petrochemicals,Central India,Reliance Industries
-2023-07-20,354994.89,Petrochemicals,East India,Reliance Industries
-2023-04-18,249066.12,Digital Services,South India,Reliance Industries
-2024-05-22,465324.04,Textiles,South India,Reliance Industries
-2023-02-25,400758.55,Petrochemicals,West India,Reliance Industries
-2023-08-18,252188.46,Petrochemicals,Central India,Reliance Industries
-2023-04-12,148417.04,Textiles,West India,Reliance Industries
-2024-02-26,171016.09,Digital Services,Central India,Reliance Industries
-2023-07-25,144197.96,Digital Services,South India,Reliance Industries
-2023-06-11,378812.00,Retail Outlets,North India,Reliance Industries
-2024-12-24,512504.76,Digital Services,East India,Reliance Industries
-2024-03-02,366168.51,Retail Outlets,North India,Reliance Industries
-2023-05-29,398667.06,Petrochemicals,West India,Reliance Industries
-2023-06-21,394321.91,Textiles,West India,Reliance Industries
-2024-08-26,256259.79,Petrochemicals,East India,Reliance Industries
-2024-04-13,255023.85,Retail Outlets,Central India,Reliance Industries
-2023-12-15,79174.10,Textiles,Central India,Reliance Industries
-2023-10-09,343417.41,Retail Outlets,West India,Reliance Industries
-2024-03-06,319640.50,Digital Services,East India,Reliance Industries
-2024-01-18,90306.57,Petrochemicals,Central India,Reliance Industries
-2024-09-19,347398.13,Retail Outlets,South India,Reliance Industries
-2024-05-15,497152.38,Petrochemicals,Central India,Reliance Industries
-2024-11-30,520681.42,Digital Services,East India,Reliance Industries
-2023-03-13,379691.34,Retail Outlets,North India,Reliance Industries
-2023-10-11,101112.32,Textiles,East India,Reliance Industries
-2024-01-18,468133.84,Retail Outlets,South India,Reliance Industries
-2024-09-03,329568.85,Petrochemicals,North India,Reliance Industries
-2023-09-07,504780.56,Retail Outlets,South India,Reliance Industries
-2024-07-02,475754.98,Digital Services,Central India,Reliance Industries
-2023-06-06,333964.83,Textiles,North India,Reliance Industries
-2023-03-31,267530.46,Petrochemicals,North India,Reliance Industries
-2023-02-27,166422.36,Digital Services,South India,Reliance Industries
-2023-05-29,311947.08,Retail Outlets,Central India,Reliance Industries
-2023-06-11,141002.09,Retail Outlets,North India,Reliance Industries
-2023-01-06,94881.12,Retail Outlets,East India,Reliance Industries
-2023-08-14,339040.91,Digital Services,North India,Reliance Industries
-2024-04-09,531810.18,Textiles,North India,Reliance Industries
-2024-08-09,421253.81,Textiles,South India,Reliance Industries
-2024-06-07,216734.62,Textiles,East India,Reliance Industries
-2023-07-07,214108.97,Textiles,North India,Reliance Industries
-2024-06-30,286256.47,Digital Services,East India,Reliance Industries
-2023-07-12,348899.33,Textiles,East India,Reliance Industries
-2024-04-29,298810.69,Digital Services,Central India,Reliance Industries
-2023-05-10,282192.43,Petrochemicals,South India,Reliance Industries
-2023-02-15,219413.23,Textiles,Central India,Reliance Industries
-2023-04-09,474243.22,Petrochemicals,South India,Reliance Industries
-2024-01-07,166363.05,Retail Outlets,Central India,Reliance Industries
-2023-05-18,470415.88,Textiles,South India,Reliance Industries
-2024-01-31,221282.05,Petrochemicals,South India,Reliance Industries
-2023-09-09,494992.30,Digital Services,East India,Reliance Industries
-2024-04-14,73331.39,Digital Services,South India,Reliance Industries
-2024-02-20,301590.86,Textiles,Central India,Reliance Industries
-2023-05-14,191572.21,Digital Services,North India,Reliance Industries
-2024-06-14,483937.63,Petrochemicals,West India,Reliance Industries
-2024-05-13,426841.36,Digital Services,West India,Reliance Industries
-2024-11-19,157770.65,Retail Outlets,East India,Reliance Industries
-2023-02-05,337515.04,Retail Outlets,North India,Reliance Industries
-2023-01-07,374713.75,Retail Outlets,North India,Reliance Industries
-2023-10-05,253238.44,Digital Services,East India,Reliance Industries
-2023-12-10,161736.79,Textiles,South India,Reliance Industries
-2023-05-28,457733.19,Digital Services,East India,Reliance Industries
-2023-10-12,85136.59,Textiles,South India,Reliance Industries
-2023-09-12,377078.38,Textiles,North India,Reliance Industries
-2024-08-15,112375.35,Retail Outlets,North India,Reliance Industries
-2024-03-27,124489.84,Textiles,East India,Reliance Industries
-2023-05-21,184731.88,Textiles,East India,Reliance Industries
-2024-08-22,342913.21,Petrochemicals,Central India,Reliance Industries
-2023-06-30,521088.77,Digital Services,South India,Reliance Industries
-2023-05-04,447457.47,Digital Services,Central India,Reliance Industries
-2023-01-30,253320.13,Digital Services,South India,Reliance Industries
-2024-03-31,54046.14,Petrochemicals,Central India,Reliance Industries
-2024-07-17,423150.86,Digital Services,East India,Reliance Industries
-2023-06-08,204975.83,Retail Outlets,Central India,Reliance Industries
-2024-02-15,491310.56,Textiles,Central India,Reliance Industries
-2024-06-10,504388.30,Digital Services,Central India,Reliance Industries
-2023-03-16,332170.50,Digital Services,South India,Reliance Industries
-2024-07-25,430599.15,Petrochemicals,North India,Reliance Industries
-2023-10-11,368921.38,Textiles,East India,Reliance Industries
-2023-06-06,255767.38,Petrochemicals,Central India,Reliance Industries
-2024-06-16,503895.97,Petrochemicals,South India,Reliance Industries
-2023-12-28,512307.60,Retail Outlets,West India,Reliance Industries
-2023-10-20,281590.61,Textiles,East India,Reliance Industries
-2024-01-16,175033.99,Retail Outlets,West India,Reliance Industries
-2024-01-10,150886.07,Digital Services,North India,Reliance Industries
-2023-10-30,431554.70,Digital Services,West India,Reliance Industries
-2023-08-14,83743.50,Digital Services,North India,Reliance Industries
-2024-09-29,533327.64,Retail Outlets,Central India,Reliance Industries
-2024-10-17,460403.72,Textiles,Central India,Reliance Industries
-2024-04-12,100479.31,Textiles,West India,Reliance Industries
-2024-10-20,62719.88,Textiles,South India,Reliance Industries
-2023-12-01,368690.28,Textiles,Central India,Reliance Industries
-2024-04-21,207765.34,Retail Outlets,West India,Reliance Industries
-2024-08-22,369032.84,Retail Outlets,West India,Reliance Industries
-2024-09-14,270490.22,Digital Services,West India,Reliance Industries
-2023-07-28,371141.19,Retail Outlets,North India,Reliance Industries
-2024-12-06,270683.91,Retail Outlets,West India,Reliance Industries
-2023-06-21,446017.71,Retail Outlets,East India,Reliance Industries
-2023-01-07,231234.95,Petrochemicals,South India,Reliance Industries
-2023-08-17,442451.99,Textiles,West India,Reliance Industries
-2024-11-08,339628.19,Digital Services,North India,Reliance Industries
-2024-05-04,175509.62,Textiles,East India,Reliance Industries
-2024-03-07,518056.62,Retail Outlets,East India,Reliance Industries
-2024-06-07,441962.30,Retail Outlets,Central India,Reliance Industries
-2023-05-05,85008.73,Retail Outlets,South India,Reliance Industries
-2024-10-31,361877.14,Retail Outlets,Central India,Reliance Industries
-2023-12-14,359857.67,Textiles,South India,Reliance Industries
-2023-03-03,333058.57,Digital Services,South India,Reliance Industries
-2024-06-07,512447.84,Textiles,West India,Reliance Industries
-2024-06-16,301780.84,Digital Services,North India,Reliance Industries
-2024-05-29,481852.65,Digital Services,North India,Reliance Industries
-2024-03-22,78780.44,Digital Services,Central India,Reliance Industries
-2024-02-10,497055.25,Retail Outlets,Central India,Reliance Industries
-2023-09-06,136683.95,Petrochemicals,South India,Reliance Industries
-2024-09-30,546804.31,Petrochemicals,East India,Reliance Industries
-2024-04-28,144613.91,Petrochemicals,East India,Reliance Industries
-2024-09-05,141603.61,Retail Outlets,East India,Reliance Industries
-2024-07-29,143766.13,Petrochemicals,Central India,Reliance Industries
-2024-12-26,492025.65,Digital Services,Central India,Reliance Industries
-2023-04-27,306976.09,Petrochemicals,Central India,Reliance Industries
-2023-05-20,346013.79,Textiles,South India,Reliance Industries
-2024-12-19,75351.98,Retail Outlets,Central India,Reliance Industries
-2023-08-22,222750.95,Textiles,North India,Reliance Industries
-2024-09-18,423212.06,Retail Outlets,West India,Reliance Industries
-2024-08-08,451639.50,Petrochemicals,North India,Reliance Industries
-2023-09-17,180513.86,Retail Outlets,East India,Reliance Industries
-2024-04-17,545556.70,Retail Outlets,West India,Reliance Industries
-2024-10-17,536602.22,Petrochemicals,West India,Reliance Industries
-2023-04-11,298493.13,Retail Outlets,South India,Reliance Industries
-2024-05-16,510183.50,Textiles,East India,Reliance Industries
-2024-04-13,334411.88,Digital Services,North India,Reliance Industries
-2024-11-13,402307.76,Digital Services,South India,Reliance Industries
-2023-09-09,247318.67,Petrochemicals,East India,Reliance Industries
-2023-01-07,230411.23,Retail Outlets,Central India,Reliance Industries
-2024-12-02,361061.35,Textiles,West India,Reliance Industries
-2024-12-25,152715.04,Retail Outlets,Central India,Reliance Industries
-2024-12-04,92563.03,Retail Outlets,East India,Reliance Industries
-2024-07-29,64161.72,Petrochemicals,South India,Reliance Industries
-2023-10-19,349057.52,Digital Services,North India,Reliance Industries
-2023-07-27,387955.46,Textiles,West India,Reliance Industries
-2023-06-23,136392.03,Retail Outlets,Central India,Reliance Industries
-2023-11-14,173127.50,Petrochemicals,West India,Reliance Industries
-2023-02-27,150363.05,Retail Outlets,North India,Reliance Industries
-2023-01-15,164302.40,Textiles,East India,Reliance Industries
-2023-01-22,486716.10,Petrochemicals,North India,Reliance Industries
-2023-06-14,338280.34,Petrochemicals,Central India,Reliance Industries
-2024-11-16,538849.28,Digital Services,North India,Reliance Industries
-2024-05-26,242406.00,Textiles,South India,Reliance Industries
-2023-10-06,511018.90,Textiles,Central India,Reliance Industries
-2023-06-29,204044.55,Retail Outlets,West India,Reliance Industries
-2023-12-14,126620.16,Petrochemicals,West India,Reliance Industries
-2023-09-05,164726.84,Petrochemicals,South India,Reliance Industries
-2023-01-16,175104.20,Textiles,South India,Reliance Industries
-2023-02-09,429405.89,Petrochemicals,Central India,Reliance Industries
-2024-03-26,384401.30,Petrochemicals,South India,Reliance Industries
-2024-07-16,237286.01,Digital Services,South India,Reliance Industries
-2023-08-28,455704.02,Retail Outlets,South India,Reliance Industries
-2024-01-12,516759.64,Retail Outlets,East India,Reliance Industries
-2023-06-11,414892.01,Petrochemicals,Central India,Reliance Industries
-2023-06-21,501067.70,Retail Outlets,South India,Reliance Industries
-2024-04-14,426849.31,Retail Outlets,West India,Reliance Industries
-2023-07-31,520954.00,Digital Services,East India,Reliance Industries
-2024-03-16,542109.78,Digital Services,North India,Reliance Industries
-2024-10-02,278003.65,Retail Outlets,West India,Reliance Industries
-2024-03-27,429076.06,Retail Outlets,South India,Reliance Industries
-2024-05-19,499314.24,Textiles,North India,Reliance Industries
-2023-01-08,151112.44,Retail Outlets,South India,Reliance Industries
-2023-02-09,175110.69,Textiles,North India,Reliance Industries
-2023-09-30,74540.86,Petrochemicals,North India,Reliance Industries
-2023-05-03,158947.40,Textiles,South India,Reliance Industries
-2023-12-22,443542.58,Digital Services,South India,Reliance Industries
-2024-04-28,110174.45,Textiles,Central India,Reliance Industries
-2023-10-07,349756.59,Petrochemicals,East India,Reliance Industries
-2023-07-13,179585.53,Petrochemicals,South India,Reliance Industries
-2023-02-08,509077.40,Textiles,South India,Reliance Industries
-2023-06-07,468684.88,Textiles,East India,Reliance Industries
-2024-02-24,107330.19,Retail Outlets,Central India,Reliance Industries
-2023-08-22,346855.43,Petrochemicals,Central India,Reliance Industries
-2023-08-27,385786.58,Retail Outlets,East India,Reliance Industries
-2023-06-25,314214.08,Digital Services,North India,Reliance Industries
-2024-03-08,145852.17,Textiles,North India,Reliance Industries
-2023-03-18,115698.99,Digital Services,Central India,Reliance Industries
-2024-06-26,370149.29,Retail Outlets,East India,Reliance Industries
-2023-05-28,172414.98,Digital Services,South India,Reliance Industries
-2024-04-04,219389.28,Digital Services,East India,Reliance Industries
-2024-04-06,390667.75,Retail Outlets,South India,Reliance Industries
-2024-05-20,251171.62,Retail Outlets,South India,Reliance Industries
-2023-10-11,321563.82,Digital Services,Central India,Reliance Industries
-2023-02-14,247308.64,Digital Services,West India,Reliance Industries
-2024-06-07,183960.27,Retail Outlets,West India,Reliance Industries
-2023-05-23,415433.82,Textiles,East India,Reliance Industries
-2023-06-21,137891.14,Digital Services,East India,Reliance Industries
-2023-10-08,173789.42,Digital Services,South India,Reliance Industries
-2023-02-03,142267.85,Digital Services,South India,Reliance Industries
-2023-09-14,372840.44,Digital Services,Central India,Reliance Industries
-2024-03-28,297860.56,Retail Outlets,Central India,Reliance Industries
-2024-02-02,470009.12,Digital Services,South India,Reliance Industries
-2023-02-23,53083.84,Petrochemicals,West India,Reliance Industries
-2023-03-25,346845.33,Digital Services,North India,Reliance Industries
-2024-08-14,201252.06,Petrochemicals,South India,Reliance Industries
-2023-12-02,325690.77,Petrochemicals,West India,Reliance Industries
-2024-10-14,104740.03,Retail Outlets,East India,Reliance Industries
-2024-03-17,256572.74,Textiles,Central India,Reliance Industries
-2024-10-17,501253.41,Textiles,West India,Reliance Industries
-2023-11-22,317108.34,Retail Outlets,North India,Reliance Industries
-2023-06-20,87383.38,Textiles,North India,Reliance Industries
-2024-02-26,213854.47,Digital Services,South India,Reliance Industries
-2024-05-30,213660.04,Retail Outlets,Central India,Reliance Industries
-2023-05-02,84678.69,Digital Services,East India,Reliance Industries
-2024-07-22,102561.42,Digital Services,West India,Reliance Industries
-2024-05-13,503545.75,Petrochemicals,West India,Reliance Industries
-2024-08-21,293267.07,Retail Outlets,West India,Reliance Industries
-2024-08-20,312097.48,Textiles,North India,Reliance Industries
-2024-10-12,429098.73,Textiles,Central India,Reliance Industries
-2023-01-21,403198.79,Textiles,East India,Reliance Industries
-2024-03-05,228649.09,Textiles,Central India,Reliance Industries
-2024-08-21,478710.04,Digital Services,South India,Reliance Industries
-2023-02-12,499930.89,Textiles,North India,Reliance Industries
-2024-06-24,345087.11,Petrochemicals,North India,Reliance Industries
-2024-11-16,437209.43,Digital Services,North India,Reliance Industries
-2024-01-03,309943.55,Petrochemicals,East India,Reliance Industries
-2024-08-10,237907.11,Textiles,North India,Reliance Industries
-2023-07-12,263071.71,Digital Services,East India,Reliance Industries
-2024-04-18,297734.39,Digital Services,West India,Reliance Industries
-2024-10-10,131581.73,Petrochemicals,West India,Reliance Industries
-2023-11-07,544741.80,Retail Outlets,South India,Reliance Industries
-2024-11-27,278168.00,Retail Outlets,North India,Reliance Industries
-2024-10-26,439822.20,Digital Services,South India,Reliance Industries
-2023-10-11,324920.63,Digital Services,South India,Reliance Industries
-2024-11-09,284032.74,Petrochemicals,West India,Reliance Industries
-2023-05-22,103398.64,Textiles,East India,Reliance Industries
-2023-09-05,438619.55,Textiles,West India,Reliance Industries
-2024-05-20,251583.33,Retail Outlets,South India,Reliance Industries
-2024-08-11,278007.82,Petrochemicals,West India,Reliance Industries
-2024-05-02,456775.10,Retail Outlets,North India,Reliance Industries
-2024-05-26,383565.48,Retail Outlets,East India,Reliance Industries
-2024-12-17,419400.25,Petrochemicals,East India,Reliance Industries
-2023-05-09,542411.53,Digital Services,East India,Reliance Industries
-2023-08-05,158919.03,Petrochemicals,Central India,Reliance Industries
-2023-05-17,453395.83,Retail Outlets,South India,Reliance Industries
-2024-06-27,260763.01,Retail Outlets,East India,Reliance Industries
-2023-08-14,242794.54,Retail Outlets,Central India,Reliance Industries
-2024-05-15,529883.83,Petrochemicals,North India,Reliance Industries
-2024-05-28,140308.11,Textiles,West India,Reliance Industries
-2024-02-04,443633.19,Textiles,South India,Reliance Industries
-2023-07-16,341182.15,Textiles,North India,Reliance Industries
-2024-10-23,443571.38,Textiles,West India,Reliance Industries
-2024-05-16,313755.31,Textiles,East India,Reliance Industries
-2024-07-01,267400.24,Petrochemicals,North India,Reliance Industries
-2023-08-25,194947.59,Retail Outlets,West India,Reliance Industries
-2024-08-31,222808.24,Petrochemicals,West India,Reliance Industries
-2024-10-28,367939.34,Textiles,South India,Reliance Industries
-2024-01-31,272557.23,Retail Outlets,West India,Reliance Industries
-2024-01-08,198125.01,Petrochemicals,West India,Reliance Industries
-2024-12-24,477765.70,Petrochemicals,North India,Reliance Industries
-2023-09-06,169939.59,Textiles,West India,Reliance Industries
-2024-11-17,405752.44,Textiles,East India,Reliance Industries
-2023-07-16,490000.02,Retail Outlets,East India,Reliance Industries
-2024-01-24,290172.12,Textiles,South India,Reliance Industries
-2024-11-29,62431.06,Retail Outlets,East India,Reliance Industries
-2023-09-24,152746.30,Petrochemicals,East India,Reliance Industries
-2024-09-18,481428.58,Petrochemicals,North India,Reliance Industries
-2024-11-06,252904.15,Petrochemicals,Central India,Reliance Industries
-2023-04-17,365161.91,Textiles,Central India,Reliance Industries
-2024-08-11,337545.06,Digital Services,East India,Reliance Industries
-2023-08-09,127940.65,Petrochemicals,North India,Reliance Industries
-2023-02-10,457016.99,Textiles,North India,Reliance Industries
-2024-05-11,181803.69,Retail Outlets,Central India,Reliance Industries
-2023-12-13,297034.78,Digital Services,Central India,Reliance Industries
-2024-08-27,292757.82,Petrochemicals,West India,Reliance Industries
-2024-04-03,92341.06,Retail Outlets,East India,Reliance Industries
-2023-04-05,191170.97,Digital Services,Central India,Reliance Industries
-2023-06-13,220230.60,Textiles,West India,Reliance Industries
-2024-05-08,427337.89,Retail Outlets,South India,Reliance Industries
-2024-11-27,429948.76,Digital Services,West India,Reliance Industries
-2024-06-08,279895.38,Retail Outlets,West India,Reliance Industries
-2024-01-21,71872.46,Petrochemicals,East India,Reliance Industries
-2024-06-05,288204.16,Petrochemicals,Central India,Reliance Industries
-2024-01-04,446110.46,Textiles,North India,Reliance Industries
-2024-03-26,235442.32,Retail Outlets,South India,Reliance Industries
-2024-05-26,188521.41,Petrochemicals,Central India,Reliance Industries
-2023-02-19,420591.06,Retail Outlets,East India,Reliance Industries
-2023-02-01,88616.15,Retail Outlets,East India,Reliance Industries
-2023-10-26,462082.84,Retail Outlets,Central India,Reliance Industries
-2023-07-12,251710.10,Textiles,West India,Reliance Industries
-2024-10-09,384064.30,Textiles,North India,Reliance Industries
-2024-01-02,275958.29,Petrochemicals,Central India,Reliance Industries
-2023-02-10,203649.19,Textiles,West India,Reliance Industries
-2023-06-21,227356.59,Textiles,Central India,Reliance Industries
-2024-05-29,147025.18,Retail Outlets,Central India,Reliance Industries
-2023-07-08,215674.57,Textiles,Central India,Reliance Industries
-2023-10-26,502457.16,Textiles,East India,Reliance Industries
-2024-05-02,369670.23,Retail Outlets,East India,Reliance Industries
-2024-02-29,534116.38,Retail Outlets,East India,Reliance Industries
-2023-06-11,352686.70,Digital Services,Central India,Reliance Industries
-2023-08-03,347920.24,Retail Outlets,North India,Reliance Industries
-2023-10-16,213208.91,Petrochemicals,West India,Reliance Industries
-2024-02-11,502712.82,Textiles,East India,Reliance Industries
-2024-03-18,191773.62,Textiles,West India,Reliance Industries
-2024-02-17,141326.06,Textiles,East India,Reliance Industries
-2023-01-19,250268.92,Retail Outlets,West India,Reliance Industries
-2024-03-27,299449.81,Textiles,East India,Reliance Industries
-2023-02-02,348663.68,Textiles,South India,Reliance Industries
-2024-05-20,410015.65,Retail Outlets,South India,Reliance Industries
-2024-04-09,53173.03,Retail Outlets,South India,Reliance Industries
-2024-04-05,175353.43,Digital Services,South India,Reliance Industries
-2023-07-28,395466.84,Digital Services,North India,Reliance Industries
-2024-11-14,528986.51,Digital Services,South India,Reliance Industries
-2024-10-17,445898.48,Retail Outlets,North India,Reliance Industries
-2024-08-31,471582.59,Retail Outlets,East India,Reliance Industries
-2023-03-29,238570.85,Petrochemicals,South India,Reliance Industries
-2024-04-20,545756.51,Retail Outlets,South India,Reliance Industries
-2024-08-28,464607.66,Textiles,North India,Reliance Industries
-2024-07-17,225651.77,Retail Outlets,West India,Reliance Industries
-2023-08-20,295318.39,Petrochemicals,East India,Reliance Industries
-2024-01-18,307253.32,Petrochemicals,Central India,Reliance Industries
-2023-08-01,208273.03,Digital Services,West India,Reliance Industries
-2023-09-04,491089.39,Petrochemicals,North India,Reliance Industries
-2023-05-16,257830.75,Petrochemicals,East India,Reliance Industries
-2023-07-06,224389.80,Digital Services,East India,Reliance Industries
-2023-05-08,450195.56,Petrochemicals,Central India,Reliance Industries
-2023-09-13,109986.22,Petrochemicals,North India,Reliance Industries
-2024-09-02,279657.75,Textiles,North India,Reliance Industries
-2023-05-03,524606.86,Digital Services,East India,Reliance Industries
-2024-09-14,295699.48,Retail Outlets,East India,Reliance Industries
-2023-12-19,139126.10,Petrochemicals,West India,Reliance Industries
-2023-03-24,191469.41,Textiles,Central India,Reliance Industries
-2024-05-12,203918.99,Retail Outlets,Central India,Reliance Industries
-2023-06-02,99444.84,Retail Outlets,South India,Reliance Industries
-2023-12-30,242095.84,Digital Services,East India,Reliance Industries
-2023-10-07,515696.40,Petrochemicals,South India,Reliance Industries
-2024-12-29,459008.53,Retail Outlets,West India,Reliance Industries
-2024-01-05,249778.57,Digital Services,North India,Reliance Industries
-2023-09-26,386663.72,Digital Services,Central India,Reliance Industries
-2024-07-24,367025.11,Textiles,Central India,Reliance Industries
-2024-07-10,237596.41,Digital Services,South India,Reliance Industries
-2023-02-19,466201.69,Retail Outlets,South India,Reliance Industries
-2024-01-30,153862.87,Petrochemicals,West India,Reliance Industries
-2023-11-21,283012.18,Digital Services,East India,Reliance Industries
-2023-04-20,238446.71,Petrochemicals,North India,Reliance Industries
-2023-03-24,51478.62,Digital Services,West India,Reliance Industries
-2024-01-30,214626.09,Textiles,South India,Reliance Industries
-2024-09-03,157606.57,Petrochemicals,North India,Reliance Industries
-2023-08-17,205013.87,Retail Outlets,South India,Reliance Industries
-2024-08-19,54102.86,Textiles,South India,Reliance Industries
-2023-03-12,436477.09,Textiles,South India,Reliance Industries
-2024-03-17,326320.77,Textiles,North India,Reliance Industries
-2024-02-05,424690.06,Retail Outlets,Central India,Reliance Industries
-2024-09-10,522710.07,Retail Outlets,South India,Reliance Industries
-2024-08-11,110243.16,Petrochemicals,Central India,Reliance Industries
-2024-11-12,225208.52,Retail Outlets,East India,Reliance Industries
-2023-07-25,506982.09,Petrochemicals,North India,Reliance Industries
-2024-10-12,400643.60,Textiles,East India,Reliance Industries
-2023-10-10,201988.95,Textiles,North India,Reliance Industries
-2023-03-26,165353.24,Petrochemicals,North India,Reliance Industries
-2024-07-08,263008.32,Textiles,North India,Reliance Industries
-2023-04-08,188083.37,Retail Outlets,Central India,Reliance Industries
-2024-06-28,267944.80,Textiles,East India,Reliance Industries
-2024-08-29,471355.75,Textiles,East India,Reliance Industries
-2023-10-26,388029.34,Digital Services,South India,Reliance Industries
-2024-07-26,351453.06,Petrochemicals,Central India,Reliance Industries
-2024-10-30,363840.43,Textiles,East India,Reliance Industries
-2024-06-16,407598.15,Digital Services,West India,Reliance Industries
-2023-02-25,314847.70,Digital Services,East India,Reliance Industries
-2024-02-04,53873.17,Retail Outlets,West India,Reliance Industries
-2024-12-04,118655.38,Retail Outlets,South India,Reliance Industries
-2024-11-23,426433.58,Petrochemicals,North India,Reliance Industries
-2024-08-23,82256.12,Petrochemicals,Central India,Reliance Industries
-2023-09-21,402943.84,Digital Services,East India,Reliance Industries
-2024-10-06,263920.44,Petrochemicals,South India,Reliance Industries
-2024-05-12,64785.29,Retail Outlets,Central India,Reliance Industries
-2024-09-17,430863.36,Petrochemicals,Central India,Reliance Industries
-2024-04-02,72227.42,Digital Services,South India,Reliance Industries
-2023-06-30,528098.75,Petrochemicals,South India,Reliance Industries
-2023-01-29,254788.46,Retail Outlets,West India,Reliance Industries
-2023-09-23,137127.85,Textiles,West India,Reliance Industries
-2023-07-10,260561.31,Digital Services,North India,Reliance Industries
-2024-01-21,130073.34,Retail Outlets,Central India,Reliance Industries
-2023-01-21,456897.07,Retail Outlets,East India,Reliance Industries
-2024-06-18,417677.90,Petrochemicals,East India,Reliance Industries
-2023-07-02,298959.32,Textiles,South India,Reliance Industries
-2024-03-09,379904.70,Textiles,East India,Reliance Industries
-2023-01-31,379798.51,Textiles,Central India,Reliance Industries
-2023-03-08,103715.64,Textiles,East India,Reliance Industries
-2024-08-14,79851.90,Digital Services,West India,Reliance Industries
-2024-02-03,347023.31,Textiles,South India,Reliance Industries
-2023-03-25,538954.52,Textiles,South India,Reliance Industries
-2023-06-10,285295.13,Digital Services,West India,Reliance Industries
-2024-08-03,307475.43,Petrochemicals,East India,Reliance Industries
-2024-04-06,193955.50,Textiles,South India,Reliance Industries
-2024-12-23,536598.92,Petrochemicals,Central India,Reliance Industries
-2024-12-02,480521.71,Digital Services,West India,Reliance Industries
-2023-12-01,412260.90,Petrochemicals,East India,Reliance Industries
-2023-05-19,206572.10,Digital Services,South India,Reliance Industries
-2024-07-24,259255.86,Digital Services,North India,Reliance Industries
-2024-10-10,519838.92,Digital Services,South India,Reliance Industries
-2023-08-09,57092.32,Digital Services,West India,Reliance Industries
-2023-08-07,247596.35,Digital Services,East India,Reliance Industries
-2024-11-08,387019.79,Petrochemicals,West India,Reliance Industries
-2024-02-11,78985.03,Retail Outlets,North India,Reliance Industries
-2023-12-19,355109.26,Digital Services,Central India,Reliance Industries
-2023-10-21,128778.63,Retail Outlets,East India,Reliance Industries
-2023-03-23,176463.76,Digital Services,North India,Reliance Industries
-2023-03-24,115320.14,Digital Services,Central India,Reliance Industries
-2024-01-02,136613.32,Petrochemicals,Central India,Reliance Industries
-2023-10-28,461283.04,Retail Outlets,Central India,Reliance Industries
-2023-11-04,487237.16,Petrochemicals,South India,Reliance Industries
-2023-02-25,101048.78,Petrochemicals,East India,Reliance Industries
-2024-12-10,262786.74,Petrochemicals,North India,Reliance Industries
-2024-01-30,487839.77,Textiles,Central India,Reliance Industries
-2023-06-27,259699.84,Retail Outlets,West India,Reliance Industries
-2024-10-30,134373.95,Textiles,East India,Reliance Industries
-2024-06-20,55379.54,Petrochemicals,North India,Reliance Industries
-2024-09-10,520827.16,Textiles,West India,Reliance Industries
-2023-12-16,129350.77,Textiles,East India,Reliance Industries
-2024-05-17,474589.46,Digital Services,Central India,Reliance Industries
-2024-08-26,282031.90,Digital Services,North India,Reliance Industries
-2024-05-28,354661.85,Digital Services,West India,Reliance Industries
-2024-11-08,221877.81,Digital Services,Central India,Reliance Industries
-2023-10-07,444597.20,Textiles,East India,Reliance Industries
-2023-12-19,92792.97,Petrochemicals,Central India,Reliance Industries
-2023-02-13,439840.43,Digital Services,West India,Reliance Industries
-2023-06-22,296987.82,Petrochemicals,North India,Reliance Industries
-2023-01-22,443683.73,Digital Services,West India,Reliance Industries
-2024-07-21,116373.78,Retail Outlets,West India,Reliance Industries
-2024-08-30,384010.18,Retail Outlets,West India,Reliance Industries
-2023-04-29,486412.90,Digital Services,Central India,Reliance Industries
-2024-10-17,540646.60,Petrochemicals,East India,Reliance Industries
-2023-04-17,59042.52,Digital Services,North India,Reliance Industries
-2023-12-29,124580.64,Textiles,North India,Reliance Industries
-2024-10-30,129577.62,Textiles,South India,Reliance Industries
-2023-07-10,434032.48,Petrochemicals,West India,Reliance Industries
-2023-04-30,200942.84,Textiles,South India,Reliance Industries
-2024-03-07,179237.49,Retail Outlets,East India,Reliance Industries
-2024-11-06,73326.84,Petrochemicals,West India,Reliance Industries
-2023-08-30,256449.96,Textiles,North India,Reliance Industries
-2023-12-16,232675.20,Petrochemicals,North India,Reliance Industries
-2023-01-30,262412.38,Petrochemicals,Central India,Reliance Industries
-2023-12-23,440153.84,Textiles,East India,Reliance Industries
-2024-05-24,200641.95,Digital Services,West India,Reliance Industries
-2024-06-11,474849.25,Textiles,South India,Reliance Industries
-2024-01-06,437149.78,Digital Services,East India,Reliance Industries
-2024-06-06,444943.35,Digital Services,Central India,Reliance Industries
-2024-03-31,489815.44,Digital Services,North India,Reliance Industries
-2024-01-28,274809.64,Textiles,East India,Reliance Industries
-2023-12-14,187482.98,Textiles,South India,Reliance Industries
-2024-02-18,497584.52,Retail Outlets,Central India,Reliance Industries
-2024-02-21,390079.77,Retail Outlets,South India,Reliance Industries
-2024-02-28,504834.00,Retail Outlets,West India,Reliance Industries
-2023-01-10,158376.40,Petrochemicals,East India,Reliance Industries
-2024-02-23,217205.23,Petrochemicals,South India,Reliance Industries
-2024-04-01,235795.41,Textiles,East India,Reliance Industries
-2023-03-22,323979.78,Textiles,North India,Reliance Industries
-2024-12-12,302096.08,Retail Outlets,South India,Reliance Industries
-2024-03-31,239852.82,Petrochemicals,East India,Reliance Industries
-2023-01-29,395733.36,Retail Outlets,South India,Reliance Industries
-2024-11-29,355251.07,Petrochemicals,West India,Reliance Industries
-2024-12-04,186326.64,Textiles,East India,Reliance Industries
-2024-07-24,423486.53,Textiles,East India,Reliance Industries
-2024-11-20,180963.97,Retail Outlets,East India,Reliance Industries
-2024-12-09,255367.27,Textiles,East India,Reliance Industries
-2024-06-13,524427.89,Retail Outlets,North India,Reliance Industries
-2024-07-01,407185.01,Digital Services,South India,Reliance Industries
-2023-02-09,259188.95,Retail Outlets,Central India,Reliance Industries
-2023-07-26,212853.05,Digital Services,East India,Reliance Industries
-2024-05-30,448523.86,Retail Outlets,South India,Reliance Industries
-2023-04-18,402412.15,Petrochemicals,Central India,Reliance Industries
-2023-07-02,137422.84,Petrochemicals,East India,Reliance Industries
-2023-11-03,353786.90,Digital Services,Central India,Reliance Industries
-2023-07-05,501524.16,Petrochemicals,West India,Reliance Industries
-2024-01-16,162185.31,Textiles,East India,Reliance Industries
-2023-06-14,170687.40,Retail Outlets,Central India,Reliance Industries
-2023-08-31,104660.06,Digital Services,North India,Reliance Industries
-2023-10-01,272081.85,Textiles,East India,Reliance Industries
-2023-02-14,254092.68,Retail Outlets,South India,Reliance Industries
-2023-03-29,469272.69,Textiles,South India,Reliance Industries
-2023-10-25,271783.72,Digital Services,Central India,Reliance Industries
-2024-12-15,246275.86,Textiles,East India,Reliance Industries
-2023-03-29,250210.03,Petrochemicals,North India,Reliance Industries
-2024-02-06,327790.56,Retail Outlets,South India,Reliance Industries
-2024-08-02,244710.31,Textiles,East India,Reliance Industries
-2024-03-30,156812.61,Petrochemicals,East India,Reliance Industries
-2024-03-19,137934.78,Retail Outlets,South India,Reliance Industries
-2023-11-16,428782.74,Retail Outlets,South India,Reliance Industries
-2023-06-23,332690.40,Petrochemicals,Central India,Reliance Industries
-2023-12-14,214464.83,Digital Services,West India,Reliance Industries
-2024-01-08,182317.33,Digital Services,Central India,Reliance Industries
-2024-10-04,435966.00,Petrochemicals,East India,Reliance Industries
-2023-10-19,431987.14,Digital Services,South India,Reliance Industries
-2024-04-30,116469.53,Retail Outlets,North India,Reliance Industries
-2023-01-27,489195.57,Digital Services,East India,Reliance Industries
-2024-02-23,352078.22,Digital Services,North India,Reliance Industries
-2023-10-12,160349.26,Digital Services,Central India,Reliance Industries
-2023-05-08,215563.86,Textiles,West India,Reliance Industries
-2023-10-24,144383.29,Digital Services,Central India,Reliance Industries
-2024-07-25,417889.20,Petrochemicals,West India,Reliance Industries
-2024-04-13,384216.70,Petrochemicals,West India,Reliance Industries
-2023-04-27,195285.09,Textiles,East India,Reliance Industries
-2023-08-09,206222.01,Petrochemicals,Central India,Reliance Industries
-2023-12-29,130725.83,Petrochemicals,Central India,Reliance Industries
-2024-09-16,160388.88,Petrochemicals,East India,Reliance Industries
-2024-12-22,376105.23,Digital Services,Central India,Reliance Industries
-2024-03-07,165240.36,Petrochemicals,South India,Reliance Industries
-2023-04-12,360096.38,Textiles,North India,Reliance Industries
-2023-09-13,182228.62,Retail Outlets,Central India,Reliance Industries
-2024-02-27,444539.51,Digital Services,Central India,Reliance Industries
-2023-09-06,58809.60,Digital Services,North India,Reliance Industries
-2023-11-08,189276.45,Petrochemicals,South India,Reliance Industries
-2023-07-31,215174.03,Textiles,West India,Reliance Industries
-2024-08-01,193075.01,Textiles,Central India,Reliance Industries
-2023-11-22,324590.02,Digital Services,North India,Reliance Industries
-2023-03-24,465475.00,Petrochemicals,Central India,Reliance Industries
-2023-01-21,514201.28,Textiles,Central India,Reliance Industries
-2024-11-18,128176.40,Petrochemicals,Central India,Reliance Industries
-2023-10-21,159242.30,Retail Outlets,East India,Reliance Industries
-2023-12-02,123562.49,Textiles,South India,Reliance Industries
-2024-01-27,490831.55,Petrochemicals,North India,Reliance Industries
-2023-11-14,74407.18,Textiles,South India,Reliance Industries
-2023-03-28,272525.91,Textiles,South India,Reliance Industries
-2024-03-28,394405.54,Petrochemicals,North India,Reliance Industries
-2023-05-31,421173.89,Retail Outlets,North India,Reliance Industries
-2023-06-06,327168.14,Retail Outlets,North India,Reliance Industries
-2023-09-22,471159.12,Retail Outlets,West India,Reliance Industries
-2024-08-02,248929.43,Petrochemicals,Central India,Reliance Industries
-2023-01-30,496022.87,Digital Services,North India,Reliance Industries
-2024-09-21,180465.07,Retail Outlets,North India,Reliance Industries
-2023-02-23,171540.14,Retail Outlets,East India,Reliance Industries
-2023-02-03,434044.15,Digital Services,West India,Reliance Industries
-2024-01-01,278507.42,Petrochemicals,North India,Reliance Industries
-2024-03-15,155951.97,Textiles,West India,Reliance Industries
-2023-08-08,528868.96,Retail Outlets,West India,Reliance Industries
-2023-07-14,137555.64,Textiles,East India,Reliance Industries
-2023-05-20,307228.44,Retail Outlets,Central India,Reliance Industries
-2023-01-18,317243.47,Retail Outlets,East India,Reliance Industries
-2024-11-26,155134.65,Digital Services,West India,Reliance Industries
-2024-06-14,399765.88,Petrochemicals,East India,Reliance Industries
-2023-10-17,212702.90,Textiles,Central India,Reliance Industries
-2023-07-19,516081.70,Retail Outlets,Central India,Reliance Industries
-2023-05-08,376216.06,Retail Outlets,South India,Reliance Industries
-2023-06-11,335427.27,Digital Services,East India,Reliance Industries
-2023-02-16,194024.62,Textiles,North India,Reliance Industries
-2023-10-14,198179.72,Retail Outlets,West India,Reliance Industries
-2024-11-03,310446.01,Textiles,Central India,Reliance Industries
-2023-01-13,129683.65,Textiles,Central India,Reliance Industries
-2024-06-18,542881.75,Digital Services,West India,Reliance Industries
-2024-06-25,260786.02,Petrochemicals,North India,Reliance Industries
-2023-03-12,410700.28,Textiles,East India,Reliance Industries
-2024-08-26,413703.25,Retail Outlets,East India,Reliance Industries
-2024-11-05,179332.73,Petrochemicals,West India,Reliance Industries
-2023-01-14,374967.09,Digital Services,East India,Reliance Industries
-2024-12-03,417487.83,Petrochemicals,East India,Reliance Industries
-2023-09-23,215264.99,Petrochemicals,West India,Reliance Industries
-2024-03-24,52891.73,Petrochemicals,North India,Reliance Industries
-2023-01-01,194644.53,Petrochemicals,East India,Reliance Industries
-2024-12-16,175194.98,Textiles,South India,Reliance Industries
-2023-06-30,266096.29,Retail Outlets,East India,Reliance Industries
-2024-03-26,326898.30,Textiles,Central India,Reliance Industries
-2024-03-30,512456.09,Retail Outlets,East India,Reliance Industries
-2024-04-17,108131.05,Petrochemicals,South India,Reliance Industries
-2024-05-02,417569.82,Textiles,West India,Reliance Industries
-2023-04-12,120075.91,Retail Outlets,East India,Reliance Industries
-2024-06-23,535725.91,Digital Services,South India,Reliance Industries
-2024-07-05,132813.96,Petrochemicals,East India,Reliance Industries
-2023-11-03,446779.13,Retail Outlets,West India,Reliance Industries
-2023-02-20,391740.08,Textiles,East India,Reliance Industries
-2023-11-20,258387.28,Textiles,South India,Reliance Industries
-2023-04-22,59270.63,Petrochemicals,South India,Reliance Industries
-2023-04-19,507569.87,Petrochemicals,South India,Reliance Industries
-2024-08-10,264640.08,Digital Services,East India,Reliance Industries
-2023-05-07,193515.00,Digital Services,East India,Reliance Industries
-2024-04-25,288109.73,Digital Services,North India,Reliance Industries
-2023-06-29,316694.53,Petrochemicals,East India,Reliance Industries
-2024-10-29,351111.28,Digital Services,East India,Reliance Industries
-2024-06-24,445634.36,Digital Services,South India,Reliance Industries
-2023-06-09,233846.37,Textiles,North India,Reliance Industries
-2024-06-18,405302.76,Digital Services,East India,Reliance Industries
-2024-09-17,393996.65,Textiles,East India,Reliance Industries
-2024-04-16,225777.25,Retail Outlets,Central India,Reliance Industries
-2023-11-19,186968.73,Retail Outlets,Central India,Reliance Industries
-2023-08-19,261651.26,Retail Outlets,North India,Reliance Industries
-2024-08-26,196921.97,Textiles,North India,Reliance Industries
-2024-07-06,311220.06,Digital Services,West India,Reliance Industries
-2024-03-23,135021.92,Retail Outlets,West India,Reliance Industries
-2024-11-03,167526.38,Petrochemicals,Central India,Reliance Industries
-2023-03-15,352121.96,Textiles,South India,Reliance Industries
-2024-09-21,545677.67,Retail Outlets,North India,Reliance Industries
-2023-12-31,461673.46,Textiles,East India,Reliance Industries
-2024-09-02,216993.92,Digital Services,West India,Reliance Industries
-2023-06-20,136914.17,Digital Services,South India,Reliance Industries
-2024-03-24,469340.79,Retail Outlets,North India,Reliance Industries
-2024-05-16,537619.72,Textiles,Central India,Reliance Industries
-2023-07-05,407252.00,Digital Services,East India,Reliance Industries
-2023-06-06,88978.86,Textiles,Central India,Reliance Industries
-2023-05-04,222238.95,Retail Outlets,Central India,Reliance Industries
-2024-10-04,222061.04,Petrochemicals,East India,Reliance Industries
-2024-03-15,270305.17,Digital Services,Central India,Reliance Industries
-2024-08-03,51125.82,Petrochemicals,South India,Reliance Industries
-2023-01-20,231131.31,Retail Outlets,South India,Reliance Industries
-2023-11-17,319723.64,Petrochemicals,West India,Reliance Industries
-2024-01-21,180038.05,Digital Services,North India,Reliance Industries
-2024-04-10,463145.51,Petrochemicals,North India,Reliance Industries
-2023-08-28,327117.43,Petrochemicals,West India,Reliance Industries
-2024-05-30,466758.77,Retail Outlets,West India,Reliance Industries
-2023-10-24,326680.31,Petrochemicals,East India,Reliance Industries
-2023-02-19,380315.12,Textiles,South India,Reliance Industries
-2023-12-29,183540.72,Petrochemicals,Central India,Reliance Industries
-2024-10-08,84381.10,Petrochemicals,South India,Reliance Industries
-2024-02-20,54938.65,Digital Services,Central India,Reliance Industries
-2024-02-21,88673.48,Retail Outlets,North India,Reliance Industries
-2024-03-12,265458.17,Retail Outlets,North India,Reliance Industries
-2024-05-18,155733.13,Textiles,North India,Reliance Industries
-2023-04-19,118579.92,Digital Services,Central India,Reliance Industries
-2023-07-05,433855.18,Retail Outlets,Central India,Reliance Industries
-2023-03-28,319698.17,Digital Services,South India,Reliance Industries
-2024-08-12,368818.83,Digital Services,West India,Reliance Industries
-2024-03-26,203220.80,Digital Services,North India,Reliance Industries
-2023-09-18,250647.96,Petrochemicals,South India,Reliance Industries
-2024-01-06,422207.59,Retail Outlets,West India,Reliance Industries
-2023-12-25,115703.03,Textiles,South India,Reliance Industries
-2024-09-16,228530.15,Retail Outlets,North India,Reliance Industries
-2024-07-06,530155.12,Retail Outlets,Central India,Reliance Industries
-2024-12-24,518891.49,Petrochemicals,West India,Reliance Industries
-2023-10-16,396662.96,Petrochemicals,Central India,Reliance Industries
-2023-12-20,337044.64,Petrochemicals,Central India,Reliance Industries
-2024-03-15,236353.34,Textiles,East India,Reliance Industries
-2023-03-09,512395.58,Retail Outlets,West India,Reliance Industries
-2024-10-30,419233.77,Digital Services,West India,Reliance Industries
-2023-01-22,85729.09,Retail Outlets,Central India,Reliance Industries
-2023-09-01,202924.36,Petrochemicals,West India,Reliance Industries
-2024-03-09,72350.08,Petrochemicals,East India,Reliance Industries
-2024-06-27,370321.41,Digital Services,North India,Reliance Industries
-2023-08-10,432122.55,Retail Outlets,West India,Reliance Industries
-2023-11-24,232717.62,Petrochemicals,West India,Reliance Industries
-2023-10-31,170865.52,Textiles,East India,Reliance Industries
-2023-07-21,100289.38,Retail Outlets,East India,Reliance Industries
-2023-04-02,434209.83,Textiles,North India,Reliance Industries
-2023-04-12,154298.49,Textiles,Central India,Reliance Industries
-2023-02-15,166597.82,Digital Services,North India,Reliance Industries
-2024-07-06,491395.17,Digital Services,Central India,Reliance Industries
-2023-07-22,137917.72,Digital Services,West India,Reliance Industries
-2023-10-12,535693.60,Retail Outlets,Central India,Reliance Industries
-2023-08-07,464673.56,Petrochemicals,West India,Reliance Industries
-2024-07-10,204604.15,Digital Services,East India,Reliance Industries
-2024-10-30,405631.66,Digital Services,East India,Reliance Industries
-2024-02-12,376399.76,Textiles,Central India,Reliance Industries
-2024-03-17,543544.79,Petrochemicals,West India,Reliance Industries
-2024-06-03,331217.49,Textiles,East India,Reliance Industries
-2023-05-29,415440.55,Textiles,East India,Reliance Industries
-2023-05-13,485935.82,Textiles,North India,Reliance Industries
-2023-09-09,111466.96,Petrochemicals,West India,Reliance Industries
-2023-04-02,542534.00,Textiles,Central India,Reliance Industries
-2024-11-18,492564.06,Retail Outlets,East India,Reliance Industries
-2023-04-04,516299.37,Textiles,North India,Reliance Industries
-2023-07-31,488653.87,Digital Services,North India,Reliance Industries
-2024-01-16,482137.33,Digital Services,Central India,Reliance Industries
-2023-08-27,385390.87,Petrochemicals,Central India,Reliance Industries
-2023-09-13,254160.80,Textiles,East India,Reliance Industries
-2024-05-15,391160.99,Digital Services,Central India,Reliance Industries
-2023-11-26,431701.73,Retail Outlets,West India,Reliance Industries
-2023-05-19,208982.39,Retail Outlets,West India,Reliance Industries
-2024-03-08,264310.54,Retail Outlets,West India,Reliance Industries
-2023-01-02,447658.85,Retail Outlets,West India,Reliance Industries
-2024-08-05,145959.50,Petrochemicals,West India,Reliance Industries
-2023-04-03,402491.98,Digital Services,East India,Reliance Industries
-2023-11-28,487669.93,Textiles,North India,Reliance Industries
-2023-12-04,305880.59,Digital Services,East India,Reliance Industries
-2023-09-12,476394.76,Retail Outlets,South India,Reliance Industries
-2024-02-21,149429.25,Digital Services,West India,Reliance Industries
-2024-12-26,456483.69,Petrochemicals,South India,Reliance Industries
-2024-08-20,227456.43,Textiles,East India,Reliance Industries
-2023-09-11,316212.07,Digital Services,West India,Reliance Industries
-2023-07-13,403579.72,Petrochemicals,North India,Reliance Industries
-2024-11-14,292012.65,Textiles,East India,Reliance Industries
-2024-06-14,524511.83,Retail Outlets,West India,Reliance Industries
-2023-06-28,549138.56,Textiles,East India,Reliance Industries
-2023-09-18,443624.25,Digital Services,North India,Reliance Industries
-2023-08-11,209458.23,Retail Outlets,North India,Reliance Industries
-2023-07-06,476949.95,Textiles,Central India,Reliance Industries
-2023-11-15,102640.60,Digital Services,West India,Reliance Industries
-2024-07-09,266149.27,Retail Outlets,South India,Reliance Industries
-2023-09-07,353856.67,Textiles,South India,Reliance Industries
-2024-10-20,381904.48,Retail Outlets,South India,Reliance Industries
-2024-12-28,344067.68,Digital Services,North India,Reliance Industries
-2024-05-23,170913.19,Retail Outlets,Central India,Reliance Industries
-2023-07-06,206643.62,Textiles,North India,Reliance Industries
-2023-07-01,458353.51,Textiles,Central India,Reliance Industries
-2023-10-10,461600.19,Textiles,West India,Reliance Industries
-2024-09-01,128559.60,Retail Outlets,East India,Reliance Industries
-2023-01-03,160026.22,Digital Services,West India,Reliance Industries
-2023-08-21,258651.72,Digital Services,West India,Reliance Industries
-2024-03-26,114130.73,Textiles,South India,Reliance Industries
-2023-02-08,475476.53,Petrochemicals,West India,Reliance Industries
-2023-06-25,103748.12,Digital Services,East India,Reliance Industries
-2024-12-07,151312.59,Textiles,North India,Reliance Industries
-2024-04-28,170062.38,Textiles,East India,Reliance Industries
-2024-07-20,70871.80,Digital Services,Central India,Reliance Industries
-2024-01-21,237234.36,Retail Outlets,Central India,Reliance Industries
-2024-12-24,355121.52,Textiles,Central India,Reliance Industries
-2024-07-11,300089.45,Digital Services,South India,Reliance Industries
-2024-04-02,452937.31,Textiles,North India,Reliance Industries
-2023-10-12,160564.92,Digital Services,East India,Reliance Industries
-2024-09-29,198174.76,Textiles,Central India,Reliance Industries
-2024-02-04,355892.64,Retail Outlets,Central India,Reliance Industries
-2023-08-25,543105.31,Retail Outlets,South India,Reliance Industries
-2023-09-15,304669.52,Retail Outlets,North India,Reliance Industries
-2023-05-19,229597.16,Digital Services,East India,Reliance Industries
-2024-12-19,276941.35,Petrochemicals,Central India,Reliance Industries
-2023-10-26,140388.99,Retail Outlets,West India,Reliance Industries
-2023-01-29,155210.16,Petrochemicals,North India,Reliance Industries
-2023-06-24,228702.38,Digital Services,East India,Reliance Industries
-2024-08-16,269151.90,Textiles,East India,Reliance Industries
-2024-02-18,283197.72,Petrochemicals,East India,Reliance Industries
-2024-09-12,527890.51,Petrochemicals,North India,Reliance Industries
-2024-12-19,512139.61,Petrochemicals,West India,Reliance Industries
-2023-09-08,519408.51,Petrochemicals,North India,Reliance Industries
-2023-04-08,484062.72,Textiles,South India,Reliance Industries
-2024-03-10,329301.13,Digital Services,East India,Reliance Industries
-2024-05-29,86912.33,Digital Services,East India,Reliance Industries
-2024-02-02,309180.15,Petrochemicals,North India,Reliance Industries
-2023-05-12,520268.89,Textiles,South India,Reliance Industries
-2024-10-01,149095.99,Petrochemicals,Central India,Reliance Industries
-2024-05-05,439683.60,Petrochemicals,South India,Reliance Industries
-2023-07-17,195859.44,Petrochemicals,Central India,Reliance Industries
-2024-09-13,533662.24,Textiles,Central India,Reliance Industries
-2024-01-05,471799.76,Petrochemicals,South India,Reliance Industries
-2024-04-18,217631.84,Petrochemicals,East India,Reliance Industries
-2024-02-27,270693.27,Retail Outlets,West India,Reliance Industries
-2023-03-03,209638.58,Petrochemicals,North India,Reliance Industries
-2024-12-02,163746.75,Petrochemicals,South India,Reliance Industries
-2024-10-07,271068.25,Retail Outlets,Central India,Reliance Industries
-2024-03-26,493956.94,Retail Outlets,East India,Reliance Industries
-2023-11-19,256395.06,Petrochemicals,North India,Reliance Industries
-2023-08-18,468404.08,Digital Services,Central India,Reliance Industries
-2024-07-03,173606.69,Retail Outlets,South India,Reliance Industries
-2023-12-17,77845.10,Digital Services,West India,Reliance Industries
-2023-11-29,334615.47,Petrochemicals,West India,Reliance Industries
-2024-10-10,401131.56,Retail Outlets,North India,Reliance Industries
-2023-04-13,275082.45,Retail Outlets,Central India,Reliance Industries
-2024-11-09,60974.17,Textiles,East India,Reliance Industries
-2024-03-07,67063.03,Digital Services,West India,Reliance Industries
-2023-02-14,215908.87,Digital Services,West India,Reliance Industries
-2024-10-01,492072.31,Petrochemicals,North India,Reliance Industries
-2023-03-29,430671.01,Digital Services,West India,Reliance Industries
-2024-01-09,132819.35,Textiles,East India,Reliance Industries
-2023-09-14,243837.66,Digital Services,East India,Reliance Industries
-2024-02-11,52691.92,Digital Services,East India,Reliance Industries
-2024-09-17,196238.26,Digital Services,West India,Reliance Industries
-2024-03-31,119402.28,Petrochemicals,Central India,Reliance Industries
-2024-11-18,503975.85,Digital Services,Central India,Reliance Industries
-2024-04-03,307166.50,Digital Services,East India,Reliance Industries
-2024-03-29,239823.06,Digital Services,West India,Reliance Industries
-2024-08-02,223124.63,Petrochemicals,West India,Reliance Industries
-2024-03-01,395710.49,Textiles,East India,Reliance Industries
-2023-04-02,540213.34,Textiles,Central India,Reliance Industries
-2023-08-02,59911.22,Petrochemicals,South India,Reliance Industries
-2023-11-14,114196.61,Textiles,Central India,Reliance Industries
-2024-08-09,464966.64,Textiles,Central India,Reliance Industries
-2023-06-03,89924.44,Retail Outlets,Central India,Reliance Industries
-2023-04-14,375591.28,Textiles,South India,Reliance Industries
-2023-10-02,307327.13,Retail Outlets,East India,Reliance Industries
-2023-01-10,505368.20,Textiles,West India,Reliance Industries
-2023-11-13,178058.23,Textiles,North India,Reliance Industries
-2023-11-04,283587.63,Retail Outlets,East India,Reliance Industries
-2023-06-28,50832.36,Retail Outlets,North India,Reliance Industries
-2024-07-29,210839.23,Retail Outlets,North India,Reliance Industries
-2023-11-28,133371.78,Digital Services,East India,Reliance Industries
-2024-07-19,467864.47,Retail Outlets,East India,Reliance Industries
-2024-10-26,245850.13,Petrochemicals,Central India,Reliance Industries
-2023-09-10,100565.11,Petrochemicals,West India,Reliance Industries
-2023-08-01,428901.04,Petrochemicals,West India,Reliance Industries
-2024-01-09,75533.98,Textiles,North India,Reliance Industries
-2023-08-18,192292.44,Petrochemicals,Central India,Reliance Industries
-2024-04-11,157967.35,Digital Services,South India,Reliance Industries
-2023-03-07,465093.21,Retail Outlets,Central India,Reliance Industries
-2023-05-26,161042.31,Petrochemicals,South India,Reliance Industries
-2023-11-20,109638.63,Textiles,South India,Reliance Industries
-2023-08-06,91479.73,Digital Services,West India,Reliance Industries
-2023-06-01,451159.73,Petrochemicals,North India,Reliance Industries
-2023-01-24,85659.15,Digital Services,South India,Reliance Industries
-2024-10-03,186505.48,Retail Outlets,North India,Reliance Industries
-2024-09-29,395955.81,Textiles,Central India,Reliance Industries
-2024-10-17,289043.92,Digital Services,North India,Reliance Industries
-2023-11-27,334505.77,Petrochemicals,Central India,Reliance Industries
-2024-12-06,397619.93,Digital Services,Central India,Reliance Industries
-2023-04-14,316436.00,Petrochemicals,Central India,Reliance Industries
-2024-11-27,519461.64,Retail Outlets,Central India,Reliance Industries
-2024-06-26,306371.60,Digital Services,East India,Reliance Industries
-2024-12-11,275173.71,Petrochemicals,Central India,Reliance Industries
-2023-10-12,509042.75,Textiles,North India,Reliance Industries
-2023-06-20,346722.44,Retail Outlets,North India,Reliance Industries
-2023-06-13,447771.23,Retail Outlets,South India,Reliance Industries
-2023-08-20,388369.88,Digital Services,South India,Reliance Industries
-2023-07-01,315651.23,Petrochemicals,North India,Reliance Industries
-2024-09-22,230093.51,Digital Services,East India,Reliance Industries
-2024-05-31,299728.13,Textiles,West India,Reliance Industries
-2024-04-01,166738.46,Petrochemicals,Central India,Reliance Industries
-2023-02-02,334786.91,Digital Services,West India,Reliance Industries
-2023-11-01,444470.77,Textiles,North India,Reliance Industries
-2024-05-08,454185.98,Petrochemicals,South India,Reliance Industries
-2023-11-03,531143.41,Petrochemicals,Central India,Reliance Industries
-2024-04-14,255700.82,Retail Outlets,North India,Reliance Industries
-2024-08-04,328240.23,Digital Services,Central India,Reliance Industries
-2023-01-14,59656.24,Retail Outlets,Central India,Reliance Industries
-2024-02-07,176900.68,Retail Outlets,North India,Reliance Industries
-2023-12-25,348736.57,Textiles,West India,Reliance Industries
-2023-01-18,479886.43,Retail Outlets,Central India,Reliance Industries
-2023-07-23,529567.08,Textiles,North India,Reliance Industries
-2023-07-14,450352.16,Textiles,South India,Reliance Industries
-2023-07-30,350241.27,Retail Outlets,East India,Reliance Industries
-2023-03-02,528906.72,Retail Outlets,West India,Reliance Industries
-2024-10-18,194390.49,Petrochemicals,South India,Reliance Industries
-2023-12-29,373719.73,Retail Outlets,Central India,Reliance Industries
-2023-08-23,527052.89,Petrochemicals,East India,Reliance Industries
-2023-10-07,435666.60,Digital Services,West India,Reliance Industries
-2023-12-24,414767.16,Textiles,South India,Reliance Industries
-2024-11-10,225494.76,Textiles,North India,Reliance Industries
-2024-12-11,490335.28,Textiles,South India,Reliance Industries
-2024-04-06,317332.73,Retail Outlets,West India,Reliance Industries
-2024-11-16,353417.02,Retail Outlets,North India,Reliance Industries
-2024-09-28,451132.00,Digital Services,South India,Reliance Industries
-2024-05-27,337176.16,Textiles,West India,Reliance Industries
-2024-03-26,419731.94,Petrochemicals,West India,Reliance Industries
-2024-03-31,253952.57,Textiles,West India,Reliance Industries
-2023-11-10,346576.58,Digital Services,South India,Reliance Industries
-2023-02-13,126855.68,Retail Outlets,East India,Reliance Industries
-2024-09-11,505237.47,Retail Outlets,East India,Reliance Industries
-2023-04-15,506677.28,Textiles,East India,Reliance Industries
-2024-09-12,524553.51,Petrochemicals,East India,Reliance Industries
-2024-04-28,532117.40,Digital Services,South India,Reliance Industries
-2023-11-17,286907.68,Retail Outlets,North India,Reliance Industries
-2024-06-30,257122.97,Digital Services,Central India,Reliance Industries
-2024-02-15,123218.13,Textiles,East India,Reliance Industries
-2024-09-22,511193.17,Digital Services,North India,Reliance Industries
-2023-05-17,501785.91,Petrochemicals,East India,Reliance Industries
-2023-10-06,466826.44,Retail Outlets,West India,Reliance Industries
-2023-12-17,86055.37,Digital Services,West India,Reliance Industries
-2023-08-12,198852.15,Textiles,East India,Reliance Industries
-2023-08-26,92064.24,Retail Outlets,East India,Reliance Industries
-2024-03-18,137356.22,Digital Services,Central India,Reliance Industries
-2023-10-29,208578.74,Textiles,Central India,Reliance Industries
-2023-11-18,89919.59,Digital Services,South India,Reliance Industries
-2023-12-19,513836.48,Digital Services,East India,Reliance Industries
-2024-05-04,422422.02,Digital Services,North India,Reliance Industries
-2024-09-11,295577.73,Retail Outlets,North India,Reliance Industries
-2023-06-23,335845.02,Retail Outlets,South India,Reliance Industries
-2023-03-21,94640.80,Textiles,East India,Reliance Industries
-2023-04-21,500198.34,Retail Outlets,North India,Reliance Industries
-2024-06-16,476773.81,Digital Services,North India,Reliance Industries
-2023-10-30,81315.77,Textiles,Central India,Reliance Industries
-2023-07-12,440866.95,Retail Outlets,North India,Reliance Industries
-2023-07-19,240195.04,Digital Services,South India,Reliance Industries
-2024-05-01,149784.96,Petrochemicals,West India,Reliance Industries
-2024-06-14,231330.10,Textiles,North India,Reliance Industries
-2023-02-26,62935.17,Digital Services,South India,Reliance Industries
-2024-12-09,300949.09,Digital Services,South India,Reliance Industries
-2024-06-07,378456.60,Digital Services,East India,Reliance Industries
-2024-12-06,55449.38,Digital Services,South India,Reliance Industries
-2023-11-02,433886.75,Digital Services,North India,Reliance Industries
-2024-01-16,502755.66,Petrochemicals,South India,Reliance Industries
-2023-04-13,460166.54,Petrochemicals,Central India,Reliance Industries
-2023-12-04,535302.65,Digital Services,Central India,Reliance Industries
-2024-05-10,366309.21,Digital Services,Central India,Reliance Industries
-2023-11-12,69611.27,Petrochemicals,South India,Reliance Industries
-2024-10-13,212816.51,Retail Outlets,West India,Reliance Industries
-2023-03-27,138644.06,Textiles,North India,Reliance Industries
-2023-04-14,501192.11,Petrochemicals,East India,Reliance Industries
-2023-11-17,78694.09,Digital Services,North India,Reliance Industries
-2023-09-27,375337.64,Retail Outlets,West India,Reliance Industries
-2024-11-16,358666.98,Digital Services,North India,Reliance Industries
-2023-11-30,422645.31,Retail Outlets,Central India,Reliance Industries
-2024-02-16,78299.00,Retail Outlets,North India,Reliance Industries
-2024-10-24,488999.42,Digital Services,Central India,Reliance Industries
-2024-11-22,353403.59,Digital Services,North India,Reliance Industries
-2023-06-25,466581.97,Petrochemicals,North India,Reliance Industries
-2024-12-23,217591.32,Petrochemicals,West India,Reliance Industries
-2023-04-19,424661.40,Digital Services,West India,Reliance Industries
-2023-01-25,476376.11,Digital Services,North India,Reliance Industries
-2024-05-01,143729.17,Textiles,West India,Reliance Industries
-2024-07-03,213772.18,Textiles,North India,Reliance Industries
-2023-06-01,436934.21,Digital Services,Central India,Reliance Industries
-2023-09-30,500561.18,Petrochemicals,West India,Reliance Industries
-2024-05-15,517641.18,Textiles,South India,Reliance Industries
-2023-12-21,451894.07,Textiles,West India,Reliance Industries
-2023-11-25,518090.01,Petrochemicals,North India,Reliance Industries
-2023-06-07,115719.50,Retail Outlets,South India,Reliance Industries
-2024-01-19,538454.78,Petrochemicals,East India,Reliance Industries
-2024-03-31,495850.97,Textiles,East India,Reliance Industries
-2024-11-24,116128.81,Digital Services,North India,Reliance Industries
-2024-05-19,269171.22,Retail Outlets,Central India,Reliance Industries
-2024-07-11,501552.80,Retail Outlets,North India,Reliance Industries
-2024-01-24,178303.88,Textiles,North India,Reliance Industries
-2023-04-14,538339.90,Digital Services,Central India,Reliance Industries
-2023-10-14,216030.45,Petrochemicals,West India,Reliance Industries
-2024-09-07,523244.24,Petrochemicals,North India,Reliance Industries
-2023-02-03,464898.03,Retail Outlets,South India,Reliance Industries
-2023-01-17,178601.50,Digital Services,Central India,Reliance Industries
-2023-02-22,186295.00,Digital Services,South India,Reliance Industries
-2023-12-21,304126.23,Retail Outlets,East India,Reliance Industries
-2023-01-21,221404.53,Petrochemicals,West India,Reliance Industries
-2023-07-06,304124.58,Digital Services,Central India,Reliance Industries
-2024-04-26,148620.20,Textiles,West India,Reliance Industries
-2024-05-17,518707.00,Textiles,East India,Reliance Industries
-2024-06-10,535939.21,Petrochemicals,East India,Reliance Industries
-2023-03-09,527964.85,Digital Services,Central India,Reliance Industries
-2023-06-20,124254.08,Textiles,West India,Reliance Industries
-2024-12-22,498188.53,Petrochemicals,Central India,Reliance Industries
-2024-08-27,445585.18,Petrochemicals,East India,Reliance Industries
-2024-10-28,161511.07,Retail Outlets,West India,Reliance Industries
-2023-09-29,314872.93,Textiles,South India,Reliance Industries
-2024-03-26,389404.88,Textiles,East India,Reliance Industries
-2024-02-19,187588.52,Digital Services,East India,Reliance Industries
-2024-07-31,440994.99,Digital Services,North India,Reliance Industries
-2023-12-19,257406.17,Petrochemicals,East India,Reliance Industries
-2024-09-29,255426.95,Retail Outlets,East India,Reliance Industries
-2024-01-29,194521.02,Petrochemicals,West India,Reliance Industries
-2023-01-20,262284.61,Textiles,Central India,Reliance Industries
-2024-12-06,96104.20,Digital Services,East India,Reliance Industries
-2024-10-08,227876.70,Petrochemicals,West India,Reliance Industries
-2024-01-02,157536.57,Retail Outlets,West India,Reliance Industries
-2024-05-26,526927.02,Textiles,Central India,Reliance Industries
-2023-07-10,496037.13,Petrochemicals,East India,Reliance Industries
-2023-09-10,502473.47,Petrochemicals,East India,Reliance Industries
-2024-02-16,395372.06,Textiles,West India,Reliance Industries
-2023-03-06,446913.14,Textiles,South India,Reliance Industries
-2023-06-17,107848.12,Textiles,North India,Reliance Industries
-2023-06-29,100411.65,Textiles,Central India,Reliance Industries
-2023-09-14,436198.13,Digital Services,West India,Reliance Industries
-2023-09-13,122934.08,Petrochemicals,South India,Reliance Industries
-2023-06-03,312291.55,Digital Services,South India,Reliance Industries
-2024-01-14,89752.56,Petrochemicals,Central India,Reliance Industries
-2023-10-23,441476.94,Digital Services,East India,Reliance Industries
-2023-08-15,261652.61,Retail Outlets,West India,Reliance Industries
-2023-01-22,286478.19,Petrochemicals,South India,Reliance Industries
-2023-09-16,514303.47,Digital Services,East India,Reliance Industries
-2023-07-08,160599.64,Digital Services,South India,Reliance Industries
-2024-03-17,512829.66,Retail Outlets,East India,Reliance Industries
-2024-05-27,453497.11,Petrochemicals,South India,Reliance Industries
-2024-03-18,530244.35,Retail Outlets,West India,Reliance Industries
-2024-02-13,247627.38,Digital Services,North India,Reliance Industries
-2024-02-16,383411.40,Retail Outlets,East India,Reliance Industries
-2023-04-13,146906.81,Petrochemicals,North India,Reliance Industries
-2024-03-30,172918.64,Digital Services,South India,Reliance Industries
-2023-06-11,300231.60,Petrochemicals,South India,Reliance Industries
-2023-01-29,100929.56,Textiles,South India,Reliance Industries
-2024-03-27,378459.76,Textiles,Central India,Reliance Industries
-2024-11-04,216524.14,Digital Services,Central India,Reliance Industries
-2023-11-02,145551.89,Petrochemicals,South India,Reliance Industries
-2024-05-16,96144.24,Retail Outlets,South India,Reliance Industries
-2024-12-09,136680.15,Textiles,South India,Reliance Industries
-2023-09-19,361846.43,Retail Outlets,North India,Reliance Industries
-2024-04-11,291913.50,Digital Services,North India,Reliance Industries
-2023-11-06,490911.93,Retail Outlets,North India,Reliance Industries
-2023-09-24,104206.15,Petrochemicals,Central India,Reliance Industries
-2023-03-28,483566.94,Digital Services,Central India,Reliance Industries
-2023-09-21,458692.15,Retail Outlets,South India,Reliance Industries
-2024-07-09,402933.54,Digital Services,West India,Reliance Industries
-2023-03-27,168973.94,Digital Services,West India,Reliance Industries
-2023-05-19,298314.11,Digital Services,North India,Reliance Industries
-2024-06-06,495584.09,Retail Outlets,South India,Reliance Industries
-2023-05-26,349977.18,Textiles,East India,Reliance Industries
-2023-11-12,549741.98,Petrochemicals,Central India,Reliance Industries
-2023-01-08,337188.84,Digital Services,East India,Reliance Industries
-2023-12-22,291264.49,Textiles,East India,Reliance Industries
-2023-01-02,154960.43,Textiles,West India,Reliance Industries
-2023-01-07,438371.44,Petrochemicals,Central India,Reliance Industries
-2024-10-17,264438.41,Digital Services,North India,Reliance Industries
-2024-01-02,163946.95,Digital Services,North India,Reliance Industries
-2024-01-12,385460.79,Petrochemicals,West India,Reliance Industries
-2024-07-03,126470.22,Textiles,Central India,Reliance Industries
-2024-12-02,311570.49,Petrochemicals,East India,Reliance Industries
-2023-08-25,326589.83,Retail Outlets,West India,Reliance Industries
-2023-02-17,316744.98,Petrochemicals,North India,Reliance Industries
-2023-10-10,252101.12,Retail Outlets,Central India,Reliance Industries
-2023-08-19,505361.20,Petrochemicals,East India,Reliance Industries
-2024-08-23,407050.96,Digital Services,East India,Reliance Industries
-2024-07-28,227972.02,Textiles,North India,Reliance Industries
-2023-07-15,384483.32,Textiles,South India,Reliance Industries
-2023-08-10,58837.10,Textiles,Central India,Reliance Industries
-2024-09-01,115401.20,Petrochemicals,Central India,Reliance Industries
-2023-01-06,223560.36,Textiles,East India,Reliance Industries
-2023-12-31,400999.88,Petrochemicals,East India,Reliance Industries
-2023-01-11,51044.84,Textiles,Central India,Reliance Industries
-2024-11-17,115680.21,Textiles,Central India,Reliance Industries
-2024-02-12,226582.76,Textiles,South India,Reliance Industries
-2024-01-04,122164.35,Textiles,East India,Reliance Industries
-2023-04-24,507774.20,Textiles,East India,Reliance Industries
-2024-04-27,109636.61,Retail Outlets,West India,Reliance Industries
-2023-11-04,434674.08,Digital Services,East India,Reliance Industries
-2023-12-20,407977.41,Digital Services,Central India,Reliance Industries
-2024-03-06,121359.83,Digital Services,Central India,Reliance Industries
-2023-11-11,170223.27,Petrochemicals,South India,Reliance Industries
-2023-06-19,94829.99,Petrochemicals,Central India,Reliance Industries
-2024-07-13,421560.61,Digital Services,West India,Reliance Industries
-2023-09-14,303786.45,Petrochemicals,West India,Reliance Industries
-2024-04-10,380427.68,Textiles,West India,Reliance Industries
-2024-07-17,490543.50,Digital Services,East India,Reliance Industries
-2024-05-16,146388.76,Digital Services,South India,Reliance Industries
-2024-08-02,72469.97,Petrochemicals,South India,Reliance Industries
-2023-05-06,284707.18,Digital Services,East India,Reliance Industries
-2023-10-01,143290.87,Digital Services,North India,Reliance Industries
-2024-09-19,217689.41,Digital Services,West India,Reliance Industries
-2024-07-28,125642.78,Digital Services,East India,Reliance Industries
-2024-07-21,453990.48,Digital Services,West India,Reliance Industries
-2024-01-30,413518.93,Retail Outlets,North India,Reliance Industries
-2024-08-08,398583.24,Textiles,East India,Reliance Industries
-2023-11-08,433553.38,Digital Services,West India,Reliance Industries
-2024-01-27,73980.99,Textiles,North India,Reliance Industries
-2024-01-29,448583.37,Textiles,Central India,Reliance Industries
-2024-07-26,364015.84,Digital Services,East India,Reliance Industries
-2023-09-27,452147.11,Digital Services,Central India,Reliance Industries
-2024-01-17,548485.36,Textiles,Central India,Reliance Industries
-2024-09-28,166194.43,Textiles,West India,Reliance Industries
-2024-07-28,519155.59,Textiles,North India,Reliance Industries
-2024-10-15,310425.48,Digital Services,North India,Reliance Industries
-2024-04-28,404331.50,Retail Outlets,South India,Reliance Industries
-2024-08-27,365047.46,Petrochemicals,East India,Reliance Industries
-2024-08-02,148433.34,Digital Services,South India,Reliance Industries
-2024-07-12,176957.82,Textiles,West India,Reliance Industries
-2024-08-15,116771.30,Digital Services,Central India,Reliance Industries
-2023-07-30,377029.96,Textiles,Central India,Reliance Industries
-2024-04-06,382803.78,Textiles,Central India,Reliance Industries
-2023-01-13,275878.04,Digital Services,North India,Reliance Industries
-2024-02-01,171236.55,Petrochemicals,South India,Reliance Industries
-2023-11-10,296786.25,Digital Services,North India,Reliance Industries
-2023-10-13,276671.10,Petrochemicals,West India,Reliance Industries
-2024-04-17,108600.95,Digital Services,North India,Reliance Industries
-2023-09-12,446090.42,Digital Services,Central India,Reliance Industries
-2024-12-28,139183.88,Retail Outlets,East India,Reliance Industries
-2023-07-12,201420.33,Textiles,South India,Reliance Industries
-2023-10-31,535324.36,Retail Outlets,East India,Reliance Industries
-2024-09-18,171786.27,Textiles,Central India,Reliance Industries
-2024-07-15,364516.81,Textiles,South India,Reliance Industries
-2023-08-20,305126.45,Textiles,Central India,Reliance Industries
-2023-08-20,122638.36,Retail Outlets,West India,Reliance Industries
-2024-07-15,238411.18,Digital Services,Central India,Reliance Industries
-2023-02-19,301198.55,Petrochemicals,Central India,Reliance Industries
-2024-06-09,541683.28,Petrochemicals,West India,Reliance Industries
-2023-07-29,392209.18,Digital Services,West India,Reliance Industries
-2023-06-11,439087.99,Petrochemicals,South India,Reliance Industries
-2024-06-08,341834.74,Digital Services,North India,Reliance Industries
-2023-08-22,122369.66,Retail Outlets,East India,Reliance Industries
-2023-12-24,69496.71,Digital Services,Central India,Reliance Industries
-2023-10-28,473136.97,Retail Outlets,East India,Reliance Industries
-2023-04-24,466049.58,Textiles,East India,Reliance Industries
-2024-04-12,182398.39,Textiles,East India,Reliance Industries
-2023-04-27,463502.90,Petrochemicals,South India,Reliance Industries
-2023-04-16,456900.62,Retail Outlets,North India,Reliance Industries
-2024-10-31,291527.18,Textiles,South India,Reliance Industries
-2023-02-01,369391.61,Digital Services,East India,Reliance Industries
-2024-09-23,379769.67,Retail Outlets,East India,Reliance Industries
-2023-01-01,94203.79,Textiles,West India,Reliance Industries
-2024-05-15,441184.44,Digital Services,South India,Reliance Industries
-2023-10-22,314000.05,Textiles,Central India,Reliance Industries
-2023-12-06,181909.24,Retail Outlets,North India,Reliance Industries
-2023-08-09,480518.78,Digital Services,West India,Reliance Industries
-2023-02-14,271871.60,Petrochemicals,South India,Reliance Industries
-2024-12-30,67086.31,Digital Services,East India,Reliance Industries
-2024-09-30,330529.19,Digital Services,North India,Reliance Industries
-2024-05-08,332999.04,Retail Outlets,Central India,Reliance Industries
-2023-02-02,421136.03,Digital Services,Central India,Reliance Industries
-2024-05-13,372232.06,Retail Outlets,East India,Reliance Industries
-2023-06-11,343232.01,Textiles,East India,Reliance Industries
-2024-06-18,408600.89,Textiles,East India,Reliance Industries
-2023-07-16,372924.89,Digital Services,East India,Reliance Industries
-2023-11-06,68114.27,Petrochemicals,East India,Reliance Industries
-2023-12-02,512115.52,Textiles,North India,Reliance Industries
-2023-06-07,387638.72,Textiles,South India,Reliance Industries
-2024-07-03,284515.48,Retail Outlets,South India,Reliance Industries
-2024-09-18,530920.62,Retail Outlets,North India,Reliance Industries
-2023-12-24,273144.78,Petrochemicals,East India,Reliance Industries
-2024-09-19,515961.14,Textiles,South India,Reliance Industries
-2024-03-05,389821.34,Digital Services,West India,Reliance Industries
-2024-09-25,140202.70,Retail Outlets,North India,Reliance Industries
-2023-12-10,188463.61,Retail Outlets,East India,Reliance Industries
-2024-09-07,108990.08,Retail Outlets,East India,Reliance Industries
-2024-04-22,177525.84,Petrochemicals,East India,Reliance Industries
-2023-11-04,211545.97,Petrochemicals,Central India,Reliance Industries
-2023-03-26,297528.59,Petrochemicals,North India,Reliance Industries
-2023-02-13,363221.25,Retail Outlets,West India,Reliance Industries
-2024-12-30,394196.19,Petrochemicals,East India,Reliance Industries
-2024-05-24,476037.49,Digital Services,Central India,Reliance Industries
-2023-01-23,283498.60,Textiles,West India,Reliance Industries
-2024-08-29,185309.42,Petrochemicals,East India,Reliance Industries
-2024-04-16,410876.89,Digital Services,East India,Reliance Industries
-2023-03-16,319382.89,Textiles,South India,Reliance Industries
-2024-08-08,123588.83,Petrochemicals,North India,Reliance Industries
-2024-10-02,330452.58,Textiles,North India,Reliance Industries
-2023-10-29,74113.67,Textiles,Central India,Reliance Industries
-2023-09-06,200346.28,Retail Outlets,West India,Reliance Industries
-2024-02-18,277168.28,Petrochemicals,Central India,Reliance Industries
-2024-09-17,273183.96,Petrochemicals,South India,Reliance Industries
-2024-05-14,300913.51,Digital Services,South India,Reliance Industries
-2024-04-11,177762.00,Retail Outlets,North India,Reliance Industries
-2023-04-28,123062.42,Textiles,South India,Reliance Industries
-2024-03-12,329258.02,Digital Services,South India,Reliance Industries
-2023-12-17,494135.25,Retail Outlets,East India,Reliance Industries
-2023-10-16,442356.26,Petrochemicals,West India,Reliance Industries
-2023-05-20,82844.10,Petrochemicals,South India,Reliance Industries
-2024-02-28,254246.45,Retail Outlets,North India,Reliance Industries
-2023-08-19,57974.29,Digital Services,North India,Reliance Industries
-2023-10-20,116028.50,Petrochemicals,North India,Reliance Industries
-2023-12-14,414340.06,Petrochemicals,North India,Reliance Industries
-2023-02-24,504903.48,Petrochemicals,North India,Reliance Industries
-2023-09-26,108577.56,Textiles,North India,Reliance Industries
-2024-09-28,464175.16,Petrochemicals,Central India,Reliance Industries
-2024-09-30,182047.06,Textiles,North India,Reliance Industries
-2024-01-04,253453.35,Digital Services,North India,Reliance Industries
-2023-10-01,353002.00,Retail Outlets,North India,Reliance Industries
-2024-06-29,473629.97,Digital Services,Central India,Reliance Industries
-2024-09-27,475996.18,Digital Services,West India,Reliance Industries
-2024-05-17,147857.43,Retail Outlets,Central India,Reliance Industries
-2023-10-09,523917.02,Retail Outlets,South India,Reliance Industries
-2024-02-21,202960.63,Digital Services,Central India,Reliance Industries
-2024-11-04,71296.27,Petrochemicals,North India,Reliance Industries
-2023-03-15,105119.94,Textiles,West India,Reliance Industries
-2023-10-16,205484.26,Petrochemicals,North India,Reliance Industries
-2024-02-16,162498.49,Textiles,South India,Reliance Industries
-2024-08-21,433394.08,Textiles,Central India,Reliance Industries
-2024-12-26,285533.26,Petrochemicals,West India,Reliance Industries
-2024-06-04,506807.85,Textiles,South India,Reliance Industries
-2024-03-19,165476.46,Textiles,West India,Reliance Industries
-2024-09-21,467872.78,Petrochemicals,South India,Reliance Industries
-2024-08-04,237663.55,Petrochemicals,West India,Reliance Industries
-2023-12-25,264904.35,Textiles,South India,Reliance Industries
-2024-11-19,436542.20,Textiles,South India,Reliance Industries
-2023-12-31,195275.86,Digital Services,South India,Reliance Industries
-2023-02-19,443569.86,Retail Outlets,North India,Reliance Industries
-2023-03-01,285421.75,Textiles,North India,Reliance Industries
-2023-09-12,535914.98,Retail Outlets,North India,Reliance Industries
-2023-01-19,525266.69,Textiles,West India,Reliance Industries
-2023-12-01,109327.40,Digital Services,North India,Reliance Industries
-2024-10-13,332585.23,Petrochemicals,West India,Reliance Industries
-2023-10-03,273123.24,Digital Services,West India,Reliance Industries
-2023-06-21,364265.69,Digital Services,West India,Reliance Industries
-2023-12-17,546295.58,Digital Services,South India,Reliance Industries
-2024-04-09,279626.03,Petrochemicals,Central India,Reliance Industries
-2024-09-02,309593.05,Retail Outlets,West India,Reliance Industries
-2024-03-31,111936.41,Petrochemicals,West India,Reliance Industries
-2023-08-16,233734.64,Retail Outlets,Central India,Reliance Industries
-2024-12-24,525776.73,Digital Services,West India,Reliance Industries
-2024-07-31,168637.40,Petrochemicals,West India,Reliance Industries
-2024-11-20,161168.39,Petrochemicals,South India,Reliance Industries
-2024-09-28,315673.94,Digital Services,South India,Reliance Industries
-2023-03-19,403304.72,Textiles,North India,Reliance Industries
-2024-09-19,248509.61,Retail Outlets,Central India,Reliance Industries
-2023-06-09,339556.40,Petrochemicals,West India,Reliance Industries
-2023-07-31,286489.99,Digital Services,West India,Reliance Industries
-2024-07-24,265364.16,Textiles,Central India,Reliance Industries
-2023-01-09,500869.98,Petrochemicals,West India,Reliance Industries
-2023-07-02,421136.44,Textiles,South India,Reliance Industries
-2023-09-23,302310.27,Textiles,North India,Reliance Industries
-2024-11-04,73557.65,Petrochemicals,West India,Reliance Industries
-2024-12-04,132821.08,Textiles,Central India,Reliance Industries
-2024-08-01,341018.56,Petrochemicals,Central India,Reliance Industries
-2023-10-21,129650.08,Textiles,East India,Reliance Industries
-2023-12-14,472005.23,Textiles,East India,Reliance Industries
-2024-06-02,319223.23,Textiles,West India,Reliance Industries
-2023-02-09,417809.00,Textiles,South India,Reliance Industries
-2023-07-22,289038.91,Retail Outlets,West India,Reliance Industries
-2023-03-01,284392.08,Digital Services,North India,Reliance Industries
-2024-10-30,396476.52,Retail Outlets,West India,Reliance Industries
-2023-12-09,401016.78,Retail Outlets,South India,Reliance Industries
-2023-05-04,185819.27,Petrochemicals,East India,Reliance Industries
-2024-10-18,192093.19,Digital Services,East India,Reliance Industries
-2024-06-14,354314.99,Retail Outlets,Central India,Reliance Industries
-2024-10-22,264512.02,Retail Outlets,West India,Reliance Industries
-2024-01-05,180202.25,Textiles,East India,Reliance Industries
-2024-02-16,67491.58,Textiles,West India,Reliance Industries
-2023-10-04,473975.89,Retail Outlets,North India,Reliance Industries
-2023-03-08,345398.04,Textiles,South India,Reliance Industries
-2023-02-24,112882.33,Petrochemicals,West India,Reliance Industries
-2024-04-24,390935.56,Digital Services,West India,Reliance Industries
-2023-08-23,167693.11,Digital Services,East India,Reliance Industries
-2023-01-11,326223.35,Retail Outlets,Central India,Reliance Industries
-2023-03-21,96141.85,Textiles,Central India,Reliance Industries
-2023-04-19,139137.91,Digital Services,West India,Reliance Industries
-2023-07-01,463162.07,Retail Outlets,Central India,Reliance Industries
-2024-10-18,500862.58,Petrochemicals,Central India,Reliance Industries
-2024-02-02,92482.93,Petrochemicals,East India,Reliance Industries
-2024-07-18,355547.43,Retail Outlets,North India,Reliance Industries
-2024-07-02,64431.41,Textiles,East India,Reliance Industries
-2023-03-01,122779.91,Retail Outlets,South India,Reliance Industries
-2023-06-17,444575.46,Retail Outlets,South India,Reliance Industries
-2023-05-04,384656.34,Digital Services,South India,Reliance Industries
-2024-11-23,531259.96,Retail Outlets,North India,Reliance Industries
-2024-05-03,121065.83,Petrochemicals,Central India,Reliance Industries
-2023-02-09,455420.13,Retail Outlets,East India,Reliance Industries
-2023-06-10,96124.12,Digital Services,Central India,Reliance Industries
-2024-05-28,380608.12,Textiles,Central India,Reliance Industries
-2023-07-25,273732.34,Petrochemicals,North India,Reliance Industries
-2023-06-13,251575.42,Petrochemicals,East India,Reliance Industries
-2023-07-14,242124.69,Petrochemicals,North India,Reliance Industries
-2024-12-16,92870.81,Digital Services,West India,Reliance Industries
-2024-11-20,266852.80,Digital Services,West India,Reliance Industries
-2023-11-10,101694.74,Retail Outlets,South India,Reliance Industries
-2023-04-30,526842.49,Retail Outlets,West India,Reliance Industries
-2024-10-31,479393.17,Textiles,East India,Reliance Industries
-2023-02-12,393219.03,Retail Outlets,North India,Reliance Industries
-2023-06-23,377308.27,Textiles,North India,Reliance Industries
-2023-02-26,85103.45,Digital Services,South India,Reliance Industries
-2024-09-03,231177.31,Petrochemicals,North India,Reliance Industries
-2023-09-23,183693.79,Petrochemicals,South India,Reliance Industries
-2023-11-23,88927.92,Digital Services,Central India,Reliance Industries
-2024-10-21,115275.43,Petrochemicals,South India,Reliance Industries
-2024-06-28,232269.98,Petrochemicals,North India,Reliance Industries
-2023-11-02,96432.28,Retail Outlets,East India,Reliance Industries
-2024-04-02,110980.21,Petrochemicals,North India,Reliance Industries
-2024-10-28,184579.51,Digital Services,West India,Reliance Industries
-2023-05-03,202600.23,Petrochemicals,East India,Reliance Industries
-2024-04-07,169613.35,Digital Services,Central India,Reliance Industries
-2024-04-15,264704.22,Textiles,South India,Reliance Industries
-2024-11-18,73417.51,Petrochemicals,West India,Reliance Industries
-2023-11-26,199084.60,Digital Services,West India,Reliance Industries
-2023-02-10,508344.72,Petrochemicals,West India,Reliance Industries
-2024-05-26,105993.27,Petrochemicals,East India,Reliance Industries
-2024-03-04,175720.36,Retail Outlets,Central India,Reliance Industries
-2024-08-14,419954.15,Petrochemicals,South India,Reliance Industries
-2023-05-24,392291.36,Retail Outlets,South India,Reliance Industries
-2024-07-21,198919.63,Digital Services,West India,Reliance Industries
-2023-11-23,227385.62,Petrochemicals,South India,Reliance Industries
-2023-08-15,90861.69,Petrochemicals,South India,Reliance Industries
-2024-04-15,228402.28,Petrochemicals,East India,Reliance Industries
-2024-09-18,324795.66,Petrochemicals,West India,Reliance Industries
-2023-07-02,185331.13,Textiles,South India,Reliance Industries
-2024-08-28,318771.47,Retail Outlets,East India,Reliance Industries
-2024-11-06,405523.53,Digital Services,East India,Reliance Industries
-2023-11-05,422778.97,Retail Outlets,North India,Reliance Industries
-2024-04-17,387939.27,Retail Outlets,North India,Reliance Industries
-2023-07-30,246740.51,Petrochemicals,West India,Reliance Industries
-2024-08-07,276299.41,Digital Services,East India,Reliance Industries
-2023-03-19,69268.67,Digital Services,South India,Reliance Industries
-2023-12-12,155822.15,Textiles,South India,Reliance Industries
-2024-02-16,255464.94,Retail Outlets,West India,Reliance Industries
-2023-12-11,531521.87,Textiles,East India,Reliance Industries
-2024-01-16,107945.73,Retail Outlets,Central India,Reliance Industries
-2024-05-12,223587.45,Digital Services,West India,Reliance Industries
-2024-07-16,423400.62,Retail Outlets,North India,Reliance Industries
-2024-06-13,162766.42,Textiles,North India,Reliance Industries
-2024-07-19,50500.85,Digital Services,South India,Reliance Industries
-2023-04-21,126342.60,Retail Outlets,North India,Reliance Industries
-2024-08-30,409183.33,Digital Services,East India,Reliance Industries
-2023-12-06,437394.80,Petrochemicals,Central India,Reliance Industries
-2024-08-05,268255.61,Petrochemicals,Central India,Reliance Industries
-2023-05-06,61368.32,Petrochemicals,Central India,Reliance Industries
-2023-12-26,185721.68,Textiles,West India,Reliance Industries
-2023-01-23,77840.30,Digital Services,East India,Reliance Industries
-2024-08-19,470036.71,Retail Outlets,North India,Reliance Industries
-2023-06-16,150200.07,Petrochemicals,East India,Reliance Industries
-2023-08-23,99276.34,Petrochemicals,West India,Reliance Industries
-2023-03-11,294842.30,Petrochemicals,West India,Reliance Industries
-2023-06-24,292615.79,Retail Outlets,Central India,Reliance Industries
-2023-07-13,153215.25,Retail Outlets,South India,Reliance Industries
-2023-06-16,363814.45,Textiles,North India,Reliance Industries
-2023-10-24,217894.62,Retail Outlets,East India,Reliance Industries
-2023-12-09,495913.62,Textiles,North India,Reliance Industries
-2024-07-06,430703.87,Textiles,West India,Reliance Industries
-2023-11-20,436712.02,Petrochemicals,West India,Reliance Industries
-2024-02-14,111899.37,Retail Outlets,North India,Reliance Industries
-2023-11-13,359355.13,Digital Services,North India,Reliance Industries
-2024-01-08,373287.50,Petrochemicals,South India,Reliance Industries
-2023-03-05,173553.60,Petrochemicals,South India,Reliance Industries
-2023-07-13,159686.27,Digital Services,West India,Reliance Industries
-2023-07-14,158262.88,Retail Outlets,West India,Reliance Industries
-2024-12-14,249098.54,Textiles,West India,Reliance Industries
-2023-09-19,201857.06,Textiles,Central India,Reliance Industries
-2023-02-06,499163.98,Textiles,West India,Reliance Industries
-2023-01-16,372536.23,Digital Services,South India,Reliance Industries
-2024-12-23,59540.36,Digital Services,Central India,Reliance Industries
-2024-02-02,480733.84,Textiles,East India,Reliance Industries
-2024-04-05,333489.63,Retail Outlets,Central India,Reliance Industries
-2024-10-12,132917.17,Retail Outlets,Central India,Reliance Industries
-2023-05-08,428409.52,Digital Services,North India,Reliance Industries
-2024-10-29,67766.22,Retail Outlets,South India,Reliance Industries
-2024-01-27,409246.76,Textiles,West India,Reliance Industries
-2024-07-07,540655.60,Retail Outlets,West India,Reliance Industries
-2024-12-19,435193.47,Retail Outlets,South India,Reliance Industries
-2023-07-30,548595.77,Retail Outlets,West India,Reliance Industries
-2023-04-26,374509.63,Petrochemicals,North India,Reliance Industries
-2023-04-25,370573.67,Retail Outlets,Central India,Reliance Industries
-2024-08-27,387716.32,Retail Outlets,North India,Reliance Industries
-2024-02-03,247108.92,Textiles,South India,Reliance Industries
-2024-07-26,512734.05,Petrochemicals,West India,Reliance Industries
-2024-12-16,234413.51,Textiles,South India,Reliance Industries
-2023-02-07,457629.88,Digital Services,North India,Reliance Industries
-2023-10-22,534269.65,Textiles,South India,Reliance Industries
-2023-03-09,170250.67,Petrochemicals,West India,Reliance Industries
-2024-12-16,140755.07,Textiles,East India,Reliance Industries
-2024-10-05,396405.79,Textiles,East India,Reliance Industries
-2024-04-04,288031.13,Retail Outlets,South India,Reliance Industries
-2023-04-10,198237.84,Textiles,North India,Reliance Industries
-2024-07-18,154358.97,Petrochemicals,West India,Reliance Industries
-2024-06-03,86659.78,Retail Outlets,East India,Reliance Industries
-2023-03-11,63143.92,Digital Services,West India,Reliance Industries
-2023-07-17,461928.60,Retail Outlets,Central India,Reliance Industries
-2024-02-15,240139.78,Textiles,West India,Reliance Industries
-2023-07-28,389073.01,Petrochemicals,South India,Reliance Industries
-2023-12-06,344324.85,Petrochemicals,West India,Reliance Industries
-2023-04-08,139680.55,Digital Services,North India,Reliance Industries
-2023-03-03,234389.67,Petrochemicals,East India,Reliance Industries
-2023-03-27,122534.76,Textiles,West India,Reliance Industries
-2024-02-28,80569.93,Digital Services,South India,Reliance Industries
-2023-08-26,505413.97,Textiles,West India,Reliance Industries
-2023-09-23,199029.65,Textiles,South India,Reliance Industries
-2024-04-06,155599.03,Textiles,East India,Reliance Industries
-2024-07-04,461513.06,Digital Services,East India,Reliance Industries
-2023-11-06,506440.63,Petrochemicals,South India,Reliance Industries
-2023-03-26,353727.74,Textiles,Central India,Reliance Industries
-2024-11-30,319245.84,Textiles,Central India,Reliance Industries
-2023-10-18,288957.94,Textiles,West India,Reliance Industries
-2024-12-15,216189.55,Digital Services,Central India,Reliance Industries
-2024-03-15,346646.82,Petrochemicals,South India,Reliance Industries
-2024-05-19,404485.65,Digital Services,South India,Reliance Industries
-2024-06-08,311748.20,Retail Outlets,North India,Reliance Industries
-2024-09-21,418731.67,Petrochemicals,South India,Reliance Industries
-2024-03-15,70304.55,Petrochemicals,West India,Reliance Industries
-2023-07-28,173205.00,Textiles,Central India,Reliance Industries
-2023-05-14,141395.55,Digital Services,North India,Reliance Industries
-2024-03-05,267916.54,Retail Outlets,East India,Reliance Industries
-2023-01-03,264463.17,Textiles,Central India,Reliance Industries
-2024-01-15,197861.14,Textiles,North India,Reliance Industries
-2023-05-27,78174.95,Textiles,East India,Reliance Industries
-2024-09-09,105396.71,Petrochemicals,North India,Reliance Industries
-2024-04-11,142638.77,Retail Outlets,East India,Reliance Industries
-2023-06-28,294660.39,Retail Outlets,East India,Reliance Industries
-2024-10-24,212224.96,Textiles,East India,Reliance Industries
-2024-09-29,96867.27,Petrochemicals,Central India,Reliance Industries
-2024-09-10,342709.98,Retail Outlets,North India,Reliance Industries
-2023-01-02,545370.26,Petrochemicals,North India,Reliance Industries
-2024-11-05,141077.50,Petrochemicals,Central India,Reliance Industries
-2023-12-22,547036.85,Retail Outlets,Central India,Reliance Industries
-2023-12-02,68039.09,Textiles,South India,Reliance Industries
-2024-01-01,167562.53,Retail Outlets,East India,Reliance Industries
-2024-04-24,497783.82,Textiles,South India,Reliance Industries
-2024-10-10,366433.14,Textiles,South India,Reliance Industries
-2023-11-20,263548.62,Retail Outlets,East India,Reliance Industries
-2023-07-30,303935.95,Retail Outlets,West India,Reliance Industries
-2023-07-10,400170.39,Retail Outlets,East India,Reliance Industries
-2024-04-15,421487.41,Digital Services,Central India,Reliance Industries
-2024-07-26,505093.37,Petrochemicals,North India,Reliance Industries
-2023-03-28,54239.68,Textiles,East India,Reliance Industries
-2024-08-14,376779.01,Petrochemicals,Central India,Reliance Industries
-2023-11-30,504455.99,Petrochemicals,East India,Reliance Industries
-2024-12-06,107557.26,Textiles,Central India,Reliance Industries
-2023-09-13,329650.51,Digital Services,North India,Reliance Industries
-2023-01-12,71038.42,Textiles,West India,Reliance Industries
-2024-02-08,501213.10,Textiles,West India,Reliance Industries
-2023-01-17,112283.13,Petrochemicals,West India,Reliance Industries
-2023-02-08,57273.54,Petrochemicals,Central India,Reliance Industries
-2023-02-10,203024.65,Petrochemicals,South India,Reliance Industries
-2024-08-29,261938.14,Textiles,West India,Reliance Industries
-2023-10-11,393897.19,Digital Services,West India,Reliance Industries
-2024-05-18,299754.99,Textiles,East India,Reliance Industries
-2023-11-22,100677.06,Retail Outlets,Central India,Reliance Industries
-2024-08-09,295514.89,Digital Services,South India,Reliance Industries
-2023-01-30,150878.27,Textiles,North India,Reliance Industries
-2023-11-05,331027.73,Retail Outlets,East India,Reliance Industries
-2024-05-30,202360.12,Textiles,West India,Reliance Industries
-2023-10-09,199776.91,Digital Services,East India,Reliance Industries
-2024-09-14,59773.89,Petrochemicals,West India,Reliance Industries
-2024-07-03,209278.47,Petrochemicals,West India,Reliance Industries
-2024-03-04,192621.71,Retail Outlets,North India,Reliance Industries
-2023-06-29,134742.46,Digital Services,North India,Reliance Industries
-2023-02-07,120200.15,Digital Services,South India,Reliance Industries
-2024-08-17,53078.32,Retail Outlets,North India,Reliance Industries
-2024-04-27,510386.05,Textiles,Central India,Reliance Industries
-2024-04-02,506553.08,Retail Outlets,Central India,Reliance Industries
-2024-11-09,217605.95,Digital Services,West India,Reliance Industries
-2024-01-31,89649.61,Textiles,East India,Reliance Industries
-2023-04-20,523966.46,Digital Services,South India,Reliance Industries
-2024-03-24,316131.72,Digital Services,South India,Reliance Industries
-2024-11-21,454516.01,Textiles,West India,Reliance Industries
-2023-01-16,255941.78,Digital Services,East India,Reliance Industries
-2024-12-18,114012.37,Digital Services,East India,Reliance Industries
-2024-03-20,404473.87,Digital Services,North India,Reliance Industries
-2023-09-14,396153.36,Petrochemicals,West India,Reliance Industries
-2023-11-24,67747.51,Petrochemicals,Central India,Reliance Industries
-2024-03-13,286636.41,Petrochemicals,West India,Reliance Industries
-2023-04-29,425558.04,Retail Outlets,Central India,Reliance Industries
-2024-08-28,146106.60,Petrochemicals,Central India,Reliance Industries
-2023-03-27,457039.30,Petrochemicals,South India,Reliance Industries
-2023-03-19,340760.62,Textiles,South India,Reliance Industries
-2023-11-04,505995.73,Retail Outlets,South India,Reliance Industries
-2023-12-08,394420.77,Textiles,North India,Reliance Industries
-2024-06-16,312440.51,Petrochemicals,North India,Reliance Industries
-2024-02-13,369120.77,Petrochemicals,South India,Reliance Industries
-2023-07-18,529618.31,Retail Outlets,West India,Reliance Industries
-2024-01-05,531529.17,Textiles,East India,Reliance Industries
-2024-11-06,133907.62,Textiles,North India,Reliance Industries
-2024-10-31,100447.58,Digital Services,West India,Reliance Industries
-2024-11-12,85340.57,Petrochemicals,North India,Reliance Industries
-2023-06-25,288531.73,Retail Outlets,West India,Reliance Industries
-2023-03-01,264224.14,Petrochemicals,North India,Reliance Industries
-2023-01-22,548376.00,Petrochemicals,East India,Reliance Industries
-2024-12-24,116313.52,Digital Services,North India,Reliance Industries
-2023-05-14,151408.97,Digital Services,South India,Reliance Industries
-2023-03-10,469434.76,Textiles,South India,Reliance Industries
-2024-10-26,144330.47,Textiles,South India,Reliance Industries
-2024-09-27,292180.40,Digital Services,West India,Reliance Industries
-2024-07-12,328075.09,Retail Outlets,North India,Reliance Industries
-2024-11-03,345184.93,Digital Services,East India,Reliance Industries
-2023-09-13,545102.81,Digital Services,South India,Reliance Industries
-2024-07-21,418349.56,Petrochemicals,North India,Reliance Industries
-2024-03-29,272091.97,Retail Outlets,West India,Reliance Industries
-2024-07-23,55556.66,Textiles,West India,Reliance Industries
-2023-04-04,116237.91,Digital Services,West India,Reliance Industries
-2024-08-06,237757.43,Digital Services,North India,Reliance Industries
-2024-06-24,152544.40,Textiles,East India,Reliance Industries
-2023-11-12,71370.71,Textiles,North India,Reliance Industries
-2024-05-20,391849.21,Digital Services,East India,Reliance Industries
-2023-01-03,271343.82,Retail Outlets,East India,Reliance Industries
-2023-12-18,249767.85,Digital Services,South India,Reliance Industries
-2023-04-23,414124.89,Textiles,Central India,Reliance Industries
-2023-06-26,76332.19,Textiles,West India,Reliance Industries
-2024-04-16,297195.37,Petrochemicals,East India,Reliance Industries
-2024-11-10,435739.31,Textiles,South India,Reliance Industries
-2023-12-22,155473.25,Digital Services,East India,Reliance Industries
-2024-03-10,367275.48,Petrochemicals,East India,Reliance Industries
+2024-05-20,3344.35,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-12-08,2975.32,Cooking Oil,Temple Road,Gupta General Store
+2023-03-03,4489.19,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-03-22,3491.91,Spices,Temple Road,Gupta General Store
+2024-09-24,2957.72,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-08-12,2283.87,Spices,Bazaar Street,Gupta General Store
+2023-05-29,3860.71,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-06-29,1844.90,Cooking Oil,Old City,Gupta General Store
+2024-09-12,1037.84,Cooking Oil,Railway Colony,Gupta General Store
+2023-03-16,5280.02,Spices,Old City,Gupta General Store
+2024-10-12,3937.90,Cooking Oil,Mandapam Area,Gupta General Store
+2024-11-07,2951.13,Pulses & Grains,Temple Road,Gupta General Store
+2024-01-02,1578.49,Cooking Oil,Temple Road,Gupta General Store
+2023-07-10,4173.59,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-08-15,640.74,Cooking Oil,Mandapam Area,Gupta General Store
+2023-06-27,3750.14,Spices,Mandapam Area,Gupta General Store
+2023-12-22,1010.19,Spices,Railway Colony,Gupta General Store
+2024-04-26,5034.32,Pulses & Grains,Old City,Gupta General Store
+2023-12-16,2816.83,Cooking Oil,Railway Colony,Gupta General Store
+2024-09-01,3157.58,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-02-20,4318.48,Cooking Oil,Old City,Gupta General Store
+2024-05-03,3994.73,Sugar & Salt,Old City,Gupta General Store
+2023-07-16,4839.74,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-01-15,3500.06,Cooking Oil,Bazaar Street,Gupta General Store
+2024-02-14,4227.45,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-03-07,2953.53,Spices,Bazaar Street,Gupta General Store
+2023-02-27,5134.64,Cooking Oil,Bazaar Street,Gupta General Store
+2024-01-04,2808.17,Cooking Oil,Bazaar Street,Gupta General Store
+2024-04-25,3383.07,Spices,Railway Colony,Gupta General Store
+2024-02-13,3458.13,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-10-19,530.17,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-01-10,1535.34,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-02-24,3326.67,Cooking Oil,Temple Road,Gupta General Store
+2023-09-28,2309.42,Spices,Mandapam Area,Gupta General Store
+2023-10-17,1092.48,Pulses & Grains,Temple Road,Gupta General Store
+2024-06-10,4775.89,Spices,Railway Colony,Gupta General Store
+2024-02-28,2618.87,Spices,Railway Colony,Gupta General Store
+2024-06-29,3943.08,Sugar & Salt,Temple Road,Gupta General Store
+2023-04-26,3411.20,Cooking Oil,Mandapam Area,Gupta General Store
+2023-10-06,3565.96,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-01-25,3637.99,Spices,Temple Road,Gupta General Store
+2023-07-07,1883.38,Sugar & Salt,Railway Colony,Gupta General Store
+2023-10-13,1387.01,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-02-15,3029.70,Sugar & Salt,Old City,Gupta General Store
+2023-09-09,1759.82,Cooking Oil,Bazaar Street,Gupta General Store
+2024-09-10,4035.84,Sugar & Salt,Temple Road,Gupta General Store
+2024-10-10,2736.72,Cooking Oil,Old City,Gupta General Store
+2024-05-11,2256.16,Cooking Oil,Mandapam Area,Gupta General Store
+2023-11-12,3057.68,Cooking Oil,Railway Colony,Gupta General Store
+2024-10-23,3282.20,Pulses & Grains,Temple Road,Gupta General Store
+2023-11-22,1496.97,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-10-02,4880.17,Cooking Oil,Temple Road,Gupta General Store
+2024-04-08,2111.65,Spices,Old City,Gupta General Store
+2024-09-08,3311.46,Pulses & Grains,Railway Colony,Gupta General Store
+2024-05-30,4918.56,Spices,Mandapam Area,Gupta General Store
+2023-02-17,1998.41,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-10-04,2610.79,Pulses & Grains,Temple Road,Gupta General Store
+2024-11-16,585.95,Cooking Oil,Railway Colony,Gupta General Store
+2023-03-21,3415.10,Spices,Temple Road,Gupta General Store
+2023-05-04,3140.51,Spices,Mandapam Area,Gupta General Store
+2024-02-23,4150.65,Pulses & Grains,Temple Road,Gupta General Store
+2024-11-21,3917.59,Cooking Oil,Old City,Gupta General Store
+2023-02-17,1989.37,Sugar & Salt,Old City,Gupta General Store
+2023-11-25,777.78,Cooking Oil,Temple Road,Gupta General Store
+2024-06-19,3671.23,Spices,Bazaar Street,Gupta General Store
+2024-11-24,1070.39,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-07-16,1250.59,Cooking Oil,Railway Colony,Gupta General Store
+2023-09-08,4025.15,Spices,Railway Colony,Gupta General Store
+2023-05-18,3397.48,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-10-10,2411.43,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-04-07,3994.14,Spices,Bazaar Street,Gupta General Store
+2023-12-08,5244.54,Spices,Mandapam Area,Gupta General Store
+2023-09-07,1496.15,Sugar & Salt,Railway Colony,Gupta General Store
+2024-02-04,1412.00,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-04-12,3162.53,Spices,Old City,Gupta General Store
+2023-04-04,4992.72,Pulses & Grains,Temple Road,Gupta General Store
+2023-03-08,895.15,Spices,Temple Road,Gupta General Store
+2024-10-27,2078.19,Sugar & Salt,Temple Road,Gupta General Store
+2024-07-16,2647.16,Cooking Oil,Temple Road,Gupta General Store
+2024-12-14,2751.25,Sugar & Salt,Railway Colony,Gupta General Store
+2024-01-20,4307.99,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-08-28,1557.31,Pulses & Grains,Railway Colony,Gupta General Store
+2023-05-28,2274.67,Sugar & Salt,Railway Colony,Gupta General Store
+2024-01-16,4597.89,Sugar & Salt,Old City,Gupta General Store
+2023-04-01,2999.82,Pulses & Grains,Old City,Gupta General Store
+2024-06-20,2808.13,Cooking Oil,Temple Road,Gupta General Store
+2023-08-21,3528.61,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-09-19,504.39,Cooking Oil,Mandapam Area,Gupta General Store
+2023-11-23,4425.02,Cooking Oil,Railway Colony,Gupta General Store
+2023-12-25,1970.07,Sugar & Salt,Railway Colony,Gupta General Store
+2024-01-07,3585.39,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-04-25,893.51,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-04-08,2246.86,Spices,Railway Colony,Gupta General Store
+2023-01-01,1141.08,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-02-12,3605.88,Cooking Oil,Mandapam Area,Gupta General Store
+2023-03-05,3216.34,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-10-19,3674.79,Sugar & Salt,Railway Colony,Gupta General Store
+2023-12-10,938.53,Cooking Oil,Bazaar Street,Gupta General Store
+2024-12-24,4864.72,Sugar & Salt,Railway Colony,Gupta General Store
+2023-07-20,5402.79,Cooking Oil,Railway Colony,Gupta General Store
+2024-08-18,3314.98,Cooking Oil,Bazaar Street,Gupta General Store
+2023-03-08,4289.14,Spices,Old City,Gupta General Store
+2024-10-14,1463.94,Cooking Oil,Old City,Gupta General Store
+2024-11-10,1397.65,Cooking Oil,Mandapam Area,Gupta General Store
+2024-10-23,4515.43,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-02-25,1611.98,Cooking Oil,Bazaar Street,Gupta General Store
+2024-05-24,3718.19,Spices,Old City,Gupta General Store
+2024-09-13,817.44,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-04-21,4511.50,Cooking Oil,Old City,Gupta General Store
+2024-10-21,4751.21,Spices,Mandapam Area,Gupta General Store
+2024-04-22,2293.73,Sugar & Salt,Railway Colony,Gupta General Store
+2024-02-15,2044.99,Cooking Oil,Railway Colony,Gupta General Store
+2024-08-31,3518.94,Spices,Bazaar Street,Gupta General Store
+2024-07-12,3382.03,Cooking Oil,Old City,Gupta General Store
+2024-02-17,1086.11,Pulses & Grains,Temple Road,Gupta General Store
+2024-06-21,4559.22,Pulses & Grains,Old City,Gupta General Store
+2024-05-27,1679.45,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-09-19,955.86,Spices,Mandapam Area,Gupta General Store
+2024-09-20,4332.13,Cooking Oil,Mandapam Area,Gupta General Store
+2024-11-29,4713.10,Cooking Oil,Bazaar Street,Gupta General Store
+2023-11-20,1383.08,Cooking Oil,Bazaar Street,Gupta General Store
+2024-11-05,1013.94,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-07-08,889.96,Sugar & Salt,Railway Colony,Gupta General Store
+2023-10-26,1715.00,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-07-07,3226.16,Cooking Oil,Railway Colony,Gupta General Store
+2024-04-15,2572.20,Spices,Temple Road,Gupta General Store
+2024-10-16,2365.03,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-01-04,4285.88,Sugar & Salt,Temple Road,Gupta General Store
+2023-09-24,1830.97,Spices,Temple Road,Gupta General Store
+2023-02-05,1893.47,Pulses & Grains,Temple Road,Gupta General Store
+2023-11-23,1015.27,Pulses & Grains,Temple Road,Gupta General Store
+2023-04-29,5358.59,Cooking Oil,Old City,Gupta General Store
+2023-03-27,5084.48,Cooking Oil,Mandapam Area,Gupta General Store
+2023-07-20,4131.95,Cooking Oil,Old City,Gupta General Store
+2024-10-31,5270.15,Cooking Oil,Old City,Gupta General Store
+2024-04-06,2111.99,Pulses & Grains,Railway Colony,Gupta General Store
+2023-10-07,1977.83,Pulses & Grains,Old City,Gupta General Store
+2024-10-10,3333.55,Sugar & Salt,Temple Road,Gupta General Store
+2024-02-22,1162.37,Cooking Oil,Temple Road,Gupta General Store
+2023-08-13,4468.76,Cooking Oil,Old City,Gupta General Store
+2023-02-03,3554.88,Pulses & Grains,Old City,Gupta General Store
+2024-06-25,5399.11,Sugar & Salt,Temple Road,Gupta General Store
+2023-09-02,3234.46,Cooking Oil,Railway Colony,Gupta General Store
+2024-07-18,3165.01,Cooking Oil,Old City,Gupta General Store
+2023-09-18,2697.15,Pulses & Grains,Railway Colony,Gupta General Store
+2024-04-05,1670.13,Pulses & Grains,Old City,Gupta General Store
+2024-11-22,2943.20,Sugar & Salt,Old City,Gupta General Store
+2023-02-24,3941.57,Spices,Mandapam Area,Gupta General Store
+2023-04-02,1422.15,Pulses & Grains,Railway Colony,Gupta General Store
+2024-04-30,2637.29,Pulses & Grains,Old City,Gupta General Store
+2023-10-12,4284.22,Cooking Oil,Railway Colony,Gupta General Store
+2024-09-12,1745.13,Pulses & Grains,Old City,Gupta General Store
+2023-06-27,2773.48,Cooking Oil,Mandapam Area,Gupta General Store
+2023-01-19,4419.45,Spices,Temple Road,Gupta General Store
+2024-08-27,2433.50,Cooking Oil,Temple Road,Gupta General Store
+2024-04-21,3445.29,Spices,Temple Road,Gupta General Store
+2024-04-16,755.62,Pulses & Grains,Railway Colony,Gupta General Store
+2024-07-14,512.14,Spices,Temple Road,Gupta General Store
+2024-11-10,2406.14,Pulses & Grains,Railway Colony,Gupta General Store
+2023-11-21,4674.37,Spices,Temple Road,Gupta General Store
+2023-01-26,4346.22,Spices,Mandapam Area,Gupta General Store
+2023-02-14,1085.94,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-05-30,3826.54,Pulses & Grains,Old City,Gupta General Store
+2024-10-29,3673.54,Pulses & Grains,Old City,Gupta General Store
+2024-01-15,3118.72,Spices,Bazaar Street,Gupta General Store
+2023-08-05,1793.53,Spices,Bazaar Street,Gupta General Store
+2023-07-01,2267.77,Cooking Oil,Temple Road,Gupta General Store
+2023-11-25,4651.95,Spices,Bazaar Street,Gupta General Store
+2024-08-17,3603.06,Spices,Mandapam Area,Gupta General Store
+2023-03-21,3755.89,Cooking Oil,Old City,Gupta General Store
+2024-04-04,1681.20,Sugar & Salt,Old City,Gupta General Store
+2024-09-20,1974.58,Cooking Oil,Mandapam Area,Gupta General Store
+2024-08-19,1601.79,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-05-18,5391.85,Spices,Old City,Gupta General Store
+2023-02-13,2778.19,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-08-24,2342.15,Sugar & Salt,Railway Colony,Gupta General Store
+2024-06-13,5152.78,Cooking Oil,Temple Road,Gupta General Store
+2024-04-12,636.44,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-06-23,2242.64,Pulses & Grains,Railway Colony,Gupta General Store
+2024-03-28,4988.72,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-01-22,1387.22,Spices,Railway Colony,Gupta General Store
+2024-09-25,3194.78,Cooking Oil,Temple Road,Gupta General Store
+2024-06-30,1639.84,Cooking Oil,Bazaar Street,Gupta General Store
+2023-07-09,1583.77,Sugar & Salt,Old City,Gupta General Store
+2024-10-06,1632.15,Spices,Mandapam Area,Gupta General Store
+2024-02-26,3764.21,Spices,Old City,Gupta General Store
+2024-01-17,3998.41,Cooking Oil,Temple Road,Gupta General Store
+2023-10-22,3230.92,Spices,Mandapam Area,Gupta General Store
+2024-01-13,3583.38,Spices,Old City,Gupta General Store
+2023-11-03,977.31,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-12-02,5337.36,Sugar & Salt,Old City,Gupta General Store
+2024-07-16,4747.28,Sugar & Salt,Old City,Gupta General Store
+2023-02-13,875.27,Spices,Bazaar Street,Gupta General Store
+2024-04-30,5371.31,Spices,Railway Colony,Gupta General Store
+2023-08-14,1833.21,Sugar & Salt,Old City,Gupta General Store
+2024-10-28,1629.41,Cooking Oil,Bazaar Street,Gupta General Store
+2024-02-19,3282.65,Spices,Railway Colony,Gupta General Store
+2023-09-27,1691.49,Pulses & Grains,Railway Colony,Gupta General Store
+2023-12-15,4139.85,Spices,Temple Road,Gupta General Store
+2023-10-27,666.89,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-01-30,2509.32,Pulses & Grains,Old City,Gupta General Store
+2023-11-15,4740.51,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-06-18,2910.75,Pulses & Grains,Railway Colony,Gupta General Store
+2024-06-14,2376.71,Pulses & Grains,Railway Colony,Gupta General Store
+2023-11-27,3705.13,Pulses & Grains,Railway Colony,Gupta General Store
+2024-11-09,3711.78,Cooking Oil,Bazaar Street,Gupta General Store
+2023-03-19,2270.73,Spices,Railway Colony,Gupta General Store
+2024-01-12,2450.22,Cooking Oil,Bazaar Street,Gupta General Store
+2024-12-14,3116.63,Pulses & Grains,Temple Road,Gupta General Store
+2023-01-22,2296.14,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-01-25,1587.99,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-03-14,2165.53,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-08-19,4814.67,Cooking Oil,Mandapam Area,Gupta General Store
+2024-04-01,3409.48,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-01-24,2492.39,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-02-29,4256.83,Spices,Bazaar Street,Gupta General Store
+2024-07-27,4556.62,Sugar & Salt,Railway Colony,Gupta General Store
+2023-12-14,4712.56,Cooking Oil,Old City,Gupta General Store
+2023-08-24,2531.46,Cooking Oil,Mandapam Area,Gupta General Store
+2023-03-14,4499.55,Pulses & Grains,Old City,Gupta General Store
+2023-08-15,3131.47,Spices,Bazaar Street,Gupta General Store
+2024-08-05,2479.54,Spices,Temple Road,Gupta General Store
+2024-04-22,1123.83,Pulses & Grains,Railway Colony,Gupta General Store
+2024-01-04,2586.49,Sugar & Salt,Railway Colony,Gupta General Store
+2024-11-10,3003.88,Cooking Oil,Bazaar Street,Gupta General Store
+2024-01-21,593.13,Pulses & Grains,Temple Road,Gupta General Store
+2024-10-06,723.80,Spices,Mandapam Area,Gupta General Store
+2024-07-17,3925.88,Cooking Oil,Railway Colony,Gupta General Store
+2024-11-04,2198.50,Spices,Railway Colony,Gupta General Store
+2023-12-14,4633.69,Spices,Bazaar Street,Gupta General Store
+2024-04-10,2784.15,Spices,Bazaar Street,Gupta General Store
+2024-01-13,3850.70,Spices,Old City,Gupta General Store
+2024-11-03,4062.99,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-09-15,3392.73,Spices,Mandapam Area,Gupta General Store
+2023-04-06,2873.18,Spices,Old City,Gupta General Store
+2023-12-14,1258.19,Spices,Mandapam Area,Gupta General Store
+2024-05-20,4716.78,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-06-20,4543.03,Pulses & Grains,Temple Road,Gupta General Store
+2023-03-01,4420.60,Spices,Temple Road,Gupta General Store
+2023-01-22,929.39,Spices,Temple Road,Gupta General Store
+2023-06-20,5021.17,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-01-28,2867.85,Cooking Oil,Old City,Gupta General Store
+2024-04-22,1104.16,Cooking Oil,Railway Colony,Gupta General Store
+2024-02-23,782.52,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-10-13,2001.52,Spices,Mandapam Area,Gupta General Store
+2024-06-22,4363.00,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-08-18,4061.19,Sugar & Salt,Temple Road,Gupta General Store
+2023-04-11,2125.23,Sugar & Salt,Railway Colony,Gupta General Store
+2024-06-24,3326.84,Pulses & Grains,Temple Road,Gupta General Store
+2023-10-29,5238.57,Spices,Mandapam Area,Gupta General Store
+2023-07-14,2783.78,Sugar & Salt,Old City,Gupta General Store
+2023-12-09,4265.40,Sugar & Salt,Temple Road,Gupta General Store
+2024-09-08,1287.35,Spices,Temple Road,Gupta General Store
+2024-10-03,4102.17,Spices,Bazaar Street,Gupta General Store
+2023-06-06,2506.52,Spices,Old City,Gupta General Store
+2024-06-28,4493.69,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-10-25,3510.58,Spices,Temple Road,Gupta General Store
+2024-08-14,4785.38,Cooking Oil,Mandapam Area,Gupta General Store
+2023-07-11,2528.37,Sugar & Salt,Railway Colony,Gupta General Store
+2024-03-10,2597.02,Sugar & Salt,Railway Colony,Gupta General Store
+2024-02-08,1197.13,Cooking Oil,Old City,Gupta General Store
+2023-09-13,1395.46,Cooking Oil,Railway Colony,Gupta General Store
+2024-03-14,2531.57,Cooking Oil,Old City,Gupta General Store
+2023-09-26,2302.08,Pulses & Grains,Old City,Gupta General Store
+2023-01-13,3651.59,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-11-08,3830.69,Pulses & Grains,Temple Road,Gupta General Store
+2023-11-26,2258.30,Cooking Oil,Mandapam Area,Gupta General Store
+2023-08-30,5489.33,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-07-30,3856.69,Spices,Old City,Gupta General Store
+2024-05-23,2423.61,Cooking Oil,Temple Road,Gupta General Store
+2024-04-23,5204.49,Cooking Oil,Railway Colony,Gupta General Store
+2023-08-05,3498.96,Sugar & Salt,Old City,Gupta General Store
+2023-12-02,1477.15,Spices,Railway Colony,Gupta General Store
+2023-04-25,4879.59,Cooking Oil,Temple Road,Gupta General Store
+2024-05-18,3755.82,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-09-25,5089.68,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-04-29,1098.28,Pulses & Grains,Old City,Gupta General Store
+2024-04-01,4410.86,Cooking Oil,Mandapam Area,Gupta General Store
+2024-03-10,1862.66,Spices,Old City,Gupta General Store
+2024-08-21,1403.09,Spices,Mandapam Area,Gupta General Store
+2023-10-30,2883.75,Cooking Oil,Bazaar Street,Gupta General Store
+2023-04-22,1521.04,Cooking Oil,Old City,Gupta General Store
+2023-08-23,3912.89,Spices,Railway Colony,Gupta General Store
+2024-04-29,5067.08,Spices,Mandapam Area,Gupta General Store
+2023-12-28,5319.46,Cooking Oil,Railway Colony,Gupta General Store
+2023-02-03,2276.23,Sugar & Salt,Temple Road,Gupta General Store
+2024-10-29,3334.22,Cooking Oil,Temple Road,Gupta General Store
+2024-11-30,4181.60,Sugar & Salt,Railway Colony,Gupta General Store
+2023-07-03,4937.45,Pulses & Grains,Railway Colony,Gupta General Store
+2023-09-02,3005.01,Spices,Bazaar Street,Gupta General Store
+2023-12-29,2056.43,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-01-09,1554.99,Cooking Oil,Bazaar Street,Gupta General Store
+2023-11-14,3127.59,Spices,Old City,Gupta General Store
+2023-12-17,4963.19,Cooking Oil,Bazaar Street,Gupta General Store
+2024-09-06,5132.51,Spices,Mandapam Area,Gupta General Store
+2023-11-08,1393.02,Sugar & Salt,Old City,Gupta General Store
+2024-04-25,3180.46,Sugar & Salt,Old City,Gupta General Store
+2023-06-24,3038.96,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-10-05,3545.53,Sugar & Salt,Temple Road,Gupta General Store
+2024-10-06,4665.36,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-04-26,2602.10,Cooking Oil,Mandapam Area,Gupta General Store
+2023-03-31,795.67,Cooking Oil,Railway Colony,Gupta General Store
+2024-02-12,630.63,Cooking Oil,Old City,Gupta General Store
+2024-10-24,790.22,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-10-22,1535.47,Cooking Oil,Old City,Gupta General Store
+2024-12-29,1679.19,Sugar & Salt,Old City,Gupta General Store
+2023-01-09,2547.04,Sugar & Salt,Old City,Gupta General Store
+2024-05-23,3809.00,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-10-26,2257.74,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-05-20,1712.05,Sugar & Salt,Railway Colony,Gupta General Store
+2024-01-21,4070.09,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-05-13,4185.11,Cooking Oil,Bazaar Street,Gupta General Store
+2023-08-02,5238.39,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-01-04,4314.48,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-02-08,3779.42,Cooking Oil,Temple Road,Gupta General Store
+2024-09-19,1265.03,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-06-10,4644.55,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-06-26,1295.78,Sugar & Salt,Temple Road,Gupta General Store
+2024-05-26,4465.35,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-04-07,1277.58,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-06-06,3608.78,Cooking Oil,Temple Road,Gupta General Store
+2023-09-29,5371.28,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-01-06,2936.96,Cooking Oil,Bazaar Street,Gupta General Store
+2024-02-03,1657.46,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-03-02,849.64,Spices,Railway Colony,Gupta General Store
+2023-09-12,5350.62,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-01-07,1841.25,Cooking Oil,Old City,Gupta General Store
+2023-04-07,2835.32,Pulses & Grains,Old City,Gupta General Store
+2024-11-18,2630.70,Sugar & Salt,Old City,Gupta General Store
+2024-08-12,5004.18,Sugar & Salt,Old City,Gupta General Store
+2024-05-19,3344.88,Spices,Old City,Gupta General Store
+2024-12-15,3966.37,Spices,Temple Road,Gupta General Store
+2023-02-28,3713.21,Cooking Oil,Mandapam Area,Gupta General Store
+2023-11-12,4478.81,Sugar & Salt,Old City,Gupta General Store
+2023-09-16,5187.67,Sugar & Salt,Old City,Gupta General Store
+2023-12-06,5410.66,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-08-08,1697.71,Spices,Temple Road,Gupta General Store
+2023-06-03,2969.68,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-07-06,1125.40,Pulses & Grains,Railway Colony,Gupta General Store
+2024-08-24,4890.17,Cooking Oil,Old City,Gupta General Store
+2023-08-07,4549.81,Sugar & Salt,Temple Road,Gupta General Store
+2023-01-10,3080.71,Spices,Temple Road,Gupta General Store
+2024-09-06,2103.77,Spices,Old City,Gupta General Store
+2023-11-08,1975.68,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-03-21,873.66,Spices,Temple Road,Gupta General Store
+2023-02-27,3875.86,Sugar & Salt,Railway Colony,Gupta General Store
+2023-12-04,2350.05,Spices,Bazaar Street,Gupta General Store
+2023-02-09,3122.15,Cooking Oil,Railway Colony,Gupta General Store
+2023-03-22,3703.17,Pulses & Grains,Old City,Gupta General Store
+2023-10-01,4723.74,Spices,Bazaar Street,Gupta General Store
+2024-11-20,4424.67,Spices,Temple Road,Gupta General Store
+2024-06-16,3439.73,Cooking Oil,Mandapam Area,Gupta General Store
+2023-11-19,962.18,Cooking Oil,Temple Road,Gupta General Store
+2023-12-30,2970.33,Spices,Bazaar Street,Gupta General Store
+2024-07-11,2813.10,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-02-17,2545.31,Cooking Oil,Temple Road,Gupta General Store
+2024-02-07,4949.46,Spices,Old City,Gupta General Store
+2024-08-10,1720.40,Cooking Oil,Temple Road,Gupta General Store
+2024-06-27,4613.30,Spices,Old City,Gupta General Store
+2024-05-20,3616.23,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-07-24,3168.00,Cooking Oil,Temple Road,Gupta General Store
+2023-12-08,565.61,Pulses & Grains,Railway Colony,Gupta General Store
+2023-02-11,1939.32,Pulses & Grains,Railway Colony,Gupta General Store
+2024-11-01,559.33,Sugar & Salt,Temple Road,Gupta General Store
+2024-09-28,5261.55,Cooking Oil,Railway Colony,Gupta General Store
+2024-10-03,4830.44,Sugar & Salt,Temple Road,Gupta General Store
+2023-03-28,2573.28,Spices,Mandapam Area,Gupta General Store
+2024-03-26,2895.47,Sugar & Salt,Old City,Gupta General Store
+2024-01-02,1003.45,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-04-11,2802.81,Pulses & Grains,Temple Road,Gupta General Store
+2024-04-27,4040.70,Sugar & Salt,Old City,Gupta General Store
+2024-11-12,586.00,Cooking Oil,Temple Road,Gupta General Store
+2023-02-24,2135.73,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-02-25,2077.38,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-10-29,4090.41,Cooking Oil,Temple Road,Gupta General Store
+2023-04-30,2502.06,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-05-25,4440.41,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-11-24,5045.81,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-10-29,4383.49,Cooking Oil,Bazaar Street,Gupta General Store
+2023-03-27,5440.31,Spices,Mandapam Area,Gupta General Store
+2023-06-01,3732.98,Spices,Mandapam Area,Gupta General Store
+2023-07-15,3901.11,Spices,Old City,Gupta General Store
+2024-01-11,3468.32,Cooking Oil,Railway Colony,Gupta General Store
+2024-09-02,5440.62,Cooking Oil,Mandapam Area,Gupta General Store
+2023-11-28,3382.57,Cooking Oil,Bazaar Street,Gupta General Store
+2024-09-30,1391.71,Spices,Railway Colony,Gupta General Store
+2024-10-30,3694.38,Spices,Temple Road,Gupta General Store
+2024-04-10,4004.66,Spices,Mandapam Area,Gupta General Store
+2023-01-04,1286.95,Pulses & Grains,Old City,Gupta General Store
+2023-09-01,866.97,Pulses & Grains,Railway Colony,Gupta General Store
+2023-12-09,2657.53,Pulses & Grains,Temple Road,Gupta General Store
+2023-11-25,1783.82,Spices,Bazaar Street,Gupta General Store
+2023-08-23,3221.50,Sugar & Salt,Railway Colony,Gupta General Store
+2024-02-07,4750.63,Pulses & Grains,Temple Road,Gupta General Store
+2023-12-30,2504.88,Sugar & Salt,Temple Road,Gupta General Store
+2024-02-02,3390.32,Cooking Oil,Railway Colony,Gupta General Store
+2024-07-28,1997.47,Spices,Temple Road,Gupta General Store
+2023-11-15,2866.48,Spices,Old City,Gupta General Store
+2024-12-29,3122.77,Sugar & Salt,Railway Colony,Gupta General Store
+2024-07-05,1537.55,Pulses & Grains,Temple Road,Gupta General Store
+2024-10-08,3408.53,Sugar & Salt,Railway Colony,Gupta General Store
+2023-11-05,5354.98,Pulses & Grains,Old City,Gupta General Store
+2024-03-23,2839.88,Sugar & Salt,Railway Colony,Gupta General Store
+2023-08-26,664.62,Sugar & Salt,Railway Colony,Gupta General Store
+2024-06-02,2435.64,Cooking Oil,Bazaar Street,Gupta General Store
+2023-10-02,3572.94,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-02-08,3893.67,Cooking Oil,Old City,Gupta General Store
+2023-12-18,3706.33,Spices,Temple Road,Gupta General Store
+2024-05-27,2436.04,Pulses & Grains,Railway Colony,Gupta General Store
+2024-05-31,743.87,Cooking Oil,Temple Road,Gupta General Store
+2023-01-18,1698.86,Sugar & Salt,Railway Colony,Gupta General Store
+2023-05-12,794.01,Pulses & Grains,Old City,Gupta General Store
+2023-08-29,1423.77,Cooking Oil,Bazaar Street,Gupta General Store
+2024-07-28,2943.29,Spices,Mandapam Area,Gupta General Store
+2024-07-12,3393.14,Sugar & Salt,Temple Road,Gupta General Store
+2023-11-19,2557.03,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-07-19,3883.47,Cooking Oil,Old City,Gupta General Store
+2024-04-13,4622.51,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-06-28,2925.49,Spices,Railway Colony,Gupta General Store
+2024-05-21,2157.17,Spices,Old City,Gupta General Store
+2023-11-05,802.40,Cooking Oil,Bazaar Street,Gupta General Store
+2024-07-15,2697.08,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-07-18,3728.76,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-06-23,3340.36,Pulses & Grains,Old City,Gupta General Store
+2023-04-01,1488.49,Spices,Mandapam Area,Gupta General Store
+2023-12-02,1126.00,Cooking Oil,Temple Road,Gupta General Store
+2023-03-23,4120.92,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-08-27,3619.58,Cooking Oil,Old City,Gupta General Store
+2023-08-22,3027.65,Spices,Temple Road,Gupta General Store
+2024-02-18,3798.73,Spices,Old City,Gupta General Store
+2024-10-15,2267.98,Spices,Bazaar Street,Gupta General Store
+2023-03-31,940.04,Sugar & Salt,Temple Road,Gupta General Store
+2024-12-04,2951.40,Cooking Oil,Old City,Gupta General Store
+2023-01-29,3014.91,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-07-15,4477.34,Spices,Old City,Gupta General Store
+2023-11-07,5470.33,Sugar & Salt,Railway Colony,Gupta General Store
+2024-01-31,3278.13,Cooking Oil,Railway Colony,Gupta General Store
+2023-10-07,690.23,Pulses & Grains,Railway Colony,Gupta General Store
+2024-10-11,1924.81,Sugar & Salt,Railway Colony,Gupta General Store
+2024-10-07,5341.43,Spices,Old City,Gupta General Store
+2023-01-12,1141.02,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-05-21,2901.42,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-08-09,2797.67,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-06-04,4899.87,Pulses & Grains,Temple Road,Gupta General Store
+2023-12-05,4771.00,Cooking Oil,Mandapam Area,Gupta General Store
+2024-10-27,2455.98,Spices,Bazaar Street,Gupta General Store
+2024-07-08,1369.32,Spices,Mandapam Area,Gupta General Store
+2024-03-19,5125.29,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-10-27,1371.05,Cooking Oil,Bazaar Street,Gupta General Store
+2023-11-07,4301.89,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-05-17,1486.23,Sugar & Salt,Old City,Gupta General Store
+2023-10-22,4092.69,Spices,Bazaar Street,Gupta General Store
+2023-09-27,3715.99,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-04-20,3678.83,Sugar & Salt,Railway Colony,Gupta General Store
+2024-05-09,3569.69,Pulses & Grains,Old City,Gupta General Store
+2024-03-08,1564.37,Cooking Oil,Mandapam Area,Gupta General Store
+2023-03-26,5267.47,Spices,Old City,Gupta General Store
+2024-12-16,2258.74,Spices,Old City,Gupta General Store
+2024-09-09,1223.94,Sugar & Salt,Railway Colony,Gupta General Store
+2023-03-21,1445.03,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-08-03,3684.66,Sugar & Salt,Old City,Gupta General Store
+2023-05-14,3419.93,Pulses & Grains,Temple Road,Gupta General Store
+2024-02-15,2153.32,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-02-13,5191.48,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-08-08,4191.77,Spices,Old City,Gupta General Store
+2024-07-31,1446.32,Sugar & Salt,Temple Road,Gupta General Store
+2023-03-01,994.24,Pulses & Grains,Old City,Gupta General Store
+2024-02-22,1814.20,Cooking Oil,Old City,Gupta General Store
+2024-05-28,719.61,Sugar & Salt,Old City,Gupta General Store
+2024-12-04,2707.40,Cooking Oil,Bazaar Street,Gupta General Store
+2024-04-21,559.45,Cooking Oil,Bazaar Street,Gupta General Store
+2024-07-28,2379.99,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-01-15,2140.60,Cooking Oil,Old City,Gupta General Store
+2024-04-04,1111.81,Sugar & Salt,Old City,Gupta General Store
+2024-01-21,3977.26,Sugar & Salt,Old City,Gupta General Store
+2023-07-19,636.61,Cooking Oil,Temple Road,Gupta General Store
+2024-09-29,936.03,Pulses & Grains,Temple Road,Gupta General Store
+2023-10-01,4723.54,Spices,Bazaar Street,Gupta General Store
+2023-03-29,5032.15,Cooking Oil,Temple Road,Gupta General Store
+2023-06-07,4250.68,Pulses & Grains,Railway Colony,Gupta General Store
+2023-12-09,2940.25,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-01-11,774.48,Spices,Bazaar Street,Gupta General Store
+2024-06-16,4146.88,Sugar & Salt,Railway Colony,Gupta General Store
+2023-09-22,1907.68,Sugar & Salt,Railway Colony,Gupta General Store
+2023-02-18,3863.35,Cooking Oil,Temple Road,Gupta General Store
+2024-11-06,4883.62,Sugar & Salt,Temple Road,Gupta General Store
+2023-03-30,2473.39,Sugar & Salt,Railway Colony,Gupta General Store
+2024-01-02,5268.92,Cooking Oil,Temple Road,Gupta General Store
+2024-10-15,3232.21,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-01-27,2070.15,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-01-24,4338.92,Spices,Old City,Gupta General Store
+2023-09-06,2073.08,Sugar & Salt,Temple Road,Gupta General Store
+2024-08-16,4268.38,Spices,Railway Colony,Gupta General Store
+2024-03-18,3250.45,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-12-01,1837.43,Cooking Oil,Mandapam Area,Gupta General Store
+2024-10-22,2796.83,Cooking Oil,Old City,Gupta General Store
+2023-10-02,2236.76,Sugar & Salt,Temple Road,Gupta General Store
+2023-12-09,3551.73,Pulses & Grains,Railway Colony,Gupta General Store
+2023-01-21,3836.73,Spices,Temple Road,Gupta General Store
+2024-01-24,707.84,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-08-25,4711.11,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-02-28,5259.07,Cooking Oil,Old City,Gupta General Store
+2023-03-31,4374.07,Pulses & Grains,Railway Colony,Gupta General Store
+2023-11-17,1882.79,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-09-28,4323.29,Spices,Mandapam Area,Gupta General Store
+2024-09-04,843.41,Pulses & Grains,Old City,Gupta General Store
+2023-11-06,1040.81,Spices,Temple Road,Gupta General Store
+2023-07-04,2699.42,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-05-31,3692.29,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-09-30,3395.93,Spices,Old City,Gupta General Store
+2023-10-25,5469.47,Cooking Oil,Mandapam Area,Gupta General Store
+2023-04-17,1236.93,Cooking Oil,Temple Road,Gupta General Store
+2024-11-08,4666.55,Spices,Old City,Gupta General Store
+2023-03-20,1419.21,Cooking Oil,Railway Colony,Gupta General Store
+2023-01-15,3540.12,Cooking Oil,Mandapam Area,Gupta General Store
+2024-11-09,5049.43,Cooking Oil,Bazaar Street,Gupta General Store
+2023-11-01,744.38,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-11-08,1042.32,Spices,Railway Colony,Gupta General Store
+2024-06-15,5383.77,Cooking Oil,Bazaar Street,Gupta General Store
+2024-12-14,5114.82,Spices,Temple Road,Gupta General Store
+2024-02-08,2648.64,Spices,Railway Colony,Gupta General Store
+2023-09-18,2856.35,Sugar & Salt,Old City,Gupta General Store
+2024-07-16,4343.78,Pulses & Grains,Railway Colony,Gupta General Store
+2024-03-02,4779.27,Pulses & Grains,Railway Colony,Gupta General Store
+2024-09-12,2059.24,Sugar & Salt,Railway Colony,Gupta General Store
+2024-10-30,4571.87,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-12-12,1040.54,Cooking Oil,Mandapam Area,Gupta General Store
+2023-02-27,5304.38,Spices,Bazaar Street,Gupta General Store
+2023-08-21,1932.08,Pulses & Grains,Railway Colony,Gupta General Store
+2024-07-21,879.05,Pulses & Grains,Temple Road,Gupta General Store
+2023-04-16,1256.92,Sugar & Salt,Railway Colony,Gupta General Store
+2024-02-22,4763.93,Cooking Oil,Mandapam Area,Gupta General Store
+2023-01-03,3902.41,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-11-30,2481.45,Pulses & Grains,Railway Colony,Gupta General Store
+2024-07-29,518.17,Pulses & Grains,Old City,Gupta General Store
+2023-02-16,1743.01,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-03-22,5028.85,Spices,Old City,Gupta General Store
+2024-12-28,1084.16,Spices,Mandapam Area,Gupta General Store
+2023-06-20,734.99,Sugar & Salt,Temple Road,Gupta General Store
+2023-01-26,520.69,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-04-16,1224.53,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-04-29,4877.86,Cooking Oil,Railway Colony,Gupta General Store
+2024-01-05,2526.32,Sugar & Salt,Railway Colony,Gupta General Store
+2023-10-13,3469.12,Pulses & Grains,Old City,Gupta General Store
+2023-05-06,1059.94,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-04-29,3699.49,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-11-05,3931.46,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-09-25,2455.97,Spices,Mandapam Area,Gupta General Store
+2023-09-19,1562.64,Sugar & Salt,Old City,Gupta General Store
+2023-12-13,4806.85,Pulses & Grains,Temple Road,Gupta General Store
+2023-06-20,3233.43,Sugar & Salt,Old City,Gupta General Store
+2024-03-24,5251.51,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-12-13,2152.06,Pulses & Grains,Railway Colony,Gupta General Store
+2023-11-09,3648.99,Spices,Railway Colony,Gupta General Store
+2024-06-19,1910.83,Cooking Oil,Railway Colony,Gupta General Store
+2024-08-30,2210.86,Pulses & Grains,Old City,Gupta General Store
+2023-06-10,609.87,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-09-18,1206.19,Sugar & Salt,Temple Road,Gupta General Store
+2024-03-24,4845.90,Cooking Oil,Bazaar Street,Gupta General Store
+2024-09-20,5299.51,Sugar & Salt,Railway Colony,Gupta General Store
+2023-05-13,504.17,Cooking Oil,Bazaar Street,Gupta General Store
+2024-06-06,4131.05,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-06-19,3174.22,Cooking Oil,Railway Colony,Gupta General Store
+2024-06-29,2690.76,Cooking Oil,Old City,Gupta General Store
+2024-06-30,2918.89,Sugar & Salt,Railway Colony,Gupta General Store
+2024-09-11,3734.16,Spices,Old City,Gupta General Store
+2023-07-07,1099.15,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-08-15,4544.02,Pulses & Grains,Railway Colony,Gupta General Store
+2024-03-05,906.95,Pulses & Grains,Old City,Gupta General Store
+2024-03-11,2970.71,Spices,Temple Road,Gupta General Store
+2024-11-27,3593.30,Cooking Oil,Old City,Gupta General Store
+2024-07-24,793.18,Pulses & Grains,Railway Colony,Gupta General Store
+2024-12-19,5327.41,Cooking Oil,Temple Road,Gupta General Store
+2023-04-05,4930.34,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-10-15,532.37,Cooking Oil,Mandapam Area,Gupta General Store
+2024-06-16,2997.89,Cooking Oil,Bazaar Street,Gupta General Store
+2024-03-18,1346.05,Spices,Old City,Gupta General Store
+2024-10-31,3324.39,Cooking Oil,Railway Colony,Gupta General Store
+2024-05-12,892.30,Cooking Oil,Mandapam Area,Gupta General Store
+2024-03-14,4679.25,Spices,Mandapam Area,Gupta General Store
+2024-11-15,4430.47,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-04-29,4242.42,Cooking Oil,Temple Road,Gupta General Store
+2023-11-24,5098.96,Sugar & Salt,Temple Road,Gupta General Store
+2024-05-16,2836.83,Cooking Oil,Bazaar Street,Gupta General Store
+2024-06-22,2102.70,Cooking Oil,Railway Colony,Gupta General Store
+2024-08-09,2233.17,Sugar & Salt,Old City,Gupta General Store
+2023-07-07,5226.84,Cooking Oil,Temple Road,Gupta General Store
+2024-08-04,4575.13,Spices,Mandapam Area,Gupta General Store
+2023-02-10,5347.32,Cooking Oil,Old City,Gupta General Store
+2024-07-31,4733.35,Spices,Old City,Gupta General Store
+2023-08-19,815.19,Spices,Mandapam Area,Gupta General Store
+2023-01-21,5069.00,Spices,Old City,Gupta General Store
+2023-03-28,926.80,Spices,Mandapam Area,Gupta General Store
+2024-01-17,2736.96,Spices,Mandapam Area,Gupta General Store
+2023-09-04,5495.18,Cooking Oil,Mandapam Area,Gupta General Store
+2023-11-15,2813.97,Cooking Oil,Mandapam Area,Gupta General Store
+2024-06-15,3723.60,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-04-05,1580.89,Cooking Oil,Bazaar Street,Gupta General Store
+2024-01-19,2124.61,Cooking Oil,Temple Road,Gupta General Store
+2023-05-11,3834.89,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-07-01,2280.23,Cooking Oil,Old City,Gupta General Store
+2024-09-28,4242.67,Spices,Old City,Gupta General Store
+2024-04-24,3760.58,Cooking Oil,Temple Road,Gupta General Store
+2023-08-21,2538.26,Cooking Oil,Bazaar Street,Gupta General Store
+2024-08-15,1525.51,Cooking Oil,Mandapam Area,Gupta General Store
+2024-05-15,3340.28,Spices,Bazaar Street,Gupta General Store
+2023-04-27,3639.25,Cooking Oil,Temple Road,Gupta General Store
+2024-10-10,3116.89,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-05-27,1959.57,Cooking Oil,Temple Road,Gupta General Store
+2024-05-12,673.22,Spices,Old City,Gupta General Store
+2023-09-16,4692.30,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-05-09,2986.31,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-02-07,2602.67,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-12-09,823.94,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-02-22,1714.09,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-06-09,3661.91,Pulses & Grains,Railway Colony,Gupta General Store
+2023-03-25,888.73,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-05-28,3007.80,Cooking Oil,Railway Colony,Gupta General Store
+2023-12-29,3892.86,Cooking Oil,Mandapam Area,Gupta General Store
+2024-06-23,4349.70,Cooking Oil,Old City,Gupta General Store
+2023-11-15,1593.14,Cooking Oil,Bazaar Street,Gupta General Store
+2024-12-06,1443.05,Sugar & Salt,Railway Colony,Gupta General Store
+2023-08-04,1458.45,Spices,Old City,Gupta General Store
+2023-04-08,5231.55,Spices,Mandapam Area,Gupta General Store
+2024-05-03,1810.98,Sugar & Salt,Railway Colony,Gupta General Store
+2023-01-07,4906.36,Cooking Oil,Railway Colony,Gupta General Store
+2024-06-16,3944.18,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-06-18,4186.67,Pulses & Grains,Railway Colony,Gupta General Store
+2024-11-26,3071.04,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-10-15,659.01,Pulses & Grains,Railway Colony,Gupta General Store
+2023-07-09,3897.30,Spices,Temple Road,Gupta General Store
+2024-12-25,3852.99,Spices,Mandapam Area,Gupta General Store
+2024-08-19,2297.12,Cooking Oil,Temple Road,Gupta General Store
+2023-09-05,4911.97,Pulses & Grains,Railway Colony,Gupta General Store
+2023-10-16,3577.02,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-12-07,3701.95,Pulses & Grains,Temple Road,Gupta General Store
+2023-11-17,2019.85,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-10-27,1031.59,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-08-22,2657.81,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-06-16,2180.98,Spices,Temple Road,Gupta General Store
+2023-06-02,1365.35,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-12-04,5195.78,Pulses & Grains,Temple Road,Gupta General Store
+2024-01-05,2519.69,Sugar & Salt,Temple Road,Gupta General Store
+2024-07-06,3183.91,Pulses & Grains,Temple Road,Gupta General Store
+2023-10-28,4265.37,Pulses & Grains,Old City,Gupta General Store
+2024-05-23,1049.47,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-09-06,1630.90,Spices,Temple Road,Gupta General Store
+2023-06-20,864.34,Spices,Temple Road,Gupta General Store
+2024-11-11,1415.45,Cooking Oil,Mandapam Area,Gupta General Store
+2024-05-23,536.62,Sugar & Salt,Railway Colony,Gupta General Store
+2024-11-13,1078.99,Spices,Mandapam Area,Gupta General Store
+2024-03-31,2882.47,Spices,Bazaar Street,Gupta General Store
+2023-06-28,1115.49,Pulses & Grains,Old City,Gupta General Store
+2024-04-01,969.33,Spices,Mandapam Area,Gupta General Store
+2024-07-10,2358.26,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-09-06,2151.16,Spices,Old City,Gupta General Store
+2023-04-15,1485.63,Spices,Mandapam Area,Gupta General Store
+2024-08-28,2115.13,Sugar & Salt,Old City,Gupta General Store
+2024-12-17,2137.11,Cooking Oil,Mandapam Area,Gupta General Store
+2024-07-02,530.39,Spices,Mandapam Area,Gupta General Store
+2024-10-12,897.75,Cooking Oil,Old City,Gupta General Store
+2024-04-18,4159.37,Spices,Railway Colony,Gupta General Store
+2023-06-17,1771.87,Spices,Temple Road,Gupta General Store
+2023-02-05,3228.34,Cooking Oil,Mandapam Area,Gupta General Store
+2024-05-25,1311.27,Spices,Railway Colony,Gupta General Store
+2023-01-13,4211.66,Spices,Bazaar Street,Gupta General Store
+2024-02-04,1911.04,Spices,Temple Road,Gupta General Store
+2023-08-23,2257.39,Sugar & Salt,Railway Colony,Gupta General Store
+2024-01-04,1956.86,Cooking Oil,Temple Road,Gupta General Store
+2023-04-01,4253.08,Spices,Mandapam Area,Gupta General Store
+2023-04-25,1796.00,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-08-24,734.56,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-06-17,2133.49,Sugar & Salt,Temple Road,Gupta General Store
+2024-06-18,2503.44,Sugar & Salt,Railway Colony,Gupta General Store
+2024-12-28,3182.69,Sugar & Salt,Temple Road,Gupta General Store
+2024-09-04,2741.40,Sugar & Salt,Railway Colony,Gupta General Store
+2023-05-22,1837.51,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-01-26,4533.23,Sugar & Salt,Railway Colony,Gupta General Store
+2024-10-19,4898.72,Sugar & Salt,Temple Road,Gupta General Store
+2024-11-15,5282.33,Spices,Railway Colony,Gupta General Store
+2023-05-25,1473.47,Sugar & Salt,Railway Colony,Gupta General Store
+2024-08-28,2838.79,Spices,Railway Colony,Gupta General Store
+2024-04-24,3029.77,Pulses & Grains,Railway Colony,Gupta General Store
+2023-12-20,3848.71,Spices,Temple Road,Gupta General Store
+2024-11-15,3724.49,Cooking Oil,Mandapam Area,Gupta General Store
+2023-02-13,793.22,Cooking Oil,Railway Colony,Gupta General Store
+2023-02-04,3708.64,Pulses & Grains,Old City,Gupta General Store
+2023-12-02,5354.24,Cooking Oil,Bazaar Street,Gupta General Store
+2024-10-10,2627.71,Cooking Oil,Old City,Gupta General Store
+2023-10-05,2593.78,Cooking Oil,Temple Road,Gupta General Store
+2024-07-21,950.65,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-08-31,3867.82,Spices,Bazaar Street,Gupta General Store
+2023-07-20,1356.89,Cooking Oil,Old City,Gupta General Store
+2024-11-28,1765.33,Pulses & Grains,Temple Road,Gupta General Store
+2024-09-09,3710.07,Pulses & Grains,Temple Road,Gupta General Store
+2024-07-15,2406.14,Cooking Oil,Bazaar Street,Gupta General Store
+2024-06-28,4440.37,Cooking Oil,Temple Road,Gupta General Store
+2023-02-28,649.66,Cooking Oil,Railway Colony,Gupta General Store
+2024-11-30,1504.06,Spices,Temple Road,Gupta General Store
+2024-10-14,5045.12,Cooking Oil,Bazaar Street,Gupta General Store
+2023-02-14,4881.78,Spices,Bazaar Street,Gupta General Store
+2023-05-28,3601.41,Pulses & Grains,Temple Road,Gupta General Store
+2024-05-02,1293.47,Pulses & Grains,Temple Road,Gupta General Store
+2024-04-22,2367.03,Cooking Oil,Temple Road,Gupta General Store
+2023-07-12,1948.75,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-01-28,5047.96,Sugar & Salt,Temple Road,Gupta General Store
+2024-03-07,4202.29,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-06-06,1138.86,Spices,Temple Road,Gupta General Store
+2023-09-01,2294.23,Pulses & Grains,Temple Road,Gupta General Store
+2023-01-25,4704.30,Spices,Temple Road,Gupta General Store
+2023-11-10,4448.58,Spices,Old City,Gupta General Store
+2023-10-28,1724.00,Pulses & Grains,Railway Colony,Gupta General Store
+2023-12-02,1501.67,Pulses & Grains,Railway Colony,Gupta General Store
+2024-05-23,4541.15,Cooking Oil,Temple Road,Gupta General Store
+2024-12-17,5015.65,Spices,Old City,Gupta General Store
+2024-05-01,1363.80,Pulses & Grains,Railway Colony,Gupta General Store
+2023-03-10,1493.25,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-11-09,2253.51,Sugar & Salt,Temple Road,Gupta General Store
+2023-08-15,5093.98,Cooking Oil,Temple Road,Gupta General Store
+2024-06-02,3732.33,Pulses & Grains,Railway Colony,Gupta General Store
+2024-01-19,1875.06,Pulses & Grains,Temple Road,Gupta General Store
+2024-02-02,2287.64,Cooking Oil,Old City,Gupta General Store
+2023-09-04,1435.93,Spices,Mandapam Area,Gupta General Store
+2023-10-26,3313.28,Cooking Oil,Mandapam Area,Gupta General Store
+2023-10-21,2294.67,Sugar & Salt,Railway Colony,Gupta General Store
+2024-02-12,2598.83,Pulses & Grains,Old City,Gupta General Store
+2023-03-20,3369.05,Sugar & Salt,Old City,Gupta General Store
+2024-03-29,4716.62,Sugar & Salt,Temple Road,Gupta General Store
+2024-06-15,2871.77,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-01-02,3899.98,Cooking Oil,Railway Colony,Gupta General Store
+2023-09-18,3002.93,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-06-01,3843.43,Sugar & Salt,Temple Road,Gupta General Store
+2023-03-29,2893.86,Sugar & Salt,Temple Road,Gupta General Store
+2024-05-28,4407.28,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-07-10,3540.64,Cooking Oil,Temple Road,Gupta General Store
+2023-08-29,1849.28,Spices,Mandapam Area,Gupta General Store
+2023-05-30,2832.74,Pulses & Grains,Temple Road,Gupta General Store
+2024-04-14,577.08,Pulses & Grains,Old City,Gupta General Store
+2023-06-16,1672.32,Pulses & Grains,Railway Colony,Gupta General Store
+2023-09-15,5015.98,Sugar & Salt,Railway Colony,Gupta General Store
+2023-10-15,3449.37,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-12-10,4377.15,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-10-23,2964.81,Cooking Oil,Railway Colony,Gupta General Store
+2023-06-16,1412.58,Cooking Oil,Railway Colony,Gupta General Store
+2023-09-03,2205.03,Pulses & Grains,Temple Road,Gupta General Store
+2024-09-16,4658.25,Cooking Oil,Mandapam Area,Gupta General Store
+2023-06-14,5012.57,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-01-29,1651.68,Sugar & Salt,Temple Road,Gupta General Store
+2024-10-16,1999.02,Sugar & Salt,Railway Colony,Gupta General Store
+2024-04-02,3649.68,Cooking Oil,Bazaar Street,Gupta General Store
+2023-04-17,5488.02,Cooking Oil,Railway Colony,Gupta General Store
+2023-10-06,1002.56,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-10-07,5403.64,Spices,Mandapam Area,Gupta General Store
+2024-05-22,1538.22,Spices,Mandapam Area,Gupta General Store
+2023-06-29,5321.29,Pulses & Grains,Temple Road,Gupta General Store
+2023-11-15,3207.84,Spices,Mandapam Area,Gupta General Store
+2024-05-12,1314.57,Pulses & Grains,Temple Road,Gupta General Store
+2024-09-26,5238.19,Spices,Bazaar Street,Gupta General Store
+2024-06-01,4302.73,Pulses & Grains,Temple Road,Gupta General Store
+2024-06-04,2763.31,Spices,Old City,Gupta General Store
+2023-11-27,3479.23,Spices,Railway Colony,Gupta General Store
+2023-09-16,1784.52,Cooking Oil,Mandapam Area,Gupta General Store
+2023-04-10,4311.07,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-02-27,4657.70,Cooking Oil,Bazaar Street,Gupta General Store
+2023-09-08,606.11,Cooking Oil,Bazaar Street,Gupta General Store
+2024-08-02,2432.20,Spices,Temple Road,Gupta General Store
+2023-04-13,4020.46,Pulses & Grains,Railway Colony,Gupta General Store
+2024-04-10,4517.72,Sugar & Salt,Railway Colony,Gupta General Store
+2023-09-11,2009.41,Spices,Bazaar Street,Gupta General Store
+2024-07-31,3156.78,Pulses & Grains,Railway Colony,Gupta General Store
+2023-02-22,3785.88,Spices,Old City,Gupta General Store
+2024-10-01,3931.36,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-07-15,5463.27,Cooking Oil,Bazaar Street,Gupta General Store
+2024-01-01,3782.27,Cooking Oil,Old City,Gupta General Store
+2024-04-19,924.39,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-05-30,4606.03,Pulses & Grains,Temple Road,Gupta General Store
+2024-06-08,624.25,Cooking Oil,Old City,Gupta General Store
+2024-03-06,2889.74,Spices,Old City,Gupta General Store
+2023-04-04,1077.61,Cooking Oil,Old City,Gupta General Store
+2024-03-25,1498.42,Cooking Oil,Railway Colony,Gupta General Store
+2024-04-10,2912.20,Spices,Railway Colony,Gupta General Store
+2023-07-31,1204.87,Cooking Oil,Old City,Gupta General Store
+2024-10-19,2206.55,Sugar & Salt,Old City,Gupta General Store
+2024-04-01,2214.34,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-07-30,5251.39,Cooking Oil,Bazaar Street,Gupta General Store
+2024-05-06,2064.97,Spices,Old City,Gupta General Store
+2024-01-02,5395.46,Pulses & Grains,Temple Road,Gupta General Store
+2024-01-23,3110.27,Cooking Oil,Old City,Gupta General Store
+2023-12-03,2114.09,Cooking Oil,Temple Road,Gupta General Store
+2024-02-25,4480.14,Spices,Railway Colony,Gupta General Store
+2024-08-21,1533.69,Sugar & Salt,Temple Road,Gupta General Store
+2023-07-10,5068.80,Pulses & Grains,Old City,Gupta General Store
+2024-07-09,2616.75,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-10-26,3581.58,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-02-05,1482.61,Pulses & Grains,Railway Colony,Gupta General Store
+2024-03-27,1200.01,Pulses & Grains,Old City,Gupta General Store
+2024-03-03,2172.29,Cooking Oil,Railway Colony,Gupta General Store
+2024-08-22,5364.11,Sugar & Salt,Temple Road,Gupta General Store
+2024-08-18,4756.57,Pulses & Grains,Temple Road,Gupta General Store
+2024-10-24,1103.87,Sugar & Salt,Railway Colony,Gupta General Store
+2024-08-25,2717.55,Pulses & Grains,Railway Colony,Gupta General Store
+2023-11-24,1278.07,Spices,Railway Colony,Gupta General Store
+2023-09-26,524.69,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-07-24,1833.17,Pulses & Grains,Old City,Gupta General Store
+2023-05-01,5089.74,Pulses & Grains,Old City,Gupta General Store
+2023-07-04,1043.79,Cooking Oil,Old City,Gupta General Store
+2023-07-05,2179.76,Spices,Bazaar Street,Gupta General Store
+2024-11-15,3221.79,Pulses & Grains,Old City,Gupta General Store
+2024-07-02,5066.88,Sugar & Salt,Old City,Gupta General Store
+2023-08-02,1554.72,Spices,Old City,Gupta General Store
+2023-02-04,2291.81,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-01-23,1366.96,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-06-27,669.46,Cooking Oil,Railway Colony,Gupta General Store
+2024-04-20,1515.60,Spices,Old City,Gupta General Store
+2024-01-01,1616.52,Spices,Old City,Gupta General Store
+2023-04-01,3783.54,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-11-16,4295.65,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-01-24,2894.82,Pulses & Grains,Old City,Gupta General Store
+2023-07-16,4011.69,Cooking Oil,Bazaar Street,Gupta General Store
+2023-01-24,3932.89,Cooking Oil,Temple Road,Gupta General Store
+2023-02-18,1851.67,Spices,Temple Road,Gupta General Store
+2024-08-02,1084.89,Spices,Mandapam Area,Gupta General Store
+2024-04-05,3571.03,Cooking Oil,Mandapam Area,Gupta General Store
+2024-05-10,3148.90,Spices,Railway Colony,Gupta General Store
+2023-10-14,2093.14,Cooking Oil,Old City,Gupta General Store
+2024-12-29,2496.25,Spices,Railway Colony,Gupta General Store
+2023-05-30,4418.03,Sugar & Salt,Temple Road,Gupta General Store
+2024-11-25,2918.56,Cooking Oil,Railway Colony,Gupta General Store
+2024-05-18,3341.72,Cooking Oil,Bazaar Street,Gupta General Store
+2024-12-26,5114.60,Sugar & Salt,Railway Colony,Gupta General Store
+2023-06-20,3129.30,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-06-29,616.88,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-08-29,2140.72,Pulses & Grains,Temple Road,Gupta General Store
+2024-05-15,4581.54,Spices,Temple Road,Gupta General Store
+2024-04-29,565.53,Cooking Oil,Mandapam Area,Gupta General Store
+2024-07-14,3509.90,Spices,Mandapam Area,Gupta General Store
+2024-06-18,3531.99,Sugar & Salt,Railway Colony,Gupta General Store
+2023-01-28,693.89,Cooking Oil,Old City,Gupta General Store
+2024-09-29,2098.32,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-09-14,729.33,Cooking Oil,Temple Road,Gupta General Store
+2023-09-13,4656.15,Pulses & Grains,Railway Colony,Gupta General Store
+2023-10-25,3534.18,Cooking Oil,Railway Colony,Gupta General Store
+2024-10-10,1423.97,Sugar & Salt,Temple Road,Gupta General Store
+2023-12-26,5014.26,Sugar & Salt,Old City,Gupta General Store
+2023-11-22,4666.54,Spices,Mandapam Area,Gupta General Store
+2023-06-17,2497.86,Spices,Railway Colony,Gupta General Store
+2023-12-25,1224.89,Spices,Mandapam Area,Gupta General Store
+2023-06-19,4112.32,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-02-04,5240.15,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-08-29,3760.36,Cooking Oil,Bazaar Street,Gupta General Store
+2024-08-18,2802.07,Spices,Temple Road,Gupta General Store
+2023-05-28,798.70,Sugar & Salt,Old City,Gupta General Store
+2023-01-20,1333.98,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-11-23,5068.84,Pulses & Grains,Old City,Gupta General Store
+2024-05-13,1205.07,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-08-14,571.48,Spices,Railway Colony,Gupta General Store
+2024-09-20,1336.31,Spices,Mandapam Area,Gupta General Store
+2023-02-04,1198.20,Spices,Mandapam Area,Gupta General Store
+2024-03-31,3954.30,Cooking Oil,Bazaar Street,Gupta General Store
+2024-05-08,3449.14,Cooking Oil,Bazaar Street,Gupta General Store
+2024-07-13,832.87,Cooking Oil,Temple Road,Gupta General Store
+2024-05-03,5476.16,Spices,Mandapam Area,Gupta General Store
+2024-01-31,2392.72,Spices,Temple Road,Gupta General Store
+2023-03-18,5153.82,Cooking Oil,Mandapam Area,Gupta General Store
+2023-03-21,4217.55,Cooking Oil,Railway Colony,Gupta General Store
+2023-10-16,1455.09,Spices,Old City,Gupta General Store
+2023-06-09,2962.39,Sugar & Salt,Old City,Gupta General Store
+2023-12-30,4039.86,Sugar & Salt,Railway Colony,Gupta General Store
+2023-05-11,906.93,Cooking Oil,Old City,Gupta General Store
+2023-03-31,2973.30,Spices,Old City,Gupta General Store
+2023-05-01,4452.28,Sugar & Salt,Temple Road,Gupta General Store
+2024-08-18,1672.08,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-08-31,2840.57,Cooking Oil,Old City,Gupta General Store
+2024-02-23,4324.20,Spices,Mandapam Area,Gupta General Store
+2024-11-07,4578.92,Spices,Temple Road,Gupta General Store
+2024-06-16,5121.33,Spices,Bazaar Street,Gupta General Store
+2024-04-26,4654.10,Cooking Oil,Railway Colony,Gupta General Store
+2024-02-16,1262.41,Pulses & Grains,Temple Road,Gupta General Store
+2024-02-14,5469.25,Cooking Oil,Old City,Gupta General Store
+2023-04-21,1982.74,Spices,Bazaar Street,Gupta General Store
+2023-06-24,4450.14,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-08-24,4029.52,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-06-11,3318.03,Spices,Bazaar Street,Gupta General Store
+2024-02-14,4244.38,Spices,Railway Colony,Gupta General Store
+2024-12-21,2981.94,Sugar & Salt,Old City,Gupta General Store
+2023-07-15,4500.68,Cooking Oil,Bazaar Street,Gupta General Store
+2023-01-13,2940.69,Sugar & Salt,Temple Road,Gupta General Store
+2024-02-03,3568.45,Spices,Railway Colony,Gupta General Store
+2023-04-25,1297.53,Cooking Oil,Mandapam Area,Gupta General Store
+2024-07-13,4932.55,Cooking Oil,Temple Road,Gupta General Store
+2024-01-18,1578.88,Sugar & Salt,Railway Colony,Gupta General Store
+2023-10-17,2069.50,Cooking Oil,Mandapam Area,Gupta General Store
+2023-11-01,1520.21,Sugar & Salt,Railway Colony,Gupta General Store
+2024-01-11,3578.59,Cooking Oil,Bazaar Street,Gupta General Store
+2023-02-07,1422.52,Pulses & Grains,Old City,Gupta General Store
+2023-01-18,4935.16,Sugar & Salt,Old City,Gupta General Store
+2024-04-27,2080.55,Sugar & Salt,Old City,Gupta General Store
+2023-09-04,880.45,Cooking Oil,Mandapam Area,Gupta General Store
+2024-01-22,2846.58,Sugar & Salt,Railway Colony,Gupta General Store
+2023-03-24,3332.93,Cooking Oil,Railway Colony,Gupta General Store
+2023-12-18,2532.03,Cooking Oil,Railway Colony,Gupta General Store
+2023-03-11,1969.16,Spices,Railway Colony,Gupta General Store
+2023-02-20,2530.79,Pulses & Grains,Railway Colony,Gupta General Store
+2024-10-18,3803.47,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-12-09,1444.40,Spices,Railway Colony,Gupta General Store
+2024-12-21,2664.18,Spices,Bazaar Street,Gupta General Store
+2024-08-28,3360.90,Pulses & Grains,Old City,Gupta General Store
+2024-04-07,2580.21,Cooking Oil,Old City,Gupta General Store
+2023-05-29,3903.92,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-02-18,4080.74,Cooking Oil,Railway Colony,Gupta General Store
+2024-03-31,714.54,Cooking Oil,Bazaar Street,Gupta General Store
+2024-04-07,1440.90,Sugar & Salt,Temple Road,Gupta General Store
+2023-02-06,4427.63,Spices,Temple Road,Gupta General Store
+2024-01-21,2816.45,Spices,Mandapam Area,Gupta General Store
+2023-11-24,1034.86,Pulses & Grains,Railway Colony,Gupta General Store
+2023-09-24,1825.84,Spices,Bazaar Street,Gupta General Store
+2024-10-14,858.73,Cooking Oil,Mandapam Area,Gupta General Store
+2023-06-02,2247.38,Cooking Oil,Mandapam Area,Gupta General Store
+2024-09-25,4038.77,Pulses & Grains,Temple Road,Gupta General Store
+2024-08-18,5073.68,Spices,Mandapam Area,Gupta General Store
+2023-08-24,4273.36,Sugar & Salt,Old City,Gupta General Store
+2024-08-23,5372.82,Cooking Oil,Old City,Gupta General Store
+2023-02-19,1536.41,Pulses & Grains,Temple Road,Gupta General Store
+2024-12-02,5169.56,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-04-19,3096.34,Spices,Bazaar Street,Gupta General Store
+2024-05-16,3602.13,Spices,Old City,Gupta General Store
+2023-10-04,2727.92,Sugar & Salt,Temple Road,Gupta General Store
+2024-09-28,2316.89,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-06-29,1481.49,Spices,Bazaar Street,Gupta General Store
+2023-03-30,3932.83,Spices,Old City,Gupta General Store
+2023-12-05,5218.65,Sugar & Salt,Old City,Gupta General Store
+2023-05-20,3971.59,Cooking Oil,Bazaar Street,Gupta General Store
+2024-02-03,3274.02,Spices,Bazaar Street,Gupta General Store
+2024-09-11,5324.96,Spices,Old City,Gupta General Store
+2024-03-29,940.62,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-05-10,3244.77,Sugar & Salt,Railway Colony,Gupta General Store
+2024-06-19,4561.69,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-01-31,4405.47,Sugar & Salt,Temple Road,Gupta General Store
+2024-09-07,2396.54,Pulses & Grains,Temple Road,Gupta General Store
+2024-12-11,2524.15,Sugar & Salt,Temple Road,Gupta General Store
+2024-02-17,3029.51,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-07-20,4963.71,Pulses & Grains,Old City,Gupta General Store
+2024-01-05,3108.61,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-08-12,2824.65,Sugar & Salt,Temple Road,Gupta General Store
+2024-11-18,1553.81,Spices,Mandapam Area,Gupta General Store
+2024-02-02,821.92,Cooking Oil,Old City,Gupta General Store
+2023-02-05,2631.82,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-06-02,4891.71,Sugar & Salt,Mandapam Area,Gupta General Store
+2023-11-10,3522.33,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-06-17,3691.86,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-09-27,1430.39,Sugar & Salt,Railway Colony,Gupta General Store
+2023-10-26,1152.05,Cooking Oil,Mandapam Area,Gupta General Store
+2023-10-25,3793.07,Cooking Oil,Old City,Gupta General Store
+2023-04-02,2493.10,Pulses & Grains,Old City,Gupta General Store
+2023-07-26,5178.50,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-09-13,2252.82,Spices,Old City,Gupta General Store
+2024-02-27,4455.94,Sugar & Salt,Temple Road,Gupta General Store
+2024-10-20,690.51,Cooking Oil,Old City,Gupta General Store
+2023-04-05,2697.18,Sugar & Salt,Railway Colony,Gupta General Store
+2023-08-18,4067.31,Spices,Old City,Gupta General Store
+2024-08-31,2285.12,Cooking Oil,Railway Colony,Gupta General Store
+2023-09-18,1165.56,Spices,Mandapam Area,Gupta General Store
+2024-04-30,1750.23,Pulses & Grains,Temple Road,Gupta General Store
+2023-08-09,2995.84,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-03-18,2156.00,Cooking Oil,Temple Road,Gupta General Store
+2023-04-26,1376.31,Sugar & Salt,Bazaar Street,Gupta General Store
+2023-06-27,567.80,Spices,Temple Road,Gupta General Store
+2023-11-04,4214.89,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-06-09,4295.56,Pulses & Grains,Old City,Gupta General Store
+2024-08-23,1657.26,Cooking Oil,Railway Colony,Gupta General Store
+2023-08-08,4427.18,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-10-05,4368.30,Spices,Railway Colony,Gupta General Store
+2024-08-19,2430.75,Sugar & Salt,Mandapam Area,Gupta General Store
+2024-11-11,2157.48,Pulses & Grains,Old City,Gupta General Store
+2023-09-24,4942.40,Pulses & Grains,Temple Road,Gupta General Store
+2023-03-11,1090.85,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-04-14,1859.34,Spices,Bazaar Street,Gupta General Store
+2023-05-25,4627.33,Cooking Oil,Mandapam Area,Gupta General Store
+2023-06-06,1154.74,Spices,Bazaar Street,Gupta General Store
+2024-01-17,4588.86,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-09-26,2269.59,Cooking Oil,Old City,Gupta General Store
+2024-03-24,1836.61,Cooking Oil,Bazaar Street,Gupta General Store
+2024-11-12,730.24,Cooking Oil,Mandapam Area,Gupta General Store
+2024-08-19,5341.07,Cooking Oil,Temple Road,Gupta General Store
+2023-06-18,4075.54,Spices,Old City,Gupta General Store
+2024-10-11,4970.86,Pulses & Grains,Bazaar Street,Gupta General Store
+2023-08-21,1770.16,Cooking Oil,Old City,Gupta General Store
+2023-03-23,1498.74,Sugar & Salt,Bazaar Street,Gupta General Store
+2024-12-17,1777.43,Spices,Temple Road,Gupta General Store
+2024-03-16,4459.71,Pulses & Grains,Railway Colony,Gupta General Store
+2023-01-16,713.75,Spices,Temple Road,Gupta General Store
+2023-10-22,3697.52,Cooking Oil,Railway Colony,Gupta General Store
+2024-11-02,5302.68,Sugar & Salt,Temple Road,Gupta General Store
+2024-09-20,5408.72,Spices,Temple Road,Gupta General Store
+2024-02-10,2842.48,Pulses & Grains,Temple Road,Gupta General Store
+2023-10-29,5186.51,Cooking Oil,Temple Road,Gupta General Store
+2023-11-22,5302.03,Pulses & Grains,Bazaar Street,Gupta General Store
+2024-11-15,4064.45,Pulses & Grains,Mandapam Area,Gupta General Store
+2023-12-11,3996.03,Pulses & Grains,Mandapam Area,Gupta General Store
+2024-07-22,4865.59,Cooking Oil,Bazaar Street,Gupta General Store
