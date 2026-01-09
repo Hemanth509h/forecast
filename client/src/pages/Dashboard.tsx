@@ -43,14 +43,14 @@ export default function Dashboard() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <MetricCard
           title="Total Revenue"
-          value={`$${totalSales.toLocaleString()}`}
+          value={`₹${totalSales.toLocaleString('en-IN')}`}
           description="All time cumulative sales"
           icon={DollarSign}
           loading={isLoading}
         />
         <MetricCard
           title="Latest Month"
-          value={`$${lastMonthSales.toLocaleString()}`}
+          value={`₹${lastMonthSales.toLocaleString('en-IN')}`}
           description={sales?.length ? format(latestSaleDate, 'MMMM yyyy') : "No data"}
           trend={sales?.length ? 12.5 : undefined} 
           icon={Calendar}
@@ -58,7 +58,7 @@ export default function Dashboard() {
         />
         <MetricCard
           title="Immediate Forecast"
-          value={`$${nextMonthForecast.toLocaleString()}`}
+          value={`₹${nextMonthForecast.toLocaleString('en-IN')}`}
           description={nextMonthForecastData ? format(new Date(nextMonthForecastData.forecastDate), 'MMMM yyyy') : "Generate forecast"}
           icon={TrendingUp}
           loading={isLoading}

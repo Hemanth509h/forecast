@@ -57,7 +57,7 @@ export async function registerRoutes(
         messages: [
           {
             role: "system",
-            content: "You are a data mapping expert. Map the given CSV headers to our internal schema: date, amount, productCategory, region. Return a JSON object mapping each internal field to the index (0-based) of the corresponding CSV header. If a field cannot be mapped, omit it."
+            content: "You are a data mapping expert. Map the given CSV headers to our internal schema: date, amount, productCategory, region. Note that currency is in Indian Rupees (₹). Return a JSON object mapping each internal field to the index (0-based) of the corresponding CSV header. If a field cannot be mapped, omit it."
           },
           {
             role: "user",

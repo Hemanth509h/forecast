@@ -90,7 +90,7 @@ export function SalesChart({ salesData = [], forecastData = [], isLoading }: Sal
           />
           <YAxis 
             stroke="hsl(var(--muted-foreground))"
-            tickFormatter={(val) => `$${val}`}
+            tickFormatter={(val) => `₹${val}`}
             tick={{ fontSize: 12 }}
             axisLine={false}
           />
@@ -101,7 +101,7 @@ export function SalesChart({ salesData = [], forecastData = [], isLoading }: Sal
               borderRadius: '8px',
               boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)'
             }}
-            formatter={(value: number) => [`$${value.toFixed(2)}`, '']}
+            formatter={(value: number) => [`₹${value.toLocaleString('en-IN')}`, '']}
           />
           <Legend wrapperStyle={{ paddingTop: '20px' }} />
           <Line

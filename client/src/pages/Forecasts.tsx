@@ -138,7 +138,7 @@ export default function Forecasts() {
                           {f.modelName}
                         </td>
                         <td className="px-4 py-3 text-right font-mono text-accent font-semibold">
-                          ${Number(f.predictedAmount).toLocaleString(undefined, { maximumFractionDigits: 0 })}
+                          ₹{Number(f.predictedAmount).toLocaleString('en-IN', { maximumFractionDigits: 0 })}
                         </td>
                       </tr>
                     ))

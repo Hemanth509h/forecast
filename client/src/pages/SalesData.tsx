@@ -217,7 +217,7 @@ export default function SalesData() {
                     </td>
                     <td className="px-6 py-4 text-muted-foreground">{sale.region}</td>
                     <td className="px-6 py-4 text-right font-mono font-medium">
-                      ${Number(sale.amount).toLocaleString(undefined, { minimumFractionDigits: 2 })}
+                      ₹{Number(sale.amount).toLocaleString('en-IN', { minimumFractionDigits: 2 })}
                     </td>
                   </tr>
                 ))
@@ -275,7 +275,7 @@ function CreateSaleDialog({ open, onOpenChange }: { open: boolean, onOpenChange:
           </div>
           
           <div className="space-y-2">
-            <label className="text-sm font-medium">Amount ($)</label>
+            <label className="text-sm font-medium">Amount (₹)</label>
             <Input 
               type="number" 
               step="0.01" 
