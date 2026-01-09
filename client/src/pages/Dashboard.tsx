@@ -89,53 +89,81 @@ export default function Dashboard() {
             <div className="bg-card rounded-2xl p-6 border border-border/50 shadow-sm">
               <h3 className="text-lg font-bold font-display text-foreground mb-4">Regional Performance</h3>
               <div className="space-y-4">
-                {regionData.slice(0, 5).map((region, i) => (
-                  <div key={region.name} className="flex items-center justify-between">
-                    <div className="flex items-center gap-3">
-                      <div className="w-8 h-8 rounded-lg bg-primary/10 flex items-center justify-center text-primary font-bold text-xs">
-                        {i + 1}
+                {regionData.length > 0 ? (
+                  regionData.slice(0, 5).map((region, i) => (
+                    <div key={region.name} className="flex items-center justify-between">
+                      <div className="flex items-center gap-3">
+                        <div className="w-8 h-8 rounded-lg bg-primary/10 flex items-center justify-center text-primary font-bold text-xs">
+                          {i + 1}
+                        </div>
+                        <span className="text-sm font-medium">{region.name}</span>
                       </div>
-                      <span className="text-sm font-medium">{region.name}</span>
+                      <span className="text-sm font-mono font-bold">₹{region.value.toLocaleString('en-IN')}</span>
                     </div>
-                    <span className="text-sm font-mono font-bold">₹{region.value.toLocaleString('en-IN')}</span>
+                  ))
+                ) : (
+                  <div className="flex flex-col items-center justify-center py-8 text-center">
+                    <p className="text-muted-foreground text-sm">No regional data available</p>
+                    <p className="text-xs text-muted-foreground/60 mt-1">Import sales records to see breakdown</p>
                   </div>
-                ))}
-                {regionData.length === 0 && <p className="text-muted-foreground text-sm py-4 text-center">No regional data available</p>}
+                )}
               </div>
             </div>
 
             <div className="bg-card rounded-2xl p-6 border border-border/50 shadow-sm flex flex-col justify-center text-center">
-              <div className="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center text-accent mx-auto mb-4">
-                <TrendingUp className="w-6 h-6" />
-              </div>
-              <h3 className="text-lg font-bold font-display text-foreground mb-1">Growth Projection</h3>
-              <p className="text-sm text-muted-foreground mb-4">Estimated growth based on current trajectory</p>
-              <div className="text-3xl font-bold text-accent">+14.2%</div>
+              {sales && sales.length > 0 ? (
+                <>
+                  <div className="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center text-accent mx-auto mb-4">
+                    <TrendingUp className="w-6 h-6" />
+                  </div>
+                  <h3 className="text-lg font-bold font-display text-foreground mb-1">Growth Projection</h3>
+                  <p className="text-sm text-muted-foreground mb-4">Estimated growth based on current trajectory</p>
+                  <div className="text-3xl font-bold text-accent">+14.2%</div>
+                </>
+              ) : (
+                <div className="flex flex-col items-center justify-center py-4">
+                  <TrendingUp className="w-10 h-10 text-muted-foreground/40 mb-3" />
+                  <h3 className="text-lg font-bold font-display text-muted-foreground/60 mb-1">No Projection</h3>
+                  <p className="text-xs text-muted-foreground/60 max-w-[200px] mx-auto">Requires sales data to calculate future growth trajectory</p>
+                </div>
+              )}
             </div>
           </div>
         </div>
         
         <div className="flex flex-col gap-8">
           <div className="bg-gradient-to-br from-primary to-primary/80 rounded-2xl p-6 text-primary-foreground shadow-xl shadow-primary/20 flex flex-col justify-between h-full min-h-[300px]">
-            <div>
-              <div className="p-3 bg-white/20 w-fit rounded-xl mb-6">
-                <AlertCircle className="w-6 h-6 text-white" />
+            {sales && sales.length > 0 ? (
+              <>
+                <div>
+                  <div className="p-3 bg-white/20 w-fit rounded-xl mb-6">
+                    <AlertCircle className="w-6 h-6 text-white" />
+                  </div>
+                  <h3 className="text-2xl font-bold font-display mb-2">Model Confidence</h3>
+                  <p className="text-primary-foreground/80 leading-relaxed">
+                    Based on your historical data density, our predictive model is operating with high confidence.
+                  </p>
+                </div>
+                
+                <div className="mt-8 pt-6 border-t border-white/20">
+                  <div className="flex justify-between items-center mb-2">
+                    <span className="text-sm font-medium opacity-90">Data Quality Score</span>
+                    <span className="text-lg font-bold">94%</span>
+                  </div>
+                  <div className="w-full bg-black/20 rounded-full h-2">
+                    <div className="bg-white rounded-full h-2 w-[94%]" />
+                  </div>
+                </div>
+              </>
+            ) : (
+              <div className="flex flex-col items-center justify-center h-full text-center">
+                <AlertCircle className="w-12 h-12 text-white/40 mb-4" />
+                <h3 className="text-xl font-bold font-display mb-2 opacity-60">Ready for Analysis</h3>
+                <p className="text-primary-foreground/60 text-sm">
+                  Confidence scores and data quality metrics will appear once your sales records are imported.
+                </p>
               </div>
-              <h3 className="text-2xl font-bold font-display mb-2">Model Confidence</h3>
-              <p className="text-primary-foreground/80 leading-relaxed">
-                Based on your historical data density, our predictive model is operating with high confidence.
-              </p>
-            </div>
-            
-            <div className="mt-8 pt-6 border-t border-white/20">
-              <div className="flex justify-between items-center mb-2">
-                <span className="text-sm font-medium opacity-90">Data Quality Score</span>
-                <span className="text-lg font-bold">94%</span>
-              </div>
-              <div className="w-full bg-black/20 rounded-full h-2">
-                <div className="bg-white rounded-full h-2 w-[94%]" />
-              </div>
-            </div>
+            )}
           </div>
         </div>
       </div>

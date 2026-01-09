@@ -177,28 +177,38 @@ export default function Forecasts() {
 
         <div className="space-y-6">
           <div className="bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-2xl p-6 shadow-xl">
-            <h3 className="text-xl font-bold font-display mb-2 flex items-center gap-2">
-              <BrainCircuit className="w-5 h-5 text-accent" />
-              Active Model
-            </h3>
-            <p className="text-slate-300 text-sm mb-6">
-              Details of the current projection algorithm.
-            </p>
-            
-            <div className="space-y-4">
-              <div className="flex justify-between items-center py-2 border-b border-white/10">
-                <span className="text-sm opacity-70">Algorithm</span>
-                <span className="font-mono text-sm bg-white/10 px-2 py-1 rounded">{currentModel}</span>
+            {forecasts && forecasts.length > 0 ? (
+              <>
+                <h3 className="text-xl font-bold font-display mb-2 flex items-center gap-2">
+                  <BrainCircuit className="w-5 h-5 text-accent" />
+                  Active Model
+                </h3>
+                <p className="text-slate-300 text-sm mb-6">
+                  Details of the current projection algorithm.
+                </p>
+                
+                <div className="space-y-4">
+                  <div className="flex justify-between items-center py-2 border-b border-white/10">
+                    <span className="text-sm opacity-70">Algorithm</span>
+                    <span className="font-mono text-sm bg-white/10 px-2 py-1 rounded">{currentModel}</span>
+                  </div>
+                  <div className="flex justify-between items-center py-2 border-b border-white/10">
+                    <span className="text-sm opacity-70">Status</span>
+                    <span className="font-mono text-sm text-green-400">Optimal</span>
+                  </div>
+                  <div className="flex justify-between items-center py-2 border-b border-white/10">
+                    <span className="text-sm opacity-70">Accuracy</span>
+                    <span className="font-mono text-sm text-blue-400">~92%</span>
+                  </div>
+                </div>
+              </>
+            ) : (
+              <div className="flex flex-col items-center justify-center py-8 text-center">
+                <BrainCircuit className="w-12 h-12 text-slate-600 mb-4" />
+                <h3 className="text-lg font-bold font-display mb-1 text-slate-400">Model Offline</h3>
+                <p className="text-xs text-slate-500 max-w-[180px]">Generate a forecast to see model accuracy and performance metrics.</p>
               </div>
-              <div className="flex justify-between items-center py-2 border-b border-white/10">
-                <span className="text-sm opacity-70">Status</span>
-                <span className="font-mono text-sm text-green-400">Optimal</span>
-              </div>
-              <div className="flex justify-between items-center py-2 border-b border-white/10">
-                <span className="text-sm opacity-70">Accuracy</span>
-                <span className="font-mono text-sm text-blue-400">~92%</span>
-              </div>
-            </div>
+            )}
           </div>
 
           <div className="bg-card border border-border rounded-2xl p-6 shadow-sm">
@@ -207,11 +217,19 @@ export default function Forecasts() {
                The shaded area in the projection represents the 95% confidence interval for the predicted values.
              </p>
              <div className="h-24 flex items-end justify-center gap-1 border-b border-border pb-1">
-                <div className="w-4 bg-primary/20 h-10 rounded-t-sm" />
-                <div className="w-4 bg-primary/30 h-14 rounded-t-sm" />
-                <div className="w-4 bg-primary/40 h-12 rounded-t-sm" />
-                <div className="w-4 bg-primary/60 h-16 rounded-t-sm" />
-                <div className="w-4 bg-accent/40 h-20 rounded-t-sm animate-pulse" />
+                {forecasts && forecasts.length > 0 ? (
+                  <>
+                    <div className="w-4 bg-primary/20 h-10 rounded-t-sm" />
+                    <div className="w-4 bg-primary/30 h-14 rounded-t-sm" />
+                    <div className="w-4 bg-primary/40 h-12 rounded-t-sm" />
+                    <div className="w-4 bg-primary/60 h-16 rounded-t-sm" />
+                    <div className="w-4 bg-accent/40 h-20 rounded-t-sm animate-pulse" />
+                  </>
+                ) : (
+                  <div className="w-full flex justify-center pb-4">
+                    <div className="h-1 w-full bg-muted/30 rounded-full" />
+                  </div>
+                )}
              </div>
           </div>
 
@@ -221,29 +239,38 @@ export default function Forecasts() {
               Seasonality Insights
             </h3>
             <div className="space-y-4">
-              <div className="flex items-center gap-3 p-3 bg-primary/5 rounded-xl border border-primary/10">
-                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary">
-                  <Info className="w-5 h-5" />
+              {sales && sales.length > 0 ? (
+                <>
+                  <div className="flex items-center gap-3 p-3 bg-primary/5 rounded-xl border border-primary/10">
+                    <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary">
+                      <Info className="w-5 h-5" />
+                    </div>
+                    <div>
+                      <div className="text-xs font-semibold text-muted-foreground uppercase">Peak Demand</div>
+                      <div className="text-sm font-bold">{peakMonth?.month || 'N/A'} typically sees highest volume</div>
+                    </div>
+                  </div>
+                  <div className="grid grid-cols-4 gap-1 h-20 items-end px-2">
+                    {seasonalityData.map((d) => (
+                      <div 
+                        key={d.month} 
+                        className="bg-primary/20 hover:bg-primary/40 transition-colors rounded-t-sm" 
+                        style={{ height: `${(d.average / (peakMonth?.average || 1)) * 100}%` }}
+                        title={`${d.month}: ₹${d.average.toFixed(0)}`}
+                      />
+                    ))}
+                  </div>
+                  <div className="flex justify-between text-[10px] text-muted-foreground font-medium uppercase px-1">
+                    <span>Jan</span>
+                    <span>Dec</span>
+                  </div>
+                </>
+              ) : (
+                <div className="flex flex-col items-center justify-center py-6 text-center">
+                  <BarChart3 className="w-10 h-10 text-muted-foreground/30 mb-3" />
+                  <p className="text-xs text-muted-foreground/60 max-w-[200px]">Historical records required to calculate seasonal demand patterns.</p>
                 </div>
-                <div>
-                  <div className="text-xs font-semibold text-muted-foreground uppercase">Peak Demand</div>
-                  <div className="text-sm font-bold">{peakMonth?.month || 'N/A'} typically sees highest volume</div>
-                </div>
-              </div>
-              <div className="grid grid-cols-4 gap-1 h-20 items-end px-2">
-                {seasonalityData.map((d) => (
-                  <div 
-                    key={d.month} 
-                    className="bg-primary/20 hover:bg-primary/40 transition-colors rounded-t-sm" 
-                    style={{ height: `${(d.average / (peakMonth?.average || 1)) * 100}%` }}
-                    title={`${d.month}: ₹${d.average.toFixed(0)}`}
-                  />
-                ))}
-              </div>
-              <div className="flex justify-between text-[10px] text-muted-foreground font-medium uppercase px-1">
-                <span>Jan</span>
-                <span>Dec</span>
-              </div>
+              )}
             </div>
           </div>
         </div>
