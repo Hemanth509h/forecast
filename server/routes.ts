@@ -174,34 +174,6 @@ export async function registerRoutes(
 
 // Seed function
 export async function seedDatabase() {
-  const existingSales = await storage.getSales();
-  if (existingSales.length === 0) {
-    console.log("Seeding database with historical sales data...");
-    const salesData = [];
-    const categories = ["Electronics", "Clothing", "Home & Garden", "Books"];
-    const regions = ["North", "South", "East", "West"];
-    
-    // Generate 12 months of data with a slight upward trend + random noise
-    const today = new Date();
-    for (let i = 12; i >= 1; i--) {
-      const date = new Date(today.getFullYear(), today.getMonth() - i, 15);
-      const baseAmount = 10000 + (12 - i) * 500; // Upward trend
-      
-      // Add a few transactions per month
-      for (let j = 0; j < 5; j++) {
-         const variance = (Math.random() - 0.5) * 2000;
-         salesData.push({
-            date: date,
-            amount: (baseAmount / 5 + variance).toFixed(2),
-            productCategory: categories[Math.floor(Math.random() * categories.length)],
-            region: regions[Math.floor(Math.random() * regions.length)]
-         });
-      }
-    }
-    
-    for (const sale of salesData) {
-      await storage.createSale(sale);
-    }
-    console.log("Seeding complete.");
-  }
+  // No-op: Removed default data seeding per user request
+  console.log("Skipping database seeding: waiting for user dataset import.");
 }

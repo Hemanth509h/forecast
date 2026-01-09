@@ -13,7 +13,7 @@ import { useToast } from "@/hooks/use-toast";
 
 // Extend schema for form validation
 const formSchema = insertSaleSchema.extend({
-  amount: z.coerce.string().min(0.01, "Amount must be positive"),
+  amount: z.coerce.string().min(1, "Amount must be positive"),
   date: z.coerce.date(),
 });
 
