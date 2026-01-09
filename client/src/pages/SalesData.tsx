@@ -1,7 +1,7 @@
 import { useState, useRef } from "react";
-import { useSales, useCreateSale, useBulkCreateSales } from "@/hooks/use-sales";
+import { useSales, useCreateSale, useBulkCreateSales, useClearSales } from "@/hooks/use-sales";
 import { format } from "date-fns";
-import { Plus, Search, Filter, Loader2, Upload } from "lucide-react";
+import { Plus, Search, Filter, Loader2, Upload, Trash2 } from "lucide-react";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
@@ -25,6 +25,7 @@ export default function SalesData() {
   const [searchTerm, setSearchTerm] = useState("");
   const { toast } = useToast();
   const bulkCreate = useBulkCreateSales();
+  const clearSales = useClearSales();
   const fileInputRef = useRef<HTMLInputElement>(null);
   
   // Filter sales
@@ -32,6 +33,17 @@ export default function SalesData() {
     s.productCategory.toLowerCase().includes(searchTerm.toLowerCase()) || 
     s.region.toLowerCase().includes(searchTerm.toLowerCase())
   ).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+  const handleClearData = () => {
+    clearSales.mutate(undefined, {
+      onSuccess: () => {
+        toast({ title: "Data Cleared", description: "All temporary datasets and forecasts have been removed." });
+      },
+      onError: (error) => {
+        toast({ title: "Clear Failed", description: error.message, variant: "destructive" });
+      }
+    });
+  };
 
   const handleFileUpload = async (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
@@ -134,6 +146,19 @@ export default function SalesData() {
             ref={fileInputRef}
             onChange={handleFileUpload}
           />
+          <Button 
+            variant="outline" 
+            className="gap-2 text-destructive hover:text-destructive hover:bg-destructive/10 border-destructive/20"
+            onClick={handleClearData}
+            disabled={clearSales.isPending}
+          >
+            {clearSales.isPending ? (
+              <Loader2 className="h-4 w-4 animate-spin" />
+            ) : (
+              <Trash2 className="h-4 w-4" />
+            )}
+            Clear Data
+          </Button>
           <Button variant="outline" className="gap-2" onClick={() => fileInputRef.current?.click()}>
             <Upload className="h-4 w-4" /> Import CSV
           </Button>

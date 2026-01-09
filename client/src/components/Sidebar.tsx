@@ -60,21 +60,7 @@ export function Sidebar() {
         })}
       </nav>
 
-      <div className="p-4 space-y-4 border-t border-border/50">
-        <Button 
-          variant="outline" 
-          className="w-full justify-start text-destructive hover:text-destructive hover:bg-destructive/10 border-destructive/20"
-          onClick={handleClearData}
-          disabled={clearSales.isPending}
-        >
-          {clearSales.isPending ? (
-            <Loader2 className="w-4 h-4 mr-3 animate-spin" />
-          ) : (
-            <Trash2 className="w-4 h-4 mr-3" />
-          )}
-          Clear Data
-        </Button>
-
+      <div className="p-4 mt-auto border-t border-border/50">
         <div className="bg-gradient-to-br from-primary/10 to-accent/10 rounded-xl p-4">
           <h4 className="text-sm font-semibold text-foreground mb-1">Pro Tip</h4>
           <p className="text-xs text-muted-foreground leading-relaxed">
