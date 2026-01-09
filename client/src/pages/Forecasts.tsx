@@ -1,7 +1,7 @@
 import { useForecasts, useGenerateForecast } from "@/hooks/use-forecasts";
 import { useSales } from "@/hooks/use-sales";
 import { format } from "date-fns";
-import { Wand2, TrendingUp, Loader2, BrainCircuit } from "lucide-react";
+import { Wand2, TrendingUp, Loader2, BrainCircuit, BarChart3, Info } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useToast } from "@/hooks/use-toast";
 import { SalesChart } from "@/components/SalesChart";
@@ -12,7 +12,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { useState } from "react";
+import { useState, useMemo } from "react";
 
 export default function Forecasts() {
   const { data: forecasts, isLoading: isForecastsLoading } = useForecasts();
@@ -21,6 +21,27 @@ export default function Forecasts() {
   const { toast } = useToast();
   const [months, setMonths] = useState("6");
   const [method, setMethod] = useState("regression");
+
+  const seasonalityData = useMemo(() => {
+    if (!sales) return [];
+    const monthlyAverages = new Array(12).fill(0).map(() => ({ count: 0, total: 0 }));
+    
+    sales.forEach(s => {
+      const month = new Date(s.date).getMonth();
+      monthlyAverages[month].total += Number(s.amount);
+      monthlyAverages[month].count += 1;
+    });
+
+    return monthlyAverages.map((m, i) => ({
+      month: format(new Date(2000, i, 1), 'MMM'),
+      average: m.count > 0 ? m.total / m.count : 0
+    }));
+  }, [sales]);
+
+  const peakMonth = useMemo(() => {
+    if (seasonalityData.length === 0) return null;
+    return [...seasonalityData].sort((a, b) => b.average - a.average)[0];
+  }, [seasonalityData]);
 
   const handleGenerate = () => {
     generateForecast.mutate({ months: parseInt(months), method }, {
@@ -192,6 +213,38 @@ export default function Forecasts() {
                 <div className="w-4 bg-primary/60 h-16 rounded-t-sm" />
                 <div className="w-4 bg-accent/40 h-20 rounded-t-sm animate-pulse" />
              </div>
+          </div>
+
+          <div className="bg-card border border-border rounded-2xl p-6 shadow-sm">
+            <h3 className="text-lg font-bold font-display mb-4 flex items-center gap-2">
+              <BarChart3 className="w-5 h-5 text-primary" />
+              Seasonality Insights
+            </h3>
+            <div className="space-y-4">
+              <div className="flex items-center gap-3 p-3 bg-primary/5 rounded-xl border border-primary/10">
+                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary">
+                  <Info className="w-5 h-5" />
+                </div>
+                <div>
+                  <div className="text-xs font-semibold text-muted-foreground uppercase">Peak Demand</div>
+                  <div className="text-sm font-bold">{peakMonth?.month || 'N/A'} typically sees highest volume</div>
+                </div>
+              </div>
+              <div className="grid grid-cols-4 gap-1 h-20 items-end px-2">
+                {seasonalityData.map((d) => (
+                  <div 
+                    key={d.month} 
+                    className="bg-primary/20 hover:bg-primary/40 transition-colors rounded-t-sm" 
+                    style={{ height: `${(d.average / (peakMonth?.average || 1)) * 100}%` }}
+                    title={`${d.month}: ₹${d.average.toFixed(0)}`}
+                  />
+                ))}
+              </div>
+              <div className="flex justify-between text-[10px] text-muted-foreground font-medium uppercase px-1">
+                <span>Jan</span>
+                <span>Dec</span>
+              </div>
+            </div>
           </div>
         </div>
       </div>
