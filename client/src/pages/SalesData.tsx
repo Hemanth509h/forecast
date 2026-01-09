@@ -49,15 +49,27 @@ export default function SalesData() {
         headers.forEach((header, index) => {
           if (header === "date") {
             const dateStr = values[index];
-            const date = new Date(dateStr);
+            // Handle dd-mm-yyyy format
+            const parts = dateStr.split(/[-/]/);
+            let date: Date;
+            if (parts.length === 3 && parts[0].length <= 2) {
+              // Assume dd-mm-yyyy
+              const day = parseInt(parts[0], 10);
+              const month = parseInt(parts[1], 10) - 1;
+              const year = parseInt(parts[2], 10);
+              date = new Date(year, month, day);
+            } else {
+              date = new Date(dateStr);
+            }
+
             if (!isNaN(date.getTime())) {
               entry.date = date.toISOString();
             } else {
               console.error("Invalid date value:", dateStr);
             }
           }
-          else if (header === "amount") entry.amount = String(values[index]);
-          else if (header === "category" || header === "productcategory") entry.productCategory = values[index];
+          else if (header === "amount" || header === "amount ($)") entry.amount = String(values[index]).replace(/[^0-9.]/g, '');
+          else if (header === "category") entry.productCategory = values[index];
           else if (header === "region") entry.region = values[index];
         });
         return entry;
