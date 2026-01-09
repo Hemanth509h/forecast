@@ -15,11 +15,11 @@ export function useForecasts() {
 export function useGenerateForecast() {
   const queryClient = useQueryClient();
   return useMutation({
-    mutationFn: async (months: number) => {
+    mutationFn: async ({ months, method }: { months: number; method: string }) => {
       const res = await fetch(api.forecasts.generate.path, {
         method: api.forecasts.generate.method,
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ months }),
+        body: JSON.stringify({ months, method }),
         credentials: "include",
       });
 
