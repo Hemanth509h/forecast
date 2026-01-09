@@ -30,9 +30,10 @@ export async function registerRoutes(
   httpServer: Server,
   app: Express
 ): Promise<Server> {
+  // Increase payload limit for large CSV imports - must be placed BEFORE routes
   app.use(express.json({ limit: "50mb" }));
   app.use(express.urlencoded({ limit: "50mb", extended: true }));
-  
+
   app.get(api.sales.list.path, async (req, res) => {
     const sales = await storage.getSales();
     res.json(sales);
