@@ -33,79 +33,88 @@ export default function SalesData() {
     s.region.toLowerCase().includes(searchTerm.toLowerCase())
   ).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
-  const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
+  const handleFileUpload = async (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
     if (!file) return;
 
     const reader = new FileReader();
-    reader.onload = (e) => {
+    reader.onload = async (e) => {
       const text = e.target?.result as string;
-      const lines = text.split("\n");
-      const headers = lines[0].split(",").map(h => h.trim().toLowerCase());
-      
-      const salesToImport = lines.slice(1).filter(line => line.trim()).map(line => {
-        const values = line.split(",").map(v => v.trim());
-        const entry: any = {};
-        headers.forEach((header, index) => {
-          // Robust date handling
-          if (header === "date") {
-            const dateStr = values[index];
+      const lines = text.split("\n").filter(l => l.trim());
+      const rawHeaders = lines[0].split(",").map(h => h.trim());
+      const sampleRows = lines.slice(1, 6).map(l => l.split(",").map(v => v.trim()));
+
+      toast({ title: "AI Mapping", description: "Analyzing dataset structure with AI..." });
+
+      try {
+        const aiResponse = await fetch("/api/sales/ai-map", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ headers: rawHeaders, sampleRows })
+        });
+        
+        const mapping = await aiResponse.json();
+        const headers = rawHeaders.map(h => h.toLowerCase());
+
+        const salesToImport = lines.slice(1).map(line => {
+          const values = line.split(",").map(v => v.trim());
+          const entry: any = {};
+          
+          // Use AI mapping if available, otherwise fallback to existing logic
+          const dateIdx = mapping.date !== undefined ? mapping.date : headers.indexOf("date");
+          const amountIdx = mapping.amount !== undefined ? mapping.amount : headers.findIndex(h => ["amount", "amount ($)", "weekly_sales", "item_mrp"].includes(h));
+          const categoryIdx = mapping.productCategory !== undefined ? mapping.productCategory : headers.findIndex(h => ["category", "item_type", "store"].includes(h));
+          const regionIdx = mapping.region !== undefined ? mapping.region : headers.findIndex(h => ["region", "outlet_identifier", "store"].includes(h));
+
+          // Date processing
+          if (dateIdx !== -1 && values[dateIdx]) {
+            const dateStr = values[dateIdx];
             const parts = dateStr.split(/[-/]/);
             let date: Date;
             if (parts.length === 3) {
               const p0 = parseInt(parts[0], 10);
               const p1 = parseInt(parts[1], 10);
               const p2 = parseInt(parts[2], 10);
-              
-              if (parts[0].length === 4) {
-                // yyyy-mm-dd
-                date = new Date(p0, p1 - 1, p2);
-              } else {
-                // dd-mm-yyyy or mm-dd-yyyy
-                // The log showed "15-06-2012" failing, which is clearly dd-mm-yyyy
-                date = new Date(p2, p1 - 1, p0);
-              }
+              if (parts[0].length === 4) date = new Date(p0, p1 - 1, p2);
+              else date = new Date(p2, p1 - 1, p0);
             } else {
               date = new Date(dateStr);
             }
+            if (!isNaN(date.getTime())) entry.date = date.toISOString();
+          }
 
-            if (!isNaN(date.getTime())) {
-              entry.date = date.toISOString();
-            } else {
-              console.error("Invalid date value:", dateStr);
-            }
-          }
-          // Robust amount handling (Weekly_Sales, Item_MRP, Amount)
-          else if (["amount", "amount ($)", "weekly_sales", "item_mrp"].includes(header)) {
-            entry.amount = String(values[index]).replace(/[^0-9.]/g, '');
-          }
-          // Robust category handling (Item_Type, Category, Store)
-          else if (["category", "item_type", "store"].includes(header)) {
-            entry.productCategory = values[index];
-          }
-          // Robust region handling (Region, Outlet_Identifier, Store)
-          else if (["region", "outlet_identifier", "store"].includes(header)) {
-            entry.region = values[index];
-          }
-        });
+          // Amount
+          if (amountIdx !== -1) entry.amount = String(values[amountIdx]).replace(/[^0-9.]/g, '');
+          
+          // Category & Region
+          if (categoryIdx !== -1) entry.productCategory = values[categoryIdx];
+          if (regionIdx !== -1) entry.region = values[regionIdx];
 
-        // Fallbacks for missing required fields if some columns were mapped differently
-        if (entry.date && entry.amount) {
-          if (!entry.productCategory) entry.productCategory = "General";
-          if (!entry.region) entry.region = "Default";
-          return entry;
+          if (entry.date && entry.amount) {
+            if (!entry.productCategory) entry.productCategory = "General";
+            if (!entry.region) entry.region = "Default";
+            return entry;
+          }
+          return null;
+        }).filter(Boolean);
+
+        if (salesToImport.length === 0) {
+          toast({ title: "Import Failed", description: "No valid data found after AI analysis.", variant: "destructive" });
+          return;
         }
-        return null;
-      }).filter(Boolean);
 
-      bulkCreate.mutate(salesToImport, {
-        onSuccess: (res) => {
-          toast({ title: "Import Successful", description: `Imported ${res.count} records from CSV.` });
-        },
-        onError: (err) => {
-          toast({ title: "Import Failed", description: err.message, variant: "destructive" });
+        const CHUNK_SIZE = 500;
+        let importedCount = 0;
+        for (let i = 0; i < salesToImport.length; i += CHUNK_SIZE) {
+          const chunk = salesToImport.slice(i, i + CHUNK_SIZE);
+          const res = await bulkCreate.mutateAsync(chunk);
+          importedCount += res.count;
         }
-      });
+        toast({ title: "Import Complete", description: `Successfully imported ${importedCount} records using AI mapping.` });
+      } catch (err: any) {
+        console.error("AI Import failed:", err);
+        toast({ title: "Import Failed", description: err.message || "AI mapping failed", variant: "destructive" });
+      }
     };
     reader.readAsText(file);
   };

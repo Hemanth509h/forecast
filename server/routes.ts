@@ -4,6 +4,14 @@ import { storage } from "./storage";
 import { api } from "@shared/routes";
 import { z } from "zod";
 import { insertSaleSchema } from "@shared/schema";
+import { registerChatRoutes } from "./replit_integrations/chat";
+import { registerImageRoutes } from "./replit_integrations/image";
+import OpenAI from "openai";
+
+const openai = new OpenAI({
+  apiKey: process.env.AI_INTEGRATIONS_OPENAI_API_KEY,
+  baseURL: process.env.AI_INTEGRATIONS_OPENAI_BASE_URL,
+});
 
 // Simple linear regression helper
 function calculateLinearRegression(data: { x: number; y: number }[]) {
@@ -33,6 +41,38 @@ export async function registerRoutes(
   // Increase payload limit for large CSV imports - must be placed BEFORE routes
   app.use(express.json({ limit: "50mb" }));
   app.use(express.urlencoded({ limit: "50mb", extended: true }));
+
+  registerChatRoutes(app);
+  registerImageRoutes(app);
+
+  app.post("/api/sales/ai-map", async (req, res) => {
+    try {
+      const { headers, sampleRows } = z.object({
+        headers: z.array(z.string()),
+        sampleRows: z.array(z.array(z.string()))
+      }).parse(req.body);
+
+      const response = await openai.chat.completions.create({
+        model: "gpt-5",
+        messages: [
+          {
+            role: "system",
+            content: "You are a data mapping expert. Map the given CSV headers to our internal schema: date, amount, productCategory, region. Return a JSON object mapping each internal field to the index (0-based) of the corresponding CSV header. If a field cannot be mapped, omit it."
+          },
+          {
+            role: "user",
+            content: `Headers: ${headers.join(", ")}\nSample Data: ${JSON.stringify(sampleRows)}`
+          }
+        ],
+        response_format: { type: "json_object" }
+      });
+
+      res.json(JSON.parse(response.choices[0].message.content || "{}"));
+    } catch (error) {
+      console.error("AI Mapping error:", error);
+      res.status(500).json({ error: "Failed to map headers with AI" });
+    }
+  });
 
   app.get(api.sales.list.path, async (req, res) => {
     const sales = await storage.getSales();
