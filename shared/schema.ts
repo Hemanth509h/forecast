@@ -33,15 +33,5 @@ export const forecasts = pgTable("forecasts", {
 });
 
 export const insertSaleSchema = createInsertSchema(sales).omit({ id: true });
-export const insertSalesSchema = z.array(insertSaleSchema); // For bulk imports
+export const insertSalesSchema = z.array(insertSaleSchema);
 export const insertForecastSchema = createInsertSchema(forecasts).omit({ id: true, createdAt: true });
-
-export type Sale = typeof sales.$inferSelect;
-export type InsertSale = z.infer<typeof insertSaleSchema>;
-export type Forecast = typeof forecasts.$inferSelect;
-export type InsertForecast = z.infer<typeof insertForecastSchema>;
-
-export type GenerateForecastRequest = {
-  months: number;
-  method: 'regression' | 'moving_average' | 'seasonality';
-};
