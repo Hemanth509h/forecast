@@ -5,6 +5,7 @@ import { desc } from "drizzle-orm";
 export interface IStorage {
   getSales(): Promise<Sale[]>;
   createSale(sale: InsertSale): Promise<Sale>;
+  createSales(salesList: InsertSale[]): Promise<number>;
   getForecasts(): Promise<Forecast[]>;
   createForecast(forecast: InsertForecast): Promise<Forecast>;
   clearForecasts(): Promise<void>;
@@ -19,6 +20,12 @@ export class DatabaseStorage implements IStorage {
   async createSale(insertSale: InsertSale): Promise<Sale> {
     const [newSale] = await db.insert(sales).values(insertSale).returning();
     return newSale;
+  }
+
+  async createSales(insertSalesList: InsertSale[]): Promise<number> {
+    if (insertSalesList.length === 0) return 0;
+    const result = await db.insert(sales).values(insertSalesList).returning();
+    return result.length;
   }
 
   async getForecasts(): Promise<Forecast[]> {

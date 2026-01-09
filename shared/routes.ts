@@ -32,6 +32,15 @@ export const api = {
         400: errorSchemas.validation,
       },
     },
+    bulkCreate: {
+      method: 'POST' as const,
+      path: '/api/sales/bulk',
+      input: z.array(insertSaleSchema),
+      responses: {
+        201: z.object({ count: z.number() }),
+        400: errorSchemas.validation,
+      },
+    },
   },
   forecasts: {
     generate: {

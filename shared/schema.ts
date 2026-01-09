@@ -19,6 +19,7 @@ export const forecasts = pgTable("forecasts", {
 });
 
 export const insertSaleSchema = createInsertSchema(sales).omit({ id: true });
+export const insertSalesSchema = z.array(insertSaleSchema); // For bulk imports
 export const insertForecastSchema = createInsertSchema(forecasts).omit({ id: true, createdAt: true });
 
 export type Sale = typeof sales.$inferSelect;

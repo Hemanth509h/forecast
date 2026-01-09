@@ -1,7 +1,7 @@
-import { useState } from "react";
-import { useSales, useCreateSale } from "@/hooks/use-sales";
+import { useState, useRef } from "react";
+import { useSales, useCreateSale, useBulkCreateSales } from "@/hooks/use-sales";
 import { format } from "date-fns";
-import { Plus, Search, Filter, Loader2 } from "lucide-react";
+import { Plus, Search, Filter, Loader2, Upload } from "lucide-react";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
@@ -23,12 +23,49 @@ export default function SalesData() {
   const { data: sales, isLoading } = useSales();
   const [isDialogOpen, setIsDialogOpen] = useState(false);
   const [searchTerm, setSearchTerm] = useState("");
+  const { toast } = useToast();
+  const bulkCreate = useBulkCreateSales();
+  const fileInputRef = useRef<HTMLInputElement>(null);
   
   // Filter sales
   const filteredSales = sales?.filter(s => 
     s.productCategory.toLowerCase().includes(searchTerm.toLowerCase()) || 
     s.region.toLowerCase().includes(searchTerm.toLowerCase())
-  ).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()); // Newest first
+  ).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+  const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const file = event.target.files?.[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      const text = e.target?.result as string;
+      const lines = text.split("\n");
+      const headers = lines[0].split(",").map(h => h.trim().toLowerCase());
+      
+      const salesToImport = lines.slice(1).filter(line => line.trim()).map(line => {
+        const values = line.split(",").map(v => v.trim());
+        const entry: any = {};
+        headers.forEach((header, index) => {
+          if (header === "date") entry.date = new Date(values[index]).toISOString();
+          else if (header === "amount") entry.amount = Number(values[index]);
+          else if (header === "category") entry.productCategory = values[index];
+          else if (header === "region") entry.region = values[index];
+        });
+        return entry;
+      });
+
+      bulkCreate.mutate(salesToImport, {
+        onSuccess: (res) => {
+          toast({ title: "Import Successful", description: `Imported ${res.count} records from CSV.` });
+        },
+        onError: (err) => {
+          toast({ title: "Import Failed", description: err.message, variant: "destructive" });
+        }
+      });
+    };
+    reader.readAsText(file);
+  };
 
   return (
     <div className="space-y-8 animate-in fade-in duration-500">
@@ -37,7 +74,19 @@ export default function SalesData() {
           <h1 className="text-3xl font-bold font-display tracking-tight text-foreground">Sales Registry</h1>
           <p className="text-muted-foreground mt-2">Manage and track your historical sales data points.</p>
         </div>
-        <CreateSaleDialog open={isDialogOpen} onOpenChange={setIsDialogOpen} />
+        <div className="flex gap-2">
+          <input
+            type="file"
+            accept=".csv"
+            className="hidden"
+            ref={fileInputRef}
+            onChange={handleFileUpload}
+          />
+          <Button variant="outline" className="gap-2" onClick={() => fileInputRef.current?.click()}>
+            <Upload className="h-4 w-4" /> Import CSV
+          </Button>
+          <CreateSaleDialog open={isDialogOpen} onOpenChange={setIsDialogOpen} />
+        </div>
       </div>
 
       <div className="bg-card border border-border rounded-2xl shadow-sm overflow-hidden">

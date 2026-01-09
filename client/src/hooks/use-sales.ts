@@ -17,11 +17,10 @@ export function useCreateSale() {
   const queryClient = useQueryClient();
   return useMutation({
     mutationFn: async (data: InsertSale) => {
-      // Ensure numeric types are correctly handled if they come as strings
       const payload = {
         ...data,
-        amount: Number(data.amount), // decimal/numeric fields
-        date: new Date(data.date).toISOString() // ensure date format
+        amount: Number(data.amount),
+        date: new Date(data.date).toISOString()
       };
 
       const res = await fetch(api.sales.create.path, {
@@ -42,6 +41,29 @@ export function useCreateSale() {
     },
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: [api.sales.list.path] });
+    },
+  });
+}
+
+export function useBulkCreateSales() {
+  const queryClient = useQueryClient();
+  return useMutation({
+    mutationFn: async (data: InsertSale[]) => {
+      const res = await fetch(api.sales.bulkCreate.path, {
+        method: api.sales.bulkCreate.method,
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data),
+        credentials: "include",
+      });
+
+      if (!res.ok) {
+        throw new Error("Failed to bulk import sales data");
+      }
+      return api.sales.bulkCreate.responses[201].parse(await res.json());
+    },
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: [api.sales.list.path] });
+      queryClient.invalidateQueries({ queryKey: [api.forecasts.list.path] });
     },
   });
 }

@@ -55,6 +55,22 @@ export async function registerRoutes(
     }
   });
 
+  app.post(api.sales.bulkCreate.path, async (req, res) => {
+    try {
+      const input = api.sales.bulkCreate.input.parse(req.body);
+      const count = await storage.createSales(input);
+      res.status(201).json({ count });
+    } catch (err) {
+      if (err instanceof z.ZodError) {
+        return res.status(400).json({
+          message: err.errors[0].message,
+          field: err.errors[0].path.join('.'),
+        });
+      }
+      throw err;
+    }
+  });
+
   app.get(api.forecasts.list.path, async (req, res) => {
     const forecasts = await storage.getForecasts();
     res.json(forecasts);
