@@ -1,14 +1,13 @@
-from fastapi import FastAPI, HTTPException, Body, Request, Response
+from fastapi import FastAPI, HTTPException, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
-from pydantic import BaseModel, Field
-from typing import List, Optional, Dict, Any
-from datetime import datetime, timedelta
+from pydantic import BaseModel, Field, ConfigDict
+from typing import List
+from datetime import datetime
 from server.storage import storage
 import os
 import openai
 import json
-from decimal import Decimal
 import uuid
 
 app = FastAPI()
@@ -32,13 +31,12 @@ app.add_middleware(
 )
 
 class SaleCreate(BaseModel):
+    model_config = ConfigDict(populate_by_name=True)
+    
     date: datetime
     amount: str
     product_category: str = Field(alias="productCategory")
     region: str
-
-    class Config:
-        populate_by_name = True
 
 class ForecastGenerate(BaseModel):
     months: int
@@ -100,7 +98,7 @@ async def get_sales(request: Request, response: Response):
 @app.post("/api/sales")
 async def create_sale(request: Request, response: Response, sale: SaleCreate):
     session_id = get_session_id(request, response)
-    data = sale.dict(by_alias=True)
+    data = sale.model_dump(by_alias=True)
     storage_data = {
         "date": data["date"],
         "amount": data["amount"],
@@ -121,7 +119,7 @@ async def bulk_create_sales(request: Request, response: Response, sales: List[Sa
     session_id = get_session_id(request, response)
     storage_list = []
     for s in sales:
-        data = s.dict(by_alias=True)
+        data = s.model_dump(by_alias=True)
         storage_list.append({
             "date": data["date"],
             "amount": data["amount"],
@@ -223,31 +221,31 @@ async def generate_forecast(request: Request, response: Response, input: Forecas
 # Path to the bundled static files
 dist_path = os.path.join(os.getcwd(), "dist", "public")
 
-if os.path.exists(dist_path):
-    # Mount assets folder for images, css, js
-    assets_path = os.path.join(dist_path, "assets")
-    if os.path.exists(assets_path):
-        app.mount("/assets", StaticFiles(directory=assets_path), name="assets")
-
 @app.get("/{full_path:path}")
 async def serve_spa(request: Request, full_path: str):
-    # Skip API routes
     if full_path.startswith("api/"):
         raise HTTPException(status_code=404, detail="Not Found")
     
-    # Check if a specific file exists in public/
+    # Try to serve static assets first
+    if full_path.startswith("assets/"):
+        asset_file = os.path.join(dist_path, full_path)
+        if os.path.isfile(asset_file):
+            from fastapi.responses import FileResponse
+            return FileResponse(asset_file)
+
+    # Check if file exists directly in public/
     file_path = os.path.join(dist_path, full_path)
     if os.path.isfile(file_path):
         from fastapi.responses import FileResponse
         return FileResponse(file_path)
     
-    # Otherwise return index.html for client-side routing
+    # Fallback to index.html for client-side routing
     index_path = os.path.join(dist_path, "index.html")
     if os.path.isfile(index_path):
         from fastapi.responses import FileResponse
         return FileResponse(index_path)
         
-    raise HTTPException(status_code=404, detail="Static files not found.")
+    raise HTTPException(status_code=404, detail="Static files not found. Build is required.")
 
 if __name__ == "__main__":
     import uvicorn

@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-from typing import List, Optional, Dict
+from typing import List, Dict
 from server.models import Sale, Forecast
 
 class MemStorage:
