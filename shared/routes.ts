@@ -37,7 +37,10 @@ export const api = {
     generate: {
       method: 'POST' as const,
       path: '/api/forecasts/generate',
-      input: z.object({ months: z.number().min(1).max(24) }),
+      input: z.object({ 
+        months: z.number().min(1).max(24),
+        method: z.enum(['regression', 'moving_average', 'seasonality']).default('regression')
+      }),
       responses: {
         200: z.array(z.custom<typeof forecasts.$inferSelect>()),
       },

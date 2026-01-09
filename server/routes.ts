@@ -62,58 +62,79 @@ export async function registerRoutes(
 
   app.post(api.forecasts.generate.path, async (req, res) => {
     try {
-      const { months } = api.forecasts.generate.input.parse(req.body);
+      const { months, method } = api.forecasts.generate.input.parse(req.body);
       
-      // Get all sales
-      const sales = await storage.getSales();
-      if (sales.length < 2) {
-         // Need at least 2 points for regression
+      const salesData = await storage.getSales();
+      if (salesData.length < 2) {
          return res.status(400).json({ message: "Not enough historical data to generate forecast (minimum 2 records required)." });
       }
 
-      // Aggregate sales by month for the model
-      const monthlySales = new Map<string, number>();
-      
-      sales.forEach(sale => {
+      // Aggregate sales by month
+      const monthlySalesMap = new Map<string, number>();
+      salesData.forEach(sale => {
         const date = new Date(sale.date);
         const key = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
-        const amount = Number(sale.amount);
-        monthlySales.set(key, (monthlySales.get(key) || 0) + amount);
+        monthlySalesMap.set(key, (monthlySalesMap.get(key) || 0) + Number(sale.amount));
       });
 
-      // Prepare data for regression (convert dates to numeric timestamps or indices)
-      // We'll use a simple index 0, 1, 2... representing months sorted chronologically
-      const sortedKeys = Array.from(monthlySales.keys()).sort();
-      const regressionData = sortedKeys.map((key, index) => ({
-        x: index,
-        y: monthlySales.get(key) || 0,
-        date: key
-      }));
-
-      const { slope, intercept } = calculateLinearRegression(regressionData);
-
-      // Generate future points
-      await storage.clearForecasts();
-      
-      const forecasts = [];
-      const lastIndex = regressionData.length - 1;
-      const lastDateKey = sortedKeys[lastIndex];
+      const sortedKeys = Array.from(monthlySalesMap.keys()).sort();
+      const lastDateKey = sortedKeys[sortedKeys.length - 1];
       const [lastYear, lastMonth] = lastDateKey.split('-').map(Number);
       
-      for (let i = 1; i <= months; i++) {
-        const nextIndex = lastIndex + i;
-        const predictedAmount = slope * nextIndex + intercept;
+      const forecasts = [];
+      const modelName = method === 'regression' ? 'Linear Regression' : 
+                        method === 'moving_average' ? '3-Month Moving Average' : 
+                        'Seasonal Naive';
+
+      if (method === 'regression') {
+        const regressionData = sortedKeys.map((key, index) => ({
+          x: index,
+          y: monthlySalesMap.get(key) || 0
+        }));
         
-        // Calculate next date
-        const nextDate = new Date(lastYear, lastMonth - 1 + i, 1); // Month is 0-indexed in Date constructor
-        
-        forecasts.push({
-          forecastDate: nextDate,
-          predictedAmount: Math.max(0, predictedAmount).toFixed(2), // No negative sales
-          modelName: 'Linear Regression'
-        });
+        const n = regressionData.length;
+        let sumX = 0, sumY = 0, sumXY = 0, sumXX = 0;
+        for (const p of regressionData) {
+          sumX += p.x; sumY += p.y; sumXY += p.x * p.y; sumXX += p.x * p.x;
+        }
+        const slope = (n * sumXY - sumX * sumY) / (n * sumXX - sumX * sumX);
+        const intercept = (sumY - slope * sumX) / n;
+
+        for (let i = 1; i <= months; i++) {
+          const nextIndex = (sortedKeys.length - 1) + i;
+          const predicted = Math.max(0, slope * nextIndex + intercept);
+          forecasts.push({
+            forecastDate: new Date(lastYear, lastMonth - 1 + i, 1),
+            predictedAmount: predicted.toFixed(2),
+            modelName
+          });
+        }
+      } else if (method === 'moving_average') {
+        let history = sortedKeys.map(k => monthlySalesMap.get(k) || 0);
+        for (let i = 1; i <= months; i++) {
+          const window = history.slice(-3);
+          const avg = window.reduce((a, b) => a + b, 0) / window.length;
+          history.push(avg);
+          forecasts.push({
+            forecastDate: new Date(lastYear, lastMonth - 1 + i, 1),
+            predictedAmount: avg.toFixed(2),
+            modelName
+          });
+        }
+      } else { // seasonality - naive approach (match same month last year)
+        for (let i = 1; i <= months; i++) {
+          const targetDate = new Date(lastYear, lastMonth - 1 + i, 1);
+          const lastYearMonth = `${targetDate.getFullYear() - 1}-${String(targetDate.getMonth() + 1).padStart(2, '0')}`;
+          const predicted = monthlySalesMap.get(lastYearMonth) || monthlySalesMap.get(lastDateKey) || 0;
+          forecasts.push({
+            forecastDate: targetDate,
+            predictedAmount: Number(predicted).toFixed(2),
+            modelName
+          });
+        }
       }
       
+      await storage.clearForecasts();
       const createdForecasts = await storage.createForecasts(forecasts);
       res.json(createdForecasts);
 

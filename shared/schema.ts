@@ -28,4 +28,5 @@ export type InsertForecast = z.infer<typeof insertForecastSchema>;
 
 export type GenerateForecastRequest = {
   months: number;
+  method: 'regression' | 'moving_average' | 'seasonality';
 };
