@@ -53,12 +53,17 @@ export default function SalesData() {
             const parts = dateStr.split(/[-/]/);
             let date: Date;
             if (parts.length === 3) {
+              const p0 = parseInt(parts[0], 10);
+              const p1 = parseInt(parts[1], 10);
+              const p2 = parseInt(parts[2], 10);
+              
               if (parts[0].length === 4) {
                 // yyyy-mm-dd
-                date = new Date(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, parseInt(parts[2], 10));
+                date = new Date(p0, p1 - 1, p2);
               } else {
-                // dd-mm-yyyy
-                date = new Date(parseInt(parts[2], 10), parseInt(parts[1], 10) - 1, parseInt(parts[0], 10));
+                // dd-mm-yyyy or mm-dd-yyyy
+                // The log showed "15-06-2012" failing, which is clearly dd-mm-yyyy
+                date = new Date(p2, p1 - 1, p0);
               }
             } else {
               date = new Date(dateStr);
@@ -66,6 +71,8 @@ export default function SalesData() {
 
             if (!isNaN(date.getTime())) {
               entry.date = date.toISOString();
+            } else {
+              console.error("Invalid date value:", dateStr);
             }
           }
           // Robust amount handling (Weekly_Sales, Item_MRP, Amount)
