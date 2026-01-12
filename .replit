@@ -10,10 +10,6 @@ packages = ["cacert", "glibcLocales", "libxcrypt"]
 localPort = 5000
 externalPort = 80
 
-[[ports]]
-localPort = 8000
-externalPort = 8000
-
 [env]
 PORT = "5000"
 
@@ -43,7 +39,7 @@ outputType = "webview"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "python main.py & npm run dev"
+args = "npm run dev"
 waitForPort = 5000
 
 [agent]
