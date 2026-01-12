@@ -33,3 +33,5 @@ pydantic-settings
 python-dotenv
 sqlalchemy
 uvicorn
+fastapi
+uvicorn
