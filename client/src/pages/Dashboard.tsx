@@ -8,7 +8,9 @@ import { useMemo } from "react";
 
 export default function Dashboard() {
   const { data: sales, isLoading: salesLoading } = useSales();
-  const { data: forecasts, isLoading: forecastsLoading } = useForecasts();
+  const { data: forecastResponse, isLoading: forecastsLoading } = useForecasts();
+  const forecasts = forecastResponse?.forecasts || [];
+  const metrics = forecastResponse?.metrics || { growthProjection: 14.2, modelConfidence: 94 };
 
   // Calculate Metrics
   const totalSales = sales?.reduce((acc, curr) => acc + Number(curr.amount), 0) || 0;
@@ -64,7 +66,7 @@ export default function Dashboard() {
           title="Latest Month"
           value={`₹${lastMonthSales.toLocaleString('en-IN')}`}
           description={sales?.length ? format(latestSaleDate, 'MMMM yyyy') : "No data"}
-          trend={sales?.length ? 12.5 : undefined} 
+          trend={sales?.length ? metrics.growthProjection : undefined} 
           icon={Calendar}
           loading={isLoading}
         />
@@ -118,7 +120,9 @@ export default function Dashboard() {
                   </div>
                   <h3 className="text-lg font-bold font-display text-foreground mb-1">Growth Projection</h3>
                   <p className="text-sm text-muted-foreground mb-4">Estimated growth based on current trajectory</p>
-                  <div className="text-3xl font-bold text-accent">+14.2%</div>
+                  <div className="text-3xl font-bold text-accent">
+                    {metrics.growthProjection > 0 ? '+' : ''}{metrics.growthProjection}%
+                  </div>
                 </>
               ) : (
                 <div className="flex flex-col items-center justify-center py-4">
@@ -141,17 +145,17 @@ export default function Dashboard() {
                   </div>
                   <h3 className="text-2xl font-bold font-display mb-2">Model Confidence</h3>
                   <p className="text-primary-foreground/80 leading-relaxed">
-                    Based on your historical data density, our predictive model is operating with high confidence.
+                    Based on your historical data density, our predictive model is operating with {metrics.modelConfidence > 80 ? 'high' : 'moderate'} confidence.
                   </p>
                 </div>
                 
                 <div className="mt-8 pt-6 border-t border-white/20">
                   <div className="flex justify-between items-center mb-2">
                     <span className="text-sm font-medium opacity-90">Data Quality Score</span>
-                    <span className="text-lg font-bold">94%</span>
+                    <span className="text-lg font-bold">{metrics.modelConfidence}%</span>
                   </div>
                   <div className="w-full bg-black/20 rounded-full h-2">
-                    <div className="bg-white rounded-full h-2 w-[94%]" />
+                    <div className="bg-white rounded-full h-2 transition-all duration-1000" style={{ width: `${metrics.modelConfidence}%` }} />
                   </div>
                 </div>
               </>

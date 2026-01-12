@@ -9,8 +9,16 @@ export interface Forecast {
   createdAt: string;
 }
 
+export interface ForecastResponse {
+  forecasts: Forecast[];
+  metrics: {
+    growthProjection: number;
+    modelConfidence: number;
+  };
+}
+
 export function useForecasts() {
-  return useQuery<Forecast[]>({
+  return useQuery<ForecastResponse>({
     queryKey: ["/api/forecasts"],
   });
 }
